@@ -3,14 +3,7 @@ import os
 from pathlib import Path
 
 
-def _default_project_root() -> Path:
-    # 避免 Windows 中文路径在不同终端编码下被写坏。
-    desktop = "".join(map(chr, [0x684c, 0x9762]))
-    smart_edu = "".join(map(chr, [0x667a, 0x80fd, 0x6559, 0x80b2]))
-    return Path("D:/") / desktop / smart_edu
-
-
-PROJECT_ROOT = Path(os.getenv("SMART_EDU_ROOT", str(_default_project_root())))
+PROJECT_ROOT = Path(os.getenv("SMART_EDU_ROOT", Path(__file__).resolve().parent))
 
 # 不要把真实 Key 写进代码。网页输入的 Key 会通过请求头传入，也可以用环境变量。
 _BUILTIN_KEY = "sk-02168810f6ca444fa3d964cfc332161e"
