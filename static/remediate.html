@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>靶向补习 - AI 学习诊断系统</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1>靶向补习</h1>
+            <div class="breadcrumb">
+                <a href="index.html">首页</a> &gt; <a href="report.html">诊断报告</a> &gt; 靶向补习
+            </div>
+        </div>
+    </div>
+
+    <main class="container">
+        <section id="loadingArea" class="loading card">
+            <div class="spinner"></div>
+            <p id="loadingMsg">正在准备补习内容...</p>
+        </section>
+
+        <section id="summaryCard" class="card" style="display:none;">
+            <div class="card-title">诊断溯源</div>
+            <p id="summaryText"></p>
+        </section>
+
+        <div id="remediationContainer"></div>
+
+        <section id="errorArea" style="display:none;">
+            <div class="error-message" id="errorMsg"></div>
+            <button class="btn btn-outline" onclick="window.location.href='report.html'">返回报告</button>
+        </section>
+
+        <div class="action-row two">
+            <button class="btn btn-primary" onclick="window.location.href='report.html'">返回报告</button>
+            <button class="btn btn-outline" onclick="window.location.href='index.html'">返回首页</button>
+        </div>
+    </main>
+
+    <script src="js/api.js"></script>
+    <script src="js/remediate.js"></script>
+</body>
+</html>

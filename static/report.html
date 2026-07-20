@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>诊断报告 - AI 学习诊断系统</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1>诊断报告</h1>
+            <div class="breadcrumb"><a href="index.html">首页</a> &gt; 诊断报告</div>
+        </div>
+    </div>
+
+    <main class="container">
+        <section class="card score-display" id="scoreArea">
+            <div class="score-circle">
+                <span class="score-number" id="scoreNumber">--</span>
+                <span class="score-label">正确率</span>
+            </div>
+            <p class="score-copy">
+                答对 <strong id="correctCount">0</strong> / <span id="totalCount">0</span> 题
+            </p>
+        </section>
+
+        <section class="card">
+            <div class="card-title">薄弱知识点</div>
+            <div id="weakPointsList"></div>
+        </section>
+
+        <section class="card">
+            <div class="card-title">下一步补习路径</div>
+            <div id="nextStepsList"></div>
+        </section>
+
+        <section class="card" id="wrongDetailsCard" style="display:none;">
+            <div class="card-title">错题详情</div>
+            <div id="wrongDetailsList"></div>
+        </section>
+
+        <div class="action-row two">
+            <button id="remediateAllBtn" class="btn btn-primary" disabled>
+                开始补习
+            </button>
+            <button class="btn btn-outline" onclick="window.location.href='index.html'">
+                返回首页
+            </button>
+        </div>
+    </main>
+
+    <script src="js/api.js"></script>
+    <script src="js/report.js"></script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 学习诊断系统</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1>AI 学习诊断与补习系统</h1>
+        </div>
+    </div>
+
+    <main class="container">
+        <section class="card intro-card">
+            <h2>开始一次单元诊断</h2>
+            <p>选择学科和单元，系统会生成诊断题，提交后给出薄弱知识点和补习路径。</p>
+        </section>
+
+        <section class="card">
+            <div class="card-title">DeepSeek API Key</div>
+            <p class="muted key-help">用于生成新题和 AI 补习内容。只保存在当前浏览器会话里，不会写进代码。</p>
+            <div class="key-row">
+                <div class="key-input-wrapper">
+                    <input id="apiKeyInput" type="password" placeholder="可选：请输入 sk-..." autocomplete="off">
+                    <ul id="keySuggestions" class="key-suggestions" style="display:none;"></ul>
+                </div>
+                <button id="saveKeyBtn" class="btn btn-outline" type="button">保存</button>
+            </div>
+            <div id="apiKeyStatus" class="muted key-status">未设置 Key；系统已内置默认 Key，也可输入自己的。</div>
+        </section>
+
+        <section class="card">
+            <div class="card-title">选择学科</div>
+            <select id="subjectSelect">
+                <option value="">请选择学科</option>
+            </select>
+        </section>
+
+        <section id="unitSection" class="card" style="display:none;">
+            <div class="card-title">选择单元</div>
+            <div id="unitList" class="unit-list"></div>
+        </section>
+
+        <section id="selectedInfo" class="card selected-card" style="display:none;">
+            <div class="card-title">已选择</div>
+            <div id="selectedDetail"></div>
+            <button id="startBtn" class="btn btn-primary btn-lg" disabled>
+                开始诊断测试
+            </button>
+        </section>
+    </main>
+
+    <script src="js/api.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>
