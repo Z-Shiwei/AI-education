@@ -1,0 +1,5255 @@
+{
+  "metadata": {
+    "name": "???????????????",
+    "grade": 7,
+    "subject": "??",
+    "publisher": "?????????",
+    "edition_note": "?2024??????????????????????????????????????",
+    "created_at": "2026-07-17",
+    "language": "zh-CN",
+    "total_knowledge_points": 114,
+    "schema_version": "1.0.0",
+    "sources": [
+      {
+        "title": "?????2024???????? - ???",
+        "url": "https://www.51jiaoxi.com/books/3002571/"
+      },
+      {
+        "title": "???????????(2024?)?? - ???????",
+        "url": "https://www.haoduoyun.cc/book/bsb/shuxue/eh7s.shtml"
+      },
+      {
+        "title": "?????2024???????? - ???",
+        "url": "https://www.51jiaoxi.com/books/3002572/"
+      },
+      {
+        "title": "?????????(2026??)?? - ?????",
+        "url": "https://dzkbw.org/book/5145.html"
+      }
+    ],
+    "grouping_note": "?????????????????????????????1??=????????",
+    "total_units": 12
+  },
+  "volumes": [
+    {
+      "volume": "?????",
+      "chapters": [
+        {
+          "chapter_no": 1,
+          "chapter": "???????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C1-S1-KP001",
+                "M7A-C1-S1-KP002",
+                "M7A-C1-S1-KP003",
+                "M7B-C1-S1-KP001",
+                "M7B-C1-S1-KP002",
+                "M7B-C1-S1-KP003",
+                "M7B-C1-S1-KP004"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "??????????",
+              "knowledge_point_ids": [
+                "M7A-C1-S2-KP004",
+                "M7A-C1-S2-KP005",
+                "M7A-C1-S2-KP006",
+                "M7B-C1-S2-KP005",
+                "M7B-C1-S2-KP006",
+                "M7B-C1-S2-KP007"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "????",
+              "knowledge_point_ids": [
+                "M7B-C1-S3-KP008",
+                "M7B-C1-S3-KP009",
+                "M7B-C1-S3-KP010"
+              ]
+            },
+            {
+              "section_no": "4",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7B-C1-S4-KP011",
+                "M7B-C1-S4-KP012"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C1-S1-KP001",
+            "M7A-C1-S1-KP002",
+            "M7A-C1-S1-KP003",
+            "M7A-C1-S2-KP004",
+            "M7A-C1-S2-KP005",
+            "M7A-C1-S2-KP006",
+            "M7B-C1-S1-KP001",
+            "M7B-C1-S1-KP002",
+            "M7B-C1-S1-KP003",
+            "M7B-C1-S1-KP004",
+            "M7B-C1-S2-KP005",
+            "M7B-C1-S2-KP006",
+            "M7B-C1-S2-KP007",
+            "M7B-C1-S3-KP008",
+            "M7B-C1-S3-KP009",
+            "M7B-C1-S3-KP010",
+            "M7B-C1-S4-KP011",
+            "M7B-C1-S4-KP012"
+          ]
+        },
+        {
+          "chapter_no": 2,
+          "chapter": "???????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7A-C2-S1-KP001",
+                "M7A-C2-S1-KP002",
+                "M7A-C2-S1-KP003",
+                "M7A-C2-S1-KP004",
+                "M7A-C2-S1-KP005",
+                "M7A-C2-S1-KP006",
+                "M7B-C2-S1-KP001",
+                "M7B-C2-S1-KP002",
+                "M7B-C2-S1-KP003",
+                "M7B-C2-S1-KP004"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C2-S2-KP007",
+                "M7A-C2-S2-KP008",
+                "M7A-C2-S2-KP009",
+                "M7B-C2-S2-KP005",
+                "M7B-C2-S2-KP006"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C2-S3-KP010",
+                "M7A-C2-S3-KP011",
+                "M7A-C2-S3-KP012",
+                "M7B-C2-S3-KP007",
+                "M7B-C2-S3-KP008"
+              ]
+            },
+            {
+              "section_no": "4",
+              "section": "??????",
+              "knowledge_point_ids": [
+                "M7A-C2-S4-KP013",
+                "M7A-C2-S4-KP014"
+              ]
+            },
+            {
+              "section_no": "5",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C2-S5-KP015",
+                "M7A-C2-S5-KP016"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C2-S1-KP001",
+            "M7A-C2-S1-KP002",
+            "M7A-C2-S1-KP003",
+            "M7A-C2-S1-KP004",
+            "M7A-C2-S1-KP005",
+            "M7A-C2-S1-KP006",
+            "M7A-C2-S2-KP007",
+            "M7A-C2-S2-KP008",
+            "M7A-C2-S2-KP009",
+            "M7A-C2-S3-KP010",
+            "M7A-C2-S3-KP011",
+            "M7A-C2-S3-KP012",
+            "M7A-C2-S4-KP013",
+            "M7A-C2-S4-KP014",
+            "M7A-C2-S5-KP015",
+            "M7A-C2-S5-KP016",
+            "M7B-C2-S1-KP001",
+            "M7B-C2-S1-KP002",
+            "M7B-C2-S1-KP003",
+            "M7B-C2-S1-KP004",
+            "M7B-C2-S2-KP005",
+            "M7B-C2-S2-KP006",
+            "M7B-C2-S3-KP007",
+            "M7B-C2-S3-KP008"
+          ]
+        },
+        {
+          "chapter_no": 3,
+          "chapter": "??????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "???",
+              "knowledge_point_ids": [
+                "M7A-C3-S1-KP001",
+                "M7A-C3-S1-KP002",
+                "M7A-C3-S1-KP003",
+                "M7A-C3-S1-KP004",
+                "M7A-C3-S1-KP005",
+                "M7A-C3-S1-KP006",
+                "M7B-C3-S1-KP001",
+                "M7B-C3-S1-KP002"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7A-C3-S2-KP007",
+                "M7A-C3-S2-KP008",
+                "M7A-C3-S2-KP009",
+                "M7A-C3-S2-KP010",
+                "M7B-C3-S2-KP003",
+                "M7B-C3-S2-KP004"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "???????",
+              "knowledge_point_ids": [
+                "M7A-C3-S3-KP011",
+                "M7A-C3-S3-KP012",
+                "M7B-C3-S3-KP005",
+                "M7B-C3-S3-KP006",
+                "M7B-C3-S3-KP007"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C3-S1-KP001",
+            "M7A-C3-S1-KP002",
+            "M7A-C3-S1-KP003",
+            "M7A-C3-S1-KP004",
+            "M7A-C3-S1-KP005",
+            "M7A-C3-S1-KP006",
+            "M7A-C3-S2-KP007",
+            "M7A-C3-S2-KP008",
+            "M7A-C3-S2-KP009",
+            "M7A-C3-S2-KP010",
+            "M7A-C3-S3-KP011",
+            "M7A-C3-S3-KP012",
+            "M7B-C3-S1-KP001",
+            "M7B-C3-S1-KP002",
+            "M7B-C3-S2-KP003",
+            "M7B-C3-S2-KP004",
+            "M7B-C3-S3-KP005",
+            "M7B-C3-S3-KP006",
+            "M7B-C3-S3-KP007"
+          ]
+        },
+        {
+          "chapter_no": 4,
+          "chapter": "??????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C4-S1-KP001",
+                "M7A-C4-S1-KP002",
+                "M7A-C4-S1-KP003",
+                "M7B-C4-S1-KP001",
+                "M7B-C4-S1-KP002",
+                "M7B-C4-S1-KP003",
+                "M7B-C4-S1-KP004",
+                "M7B-C4-S1-KP005"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "?",
+              "knowledge_point_ids": [
+                "M7A-C4-S2-KP004",
+                "M7A-C4-S2-KP005",
+                "M7A-C4-S2-KP006",
+                "M7A-C4-S2-KP007",
+                "M7B-C4-S2-KP006",
+                "M7B-C4-S2-KP007"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "??????????",
+              "knowledge_point_ids": [
+                "M7A-C4-S3-KP008",
+                "M7A-C4-S3-KP009",
+                "M7B-C4-S3-KP008",
+                "M7B-C4-S3-KP009",
+                "M7B-C4-S3-KP010",
+                "M7B-C4-S3-KP011"
+              ]
+            },
+            {
+              "section_no": "4",
+              "section": "??????????",
+              "knowledge_point_ids": [
+                "M7B-C4-S4-KP012"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C4-S1-KP001",
+            "M7A-C4-S1-KP002",
+            "M7A-C4-S1-KP003",
+            "M7A-C4-S2-KP004",
+            "M7A-C4-S2-KP005",
+            "M7A-C4-S2-KP006",
+            "M7A-C4-S2-KP007",
+            "M7A-C4-S3-KP008",
+            "M7A-C4-S3-KP009",
+            "M7B-C4-S1-KP001",
+            "M7B-C4-S1-KP002",
+            "M7B-C4-S1-KP003",
+            "M7B-C4-S1-KP004",
+            "M7B-C4-S1-KP005",
+            "M7B-C4-S2-KP006",
+            "M7B-C4-S2-KP007",
+            "M7B-C4-S3-KP008",
+            "M7B-C4-S3-KP009",
+            "M7B-C4-S3-KP010",
+            "M7B-C4-S3-KP011",
+            "M7B-C4-S4-KP012"
+          ]
+        },
+        {
+          "chapter_no": 5,
+          "chapter": "??????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "????",
+              "knowledge_point_ids": [
+                "M7A-C5-S1-KP001",
+                "M7A-C5-S1-KP002",
+                "M7A-C5-S1-KP003",
+                "M7B-C5-S1-KP001",
+                "M7B-C5-S1-KP002",
+                "M7B-C5-S1-KP003",
+                "M7B-C5-S1-KP004"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "?????????",
+              "knowledge_point_ids": [
+                "M7A-C5-S2-KP004",
+                "M7A-C5-S2-KP005",
+                "M7A-C5-S2-KP006",
+                "M7B-C5-S2-KP005",
+                "M7B-C5-S2-KP006",
+                "M7B-C5-S2-KP007",
+                "M7B-C5-S2-KP008"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "?????????",
+              "knowledge_point_ids": [
+                "M7A-C5-S3-KP007",
+                "M7A-C5-S3-KP008"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C5-S1-KP001",
+            "M7A-C5-S1-KP002",
+            "M7A-C5-S1-KP003",
+            "M7A-C5-S2-KP004",
+            "M7A-C5-S2-KP005",
+            "M7A-C5-S2-KP006",
+            "M7A-C5-S3-KP007",
+            "M7A-C5-S3-KP008",
+            "M7B-C5-S1-KP001",
+            "M7B-C5-S1-KP002",
+            "M7B-C5-S1-KP003",
+            "M7B-C5-S1-KP004",
+            "M7B-C5-S2-KP005",
+            "M7B-C5-S2-KP006",
+            "M7B-C5-S2-KP007",
+            "M7B-C5-S2-KP008"
+          ]
+        },
+        {
+          "chapter_no": 6,
+          "chapter": "????????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "???????",
+              "knowledge_point_ids": [
+                "M7A-C6-S1-KP001",
+                "M7B-C6-S1-KP001"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7A-C6-S2-KP002",
+                "M7A-C6-S2-KP003",
+                "M7A-C6-S2-KP004",
+                "M7B-C6-S2-KP002",
+                "M7B-C6-S2-KP003"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7A-C6-S3-KP005",
+                "M7A-C6-S3-KP006",
+                "M7A-C6-S3-KP007",
+                "M7A-C6-S3-KP008",
+                "M7B-C6-S3-KP004",
+                "M7B-C6-S3-KP005"
+              ]
+            },
+            {
+              "section_no": "4",
+              "section": "????????????",
+              "knowledge_point_ids": [
+                "M7B-C6-S4-KP006",
+                "M7B-C6-S4-KP007",
+                "M7B-C6-S4-KP008"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C6-S1-KP001",
+            "M7A-C6-S2-KP002",
+            "M7A-C6-S2-KP003",
+            "M7A-C6-S2-KP004",
+            "M7A-C6-S3-KP005",
+            "M7A-C6-S3-KP006",
+            "M7A-C6-S3-KP007",
+            "M7A-C6-S3-KP008",
+            "M7B-C6-S1-KP001",
+            "M7B-C6-S2-KP002",
+            "M7B-C6-S2-KP003",
+            "M7B-C6-S3-KP004",
+            "M7B-C6-S3-KP005",
+            "M7B-C6-S4-KP006",
+            "M7B-C6-S4-KP007",
+            "M7B-C6-S4-KP008"
+          ]
+        }
+      ],
+      "unit_ids": [
+        "M7A-U1",
+        "M7A-U2",
+        "M7A-U3",
+        "M7A-U4",
+        "M7A-U5",
+        "M7A-U6",
+        "M7A-U1",
+        "M7A-U2",
+        "M7A-U3",
+        "M7A-U4",
+        "M7A-U5",
+        "M7A-U6"
+      ]
+    },
+    {
+      "volume": "?????",
+      "chapters": [
+        {
+          "chapter_no": 1,
+          "chapter": "???????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C1-S1-KP001",
+                "M7A-C1-S1-KP002",
+                "M7A-C1-S1-KP003",
+                "M7B-C1-S1-KP001",
+                "M7B-C1-S1-KP002",
+                "M7B-C1-S1-KP003",
+                "M7B-C1-S1-KP004"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "??????????",
+              "knowledge_point_ids": [
+                "M7A-C1-S2-KP004",
+                "M7A-C1-S2-KP005",
+                "M7A-C1-S2-KP006",
+                "M7B-C1-S2-KP005",
+                "M7B-C1-S2-KP006",
+                "M7B-C1-S2-KP007"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "????",
+              "knowledge_point_ids": [
+                "M7B-C1-S3-KP008",
+                "M7B-C1-S3-KP009",
+                "M7B-C1-S3-KP010"
+              ]
+            },
+            {
+              "section_no": "4",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7B-C1-S4-KP011",
+                "M7B-C1-S4-KP012"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C1-S1-KP001",
+            "M7A-C1-S1-KP002",
+            "M7A-C1-S1-KP003",
+            "M7A-C1-S2-KP004",
+            "M7A-C1-S2-KP005",
+            "M7A-C1-S2-KP006",
+            "M7B-C1-S1-KP001",
+            "M7B-C1-S1-KP002",
+            "M7B-C1-S1-KP003",
+            "M7B-C1-S1-KP004",
+            "M7B-C1-S2-KP005",
+            "M7B-C1-S2-KP006",
+            "M7B-C1-S2-KP007",
+            "M7B-C1-S3-KP008",
+            "M7B-C1-S3-KP009",
+            "M7B-C1-S3-KP010",
+            "M7B-C1-S4-KP011",
+            "M7B-C1-S4-KP012"
+          ]
+        },
+        {
+          "chapter_no": 2,
+          "chapter": "???????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7A-C2-S1-KP001",
+                "M7A-C2-S1-KP002",
+                "M7A-C2-S1-KP003",
+                "M7A-C2-S1-KP004",
+                "M7A-C2-S1-KP005",
+                "M7A-C2-S1-KP006",
+                "M7B-C2-S1-KP001",
+                "M7B-C2-S1-KP002",
+                "M7B-C2-S1-KP003",
+                "M7B-C2-S1-KP004"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C2-S2-KP007",
+                "M7A-C2-S2-KP008",
+                "M7A-C2-S2-KP009",
+                "M7B-C2-S2-KP005",
+                "M7B-C2-S2-KP006"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C2-S3-KP010",
+                "M7A-C2-S3-KP011",
+                "M7A-C2-S3-KP012",
+                "M7B-C2-S3-KP007",
+                "M7B-C2-S3-KP008"
+              ]
+            },
+            {
+              "section_no": "4",
+              "section": "??????",
+              "knowledge_point_ids": [
+                "M7A-C2-S4-KP013",
+                "M7A-C2-S4-KP014"
+              ]
+            },
+            {
+              "section_no": "5",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C2-S5-KP015",
+                "M7A-C2-S5-KP016"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C2-S1-KP001",
+            "M7A-C2-S1-KP002",
+            "M7A-C2-S1-KP003",
+            "M7A-C2-S1-KP004",
+            "M7A-C2-S1-KP005",
+            "M7A-C2-S1-KP006",
+            "M7A-C2-S2-KP007",
+            "M7A-C2-S2-KP008",
+            "M7A-C2-S2-KP009",
+            "M7A-C2-S3-KP010",
+            "M7A-C2-S3-KP011",
+            "M7A-C2-S3-KP012",
+            "M7A-C2-S4-KP013",
+            "M7A-C2-S4-KP014",
+            "M7A-C2-S5-KP015",
+            "M7A-C2-S5-KP016",
+            "M7B-C2-S1-KP001",
+            "M7B-C2-S1-KP002",
+            "M7B-C2-S1-KP003",
+            "M7B-C2-S1-KP004",
+            "M7B-C2-S2-KP005",
+            "M7B-C2-S2-KP006",
+            "M7B-C2-S3-KP007",
+            "M7B-C2-S3-KP008"
+          ]
+        },
+        {
+          "chapter_no": 3,
+          "chapter": "??????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "???",
+              "knowledge_point_ids": [
+                "M7A-C3-S1-KP001",
+                "M7A-C3-S1-KP002",
+                "M7A-C3-S1-KP003",
+                "M7A-C3-S1-KP004",
+                "M7A-C3-S1-KP005",
+                "M7A-C3-S1-KP006",
+                "M7B-C3-S1-KP001",
+                "M7B-C3-S1-KP002"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7A-C3-S2-KP007",
+                "M7A-C3-S2-KP008",
+                "M7A-C3-S2-KP009",
+                "M7A-C3-S2-KP010",
+                "M7B-C3-S2-KP003",
+                "M7B-C3-S2-KP004"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "???????",
+              "knowledge_point_ids": [
+                "M7A-C3-S3-KP011",
+                "M7A-C3-S3-KP012",
+                "M7B-C3-S3-KP005",
+                "M7B-C3-S3-KP006",
+                "M7B-C3-S3-KP007"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C3-S1-KP001",
+            "M7A-C3-S1-KP002",
+            "M7A-C3-S1-KP003",
+            "M7A-C3-S1-KP004",
+            "M7A-C3-S1-KP005",
+            "M7A-C3-S1-KP006",
+            "M7A-C3-S2-KP007",
+            "M7A-C3-S2-KP008",
+            "M7A-C3-S2-KP009",
+            "M7A-C3-S2-KP010",
+            "M7A-C3-S3-KP011",
+            "M7A-C3-S3-KP012",
+            "M7B-C3-S1-KP001",
+            "M7B-C3-S1-KP002",
+            "M7B-C3-S2-KP003",
+            "M7B-C3-S2-KP004",
+            "M7B-C3-S3-KP005",
+            "M7B-C3-S3-KP006",
+            "M7B-C3-S3-KP007"
+          ]
+        },
+        {
+          "chapter_no": 4,
+          "chapter": "??????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "????????",
+              "knowledge_point_ids": [
+                "M7A-C4-S1-KP001",
+                "M7A-C4-S1-KP002",
+                "M7A-C4-S1-KP003",
+                "M7B-C4-S1-KP001",
+                "M7B-C4-S1-KP002",
+                "M7B-C4-S1-KP003",
+                "M7B-C4-S1-KP004",
+                "M7B-C4-S1-KP005"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "?",
+              "knowledge_point_ids": [
+                "M7A-C4-S2-KP004",
+                "M7A-C4-S2-KP005",
+                "M7A-C4-S2-KP006",
+                "M7A-C4-S2-KP007",
+                "M7B-C4-S2-KP006",
+                "M7B-C4-S2-KP007"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "??????????",
+              "knowledge_point_ids": [
+                "M7A-C4-S3-KP008",
+                "M7A-C4-S3-KP009",
+                "M7B-C4-S3-KP008",
+                "M7B-C4-S3-KP009",
+                "M7B-C4-S3-KP010",
+                "M7B-C4-S3-KP011"
+              ]
+            },
+            {
+              "section_no": "4",
+              "section": "??????????",
+              "knowledge_point_ids": [
+                "M7B-C4-S4-KP012"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C4-S1-KP001",
+            "M7A-C4-S1-KP002",
+            "M7A-C4-S1-KP003",
+            "M7A-C4-S2-KP004",
+            "M7A-C4-S2-KP005",
+            "M7A-C4-S2-KP006",
+            "M7A-C4-S2-KP007",
+            "M7A-C4-S3-KP008",
+            "M7A-C4-S3-KP009",
+            "M7B-C4-S1-KP001",
+            "M7B-C4-S1-KP002",
+            "M7B-C4-S1-KP003",
+            "M7B-C4-S1-KP004",
+            "M7B-C4-S1-KP005",
+            "M7B-C4-S2-KP006",
+            "M7B-C4-S2-KP007",
+            "M7B-C4-S3-KP008",
+            "M7B-C4-S3-KP009",
+            "M7B-C4-S3-KP010",
+            "M7B-C4-S3-KP011",
+            "M7B-C4-S4-KP012"
+          ]
+        },
+        {
+          "chapter_no": 5,
+          "chapter": "??????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "????",
+              "knowledge_point_ids": [
+                "M7A-C5-S1-KP001",
+                "M7A-C5-S1-KP002",
+                "M7A-C5-S1-KP003",
+                "M7B-C5-S1-KP001",
+                "M7B-C5-S1-KP002",
+                "M7B-C5-S1-KP003",
+                "M7B-C5-S1-KP004"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "?????????",
+              "knowledge_point_ids": [
+                "M7A-C5-S2-KP004",
+                "M7A-C5-S2-KP005",
+                "M7A-C5-S2-KP006",
+                "M7B-C5-S2-KP005",
+                "M7B-C5-S2-KP006",
+                "M7B-C5-S2-KP007",
+                "M7B-C5-S2-KP008"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "?????????",
+              "knowledge_point_ids": [
+                "M7A-C5-S3-KP007",
+                "M7A-C5-S3-KP008"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C5-S1-KP001",
+            "M7A-C5-S1-KP002",
+            "M7A-C5-S1-KP003",
+            "M7A-C5-S2-KP004",
+            "M7A-C5-S2-KP005",
+            "M7A-C5-S2-KP006",
+            "M7A-C5-S3-KP007",
+            "M7A-C5-S3-KP008",
+            "M7B-C5-S1-KP001",
+            "M7B-C5-S1-KP002",
+            "M7B-C5-S1-KP003",
+            "M7B-C5-S1-KP004",
+            "M7B-C5-S2-KP005",
+            "M7B-C5-S2-KP006",
+            "M7B-C5-S2-KP007",
+            "M7B-C5-S2-KP008"
+          ]
+        },
+        {
+          "chapter_no": 6,
+          "chapter": "????????",
+          "sections": [
+            {
+              "section_no": "1",
+              "section": "???????",
+              "knowledge_point_ids": [
+                "M7A-C6-S1-KP001",
+                "M7B-C6-S1-KP001"
+              ]
+            },
+            {
+              "section_no": "2",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7A-C6-S2-KP002",
+                "M7A-C6-S2-KP003",
+                "M7A-C6-S2-KP004",
+                "M7B-C6-S2-KP002",
+                "M7B-C6-S2-KP003"
+              ]
+            },
+            {
+              "section_no": "3",
+              "section": "?????",
+              "knowledge_point_ids": [
+                "M7A-C6-S3-KP005",
+                "M7A-C6-S3-KP006",
+                "M7A-C6-S3-KP007",
+                "M7A-C6-S3-KP008",
+                "M7B-C6-S3-KP004",
+                "M7B-C6-S3-KP005"
+              ]
+            },
+            {
+              "section_no": "4",
+              "section": "????????????",
+              "knowledge_point_ids": [
+                "M7B-C6-S4-KP006",
+                "M7B-C6-S4-KP007",
+                "M7B-C6-S4-KP008"
+              ]
+            }
+          ],
+          "knowledge_point_ids": [
+            "M7A-C6-S1-KP001",
+            "M7A-C6-S2-KP002",
+            "M7A-C6-S2-KP003",
+            "M7A-C6-S2-KP004",
+            "M7A-C6-S3-KP005",
+            "M7A-C6-S3-KP006",
+            "M7A-C6-S3-KP007",
+            "M7A-C6-S3-KP008",
+            "M7B-C6-S1-KP001",
+            "M7B-C6-S2-KP002",
+            "M7B-C6-S2-KP003",
+            "M7B-C6-S3-KP004",
+            "M7B-C6-S3-KP005",
+            "M7B-C6-S4-KP006",
+            "M7B-C6-S4-KP007",
+            "M7B-C6-S4-KP008"
+          ]
+        }
+      ],
+      "unit_ids": [
+        "M7A-U1",
+        "M7A-U2",
+        "M7A-U3",
+        "M7A-U4",
+        "M7A-U5",
+        "M7A-U6",
+        "M7A-U1",
+        "M7A-U2",
+        "M7A-U3",
+        "M7A-U4",
+        "M7A-U5",
+        "M7A-U6"
+      ]
+    }
+  ],
+  "knowledge_points": [
+    {
+      "id": "M7A-C1-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "????????",
+      "name": "?????????",
+      "description": "??????????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "??",
+        "?"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C1-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "????????",
+      "name": "?????????",
+      "description": "?????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "?",
+        "?",
+        "?",
+        "?"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C1-S1-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "????????",
+      "name": "?????",
+      "description": "?????????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "??",
+        "?",
+        "??"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C1-S2-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "??????????",
+      "name": "??????",
+      "description": "???????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????"
+      ],
+      "skills": [
+        "????",
+        "????"
+      ],
+      "keywords": [
+        "???",
+        "??"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C1-S2-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "??????????",
+      "name": "?????",
+      "description": "???????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "????",
+        "????",
+        "????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C1-S2-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "??????????",
+      "name": "????",
+      "description": "????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "??",
+        "??????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????",
+      "name": "?????",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "??????"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????",
+      "name": "??????",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "???",
+        "0"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S1-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????",
+      "name": "??",
+      "description": "???????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "????"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S1-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????",
+      "name": "???",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "???",
+        "?????"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S1-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????",
+      "name": "???",
+      "description": "????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "???",
+        "??"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S1-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????",
+      "name": "???????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??",
+        "???"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "????",
+        "??"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S2-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "????????",
+      "name": "???????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???",
+        "???????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "??",
+        "??"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S2-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "????????",
+      "name": "???????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???",
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "????"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S2-KP009",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "????????",
+      "name": "?????????",
+      "description": "??????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????",
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "???"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S3-KP010",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "3",
+      "section": "????????",
+      "name": "???????",
+      "description": "?????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "????"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S3-KP011",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "3",
+      "section": "????????",
+      "name": "??",
+      "description": "???????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "???1"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S3-KP012",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "3",
+      "section": "????????",
+      "name": "???????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??",
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "???"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S4-KP013",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "4",
+      "section": "??????",
+      "name": "?????",
+      "description": "????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "?"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S4-KP014",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "4",
+      "section": "??????",
+      "name": "?????????",
+      "description": "??????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "?????",
+        "???",
+        "???"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S5-KP015",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "5",
+      "section": "????????",
+      "name": "?????????",
+      "description": "????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????",
+        "???????",
+        "?????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "???",
+        "??????",
+        "??"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C2-S5-KP016",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "5",
+      "section": "????????",
+      "name": "???????",
+      "description": "??a?10^n????????????a??????n????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????",
+        "10??"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7A-C3-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???",
+      "name": "??????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "?????"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???",
+      "name": "??????",
+      "description": "??????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "????"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S1-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???",
+      "name": "?????",
+      "description": "??????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????",
+        "?????????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "?????"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S1-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???",
+      "name": "???",
+      "description": "????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "??",
+        "??"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S1-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???",
+      "name": "???",
+      "description": "???????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "?",
+        "???"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S1-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???",
+      "name": "??",
+      "description": "????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???",
+        "???"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "??"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S2-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "???",
+      "description": "?????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "???"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S2-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "?????",
+      "description": "????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???",
+        "?????????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????",
+        "??"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S2-KP009",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "?????",
+      "description": "???????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????"
+      ],
+      "skills": [
+        "????",
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "????"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S2-KP010",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "??????",
+      "description": "?????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "????"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S3-KP011",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "3",
+      "section": "???????",
+      "name": "??????",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "???"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C3-S3-KP012",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "??????",
+      "section_no": "3",
+      "section": "???????",
+      "name": "??????",
+      "description": "????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????",
+        "??????"
+      ],
+      "skills": [
+        "????",
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "??"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C4-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "????????",
+      "name": "??????",
+      "description": "????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "??"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C4-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "????????",
+      "name": "????????",
+      "description": "??????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "????????"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C4-S1-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "????????",
+      "name": "????????",
+      "description": "??????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "??"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C4-S2-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?",
+      "name": "???????",
+      "description": "??????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?",
+        "??",
+        "?"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C4-S2-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?",
+      "name": "????",
+      "description": "????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?",
+        "?",
+        "?",
+        "???"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C4-S2-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?",
+      "name": "???????",
+      "description": "????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "????"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C4-S2-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?",
+      "name": "?????",
+      "description": "??????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C4-S3-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "??????",
+      "section_no": "3",
+      "section": "??????????",
+      "name": "?????",
+      "description": "?????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????",
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "???"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C4-S3-KP009",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "??????",
+      "section_no": "3",
+      "section": "??????????",
+      "name": "??????",
+      "description": "????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "?",
+        "??",
+        "??",
+        "??"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C5-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "????",
+      "name": "?????",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "???",
+        "??"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C5-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "????",
+      "name": "??????",
+      "description": "????????????????1?????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "??"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??????"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C5-S1-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "????",
+      "name": "????",
+      "description": "?????????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "??"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C5-S2-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?????????",
+      "name": "???????",
+      "description": "??????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C5-S2-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?????????",
+      "name": "??",
+      "description": "????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C5-S2-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "?????????",
+      "name": "????????????",
+      "description": "???????????????????????1???????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??",
+        "?????",
+        "?????"
+      ],
+      "skills": [
+        "????",
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "???",
+        "????1"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C5-S3-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "3",
+      "section": "?????????",
+      "name": "???????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????",
+        "????????????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "???"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C5-S3-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "3",
+      "section": "?????????",
+      "name": "????????????",
+      "description": "????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "??",
+        "???"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7A-C6-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "????????",
+      "section_no": "1",
+      "section": "???????",
+      "name": "???????",
+      "description": "?????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "??",
+        "??"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "????????"
+    },
+    {
+      "id": "M7A-C6-S2-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "????????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "?????????",
+      "description": "??????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "????",
+        "????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "????????"
+    },
+    {
+      "id": "M7A-C6-S2-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "????????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "??????????",
+      "description": "???????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "??",
+        "????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "????????"
+    },
+    {
+      "id": "M7A-C6-S2-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "????????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "??????",
+      "description": "?????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "???",
+        "????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "????????"
+    },
+    {
+      "id": "M7A-C6-S3-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "????????",
+      "section_no": "3",
+      "section": "?????",
+      "name": "???",
+      "description": "?????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "????????"
+    },
+    {
+      "id": "M7A-C6-S3-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "????????",
+      "section_no": "3",
+      "section": "?????",
+      "name": "?????",
+      "description": "????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "????????"
+    },
+    {
+      "id": "M7A-C6-S3-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "????????",
+      "section_no": "3",
+      "section": "?????",
+      "name": "?????",
+      "description": "??????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???",
+        "????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????",
+        "???",
+        "???"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "????????"
+    },
+    {
+      "id": "M7A-C6-S3-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "????????",
+      "section_no": "3",
+      "section": "?????",
+      "name": "?????",
+      "description": "??????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "?????",
+        "????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "????????"
+    },
+    {
+      "id": "M7B-C1-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "1",
+      "section": "????",
+      "name": "???????",
+      "description": "???????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "??"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "????",
+        "????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "1",
+      "section": "????",
+      "name": "????",
+      "description": "?????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "????",
+        "????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S1-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "1",
+      "section": "????",
+      "name": "????",
+      "description": "???????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????",
+        "????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S1-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "1",
+      "section": "????",
+      "name": "???????",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "??????",
+        "????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S2-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "???????",
+      "description": "???????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???",
+        "???????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "???????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S2-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "???????",
+      "description": "??????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????",
+        "?????"
+      ],
+      "skills": [
+        "????",
+        "??"
+      ],
+      "keywords": [
+        "???????",
+        "???"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S2-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "2",
+      "section": "?????",
+      "name": "???????",
+      "description": "????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????",
+        "?????"
+      ],
+      "skills": [
+        "????",
+        "??"
+      ],
+      "keywords": [
+        "???????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S3-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "3",
+      "section": "????",
+      "name": "?????",
+      "description": "??(a+b)(a-b)=a^2-b^2??????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "????",
+        "??"
+      ],
+      "keywords": [
+        "?????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S3-KP009",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "3",
+      "section": "????",
+      "name": "??????",
+      "description": "??(a+b)^2=a^2+2ab+b^2?(a-b)^2=a^2-2ab+b^2?",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "????",
+        "??"
+      ],
+      "keywords": [
+        "??????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S3-KP010",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "3",
+      "section": "????",
+      "name": "?????????",
+      "description": "??????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "??????",
+        "?????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "????",
+        "????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S4-KP011",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "4",
+      "section": "?????",
+      "name": "????????",
+      "description": "???????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????",
+        "???"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "????????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C1-S4-KP012",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 1,
+      "chapter": "?????",
+      "section_no": "4",
+      "section": "?????",
+      "name": "????????",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????????",
+        "???"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "????????"
+      ],
+      "unit_no": 1,
+      "unit_id": "M7A-U1",
+      "unit_name": "?????"
+    },
+    {
+      "id": "M7B-C2-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????????",
+      "name": "???????",
+      "description": "??????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "???"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C2-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????????",
+      "name": "???",
+      "description": "??????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????",
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C2-S1-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????????",
+      "name": "??",
+      "description": "????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "??"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C2-S1-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "?????????",
+      "name": "???????",
+      "description": "??????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??",
+        "????????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??????",
+        "???"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C2-S2-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "?????????",
+      "name": "??????????",
+      "description": "???????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "???",
+        "????"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C2-S2-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "?????????",
+      "name": "?????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????????",
+        "?????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "?????"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C2-S3-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "3",
+      "section": "??????",
+      "name": "?????",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????"
+      ],
+      "skills": [
+        "????",
+        "??"
+      ],
+      "keywords": [
+        "?????"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C2-S3-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 2,
+      "chapter": "???????",
+      "section_no": "3",
+      "section": "??????",
+      "name": "??????????",
+      "description": "?????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "????"
+      ],
+      "unit_no": 2,
+      "unit_id": "M7A-U2",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C3-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "????",
+      "section_no": "1",
+      "section": "?????",
+      "name": "?????????????",
+      "description": "??????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "????",
+        "?????",
+        "????"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "????"
+    },
+    {
+      "id": "M7B-C3-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "????",
+      "section_no": "1",
+      "section": "?????",
+      "name": "?????",
+      "description": "???????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "????"
+    },
+    {
+      "id": "M7B-C3-S2-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "????",
+      "section_no": "2",
+      "section": "??????",
+      "name": "??",
+      "description": "?????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "??"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "????"
+    },
+    {
+      "id": "M7B-C3-S2-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "????",
+      "section_no": "2",
+      "section": "??????",
+      "name": "?????",
+      "description": "??????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????",
+        "????"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "????"
+    },
+    {
+      "id": "M7B-C3-S3-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "????",
+      "section_no": "3",
+      "section": "????????",
+      "name": "?????",
+      "description": "??????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "???"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "????"
+    },
+    {
+      "id": "M7B-C3-S3-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "????",
+      "section_no": "3",
+      "section": "????????",
+      "name": "??????",
+      "description": "?????????=??????/?????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "??"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "????"
+    },
+    {
+      "id": "M7B-C3-S3-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 3,
+      "chapter": "????",
+      "section_no": "3",
+      "section": "????????",
+      "name": "?????????",
+      "description": "????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "??",
+        "???"
+      ],
+      "unit_no": 3,
+      "unit_id": "M7A-U3",
+      "unit_name": "????"
+    },
+    {
+      "id": "M7B-C4-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "1",
+      "section": "?????",
+      "name": "????????",
+      "description": "???????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "?",
+        "?",
+        "??"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "1",
+      "section": "?????",
+      "name": "???????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S1-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "1",
+      "section": "?????",
+      "name": "??????",
+      "description": "??????????180???????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "180?"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S1-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "1",
+      "section": "?????",
+      "name": "?????",
+      "description": "??????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "?????",
+        "?????",
+        "?????"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S1-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "1",
+      "section": "?????",
+      "name": "???????????",
+      "description": "????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??",
+        "???????",
+        "????????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?",
+        "????",
+        "??"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S2-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "2",
+      "section": "?????",
+      "name": "????",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "???",
+        "???"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S2-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "2",
+      "section": "?????",
+      "name": "???????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???????"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S3-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "3",
+      "section": "??????????",
+      "name": "SSS??",
+      "description": "?????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????",
+        "???????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "SSS",
+        "???"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S3-KP009",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "3",
+      "section": "??????????",
+      "name": "SAS??",
+      "description": "?????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "SAS",
+        "???"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S3-KP010",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "3",
+      "section": "??????????",
+      "name": "ASA?AAS??",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????",
+        "???????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "ASA",
+        "AAS",
+        "???",
+        "???"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S3-KP011",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "3",
+      "section": "??????????",
+      "name": "HL??",
+      "description": "????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "???????"
+      ],
+      "skills": [
+        "??"
+      ],
+      "keywords": [
+        "HL",
+        "?????"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C4-S4-KP012",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 4,
+      "chapter": "???",
+      "section_no": "4",
+      "section": "??????????",
+      "name": "???????",
+      "description": "?????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "SSS??",
+        "SAS??",
+        "ASA?AAS??",
+        "HL??"
+      ],
+      "skills": [
+        "??",
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "???",
+        "????"
+      ],
+      "unit_no": 4,
+      "unit_id": "M7A-U4",
+      "unit_name": "???"
+    },
+    {
+      "id": "M7B-C5-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???????",
+      "name": "?????",
+      "description": "??????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????",
+        "???"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7B-C5-S1-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???????",
+      "name": "????????",
+      "description": "?????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "??",
+        "????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????",
+        "???"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7B-C5-S1-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???????",
+      "name": "?????",
+      "description": "?????????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????",
+        "????"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7B-C5-S1-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "1",
+      "section": "???????",
+      "name": "??????",
+      "description": "???????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????"
+      ],
+      "skills": [
+        "????",
+        "????"
+      ],
+      "keywords": [
+        "?????"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7B-C5-S2-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "????????",
+      "name": "???????",
+      "description": "???????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7B-C5-S2-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "????????",
+      "name": "??????",
+      "description": "???????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????",
+        "???????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??????"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7B-C5-S2-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "????????",
+      "name": "???????",
+      "description": "?????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????",
+        "????"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7B-C5-S2-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 5,
+      "chapter": "??????",
+      "section_no": "2",
+      "section": "????????",
+      "name": "???????",
+      "description": "?????????????????60????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "???????",
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "?????",
+        "60?"
+      ],
+      "unit_no": 5,
+      "unit_id": "M7A-U5",
+      "unit_name": "??????"
+    },
+    {
+      "id": "M7B-C6-S1-KP001",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "???????",
+      "section_no": "1",
+      "section": "??????",
+      "name": "?????",
+      "description": "?????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "??",
+        "??",
+        "???",
+        "???"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C6-S2-KP002",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "????????????",
+      "name": "????????",
+      "description": "??????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "???"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "??",
+        "????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C6-S2-KP003",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "???????",
+      "section_no": "2",
+      "section": "????????????",
+      "name": "?????????",
+      "description": "???????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????????"
+      ],
+      "skills": [
+        "????"
+      ],
+      "keywords": [
+        "????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C6-S3-KP004",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "???????",
+      "section_no": "3",
+      "section": "?????????????",
+      "name": "?????????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "??????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "???"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C6-S3-KP005",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "???????",
+      "section_no": "3",
+      "section": "?????????????",
+      "name": "???????",
+      "description": "???????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????????",
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "??"
+      ],
+      "keywords": [
+        "????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C6-S4-KP006",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "???????",
+      "section_no": "4",
+      "section": "????????????",
+      "name": "????????",
+      "description": "????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "?????",
+        "?????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "??",
+        "????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C6-S4-KP007",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "???????",
+      "section_no": "4",
+      "section": "????????????",
+      "name": "???????",
+      "description": "?????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "???",
+        "???",
+        "????"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "???????"
+    },
+    {
+      "id": "M7B-C6-S4-KP008",
+      "grade": 7,
+      "subject": "??",
+      "publisher": "?????????",
+      "edition": "??????2024???????",
+      "volume": "?????",
+      "chapter_no": 6,
+      "chapter": "???????",
+      "section_no": "4",
+      "section": "????????????",
+      "name": "???????????",
+      "description": "???????????????????????????????",
+      "type": "concept",
+      "difficulty": "??",
+      "prerequisites": [
+        "????????",
+        "?????????",
+        "????????"
+      ],
+      "skills": [
+        "??",
+        "????"
+      ],
+      "keywords": [
+        "??",
+        "???",
+        "??"
+      ],
+      "unit_no": 6,
+      "unit_id": "M7A-U6",
+      "unit_name": "???????"
+    }
+  ],
+  "units": [
+    {
+      "unit_id": "M7A-U1",
+      "unit_no": 1,
+      "unit_name": "???????",
+      "volume": "?????",
+      "knowledge_point_count": 18,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C1-S1-KP001",
+            "M7A-C1-S1-KP002",
+            "M7A-C1-S1-KP003",
+            "M7B-C1-S1-KP001",
+            "M7B-C1-S1-KP002",
+            "M7B-C1-S1-KP003",
+            "M7B-C1-S1-KP004"
+          ],
+          "knowledge_point_count": 7
+        },
+        {
+          "section_no": "2",
+          "section_name": "??????????",
+          "knowledge_point_ids": [
+            "M7A-C1-S2-KP004",
+            "M7A-C1-S2-KP005",
+            "M7A-C1-S2-KP006",
+            "M7B-C1-S2-KP005",
+            "M7B-C1-S2-KP006",
+            "M7B-C1-S2-KP007"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "3",
+          "section_name": "????",
+          "knowledge_point_ids": [
+            "M7B-C1-S3-KP008",
+            "M7B-C1-S3-KP009",
+            "M7B-C1-S3-KP010"
+          ],
+          "knowledge_point_count": 3
+        },
+        {
+          "section_no": "4",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7B-C1-S4-KP011",
+            "M7B-C1-S4-KP012"
+          ],
+          "knowledge_point_count": 2
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C1-S1-KP001",
+        "M7A-C1-S1-KP002",
+        "M7A-C1-S1-KP003",
+        "M7A-C1-S2-KP004",
+        "M7A-C1-S2-KP005",
+        "M7A-C1-S2-KP006",
+        "M7B-C1-S1-KP001",
+        "M7B-C1-S1-KP002",
+        "M7B-C1-S1-KP003",
+        "M7B-C1-S1-KP004",
+        "M7B-C1-S2-KP005",
+        "M7B-C1-S2-KP006",
+        "M7B-C1-S2-KP007",
+        "M7B-C1-S3-KP008",
+        "M7B-C1-S3-KP009",
+        "M7B-C1-S3-KP010",
+        "M7B-C1-S4-KP011",
+        "M7B-C1-S4-KP012"
+      ]
+    },
+    {
+      "unit_id": "M7A-U2",
+      "unit_no": 2,
+      "unit_name": "???????",
+      "volume": "?????",
+      "knowledge_point_count": 24,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7A-C2-S1-KP001",
+            "M7A-C2-S1-KP002",
+            "M7A-C2-S1-KP003",
+            "M7A-C2-S1-KP004",
+            "M7A-C2-S1-KP005",
+            "M7A-C2-S1-KP006",
+            "M7B-C2-S1-KP001",
+            "M7B-C2-S1-KP002",
+            "M7B-C2-S1-KP003",
+            "M7B-C2-S1-KP004"
+          ],
+          "knowledge_point_count": 10
+        },
+        {
+          "section_no": "2",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C2-S2-KP007",
+            "M7A-C2-S2-KP008",
+            "M7A-C2-S2-KP009",
+            "M7B-C2-S2-KP005",
+            "M7B-C2-S2-KP006"
+          ],
+          "knowledge_point_count": 5
+        },
+        {
+          "section_no": "3",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C2-S3-KP010",
+            "M7A-C2-S3-KP011",
+            "M7A-C2-S3-KP012",
+            "M7B-C2-S3-KP007",
+            "M7B-C2-S3-KP008"
+          ],
+          "knowledge_point_count": 5
+        },
+        {
+          "section_no": "4",
+          "section_name": "??????",
+          "knowledge_point_ids": [
+            "M7A-C2-S4-KP013",
+            "M7A-C2-S4-KP014"
+          ],
+          "knowledge_point_count": 2
+        },
+        {
+          "section_no": "5",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C2-S5-KP015",
+            "M7A-C2-S5-KP016"
+          ],
+          "knowledge_point_count": 2
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C2-S1-KP001",
+        "M7A-C2-S1-KP002",
+        "M7A-C2-S1-KP003",
+        "M7A-C2-S1-KP004",
+        "M7A-C2-S1-KP005",
+        "M7A-C2-S1-KP006",
+        "M7A-C2-S2-KP007",
+        "M7A-C2-S2-KP008",
+        "M7A-C2-S2-KP009",
+        "M7A-C2-S3-KP010",
+        "M7A-C2-S3-KP011",
+        "M7A-C2-S3-KP012",
+        "M7A-C2-S4-KP013",
+        "M7A-C2-S4-KP014",
+        "M7A-C2-S5-KP015",
+        "M7A-C2-S5-KP016",
+        "M7B-C2-S1-KP001",
+        "M7B-C2-S1-KP002",
+        "M7B-C2-S1-KP003",
+        "M7B-C2-S1-KP004",
+        "M7B-C2-S2-KP005",
+        "M7B-C2-S2-KP006",
+        "M7B-C2-S3-KP007",
+        "M7B-C2-S3-KP008"
+      ]
+    },
+    {
+      "unit_id": "M7A-U3",
+      "unit_no": 3,
+      "unit_name": "??????",
+      "volume": "?????",
+      "knowledge_point_count": 19,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "???",
+          "knowledge_point_ids": [
+            "M7A-C3-S1-KP001",
+            "M7A-C3-S1-KP002",
+            "M7A-C3-S1-KP003",
+            "M7A-C3-S1-KP004",
+            "M7A-C3-S1-KP005",
+            "M7A-C3-S1-KP006",
+            "M7B-C3-S1-KP001",
+            "M7B-C3-S1-KP002"
+          ],
+          "knowledge_point_count": 8
+        },
+        {
+          "section_no": "2",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7A-C3-S2-KP007",
+            "M7A-C3-S2-KP008",
+            "M7A-C3-S2-KP009",
+            "M7A-C3-S2-KP010",
+            "M7B-C3-S2-KP003",
+            "M7B-C3-S2-KP004"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "3",
+          "section_name": "???????",
+          "knowledge_point_ids": [
+            "M7A-C3-S3-KP011",
+            "M7A-C3-S3-KP012",
+            "M7B-C3-S3-KP005",
+            "M7B-C3-S3-KP006",
+            "M7B-C3-S3-KP007"
+          ],
+          "knowledge_point_count": 5
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C3-S1-KP001",
+        "M7A-C3-S1-KP002",
+        "M7A-C3-S1-KP003",
+        "M7A-C3-S1-KP004",
+        "M7A-C3-S1-KP005",
+        "M7A-C3-S1-KP006",
+        "M7A-C3-S2-KP007",
+        "M7A-C3-S2-KP008",
+        "M7A-C3-S2-KP009",
+        "M7A-C3-S2-KP010",
+        "M7A-C3-S3-KP011",
+        "M7A-C3-S3-KP012",
+        "M7B-C3-S1-KP001",
+        "M7B-C3-S1-KP002",
+        "M7B-C3-S2-KP003",
+        "M7B-C3-S2-KP004",
+        "M7B-C3-S3-KP005",
+        "M7B-C3-S3-KP006",
+        "M7B-C3-S3-KP007"
+      ]
+    },
+    {
+      "unit_id": "M7A-U4",
+      "unit_no": 4,
+      "unit_name": "??????",
+      "volume": "?????",
+      "knowledge_point_count": 21,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C4-S1-KP001",
+            "M7A-C4-S1-KP002",
+            "M7A-C4-S1-KP003",
+            "M7B-C4-S1-KP001",
+            "M7B-C4-S1-KP002",
+            "M7B-C4-S1-KP003",
+            "M7B-C4-S1-KP004",
+            "M7B-C4-S1-KP005"
+          ],
+          "knowledge_point_count": 8
+        },
+        {
+          "section_no": "2",
+          "section_name": "?",
+          "knowledge_point_ids": [
+            "M7A-C4-S2-KP004",
+            "M7A-C4-S2-KP005",
+            "M7A-C4-S2-KP006",
+            "M7A-C4-S2-KP007",
+            "M7B-C4-S2-KP006",
+            "M7B-C4-S2-KP007"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "3",
+          "section_name": "??????????",
+          "knowledge_point_ids": [
+            "M7A-C4-S3-KP008",
+            "M7A-C4-S3-KP009",
+            "M7B-C4-S3-KP008",
+            "M7B-C4-S3-KP009",
+            "M7B-C4-S3-KP010",
+            "M7B-C4-S3-KP011"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "4",
+          "section_name": "??????????",
+          "knowledge_point_ids": [
+            "M7B-C4-S4-KP012"
+          ],
+          "knowledge_point_count": 1
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C4-S1-KP001",
+        "M7A-C4-S1-KP002",
+        "M7A-C4-S1-KP003",
+        "M7A-C4-S2-KP004",
+        "M7A-C4-S2-KP005",
+        "M7A-C4-S2-KP006",
+        "M7A-C4-S2-KP007",
+        "M7A-C4-S3-KP008",
+        "M7A-C4-S3-KP009",
+        "M7B-C4-S1-KP001",
+        "M7B-C4-S1-KP002",
+        "M7B-C4-S1-KP003",
+        "M7B-C4-S1-KP004",
+        "M7B-C4-S1-KP005",
+        "M7B-C4-S2-KP006",
+        "M7B-C4-S2-KP007",
+        "M7B-C4-S3-KP008",
+        "M7B-C4-S3-KP009",
+        "M7B-C4-S3-KP010",
+        "M7B-C4-S3-KP011",
+        "M7B-C4-S4-KP012"
+      ]
+    },
+    {
+      "unit_id": "M7A-U5",
+      "unit_no": 5,
+      "unit_name": "??????",
+      "volume": "?????",
+      "knowledge_point_count": 16,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "????",
+          "knowledge_point_ids": [
+            "M7A-C5-S1-KP001",
+            "M7A-C5-S1-KP002",
+            "M7A-C5-S1-KP003",
+            "M7B-C5-S1-KP001",
+            "M7B-C5-S1-KP002",
+            "M7B-C5-S1-KP003",
+            "M7B-C5-S1-KP004"
+          ],
+          "knowledge_point_count": 7
+        },
+        {
+          "section_no": "2",
+          "section_name": "?????????",
+          "knowledge_point_ids": [
+            "M7A-C5-S2-KP004",
+            "M7A-C5-S2-KP005",
+            "M7A-C5-S2-KP006",
+            "M7B-C5-S2-KP005",
+            "M7B-C5-S2-KP006",
+            "M7B-C5-S2-KP007",
+            "M7B-C5-S2-KP008"
+          ],
+          "knowledge_point_count": 7
+        },
+        {
+          "section_no": "3",
+          "section_name": "?????????",
+          "knowledge_point_ids": [
+            "M7A-C5-S3-KP007",
+            "M7A-C5-S3-KP008"
+          ],
+          "knowledge_point_count": 2
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C5-S1-KP001",
+        "M7A-C5-S1-KP002",
+        "M7A-C5-S1-KP003",
+        "M7A-C5-S2-KP004",
+        "M7A-C5-S2-KP005",
+        "M7A-C5-S2-KP006",
+        "M7A-C5-S3-KP007",
+        "M7A-C5-S3-KP008",
+        "M7B-C5-S1-KP001",
+        "M7B-C5-S1-KP002",
+        "M7B-C5-S1-KP003",
+        "M7B-C5-S1-KP004",
+        "M7B-C5-S2-KP005",
+        "M7B-C5-S2-KP006",
+        "M7B-C5-S2-KP007",
+        "M7B-C5-S2-KP008"
+      ]
+    },
+    {
+      "unit_id": "M7A-U6",
+      "unit_no": 6,
+      "unit_name": "????????",
+      "volume": "?????",
+      "knowledge_point_count": 16,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "???????",
+          "knowledge_point_ids": [
+            "M7A-C6-S1-KP001",
+            "M7B-C6-S1-KP001"
+          ],
+          "knowledge_point_count": 2
+        },
+        {
+          "section_no": "2",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7A-C6-S2-KP002",
+            "M7A-C6-S2-KP003",
+            "M7A-C6-S2-KP004",
+            "M7B-C6-S2-KP002",
+            "M7B-C6-S2-KP003"
+          ],
+          "knowledge_point_count": 5
+        },
+        {
+          "section_no": "3",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7A-C6-S3-KP005",
+            "M7A-C6-S3-KP006",
+            "M7A-C6-S3-KP007",
+            "M7A-C6-S3-KP008",
+            "M7B-C6-S3-KP004",
+            "M7B-C6-S3-KP005"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "4",
+          "section_name": "????????????",
+          "knowledge_point_ids": [
+            "M7B-C6-S4-KP006",
+            "M7B-C6-S4-KP007",
+            "M7B-C6-S4-KP008"
+          ],
+          "knowledge_point_count": 3
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C6-S1-KP001",
+        "M7A-C6-S2-KP002",
+        "M7A-C6-S2-KP003",
+        "M7A-C6-S2-KP004",
+        "M7A-C6-S3-KP005",
+        "M7A-C6-S3-KP006",
+        "M7A-C6-S3-KP007",
+        "M7A-C6-S3-KP008",
+        "M7B-C6-S1-KP001",
+        "M7B-C6-S2-KP002",
+        "M7B-C6-S2-KP003",
+        "M7B-C6-S3-KP004",
+        "M7B-C6-S3-KP005",
+        "M7B-C6-S4-KP006",
+        "M7B-C6-S4-KP007",
+        "M7B-C6-S4-KP008"
+      ]
+    },
+    {
+      "unit_id": "M7A-U1",
+      "unit_no": 1,
+      "unit_name": "???????",
+      "volume": "?????",
+      "knowledge_point_count": 18,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C1-S1-KP001",
+            "M7A-C1-S1-KP002",
+            "M7A-C1-S1-KP003",
+            "M7B-C1-S1-KP001",
+            "M7B-C1-S1-KP002",
+            "M7B-C1-S1-KP003",
+            "M7B-C1-S1-KP004"
+          ],
+          "knowledge_point_count": 7
+        },
+        {
+          "section_no": "2",
+          "section_name": "??????????",
+          "knowledge_point_ids": [
+            "M7A-C1-S2-KP004",
+            "M7A-C1-S2-KP005",
+            "M7A-C1-S2-KP006",
+            "M7B-C1-S2-KP005",
+            "M7B-C1-S2-KP006",
+            "M7B-C1-S2-KP007"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "3",
+          "section_name": "????",
+          "knowledge_point_ids": [
+            "M7B-C1-S3-KP008",
+            "M7B-C1-S3-KP009",
+            "M7B-C1-S3-KP010"
+          ],
+          "knowledge_point_count": 3
+        },
+        {
+          "section_no": "4",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7B-C1-S4-KP011",
+            "M7B-C1-S4-KP012"
+          ],
+          "knowledge_point_count": 2
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C1-S1-KP001",
+        "M7A-C1-S1-KP002",
+        "M7A-C1-S1-KP003",
+        "M7A-C1-S2-KP004",
+        "M7A-C1-S2-KP005",
+        "M7A-C1-S2-KP006",
+        "M7B-C1-S1-KP001",
+        "M7B-C1-S1-KP002",
+        "M7B-C1-S1-KP003",
+        "M7B-C1-S1-KP004",
+        "M7B-C1-S2-KP005",
+        "M7B-C1-S2-KP006",
+        "M7B-C1-S2-KP007",
+        "M7B-C1-S3-KP008",
+        "M7B-C1-S3-KP009",
+        "M7B-C1-S3-KP010",
+        "M7B-C1-S4-KP011",
+        "M7B-C1-S4-KP012"
+      ]
+    },
+    {
+      "unit_id": "M7A-U2",
+      "unit_no": 2,
+      "unit_name": "???????",
+      "volume": "?????",
+      "knowledge_point_count": 24,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7A-C2-S1-KP001",
+            "M7A-C2-S1-KP002",
+            "M7A-C2-S1-KP003",
+            "M7A-C2-S1-KP004",
+            "M7A-C2-S1-KP005",
+            "M7A-C2-S1-KP006",
+            "M7B-C2-S1-KP001",
+            "M7B-C2-S1-KP002",
+            "M7B-C2-S1-KP003",
+            "M7B-C2-S1-KP004"
+          ],
+          "knowledge_point_count": 10
+        },
+        {
+          "section_no": "2",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C2-S2-KP007",
+            "M7A-C2-S2-KP008",
+            "M7A-C2-S2-KP009",
+            "M7B-C2-S2-KP005",
+            "M7B-C2-S2-KP006"
+          ],
+          "knowledge_point_count": 5
+        },
+        {
+          "section_no": "3",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C2-S3-KP010",
+            "M7A-C2-S3-KP011",
+            "M7A-C2-S3-KP012",
+            "M7B-C2-S3-KP007",
+            "M7B-C2-S3-KP008"
+          ],
+          "knowledge_point_count": 5
+        },
+        {
+          "section_no": "4",
+          "section_name": "??????",
+          "knowledge_point_ids": [
+            "M7A-C2-S4-KP013",
+            "M7A-C2-S4-KP014"
+          ],
+          "knowledge_point_count": 2
+        },
+        {
+          "section_no": "5",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C2-S5-KP015",
+            "M7A-C2-S5-KP016"
+          ],
+          "knowledge_point_count": 2
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C2-S1-KP001",
+        "M7A-C2-S1-KP002",
+        "M7A-C2-S1-KP003",
+        "M7A-C2-S1-KP004",
+        "M7A-C2-S1-KP005",
+        "M7A-C2-S1-KP006",
+        "M7A-C2-S2-KP007",
+        "M7A-C2-S2-KP008",
+        "M7A-C2-S2-KP009",
+        "M7A-C2-S3-KP010",
+        "M7A-C2-S3-KP011",
+        "M7A-C2-S3-KP012",
+        "M7A-C2-S4-KP013",
+        "M7A-C2-S4-KP014",
+        "M7A-C2-S5-KP015",
+        "M7A-C2-S5-KP016",
+        "M7B-C2-S1-KP001",
+        "M7B-C2-S1-KP002",
+        "M7B-C2-S1-KP003",
+        "M7B-C2-S1-KP004",
+        "M7B-C2-S2-KP005",
+        "M7B-C2-S2-KP006",
+        "M7B-C2-S3-KP007",
+        "M7B-C2-S3-KP008"
+      ]
+    },
+    {
+      "unit_id": "M7A-U3",
+      "unit_no": 3,
+      "unit_name": "??????",
+      "volume": "?????",
+      "knowledge_point_count": 19,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "???",
+          "knowledge_point_ids": [
+            "M7A-C3-S1-KP001",
+            "M7A-C3-S1-KP002",
+            "M7A-C3-S1-KP003",
+            "M7A-C3-S1-KP004",
+            "M7A-C3-S1-KP005",
+            "M7A-C3-S1-KP006",
+            "M7B-C3-S1-KP001",
+            "M7B-C3-S1-KP002"
+          ],
+          "knowledge_point_count": 8
+        },
+        {
+          "section_no": "2",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7A-C3-S2-KP007",
+            "M7A-C3-S2-KP008",
+            "M7A-C3-S2-KP009",
+            "M7A-C3-S2-KP010",
+            "M7B-C3-S2-KP003",
+            "M7B-C3-S2-KP004"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "3",
+          "section_name": "???????",
+          "knowledge_point_ids": [
+            "M7A-C3-S3-KP011",
+            "M7A-C3-S3-KP012",
+            "M7B-C3-S3-KP005",
+            "M7B-C3-S3-KP006",
+            "M7B-C3-S3-KP007"
+          ],
+          "knowledge_point_count": 5
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C3-S1-KP001",
+        "M7A-C3-S1-KP002",
+        "M7A-C3-S1-KP003",
+        "M7A-C3-S1-KP004",
+        "M7A-C3-S1-KP005",
+        "M7A-C3-S1-KP006",
+        "M7A-C3-S2-KP007",
+        "M7A-C3-S2-KP008",
+        "M7A-C3-S2-KP009",
+        "M7A-C3-S2-KP010",
+        "M7A-C3-S3-KP011",
+        "M7A-C3-S3-KP012",
+        "M7B-C3-S1-KP001",
+        "M7B-C3-S1-KP002",
+        "M7B-C3-S2-KP003",
+        "M7B-C3-S2-KP004",
+        "M7B-C3-S3-KP005",
+        "M7B-C3-S3-KP006",
+        "M7B-C3-S3-KP007"
+      ]
+    },
+    {
+      "unit_id": "M7A-U4",
+      "unit_no": 4,
+      "unit_name": "??????",
+      "volume": "?????",
+      "knowledge_point_count": 21,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "????????",
+          "knowledge_point_ids": [
+            "M7A-C4-S1-KP001",
+            "M7A-C4-S1-KP002",
+            "M7A-C4-S1-KP003",
+            "M7B-C4-S1-KP001",
+            "M7B-C4-S1-KP002",
+            "M7B-C4-S1-KP003",
+            "M7B-C4-S1-KP004",
+            "M7B-C4-S1-KP005"
+          ],
+          "knowledge_point_count": 8
+        },
+        {
+          "section_no": "2",
+          "section_name": "?",
+          "knowledge_point_ids": [
+            "M7A-C4-S2-KP004",
+            "M7A-C4-S2-KP005",
+            "M7A-C4-S2-KP006",
+            "M7A-C4-S2-KP007",
+            "M7B-C4-S2-KP006",
+            "M7B-C4-S2-KP007"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "3",
+          "section_name": "??????????",
+          "knowledge_point_ids": [
+            "M7A-C4-S3-KP008",
+            "M7A-C4-S3-KP009",
+            "M7B-C4-S3-KP008",
+            "M7B-C4-S3-KP009",
+            "M7B-C4-S3-KP010",
+            "M7B-C4-S3-KP011"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "4",
+          "section_name": "??????????",
+          "knowledge_point_ids": [
+            "M7B-C4-S4-KP012"
+          ],
+          "knowledge_point_count": 1
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C4-S1-KP001",
+        "M7A-C4-S1-KP002",
+        "M7A-C4-S1-KP003",
+        "M7A-C4-S2-KP004",
+        "M7A-C4-S2-KP005",
+        "M7A-C4-S2-KP006",
+        "M7A-C4-S2-KP007",
+        "M7A-C4-S3-KP008",
+        "M7A-C4-S3-KP009",
+        "M7B-C4-S1-KP001",
+        "M7B-C4-S1-KP002",
+        "M7B-C4-S1-KP003",
+        "M7B-C4-S1-KP004",
+        "M7B-C4-S1-KP005",
+        "M7B-C4-S2-KP006",
+        "M7B-C4-S2-KP007",
+        "M7B-C4-S3-KP008",
+        "M7B-C4-S3-KP009",
+        "M7B-C4-S3-KP010",
+        "M7B-C4-S3-KP011",
+        "M7B-C4-S4-KP012"
+      ]
+    },
+    {
+      "unit_id": "M7A-U5",
+      "unit_no": 5,
+      "unit_name": "??????",
+      "volume": "?????",
+      "knowledge_point_count": 16,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "????",
+          "knowledge_point_ids": [
+            "M7A-C5-S1-KP001",
+            "M7A-C5-S1-KP002",
+            "M7A-C5-S1-KP003",
+            "M7B-C5-S1-KP001",
+            "M7B-C5-S1-KP002",
+            "M7B-C5-S1-KP003",
+            "M7B-C5-S1-KP004"
+          ],
+          "knowledge_point_count": 7
+        },
+        {
+          "section_no": "2",
+          "section_name": "?????????",
+          "knowledge_point_ids": [
+            "M7A-C5-S2-KP004",
+            "M7A-C5-S2-KP005",
+            "M7A-C5-S2-KP006",
+            "M7B-C5-S2-KP005",
+            "M7B-C5-S2-KP006",
+            "M7B-C5-S2-KP007",
+            "M7B-C5-S2-KP008"
+          ],
+          "knowledge_point_count": 7
+        },
+        {
+          "section_no": "3",
+          "section_name": "?????????",
+          "knowledge_point_ids": [
+            "M7A-C5-S3-KP007",
+            "M7A-C5-S3-KP008"
+          ],
+          "knowledge_point_count": 2
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C5-S1-KP001",
+        "M7A-C5-S1-KP002",
+        "M7A-C5-S1-KP003",
+        "M7A-C5-S2-KP004",
+        "M7A-C5-S2-KP005",
+        "M7A-C5-S2-KP006",
+        "M7A-C5-S3-KP007",
+        "M7A-C5-S3-KP008",
+        "M7B-C5-S1-KP001",
+        "M7B-C5-S1-KP002",
+        "M7B-C5-S1-KP003",
+        "M7B-C5-S1-KP004",
+        "M7B-C5-S2-KP005",
+        "M7B-C5-S2-KP006",
+        "M7B-C5-S2-KP007",
+        "M7B-C5-S2-KP008"
+      ]
+    },
+    {
+      "unit_id": "M7A-U6",
+      "unit_no": 6,
+      "unit_name": "????????",
+      "volume": "?????",
+      "knowledge_point_count": 16,
+      "sections": [
+        {
+          "section_no": "1",
+          "section_name": "???????",
+          "knowledge_point_ids": [
+            "M7A-C6-S1-KP001",
+            "M7B-C6-S1-KP001"
+          ],
+          "knowledge_point_count": 2
+        },
+        {
+          "section_no": "2",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7A-C6-S2-KP002",
+            "M7A-C6-S2-KP003",
+            "M7A-C6-S2-KP004",
+            "M7B-C6-S2-KP002",
+            "M7B-C6-S2-KP003"
+          ],
+          "knowledge_point_count": 5
+        },
+        {
+          "section_no": "3",
+          "section_name": "?????",
+          "knowledge_point_ids": [
+            "M7A-C6-S3-KP005",
+            "M7A-C6-S3-KP006",
+            "M7A-C6-S3-KP007",
+            "M7A-C6-S3-KP008",
+            "M7B-C6-S3-KP004",
+            "M7B-C6-S3-KP005"
+          ],
+          "knowledge_point_count": 6
+        },
+        {
+          "section_no": "4",
+          "section_name": "????????????",
+          "knowledge_point_ids": [
+            "M7B-C6-S4-KP006",
+            "M7B-C6-S4-KP007",
+            "M7B-C6-S4-KP008"
+          ],
+          "knowledge_point_count": 3
+        }
+      ],
+      "knowledge_point_ids": [
+        "M7A-C6-S1-KP001",
+        "M7A-C6-S2-KP002",
+        "M7A-C6-S2-KP003",
+        "M7A-C6-S2-KP004",
+        "M7A-C6-S3-KP005",
+        "M7A-C6-S3-KP006",
+        "M7A-C6-S3-KP007",
+        "M7A-C6-S3-KP008",
+        "M7B-C6-S1-KP001",
+        "M7B-C6-S2-KP002",
+        "M7B-C6-S2-KP003",
+        "M7B-C6-S3-KP004",
+        "M7B-C6-S3-KP005",
+        "M7B-C6-S4-KP006",
+        "M7B-C6-S4-KP007",
+        "M7B-C6-S4-KP008"
+      ]
+    }
+  ]
+}

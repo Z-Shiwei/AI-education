@@ -1,0 +1,3394 @@
+{
+  "metadata": {
+    "name": "统编版七年级语文上下册知识点库",
+    "grade": 7,
+    "subject": "语文",
+    "publisher": "人民教育出版社",
+    "edition_note": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+    "created_at": "2026-07-20",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 12,
+    "total_knowledge_points": 102,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段已避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "M7C-A-U1",
+      "unit_no": 1,
+      "unit_name": "四季美景与自然情怀",
+      "volume": "七年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M7C-A-U1-KP001",
+        "M7C-A-U1-KP002",
+        "M7C-A-U1-KP003",
+        "M7C-A-U1-KP004",
+        "M7C-A-U1-KP005",
+        "M7C-A-U1-KP006",
+        "M7C-A-U1-KP007",
+        "M7C-A-U1-KP008",
+        "M7C-A-U1-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-A-U1-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U1",
+          "unit_no": 1,
+          "unit_name": "四季美景与自然情怀",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "散文朗读与重音停连",
+          "description": "围绕本单元课文与主题，掌握“散文朗读与重音停连”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "四季美景与自然情怀"
+          ],
+          "related_texts": [
+            "春",
+            "济南的冬天",
+            "雨的四季",
+            "古代诗歌四首"
+          ]
+        },
+        {
+          "id": "M7C-A-U1-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U1",
+          "unit_no": 1,
+          "unit_name": "四季美景与自然情怀",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "景物特征概括",
+          "description": "围绕本单元课文与主题，掌握“景物特征概括”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "四季美景与自然情怀"
+          ],
+          "related_texts": [
+            "春",
+            "济南的冬天",
+            "雨的四季",
+            "古代诗歌四首"
+          ]
+        },
+        {
+          "id": "M7C-A-U1-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U1",
+          "unit_no": 1,
+          "unit_name": "四季美景与自然情怀",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "写景顺序分析",
+          "description": "围绕本单元课文与主题，掌握“写景顺序分析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "四季美景与自然情怀"
+          ],
+          "related_texts": [
+            "春",
+            "济南的冬天",
+            "雨的四季",
+            "古代诗歌四首"
+          ]
+        },
+        {
+          "id": "M7C-A-U1-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U1",
+          "unit_no": 1,
+          "unit_name": "四季美景与自然情怀",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "比喻拟人赏析",
+          "description": "围绕本单元课文与主题，掌握“比喻拟人赏析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "四季美景与自然情怀"
+          ],
+          "related_texts": [
+            "春",
+            "济南的冬天",
+            "雨的四季",
+            "古代诗歌四首"
+          ]
+        },
+        {
+          "id": "M7C-A-U1-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U1",
+          "unit_no": 1,
+          "unit_name": "四季美景与自然情怀",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "情景交融",
+          "description": "围绕本单元课文与主题，掌握“情景交融”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "四季美景与自然情怀"
+          ],
+          "related_texts": [
+            "春",
+            "济南的冬天",
+            "雨的四季",
+            "古代诗歌四首"
+          ]
+        },
+        {
+          "id": "M7C-A-U1-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U1",
+          "unit_no": 1,
+          "unit_name": "四季美景与自然情怀",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "古代诗歌意象",
+          "description": "围绕本单元课文与主题，掌握“古代诗歌意象”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "四季美景与自然情怀"
+          ],
+          "related_texts": [
+            "春",
+            "济南的冬天",
+            "雨的四季",
+            "古代诗歌四首"
+          ]
+        },
+        {
+          "id": "M7C-A-U1-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U1",
+          "unit_no": 1,
+          "unit_name": "四季美景与自然情怀",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "诗歌画面描述",
+          "description": "围绕本单元课文与主题，掌握“诗歌画面描述”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "四季美景与自然情怀"
+          ],
+          "related_texts": [
+            "春",
+            "济南的冬天",
+            "雨的四季",
+            "古代诗歌四首"
+          ]
+        },
+        {
+          "id": "M7C-A-U1-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U1",
+          "unit_no": 1,
+          "unit_name": "四季美景与自然情怀",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "观察生活积累素材",
+          "description": "围绕本单元课文与主题，掌握“观察生活积累素材”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "四季美景与自然情怀"
+          ],
+          "related_texts": [
+            "春",
+            "济南的冬天",
+            "雨的四季",
+            "古代诗歌四首"
+          ]
+        },
+        {
+          "id": "M7C-A-U1-KP009",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U1",
+          "unit_no": 1,
+          "unit_name": "四季美景与自然情怀",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "写景片段训练",
+          "description": "围绕本单元课文与主题，掌握“写景片段训练”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "基础",
+            "四季美景与自然情怀"
+          ],
+          "related_texts": [
+            "春",
+            "济南的冬天",
+            "雨的四季",
+            "古代诗歌四首"
+          ]
+        }
+      ],
+      "texts": [
+        "春",
+        "济南的冬天",
+        "雨的四季",
+        "古代诗歌四首"
+      ]
+    },
+    {
+      "unit_id": "M7C-A-U2",
+      "unit_no": 2,
+      "unit_name": "亲情与成长",
+      "volume": "七年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M7C-A-U2-KP001",
+        "M7C-A-U2-KP002",
+        "M7C-A-U2-KP003",
+        "M7C-A-U2-KP004",
+        "M7C-A-U2-KP005",
+        "M7C-A-U2-KP006",
+        "M7C-A-U2-KP007",
+        "M7C-A-U2-KP008",
+        "M7C-A-U2-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-A-U2-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U2",
+          "unit_no": 2,
+          "unit_name": "亲情与成长",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "记事散文情节梳理",
+          "description": "围绕本单元课文与主题，掌握“记事散文情节梳理”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "基础",
+            "亲情与成长"
+          ],
+          "related_texts": [
+            "秋天的怀念",
+            "散步",
+            "散文诗二首",
+            "《世说新语》二则"
+          ]
+        },
+        {
+          "id": "M7C-A-U2-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U2",
+          "unit_no": 2,
+          "unit_name": "亲情与成长",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "人物情感变化",
+          "description": "围绕本单元课文与主题，掌握“人物情感变化”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "亲情与成长"
+          ],
+          "related_texts": [
+            "秋天的怀念",
+            "散步",
+            "散文诗二首",
+            "《世说新语》二则"
+          ]
+        },
+        {
+          "id": "M7C-A-U2-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U2",
+          "unit_no": 2,
+          "unit_name": "亲情与成长",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "细节描写作用",
+          "description": "围绕本单元课文与主题，掌握“细节描写作用”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "亲情与成长"
+          ],
+          "related_texts": [
+            "秋天的怀念",
+            "散步",
+            "散文诗二首",
+            "《世说新语》二则"
+          ]
+        },
+        {
+          "id": "M7C-A-U2-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U2",
+          "unit_no": 2,
+          "unit_name": "亲情与成长",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "散文诗象征与联想",
+          "description": "围绕本单元课文与主题，掌握“散文诗象征与联想”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "亲情与成长"
+          ],
+          "related_texts": [
+            "秋天的怀念",
+            "散步",
+            "散文诗二首",
+            "《世说新语》二则"
+          ]
+        },
+        {
+          "id": "M7C-A-U2-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U2",
+          "unit_no": 2,
+          "unit_name": "亲情与成长",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "文言实词积累：世说新语",
+          "description": "围绕本单元课文与主题，掌握“文言实词积累：世说新语”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "亲情与成长"
+          ],
+          "related_texts": [
+            "秋天的怀念",
+            "散步",
+            "散文诗二首",
+            "《世说新语》二则"
+          ]
+        },
+        {
+          "id": "M7C-A-U2-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U2",
+          "unit_no": 2,
+          "unit_name": "亲情与成长",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "文言人物评价",
+          "description": "围绕本单元课文与主题，掌握“文言人物评价”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "亲情与成长"
+          ],
+          "related_texts": [
+            "秋天的怀念",
+            "散步",
+            "散文诗二首",
+            "《世说新语》二则"
+          ]
+        },
+        {
+          "id": "M7C-A-U2-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U2",
+          "unit_no": 2,
+          "unit_name": "亲情与成长",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "记事六要素",
+          "description": "围绕本单元课文与主题，掌握“记事六要素”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "亲情与成长"
+          ],
+          "related_texts": [
+            "秋天的怀念",
+            "散步",
+            "散文诗二首",
+            "《世说新语》二则"
+          ]
+        },
+        {
+          "id": "M7C-A-U2-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U2",
+          "unit_no": 2,
+          "unit_name": "亲情与成长",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "把事情写清楚",
+          "description": "围绕本单元课文与主题，掌握“把事情写清楚”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "亲情与成长"
+          ],
+          "related_texts": [
+            "秋天的怀念",
+            "散步",
+            "散文诗二首",
+            "《世说新语》二则"
+          ]
+        },
+        {
+          "id": "M7C-A-U2-KP009",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U2",
+          "unit_no": 2,
+          "unit_name": "亲情与成长",
+          "unit_name_zh": "",
+          "category": "综合性学习",
+          "name": "交友表达与资料整理",
+          "description": "围绕本单元课文与主题，掌握“交友表达与资料整理”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "综合性学习",
+            "基础",
+            "亲情与成长"
+          ],
+          "related_texts": [
+            "秋天的怀念",
+            "散步",
+            "散文诗二首",
+            "《世说新语》二则"
+          ]
+        }
+      ],
+      "texts": [
+        "秋天的怀念",
+        "散步",
+        "散文诗二首",
+        "《世说新语》二则"
+      ]
+    },
+    {
+      "unit_id": "M7C-A-U3",
+      "unit_no": 3,
+      "unit_name": "学习生活与精神启蒙",
+      "volume": "七年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M7C-A-U3-KP001",
+        "M7C-A-U3-KP002",
+        "M7C-A-U3-KP003",
+        "M7C-A-U3-KP004",
+        "M7C-A-U3-KP005",
+        "M7C-A-U3-KP006",
+        "M7C-A-U3-KP007",
+        "M7C-A-U3-KP008",
+        "M7C-A-U3-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-A-U3-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U3",
+          "unit_no": 3,
+          "unit_name": "学习生活与精神启蒙",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "回忆性散文结构",
+          "description": "围绕本单元课文与主题，掌握“回忆性散文结构”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "学习生活与精神启蒙"
+          ],
+          "related_texts": [
+            "从百草园到三味书屋",
+            "再塑生命的人",
+            "《论语》十二章",
+            "《朝花夕拾》"
+          ]
+        },
+        {
+          "id": "M7C-A-U3-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U3",
+          "unit_no": 3,
+          "unit_name": "学习生活与精神启蒙",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "童年生活细节理解",
+          "description": "围绕本单元课文与主题，掌握“童年生活细节理解”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "学习生活与精神启蒙"
+          ],
+          "related_texts": [
+            "从百草园到三味书屋",
+            "再塑生命的人",
+            "《论语》十二章",
+            "《朝花夕拾》"
+          ]
+        },
+        {
+          "id": "M7C-A-U3-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U3",
+          "unit_no": 3,
+          "unit_name": "学习生活与精神启蒙",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "人物精神品质概括",
+          "description": "围绕本单元课文与主题，掌握“人物精神品质概括”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "学习生活与精神启蒙"
+          ],
+          "related_texts": [
+            "从百草园到三味书屋",
+            "再塑生命的人",
+            "《论语》十二章",
+            "《朝花夕拾》"
+          ]
+        },
+        {
+          "id": "M7C-A-U3-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U3",
+          "unit_no": 3,
+          "unit_name": "学习生活与精神启蒙",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "论语章句理解",
+          "description": "围绕本单元课文与主题，掌握“论语章句理解”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "学习生活与精神启蒙"
+          ],
+          "related_texts": [
+            "从百草园到三味书屋",
+            "再塑生命的人",
+            "《论语》十二章",
+            "《朝花夕拾》"
+          ]
+        },
+        {
+          "id": "M7C-A-U3-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U3",
+          "unit_no": 3,
+          "unit_name": "学习生活与精神启蒙",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "文言虚词与句式初步",
+          "description": "围绕本单元课文与主题，掌握“文言虚词与句式初步”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "学习生活与精神启蒙"
+          ],
+          "related_texts": [
+            "从百草园到三味书屋",
+            "再塑生命的人",
+            "《论语》十二章",
+            "《朝花夕拾》"
+          ]
+        },
+        {
+          "id": "M7C-A-U3-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U3",
+          "unit_no": 3,
+          "unit_name": "学习生活与精神启蒙",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "抓住人物特点",
+          "description": "围绕本单元课文与主题，掌握“抓住人物特点”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "学习生活与精神启蒙"
+          ],
+          "related_texts": [
+            "从百草园到三味书屋",
+            "再塑生命的人",
+            "《论语》十二章",
+            "《朝花夕拾》"
+          ]
+        },
+        {
+          "id": "M7C-A-U3-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U3",
+          "unit_no": 3,
+          "unit_name": "学习生活与精神启蒙",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "人物描写方法综合",
+          "description": "围绕本单元课文与主题，掌握“人物描写方法综合”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "学习生活与精神启蒙"
+          ],
+          "related_texts": [
+            "从百草园到三味书屋",
+            "再塑生命的人",
+            "《论语》十二章",
+            "《朝花夕拾》"
+          ]
+        },
+        {
+          "id": "M7C-A-U3-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U3",
+          "unit_no": 3,
+          "unit_name": "学习生活与精神启蒙",
+          "unit_name_zh": "",
+          "category": "名著阅读",
+          "name": "朝花夕拾：消除隔膜",
+          "description": "围绕本单元课文与主题，掌握“朝花夕拾：消除隔膜”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "名著阅读",
+            "核心",
+            "学习生活与精神启蒙"
+          ],
+          "related_texts": [
+            "从百草园到三味书屋",
+            "再塑生命的人",
+            "《论语》十二章",
+            "《朝花夕拾》"
+          ]
+        },
+        {
+          "id": "M7C-A-U3-KP009",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U3",
+          "unit_no": 3,
+          "unit_name": "学习生活与精神启蒙",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "课外古诗情感把握",
+          "description": "围绕本单元课文与主题，掌握“课外古诗情感把握”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "基础",
+            "学习生活与精神启蒙"
+          ],
+          "related_texts": [
+            "从百草园到三味书屋",
+            "再塑生命的人",
+            "《论语》十二章",
+            "《朝花夕拾》"
+          ]
+        }
+      ],
+      "texts": [
+        "从百草园到三味书屋",
+        "再塑生命的人",
+        "《论语》十二章",
+        "《朝花夕拾》"
+      ]
+    },
+    {
+      "unit_id": "M7C-A-U4",
+      "unit_no": 4,
+      "unit_name": "人生意义与精神品格",
+      "volume": "七年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7C-A-U4-KP001",
+        "M7C-A-U4-KP002",
+        "M7C-A-U4-KP003",
+        "M7C-A-U4-KP004",
+        "M7C-A-U4-KP005",
+        "M7C-A-U4-KP006",
+        "M7C-A-U4-KP007",
+        "M7C-A-U4-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-A-U4-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U4",
+          "unit_no": 4,
+          "unit_name": "人生意义与精神品格",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "议论性文字观点提取",
+          "description": "围绕本单元课文与主题，掌握“议论性文字观点提取”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "人生意义与精神品格"
+          ],
+          "related_texts": [
+            "纪念白求恩",
+            "植树的牧羊人",
+            "走一步，再走一步",
+            "诫子书"
+          ]
+        },
+        {
+          "id": "M7C-A-U4-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U4",
+          "unit_no": 4,
+          "unit_name": "人生意义与精神品格",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "叙事与议论结合",
+          "description": "围绕本单元课文与主题，掌握“叙事与议论结合”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "人生意义与精神品格"
+          ],
+          "related_texts": [
+            "纪念白求恩",
+            "植树的牧羊人",
+            "走一步，再走一步",
+            "诫子书"
+          ]
+        },
+        {
+          "id": "M7C-A-U4-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U4",
+          "unit_no": 4,
+          "unit_name": "人生意义与精神品格",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "象征性故事主题理解",
+          "description": "围绕本单元课文与主题，掌握“象征性故事主题理解”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "人生意义与精神品格"
+          ],
+          "related_texts": [
+            "纪念白求恩",
+            "植树的牧羊人",
+            "走一步，再走一步",
+            "诫子书"
+          ]
+        },
+        {
+          "id": "M7C-A-U4-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U4",
+          "unit_no": 4,
+          "unit_name": "人生意义与精神品格",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "心理描写与成长体验",
+          "description": "围绕本单元课文与主题，掌握“心理描写与成长体验”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "人生意义与精神品格"
+          ],
+          "related_texts": [
+            "纪念白求恩",
+            "植树的牧羊人",
+            "走一步，再走一步",
+            "诫子书"
+          ]
+        },
+        {
+          "id": "M7C-A-U4-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U4",
+          "unit_no": 4,
+          "unit_name": "人生意义与精神品格",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "诫子书文意理解",
+          "description": "围绕本单元课文与主题，掌握“诫子书文意理解”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "人生意义与精神品格"
+          ],
+          "related_texts": [
+            "纪念白求恩",
+            "植树的牧羊人",
+            "走一步，再走一步",
+            "诫子书"
+          ]
+        },
+        {
+          "id": "M7C-A-U4-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U4",
+          "unit_no": 4,
+          "unit_name": "人生意义与精神品格",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "文言对偶与警策句",
+          "description": "围绕本单元课文与主题，掌握“文言对偶与警策句”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "人生意义与精神品格"
+          ],
+          "related_texts": [
+            "纪念白求恩",
+            "植树的牧羊人",
+            "走一步，再走一步",
+            "诫子书"
+          ]
+        },
+        {
+          "id": "M7C-A-U4-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U4",
+          "unit_no": 4,
+          "unit_name": "人生意义与精神品格",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "文章思路清晰",
+          "description": "围绕本单元课文与主题，掌握“文章思路清晰”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "人生意义与精神品格"
+          ],
+          "related_texts": [
+            "纪念白求恩",
+            "植树的牧羊人",
+            "走一步，再走一步",
+            "诫子书"
+          ]
+        },
+        {
+          "id": "M7C-A-U4-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U4",
+          "unit_no": 4,
+          "unit_name": "人生意义与精神品格",
+          "unit_name_zh": "",
+          "category": "综合性学习",
+          "name": "读书计划与阅读分享",
+          "description": "围绕本单元课文与主题，掌握“读书计划与阅读分享”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "综合性学习",
+            "基础",
+            "人生意义与精神品格"
+          ],
+          "related_texts": [
+            "纪念白求恩",
+            "植树的牧羊人",
+            "走一步，再走一步",
+            "诫子书"
+          ]
+        }
+      ],
+      "texts": [
+        "纪念白求恩",
+        "植树的牧羊人",
+        "走一步，再走一步",
+        "诫子书"
+      ]
+    },
+    {
+      "unit_id": "M7C-A-U5",
+      "unit_no": 5,
+      "unit_name": "人与动物",
+      "volume": "七年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7C-A-U5-KP001",
+        "M7C-A-U5-KP002",
+        "M7C-A-U5-KP003",
+        "M7C-A-U5-KP004",
+        "M7C-A-U5-KP005",
+        "M7C-A-U5-KP006",
+        "M7C-A-U5-KP007",
+        "M7C-A-U5-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-A-U5-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U5",
+          "unit_no": 5,
+          "unit_name": "人与动物",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "动物叙事线索",
+          "description": "围绕本单元课文与主题，掌握“动物叙事线索”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "人与动物"
+          ],
+          "related_texts": [
+            "猫",
+            "动物笑谈",
+            "狼"
+          ]
+        },
+        {
+          "id": "M7C-A-U5-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U5",
+          "unit_no": 5,
+          "unit_name": "人与动物",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "对比手法分析",
+          "description": "围绕本单元课文与主题，掌握“对比手法分析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "人与动物"
+          ],
+          "related_texts": [
+            "猫",
+            "动物笑谈",
+            "狼"
+          ]
+        },
+        {
+          "id": "M7C-A-U5-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U5",
+          "unit_no": 5,
+          "unit_name": "人与动物",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "幽默语言赏析",
+          "description": "围绕本单元课文与主题，掌握“幽默语言赏析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "人与动物"
+          ],
+          "related_texts": [
+            "猫",
+            "动物笑谈",
+            "狼"
+          ]
+        },
+        {
+          "id": "M7C-A-U5-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U5",
+          "unit_no": 5,
+          "unit_name": "人与动物",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "人与动物关系主题",
+          "description": "围绕本单元课文与主题，掌握“人与动物关系主题”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "人与动物"
+          ],
+          "related_texts": [
+            "猫",
+            "动物笑谈",
+            "狼"
+          ]
+        },
+        {
+          "id": "M7C-A-U5-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U5",
+          "unit_no": 5,
+          "unit_name": "人与动物",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "狼：文言故事情节",
+          "description": "围绕本单元课文与主题，掌握“狼：文言故事情节”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "人与动物"
+          ],
+          "related_texts": [
+            "猫",
+            "动物笑谈",
+            "狼"
+          ]
+        },
+        {
+          "id": "M7C-A-U5-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U5",
+          "unit_no": 5,
+          "unit_name": "人与动物",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "狼：文言词语与寓意",
+          "description": "围绕本单元课文与主题，掌握“狼：文言词语与寓意”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "人与动物"
+          ],
+          "related_texts": [
+            "猫",
+            "动物笑谈",
+            "狼"
+          ]
+        },
+        {
+          "id": "M7C-A-U5-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U5",
+          "unit_no": 5,
+          "unit_name": "人与动物",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "突出中心",
+          "description": "围绕本单元课文与主题，掌握“突出中心”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "人与动物"
+          ],
+          "related_texts": [
+            "猫",
+            "动物笑谈",
+            "狼"
+          ]
+        },
+        {
+          "id": "M7C-A-U5-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U5",
+          "unit_no": 5,
+          "unit_name": "人与动物",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "以小见大",
+          "description": "围绕本单元课文与主题，掌握“以小见大”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "人与动物"
+          ],
+          "related_texts": [
+            "猫",
+            "动物笑谈",
+            "狼"
+          ]
+        }
+      ],
+      "texts": [
+        "猫",
+        "动物笑谈",
+        "狼"
+      ]
+    },
+    {
+      "unit_id": "M7C-A-U6",
+      "unit_no": 6,
+      "unit_name": "想象世界",
+      "volume": "七年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M7C-A-U6-KP001",
+        "M7C-A-U6-KP002",
+        "M7C-A-U6-KP003",
+        "M7C-A-U6-KP004",
+        "M7C-A-U6-KP005",
+        "M7C-A-U6-KP006",
+        "M7C-A-U6-KP007",
+        "M7C-A-U6-KP008",
+        "M7C-A-U6-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-A-U6-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U6",
+          "unit_no": 6,
+          "unit_name": "想象世界",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "童话情节与讽刺",
+          "description": "围绕本单元课文与主题，掌握“童话情节与讽刺”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "想象世界"
+          ],
+          "related_texts": [
+            "皇帝的新装",
+            "天上的街市",
+            "女娲造人",
+            "寓言四则",
+            "《西游记》"
+          ]
+        },
+        {
+          "id": "M7C-A-U6-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U6",
+          "unit_no": 6,
+          "unit_name": "想象世界",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "诗歌想象与意境",
+          "description": "围绕本单元课文与主题，掌握“诗歌想象与意境”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "想象世界"
+          ],
+          "related_texts": [
+            "皇帝的新装",
+            "天上的街市",
+            "女娲造人",
+            "寓言四则",
+            "《西游记》"
+          ]
+        },
+        {
+          "id": "M7C-A-U6-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U6",
+          "unit_no": 6,
+          "unit_name": "想象世界",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "神话人物与文化想象",
+          "description": "围绕本单元课文与主题，掌握“神话人物与文化想象”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "想象世界"
+          ],
+          "related_texts": [
+            "皇帝的新装",
+            "天上的街市",
+            "女娲造人",
+            "寓言四则",
+            "《西游记》"
+          ]
+        },
+        {
+          "id": "M7C-A-U6-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U6",
+          "unit_no": 6,
+          "unit_name": "想象世界",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "寓言故事寓意提炼",
+          "description": "围绕本单元课文与主题，掌握“寓言故事寓意提炼”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "想象世界"
+          ],
+          "related_texts": [
+            "皇帝的新装",
+            "天上的街市",
+            "女娲造人",
+            "寓言四则",
+            "《西游记》"
+          ]
+        },
+        {
+          "id": "M7C-A-U6-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U6",
+          "unit_no": 6,
+          "unit_name": "想象世界",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "寓言文言词语积累",
+          "description": "围绕本单元课文与主题，掌握“寓言文言词语积累”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "想象世界"
+          ],
+          "related_texts": [
+            "皇帝的新装",
+            "天上的街市",
+            "女娲造人",
+            "寓言四则",
+            "《西游记》"
+          ]
+        },
+        {
+          "id": "M7C-A-U6-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U6",
+          "unit_no": 6,
+          "unit_name": "想象世界",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "联想和想象",
+          "description": "围绕本单元课文与主题，掌握“联想和想象”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "想象世界"
+          ],
+          "related_texts": [
+            "皇帝的新装",
+            "天上的街市",
+            "女娲造人",
+            "寓言四则",
+            "《西游记》"
+          ]
+        },
+        {
+          "id": "M7C-A-U6-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U6",
+          "unit_no": 6,
+          "unit_name": "想象世界",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "想象作文情节设计",
+          "description": "围绕本单元课文与主题，掌握“想象作文情节设计”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "想象世界"
+          ],
+          "related_texts": [
+            "皇帝的新装",
+            "天上的街市",
+            "女娲造人",
+            "寓言四则",
+            "《西游记》"
+          ]
+        },
+        {
+          "id": "M7C-A-U6-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U6",
+          "unit_no": 6,
+          "unit_name": "想象世界",
+          "unit_name_zh": "",
+          "category": "名著阅读",
+          "name": "西游记：精读与跳读",
+          "description": "围绕本单元课文与主题，掌握“西游记：精读与跳读”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "名著阅读",
+            "核心",
+            "想象世界"
+          ],
+          "related_texts": [
+            "皇帝的新装",
+            "天上的街市",
+            "女娲造人",
+            "寓言四则",
+            "《西游记》"
+          ]
+        },
+        {
+          "id": "M7C-A-U6-KP009",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7C-A-U6",
+          "unit_no": 6,
+          "unit_name": "想象世界",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "课外古诗名句积累",
+          "description": "围绕本单元课文与主题，掌握“课外古诗名句积累”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "基础",
+            "想象世界"
+          ],
+          "related_texts": [
+            "皇帝的新装",
+            "天上的街市",
+            "女娲造人",
+            "寓言四则",
+            "《西游记》"
+          ]
+        }
+      ],
+      "texts": [
+        "皇帝的新装",
+        "天上的街市",
+        "女娲造人",
+        "寓言四则",
+        "《西游记》"
+      ]
+    },
+    {
+      "unit_id": "M7C-B-U1",
+      "unit_no": 1,
+      "unit_name": "杰出人物与家国精神",
+      "volume": "七年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7C-B-U1-KP001",
+        "M7C-B-U1-KP002",
+        "M7C-B-U1-KP003",
+        "M7C-B-U1-KP004",
+        "M7C-B-U1-KP005",
+        "M7C-B-U1-KP006",
+        "M7C-B-U1-KP007",
+        "M7C-B-U1-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-B-U1-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U1",
+          "unit_no": 1,
+          "unit_name": "杰出人物与家国精神",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "传记人物材料概括",
+          "description": "围绕本单元课文与主题，掌握“传记人物材料概括”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "基础",
+            "杰出人物与家国精神"
+          ],
+          "related_texts": [
+            "邓稼先",
+            "说和做",
+            "回忆鲁迅先生",
+            "孙权劝学"
+          ]
+        },
+        {
+          "id": "M7C-B-U1-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U1",
+          "unit_no": 1,
+          "unit_name": "杰出人物与家国精神",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "人物精神品质分析",
+          "description": "围绕本单元课文与主题，掌握“人物精神品质分析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "杰出人物与家国精神"
+          ],
+          "related_texts": [
+            "邓稼先",
+            "说和做",
+            "回忆鲁迅先生",
+            "孙权劝学"
+          ]
+        },
+        {
+          "id": "M7C-B-U1-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U1",
+          "unit_no": 1,
+          "unit_name": "杰出人物与家国精神",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "夹叙夹议表达",
+          "description": "围绕本单元课文与主题，掌握“夹叙夹议表达”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "杰出人物与家国精神"
+          ],
+          "related_texts": [
+            "邓稼先",
+            "说和做",
+            "回忆鲁迅先生",
+            "孙权劝学"
+          ]
+        },
+        {
+          "id": "M7C-B-U1-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U1",
+          "unit_no": 1,
+          "unit_name": "杰出人物与家国精神",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "细节与引用材料作用",
+          "description": "围绕本单元课文与主题，掌握“细节与引用材料作用”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "杰出人物与家国精神"
+          ],
+          "related_texts": [
+            "邓稼先",
+            "说和做",
+            "回忆鲁迅先生",
+            "孙权劝学"
+          ]
+        },
+        {
+          "id": "M7C-B-U1-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U1",
+          "unit_no": 1,
+          "unit_name": "杰出人物与家国精神",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "孙权劝学文意理解",
+          "description": "围绕本单元课文与主题，掌握“孙权劝学文意理解”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "杰出人物与家国精神"
+          ],
+          "related_texts": [
+            "邓稼先",
+            "说和做",
+            "回忆鲁迅先生",
+            "孙权劝学"
+          ]
+        },
+        {
+          "id": "M7C-B-U1-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U1",
+          "unit_no": 1,
+          "unit_name": "杰出人物与家国精神",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "文言称谓与语气",
+          "description": "围绕本单元课文与主题，掌握“文言称谓与语气”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "杰出人物与家国精神"
+          ],
+          "related_texts": [
+            "邓稼先",
+            "说和做",
+            "回忆鲁迅先生",
+            "孙权劝学"
+          ]
+        },
+        {
+          "id": "M7C-B-U1-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U1",
+          "unit_no": 1,
+          "unit_name": "杰出人物与家国精神",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "写出人物精神",
+          "description": "围绕本单元课文与主题，掌握“写出人物精神”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "杰出人物与家国精神"
+          ],
+          "related_texts": [
+            "邓稼先",
+            "说和做",
+            "回忆鲁迅先生",
+            "孙权劝学"
+          ]
+        },
+        {
+          "id": "M7C-B-U1-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U1",
+          "unit_no": 1,
+          "unit_name": "杰出人物与家国精神",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "人物素材选择",
+          "description": "围绕本单元课文与主题，掌握“人物素材选择”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "杰出人物与家国精神"
+          ],
+          "related_texts": [
+            "邓稼先",
+            "说和做",
+            "回忆鲁迅先生",
+            "孙权劝学"
+          ]
+        }
+      ],
+      "texts": [
+        "邓稼先",
+        "说和做",
+        "回忆鲁迅先生",
+        "孙权劝学"
+      ]
+    },
+    {
+      "unit_id": "M7C-B-U2",
+      "unit_no": 2,
+      "unit_name": "家国情怀",
+      "volume": "七年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7C-B-U2-KP001",
+        "M7C-B-U2-KP002",
+        "M7C-B-U2-KP003",
+        "M7C-B-U2-KP004",
+        "M7C-B-U2-KP005",
+        "M7C-B-U2-KP006",
+        "M7C-B-U2-KP007",
+        "M7C-B-U2-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-B-U2-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U2",
+          "unit_no": 2,
+          "unit_name": "家国情怀",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "诗歌朗诵与情感",
+          "description": "围绕本单元课文与主题，掌握“诗歌朗诵与情感”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "基础",
+            "家国情怀"
+          ],
+          "related_texts": [
+            "黄河颂",
+            "最后一课",
+            "土地的誓言",
+            "木兰诗"
+          ]
+        },
+        {
+          "id": "M7C-B-U2-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U2",
+          "unit_no": 2,
+          "unit_name": "家国情怀",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "家国情怀主题理解",
+          "description": "围绕本单元课文与主题，掌握“家国情怀主题理解”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "家国情怀"
+          ],
+          "related_texts": [
+            "黄河颂",
+            "最后一课",
+            "土地的誓言",
+            "木兰诗"
+          ]
+        },
+        {
+          "id": "M7C-B-U2-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U2",
+          "unit_no": 2,
+          "unit_name": "家国情怀",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "小说环境描写作用",
+          "description": "围绕本单元课文与主题，掌握“小说环境描写作用”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "家国情怀"
+          ],
+          "related_texts": [
+            "黄河颂",
+            "最后一课",
+            "土地的誓言",
+            "木兰诗"
+          ]
+        },
+        {
+          "id": "M7C-B-U2-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U2",
+          "unit_no": 2,
+          "unit_name": "家国情怀",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "抒情方式辨析",
+          "description": "围绕本单元课文与主题，掌握“抒情方式辨析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "家国情怀"
+          ],
+          "related_texts": [
+            "黄河颂",
+            "最后一课",
+            "土地的誓言",
+            "木兰诗"
+          ]
+        },
+        {
+          "id": "M7C-B-U2-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U2",
+          "unit_no": 2,
+          "unit_name": "家国情怀",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "木兰诗情节梳理",
+          "description": "围绕本单元课文与主题，掌握“木兰诗情节梳理”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "家国情怀"
+          ],
+          "related_texts": [
+            "黄河颂",
+            "最后一课",
+            "土地的誓言",
+            "木兰诗"
+          ]
+        },
+        {
+          "id": "M7C-B-U2-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U2",
+          "unit_no": 2,
+          "unit_name": "家国情怀",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "木兰形象分析",
+          "description": "围绕本单元课文与主题，掌握“木兰形象分析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "家国情怀"
+          ],
+          "related_texts": [
+            "黄河颂",
+            "最后一课",
+            "土地的誓言",
+            "木兰诗"
+          ]
+        },
+        {
+          "id": "M7C-B-U2-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U2",
+          "unit_no": 2,
+          "unit_name": "家国情怀",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "学习抒情",
+          "description": "围绕本单元课文与主题，掌握“学习抒情”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "家国情怀"
+          ],
+          "related_texts": [
+            "黄河颂",
+            "最后一课",
+            "土地的誓言",
+            "木兰诗"
+          ]
+        },
+        {
+          "id": "M7C-B-U2-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U2",
+          "unit_no": 2,
+          "unit_name": "家国情怀",
+          "unit_name_zh": "",
+          "category": "综合性学习",
+          "name": "天下国家资料整合",
+          "description": "围绕本单元课文与主题，掌握“天下国家资料整合”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "综合性学习",
+            "基础",
+            "家国情怀"
+          ],
+          "related_texts": [
+            "黄河颂",
+            "最后一课",
+            "土地的誓言",
+            "木兰诗"
+          ]
+        }
+      ],
+      "texts": [
+        "黄河颂",
+        "最后一课",
+        "土地的誓言",
+        "木兰诗"
+      ]
+    },
+    {
+      "unit_id": "M7C-B-U3",
+      "unit_no": 3,
+      "unit_name": "凡人小事",
+      "volume": "七年级下册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M7C-B-U3-KP001",
+        "M7C-B-U3-KP002",
+        "M7C-B-U3-KP003",
+        "M7C-B-U3-KP004",
+        "M7C-B-U3-KP005",
+        "M7C-B-U3-KP006",
+        "M7C-B-U3-KP007",
+        "M7C-B-U3-KP008",
+        "M7C-B-U3-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-B-U3-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U3",
+          "unit_no": 3,
+          "unit_name": "凡人小事",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "小人物形象分析",
+          "description": "围绕本单元课文与主题，掌握“小人物形象分析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "凡人小事"
+          ],
+          "related_texts": [
+            "阿长与《山海经》",
+            "老王",
+            "台阶",
+            "卖油翁",
+            "《骆驼祥子》"
+          ]
+        },
+        {
+          "id": "M7C-B-U3-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U3",
+          "unit_no": 3,
+          "unit_name": "凡人小事",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "细节描写深化",
+          "description": "围绕本单元课文与主题，掌握“细节描写深化”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "凡人小事"
+          ],
+          "related_texts": [
+            "阿长与《山海经》",
+            "老王",
+            "台阶",
+            "卖油翁",
+            "《骆驼祥子》"
+          ]
+        },
+        {
+          "id": "M7C-B-U3-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U3",
+          "unit_no": 3,
+          "unit_name": "凡人小事",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "叙述视角与情感",
+          "description": "围绕本单元课文与主题，掌握“叙述视角与情感”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "凡人小事"
+          ],
+          "related_texts": [
+            "阿长与《山海经》",
+            "老王",
+            "台阶",
+            "卖油翁",
+            "《骆驼祥子》"
+          ]
+        },
+        {
+          "id": "M7C-B-U3-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U3",
+          "unit_no": 3,
+          "unit_name": "凡人小事",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "标题含义分析",
+          "description": "围绕本单元课文与主题，掌握“标题含义分析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "凡人小事"
+          ],
+          "related_texts": [
+            "阿长与《山海经》",
+            "老王",
+            "台阶",
+            "卖油翁",
+            "《骆驼祥子》"
+          ]
+        },
+        {
+          "id": "M7C-B-U3-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U3",
+          "unit_no": 3,
+          "unit_name": "凡人小事",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "卖油翁文言词语",
+          "description": "围绕本单元课文与主题，掌握“卖油翁文言词语”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "凡人小事"
+          ],
+          "related_texts": [
+            "阿长与《山海经》",
+            "老王",
+            "台阶",
+            "卖油翁",
+            "《骆驼祥子》"
+          ]
+        },
+        {
+          "id": "M7C-B-U3-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U3",
+          "unit_no": 3,
+          "unit_name": "凡人小事",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "卖油翁寓理",
+          "description": "围绕本单元课文与主题，掌握“卖油翁寓理”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "凡人小事"
+          ],
+          "related_texts": [
+            "阿长与《山海经》",
+            "老王",
+            "台阶",
+            "卖油翁",
+            "《骆驼祥子》"
+          ]
+        },
+        {
+          "id": "M7C-B-U3-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U3",
+          "unit_no": 3,
+          "unit_name": "凡人小事",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "抓住细节写人记事",
+          "description": "围绕本单元课文与主题，掌握“抓住细节写人记事”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "凡人小事"
+          ],
+          "related_texts": [
+            "阿长与《山海经》",
+            "老王",
+            "台阶",
+            "卖油翁",
+            "《骆驼祥子》"
+          ]
+        },
+        {
+          "id": "M7C-B-U3-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U3",
+          "unit_no": 3,
+          "unit_name": "凡人小事",
+          "unit_name_zh": "",
+          "category": "名著阅读",
+          "name": "骆驼祥子：圈点与批注",
+          "description": "围绕本单元课文与主题，掌握“骆驼祥子：圈点与批注”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "名著阅读",
+            "核心",
+            "凡人小事"
+          ],
+          "related_texts": [
+            "阿长与《山海经》",
+            "老王",
+            "台阶",
+            "卖油翁",
+            "《骆驼祥子》"
+          ]
+        },
+        {
+          "id": "M7C-B-U3-KP009",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U3",
+          "unit_no": 3,
+          "unit_name": "凡人小事",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "课外古诗积累：七下前半",
+          "description": "围绕本单元课文与主题，掌握“课外古诗积累：七下前半”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "基础",
+            "凡人小事"
+          ],
+          "related_texts": [
+            "阿长与《山海经》",
+            "老王",
+            "台阶",
+            "卖油翁",
+            "《骆驼祥子》"
+          ]
+        }
+      ],
+      "texts": [
+        "阿长与《山海经》",
+        "老王",
+        "台阶",
+        "卖油翁",
+        "《骆驼祥子》"
+      ]
+    },
+    {
+      "unit_id": "M7C-B-U4",
+      "unit_no": 4,
+      "unit_name": "修身正己",
+      "volume": "七年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7C-B-U4-KP001",
+        "M7C-B-U4-KP002",
+        "M7C-B-U4-KP003",
+        "M7C-B-U4-KP004",
+        "M7C-B-U4-KP005",
+        "M7C-B-U4-KP006",
+        "M7C-B-U4-KP007",
+        "M7C-B-U4-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-B-U4-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U4",
+          "unit_no": 4,
+          "unit_name": "修身正己",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "略读与信息筛选",
+          "description": "围绕本单元课文与主题，掌握“略读与信息筛选”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "修身正己"
+          ],
+          "related_texts": [
+            "叶圣陶先生二三事",
+            "驿路梨花",
+            "最苦与最乐",
+            "短文两篇"
+          ]
+        },
+        {
+          "id": "M7C-B-U4-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U4",
+          "unit_no": 4,
+          "unit_name": "修身正己",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "文章选材与中心",
+          "description": "围绕本单元课文与主题，掌握“文章选材与中心”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "修身正己"
+          ],
+          "related_texts": [
+            "叶圣陶先生二三事",
+            "驿路梨花",
+            "最苦与最乐",
+            "短文两篇"
+          ]
+        },
+        {
+          "id": "M7C-B-U4-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U4",
+          "unit_no": 4,
+          "unit_name": "修身正己",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "托物寄情初步",
+          "description": "围绕本单元课文与主题，掌握“托物寄情初步”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "修身正己"
+          ],
+          "related_texts": [
+            "叶圣陶先生二三事",
+            "驿路梨花",
+            "最苦与最乐",
+            "短文两篇"
+          ]
+        },
+        {
+          "id": "M7C-B-U4-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U4",
+          "unit_no": 4,
+          "unit_name": "修身正己",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "议论文观点与论据",
+          "description": "围绕本单元课文与主题，掌握“议论文观点与论据”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "修身正己"
+          ],
+          "related_texts": [
+            "叶圣陶先生二三事",
+            "驿路梨花",
+            "最苦与最乐",
+            "短文两篇"
+          ]
+        },
+        {
+          "id": "M7C-B-U4-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U4",
+          "unit_no": 4,
+          "unit_name": "修身正己",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "陋室铭文意与托物言志",
+          "description": "围绕本单元课文与主题，掌握“陋室铭文意与托物言志”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "修身正己"
+          ],
+          "related_texts": [
+            "叶圣陶先生二三事",
+            "驿路梨花",
+            "最苦与最乐",
+            "短文两篇"
+          ]
+        },
+        {
+          "id": "M7C-B-U4-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U4",
+          "unit_no": 4,
+          "unit_name": "修身正己",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "爱莲说文意与象征",
+          "description": "围绕本单元课文与主题，掌握“爱莲说文意与象征”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "修身正己"
+          ],
+          "related_texts": [
+            "叶圣陶先生二三事",
+            "驿路梨花",
+            "最苦与最乐",
+            "短文两篇"
+          ]
+        },
+        {
+          "id": "M7C-B-U4-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U4",
+          "unit_no": 4,
+          "unit_name": "修身正己",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "怎样选材",
+          "description": "围绕本单元课文与主题，掌握“怎样选材”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "修身正己"
+          ],
+          "related_texts": [
+            "叶圣陶先生二三事",
+            "驿路梨花",
+            "最苦与最乐",
+            "短文两篇"
+          ]
+        },
+        {
+          "id": "M7C-B-U4-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U4",
+          "unit_no": 4,
+          "unit_name": "修身正己",
+          "unit_name_zh": "",
+          "category": "综合性学习",
+          "name": "孝亲敬老活动设计",
+          "description": "围绕本单元课文与主题，掌握“孝亲敬老活动设计”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "综合性学习",
+            "基础",
+            "修身正己"
+          ],
+          "related_texts": [
+            "叶圣陶先生二三事",
+            "驿路梨花",
+            "最苦与最乐",
+            "短文两篇"
+          ]
+        }
+      ],
+      "texts": [
+        "叶圣陶先生二三事",
+        "驿路梨花",
+        "最苦与最乐",
+        "短文两篇"
+      ]
+    },
+    {
+      "unit_id": "M7C-B-U5",
+      "unit_no": 5,
+      "unit_name": "托物言志与自然哲思",
+      "volume": "七年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7C-B-U5-KP001",
+        "M7C-B-U5-KP002",
+        "M7C-B-U5-KP003",
+        "M7C-B-U5-KP004",
+        "M7C-B-U5-KP005",
+        "M7C-B-U5-KP006",
+        "M7C-B-U5-KP007",
+        "M7C-B-U5-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-B-U5-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U5",
+          "unit_no": 5,
+          "unit_name": "托物言志与自然哲思",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "托物言志阅读",
+          "description": "围绕本单元课文与主题，掌握“托物言志阅读”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "托物言志与自然哲思"
+          ],
+          "related_texts": [
+            "紫藤萝瀑布",
+            "一棵小桃树",
+            "外国诗二首",
+            "古代诗歌五首"
+          ]
+        },
+        {
+          "id": "M7C-B-U5-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U5",
+          "unit_no": 5,
+          "unit_name": "托物言志与自然哲思",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "象征和含蓄表达",
+          "description": "围绕本单元课文与主题，掌握“象征和含蓄表达”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "托物言志与自然哲思"
+          ],
+          "related_texts": [
+            "紫藤萝瀑布",
+            "一棵小桃树",
+            "外国诗二首",
+            "古代诗歌五首"
+          ]
+        },
+        {
+          "id": "M7C-B-U5-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U5",
+          "unit_no": 5,
+          "unit_name": "托物言志与自然哲思",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "哲理句理解",
+          "description": "围绕本单元课文与主题，掌握“哲理句理解”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "托物言志与自然哲思"
+          ],
+          "related_texts": [
+            "紫藤萝瀑布",
+            "一棵小桃树",
+            "外国诗二首",
+            "古代诗歌五首"
+          ]
+        },
+        {
+          "id": "M7C-B-U5-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U5",
+          "unit_no": 5,
+          "unit_name": "托物言志与自然哲思",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "外国诗歌意象",
+          "description": "围绕本单元课文与主题，掌握“外国诗歌意象”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "托物言志与自然哲思"
+          ],
+          "related_texts": [
+            "紫藤萝瀑布",
+            "一棵小桃树",
+            "外国诗二首",
+            "古代诗歌五首"
+          ]
+        },
+        {
+          "id": "M7C-B-U5-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U5",
+          "unit_no": 5,
+          "unit_name": "托物言志与自然哲思",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "古代诗歌五首主题",
+          "description": "围绕本单元课文与主题，掌握“古代诗歌五首主题”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "托物言志与自然哲思"
+          ],
+          "related_texts": [
+            "紫藤萝瀑布",
+            "一棵小桃树",
+            "外国诗二首",
+            "古代诗歌五首"
+          ]
+        },
+        {
+          "id": "M7C-B-U5-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U5",
+          "unit_no": 5,
+          "unit_name": "托物言志与自然哲思",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "诗歌炼字与名句赏析",
+          "description": "围绕本单元课文与主题，掌握“诗歌炼字与名句赏析”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "托物言志与自然哲思"
+          ],
+          "related_texts": [
+            "紫藤萝瀑布",
+            "一棵小桃树",
+            "外国诗二首",
+            "古代诗歌五首"
+          ]
+        },
+        {
+          "id": "M7C-B-U5-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U5",
+          "unit_no": 5,
+          "unit_name": "托物言志与自然哲思",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "文从字顺",
+          "description": "围绕本单元课文与主题，掌握“文从字顺”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "托物言志与自然哲思"
+          ],
+          "related_texts": [
+            "紫藤萝瀑布",
+            "一棵小桃树",
+            "外国诗二首",
+            "古代诗歌五首"
+          ]
+        },
+        {
+          "id": "M7C-B-U5-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U5",
+          "unit_no": 5,
+          "unit_name": "托物言志与自然哲思",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "借物抒怀片段",
+          "description": "围绕本单元课文与主题，掌握“借物抒怀片段”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "托物言志与自然哲思"
+          ],
+          "related_texts": [
+            "紫藤萝瀑布",
+            "一棵小桃树",
+            "外国诗二首",
+            "古代诗歌五首"
+          ]
+        }
+      ],
+      "texts": [
+        "紫藤萝瀑布",
+        "一棵小桃树",
+        "外国诗二首",
+        "古代诗歌五首"
+      ]
+    },
+    {
+      "unit_id": "M7C-B-U6",
+      "unit_no": 6,
+      "unit_name": "探险与科幻",
+      "volume": "七年级下册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M7C-B-U6-KP001",
+        "M7C-B-U6-KP002",
+        "M7C-B-U6-KP003",
+        "M7C-B-U6-KP004",
+        "M7C-B-U6-KP005",
+        "M7C-B-U6-KP006",
+        "M7C-B-U6-KP007",
+        "M7C-B-U6-KP008",
+        "M7C-B-U6-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7C-B-U6-KP001",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U6",
+          "unit_no": 6,
+          "unit_name": "探险与科幻",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "浏览阅读与快速定位",
+          "description": "围绕本单元课文与主题，掌握“浏览阅读与快速定位”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "基础",
+            "探险与科幻"
+          ],
+          "related_texts": [
+            "伟大的悲剧",
+            "太空一日",
+            "带上她的眼睛",
+            "河中石兽"
+          ]
+        },
+        {
+          "id": "M7C-B-U6-KP002",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U6",
+          "unit_no": 6,
+          "unit_name": "探险与科幻",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "探险叙事结构",
+          "description": "围绕本单元课文与主题，掌握“探险叙事结构”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "探险与科幻"
+          ],
+          "related_texts": [
+            "伟大的悲剧",
+            "太空一日",
+            "带上她的眼睛",
+            "河中石兽"
+          ]
+        },
+        {
+          "id": "M7C-B-U6-KP003",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U6",
+          "unit_no": 6,
+          "unit_name": "探险与科幻",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "科学精神与英雄精神",
+          "description": "围绕本单元课文与主题，掌握“科学精神与英雄精神”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "探险与科幻"
+          ],
+          "related_texts": [
+            "伟大的悲剧",
+            "太空一日",
+            "带上她的眼睛",
+            "河中石兽"
+          ]
+        },
+        {
+          "id": "M7C-B-U6-KP004",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U6",
+          "unit_no": 6,
+          "unit_name": "探险与科幻",
+          "unit_name_zh": "",
+          "category": "阅读",
+          "name": "科幻设定与悬念",
+          "description": "围绕本单元课文与主题，掌握“科幻设定与悬念”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "阅读",
+            "核心",
+            "探险与科幻"
+          ],
+          "related_texts": [
+            "伟大的悲剧",
+            "太空一日",
+            "带上她的眼睛",
+            "河中石兽"
+          ]
+        },
+        {
+          "id": "M7C-B-U6-KP005",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U6",
+          "unit_no": 6,
+          "unit_name": "探险与科幻",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "河中石兽文意理解",
+          "description": "围绕本单元课文与主题，掌握“河中石兽文意理解”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "探险与科幻"
+          ],
+          "related_texts": [
+            "伟大的悲剧",
+            "太空一日",
+            "带上她的眼睛",
+            "河中石兽"
+          ]
+        },
+        {
+          "id": "M7C-B-U6-KP006",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U6",
+          "unit_no": 6,
+          "unit_name": "探险与科幻",
+          "unit_name_zh": "",
+          "category": "古诗文",
+          "name": "河中石兽实践求真",
+          "description": "围绕本单元课文与主题，掌握“河中石兽实践求真”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "古诗文",
+            "核心",
+            "探险与科幻"
+          ],
+          "related_texts": [
+            "伟大的悲剧",
+            "太空一日",
+            "带上她的眼睛",
+            "河中石兽"
+          ]
+        },
+        {
+          "id": "M7C-B-U6-KP007",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U6",
+          "unit_no": 6,
+          "unit_name": "探险与科幻",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "语言简明",
+          "description": "围绕本单元课文与主题，掌握“语言简明”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "探险与科幻"
+          ],
+          "related_texts": [
+            "伟大的悲剧",
+            "太空一日",
+            "带上她的眼睛",
+            "河中石兽"
+          ]
+        },
+        {
+          "id": "M7C-B-U6-KP008",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U6",
+          "unit_no": 6,
+          "unit_name": "探险与科幻",
+          "unit_name_zh": "",
+          "category": "写作",
+          "name": "概括与压缩",
+          "description": "围绕本单元课文与主题，掌握“概括与压缩”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "写作",
+            "核心",
+            "探险与科幻"
+          ],
+          "related_texts": [
+            "伟大的悲剧",
+            "太空一日",
+            "带上她的眼睛",
+            "河中石兽"
+          ]
+        },
+        {
+          "id": "M7C-B-U6-KP009",
+          "grade": 7,
+          "subject": "语文",
+          "publisher": "人民教育出版社",
+          "edition": "统编版/部编版七年级语文，按公开目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7C-B-U6",
+          "unit_no": 6,
+          "unit_name": "探险与科幻",
+          "unit_name_zh": "",
+          "category": "综合性学习",
+          "name": "我的语文生活",
+          "description": "围绕本单元课文与主题，掌握“我的语文生活”相关阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [],
+          "keywords": [],
+          "diagnosis_tags": [
+            "综合性学习",
+            "基础",
+            "探险与科幻"
+          ],
+          "related_texts": [
+            "伟大的悲剧",
+            "太空一日",
+            "带上她的眼睛",
+            "河中石兽"
+          ]
+        }
+      ],
+      "texts": [
+        "伟大的悲剧",
+        "太空一日",
+        "带上她的眼睛",
+        "河中石兽"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4480 @@
+{
+  "metadata": {
+    "name": "???????????????????????",
+    "grade": 7,
+    "subject": "??",
+    "publisher": "?????????",
+    "edition_note": "??????2024??????????????????????????????????????????",
+    "created_at": "2026-07-17",
+    "language": "zh-CN",
+    "schema_version": "1.0.0",
+    "total_units": 11,
+    "total_knowledge_points": 113,
+    "grouping_note": "???????Starter ???????? M7E-A-U0??????? vocabulary/grammar/function/reading/writing/speaking/pronunciation ???",
+    "sources": [
+      {
+        "title": "???????????(2024?)?? - ???????",
+        "url": "https://www.haoduoyun.cc/book/bsb/yingyu/rh7s.shtml",
+        "used_for": "????? Starter ? Unit 1-4 ??"
+      },
+      {
+        "title": "2024?????????????? - ?????",
+        "url": "https://zxkeben.szxuexiao.com/html/12495.html",
+        "used_for": "???????????"
+      },
+      {
+        "title": "2024?????????????? - ?????",
+        "url": "https://zxkeben.szxuexiao.com/html/13262.html",
+        "used_for": "????? Unit 1-6?Lesson ? Workshop ??"
+      },
+      {
+        "title": "????????(2024)????????? - ????",
+        "url": "https://www.renjiaoshe.com/kewen/89568.html",
+        "used_for": "????? Topic Talk?Lesson?Workshop?Reading Club ????"
+      }
+    ],
+    "base_prerequisite_notes": {
+      "??????": "??????????????????"
+    }
+  },
+  "units": [
+    {
+      "unit_id": "M7E-A-U0",
+      "unit_no": 0,
+      "unit_name": "Starter",
+      "unit_name_zh": "????",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "S1",
+          "section_name": "Meeting English"
+        },
+        {
+          "section_id": "S2",
+          "section_name": "Making New Friends"
+        },
+        {
+          "section_id": "S3",
+          "section_name": "Saying Hello"
+        },
+        {
+          "section_id": "S4",
+          "section_name": "My Best Friend"
+        },
+        {
+          "section_id": "S5",
+          "section_name": "My Sweet Family"
+        },
+        {
+          "section_id": "S6",
+          "section_name": "My Family Members"
+        },
+        {
+          "section_id": "S7",
+          "section_name": "My Room"
+        },
+        {
+          "section_id": "S8",
+          "section_name": "Our Neighbourhood"
+        },
+        {
+          "section_id": "S9",
+          "section_name": "Our Day"
+        },
+        {
+          "section_id": "S10",
+          "section_name": "Our School"
+        },
+        {
+          "section_id": "S11",
+          "section_name": "Our English Class"
+        },
+        {
+          "section_id": "S12",
+          "section_name": "Our Colourful World"
+        }
+      ],
+      "knowledge_point_count": 12,
+      "knowledge_point_ids": [
+        "M7E-A-U0-KP001",
+        "M7E-A-U0-KP002",
+        "M7E-A-U0-KP003",
+        "M7E-A-U0-KP004",
+        "M7E-A-U0-KP005",
+        "M7E-A-U0-KP006",
+        "M7E-A-U0-KP007",
+        "M7E-A-U0-KP008",
+        "M7E-A-U0-KP009",
+        "M7E-A-U0-KP010",
+        "M7E-A-U0-KP011",
+        "M7E-A-U0-KP012"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-A-U0-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S1",
+          "section_name": "Meeting English",
+          "category": "pronunciation",
+          "name": "??????????",
+          "description": "????????????????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "letter_recognition",
+            "pronunciation"
+          ],
+          "keywords": [
+            "alphabet",
+            "capital letters",
+            "lowercase letters",
+            "abbreviations"
+          ],
+          "diagnosis_tags": [
+            "pronunciation",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S2",
+          "section_name": "Making New Friends",
+          "category": "function",
+          "name": "?????????",
+          "description": "?? Hello/Hi, I am..., My name is... ?????????????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "speaking",
+            "interaction"
+          ],
+          "keywords": [
+            "greeting",
+            "self-introduction",
+            "name"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S3",
+          "section_name": "Saying Hello",
+          "category": "function",
+          "name": "???????",
+          "description": "??????? Good morning, Nice to meet you, Goodbye ??????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "speaking",
+            "listening"
+          ],
+          "keywords": [
+            "greetings",
+            "farewells",
+            "polite responses"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S4",
+          "section_name": "My Best Friend",
+          "category": "vocabulary",
+          "name": "?????????",
+          "description": "?????????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "speaking",
+            "description"
+          ],
+          "keywords": [
+            "friend",
+            "age",
+            "class",
+            "personality"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S5",
+          "section_name": "My Sweet Family",
+          "category": "vocabulary",
+          "name": "????????",
+          "description": "?? father, mother, parent, brother, sister ??????????????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "speaking"
+          ],
+          "keywords": [
+            "family",
+            "father",
+            "mother",
+            "brother",
+            "sister"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S6",
+          "section_name": "My Family Members",
+          "category": "grammar",
+          "name": "???????????",
+          "description": "?? I, you, he, she, it, we, they ? my, your, his, her ??????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "grammar",
+            "sentence_building"
+          ],
+          "keywords": [
+            "personal pronouns",
+            "possessive determiners"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S7",
+          "section_name": "My Room",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? room, desk, chair, bed, bookcase ??????????????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "description"
+          ],
+          "keywords": [
+            "room",
+            "furniture",
+            "desk",
+            "bed"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S8",
+          "section_name": "Our Neighbourhood",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? neighbourhood, shop, park, school, library ????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary",
+            "description"
+          ],
+          "keywords": [
+            "neighbourhood",
+            "places",
+            "shop",
+            "park"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S9",
+          "section_name": "Our Day",
+          "category": "function",
+          "name": "????????",
+          "description": "?? get up, go to school, have breakfast, go to bed ????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "speaking",
+            "sequencing"
+          ],
+          "keywords": [
+            "daily routine",
+            "get up",
+            "go to school"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S10",
+          "section_name": "Our School",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? school, classroom, teacher, student, subject ??????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "listening"
+          ],
+          "keywords": [
+            "school",
+            "classroom",
+            "subject"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP011",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S11",
+          "section_name": "Our English Class",
+          "category": "function",
+          "name": "??????",
+          "description": "?????? Listen, read, write, open your book, work in pairs ??????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "listening",
+            "classroom_interaction"
+          ],
+          "keywords": [
+            "classroom English",
+            "instructions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "starter",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U0-KP012",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U0",
+          "unit_no": 0,
+          "unit_name": "Starter",
+          "unit_name_zh": "????",
+          "section_id": "S12",
+          "section_name": "Our Colourful World",
+          "category": "vocabulary",
+          "name": "????????",
+          "description": "????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "description",
+            "vocabulary"
+          ],
+          "keywords": [
+            "colours",
+            "adjectives",
+            "description"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "starter",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Family",
+      "unit_name_zh": "??",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "Knowing My Family"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "Family Together"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "Happy Weekend"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7E-A-U1-KP001",
+        "M7E-A-U1-KP002",
+        "M7E-A-U1-KP003",
+        "M7E-A-U1-KP004",
+        "M7E-A-U1-KP005",
+        "M7E-A-U1-KP006",
+        "M7E-A-U1-KP007",
+        "M7E-A-U1-KP008",
+        "M7E-A-U1-KP009",
+        "M7E-A-U1-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-A-U1-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "?????????",
+          "description": "?? family, parent, grandparent, cousin, aunt, uncle ????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "family members",
+            "relatives"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "family",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U1-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "L1",
+          "section_name": "Knowing My Family",
+          "category": "grammar",
+          "name": "be ??????",
+          "description": "?? am/is/are ??????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????????"
+          ],
+          "skills": [
+            "grammar",
+            "speaking"
+          ],
+          "keywords": [
+            "be verb",
+            "identity"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "family",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U1-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "L1",
+          "section_name": "Knowing My Family",
+          "category": "grammar",
+          "name": "have got / has got ???",
+          "description": "?? have got/has got ?????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????????"
+          ],
+          "skills": [
+            "grammar",
+            "sentence_building"
+          ],
+          "keywords": [
+            "have got",
+            "has got",
+            "possession"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "family",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U1-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "L1",
+          "section_name": "Knowing My Family",
+          "category": "grammar",
+          "name": "????? 's",
+          "description": "?? Tom's mother, my sister's book ??????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "grammar"
+          ],
+          "keywords": [
+            "possessive 's",
+            "ownership"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "family",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U1-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "L2",
+          "section_name": "Family Together",
+          "category": "function",
+          "name": "??????",
+          "description": "?????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "be ??????",
+            "have got / has got ???"
+          ],
+          "skills": [
+            "speaking",
+            "description"
+          ],
+          "keywords": [
+            "introduce family",
+            "personal information"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "family",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U1-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "L2",
+          "section_name": "Family Together",
+          "category": "reading",
+          "name": "??????????",
+          "description": "?????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "reading",
+            "information_extraction"
+          ],
+          "keywords": [
+            "family text",
+            "details"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "family",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U1-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "L3",
+          "section_name": "Happy Weekend",
+          "category": "vocabulary",
+          "name": "??????",
+          "description": "?? weekend, together, visit, play, watch, cook ??????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "vocabulary",
+            "speaking"
+          ],
+          "keywords": [
+            "weekend",
+            "activities"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "family",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U1-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "L3",
+          "section_name": "Happy Weekend",
+          "category": "grammar",
+          "name": "???????????",
+          "description": "?????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "be ??????"
+          ],
+          "skills": [
+            "grammar",
+            "writing"
+          ],
+          "keywords": [
+            "present simple",
+            "third person singular"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "family",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U1-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "WW",
+          "section_name": "Writing Workshop",
+          "category": "writing",
+          "name": "???????",
+          "description": "????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????",
+            "???????????"
+          ],
+          "skills": [
+            "writing",
+            "text_organization"
+          ],
+          "keywords": [
+            "family introduction",
+            "paragraph"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "family",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U1-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Family",
+          "unit_name_zh": "??",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "?????????",
+          "description": "?? Who is...? How old...? What does...? ??????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "speaking",
+            "question_answering"
+          ],
+          "keywords": [
+            "family questions",
+            "conversation"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "family",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-A-U2",
+      "unit_no": 2,
+      "unit_name": "School Life",
+      "unit_name_zh": "????",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "My School Day"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "Preparation Before Class"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "My Favourite School Places"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7E-A-U2-KP001",
+        "M7E-A-U2-KP002",
+        "M7E-A-U2-KP003",
+        "M7E-A-U2-KP004",
+        "M7E-A-U2-KP005",
+        "M7E-A-U2-KP006",
+        "M7E-A-U2-KP007",
+        "M7E-A-U2-KP008",
+        "M7E-A-U2-KP009",
+        "M7E-A-U2-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-A-U2-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "??????????",
+          "description": "?? subject, Chinese, maths, English, PE, art, music ??????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "subjects",
+            "timetable"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "school_life",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U2-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "My School Day",
+          "category": "function",
+          "name": "?????????",
+          "description": "?? at seven thirty, in the morning, on Monday ?????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "speaking",
+            "time_expression"
+          ],
+          "keywords": [
+            "time",
+            "schedule",
+            "weekday"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "school_life",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U2-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "My School Day",
+          "category": "grammar",
+          "name": "???????????",
+          "description": "????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????????"
+          ],
+          "skills": [
+            "grammar",
+            "writing"
+          ],
+          "keywords": [
+            "present simple",
+            "school day"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "school_life",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U2-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "My School Day",
+          "category": "grammar",
+          "name": "??????",
+          "description": "?? always, usually, often, sometimes, never ????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????????"
+          ],
+          "skills": [
+            "grammar",
+            "adverb_usage"
+          ],
+          "keywords": [
+            "frequency adverbs"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "school_life",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U2-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "L2",
+          "section_name": "Preparation Before Class",
+          "category": "vocabulary",
+          "name": "?????????",
+          "description": "?? textbook, notebook, dictionary, pencil case, prepare, bring ????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "school things",
+            "prepare"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "school_life",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U2-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "L2",
+          "section_name": "Preparation Before Class",
+          "category": "function",
+          "name": "?????????",
+          "description": "?? should, need to, remember to ?????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "speaking",
+            "advice"
+          ],
+          "keywords": [
+            "class preparation",
+            "advice"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "school_life",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U2-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "L3",
+          "section_name": "My Favourite School Places",
+          "category": "vocabulary",
+          "name": "??????",
+          "description": "?? library, playground, lab, dining hall, classroom building ????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary",
+            "description"
+          ],
+          "keywords": [
+            "school places",
+            "campus"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "school_life",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U2-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "L3",
+          "section_name": "My Favourite School Places",
+          "category": "function",
+          "name": "??????????",
+          "description": "????????????????? because, favourite, interesting ????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "speaking",
+            "reasoning"
+          ],
+          "keywords": [
+            "favourite place",
+            "because"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "school_life",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U2-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "WW",
+          "section_name": "Writing Workshop",
+          "category": "writing",
+          "name": "???????",
+          "description": "?????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????????",
+            "??????????"
+          ],
+          "skills": [
+            "writing",
+            "organization"
+          ],
+          "keywords": [
+            "school life writing"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "school_life",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U2-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U2",
+          "unit_no": 2,
+          "unit_name": "School Life",
+          "unit_name_zh": "????",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "?????????",
+          "description": "??? What time...? What is your favourite...? Where is...? ?????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????",
+            "??????"
+          ],
+          "skills": [
+            "speaking",
+            "interaction"
+          ],
+          "keywords": [
+            "school conversation"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "school_life",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Home and Places",
+      "unit_name_zh": "????",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "My Sweet Home"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "Time to Tidy"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "Near My Home"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7E-A-U3-KP001",
+        "M7E-A-U3-KP002",
+        "M7E-A-U3-KP003",
+        "M7E-A-U3-KP004",
+        "M7E-A-U3-KP005",
+        "M7E-A-U3-KP006",
+        "M7E-A-U3-KP007",
+        "M7E-A-U3-KP008",
+        "M7E-A-U3-KP009",
+        "M7E-A-U3-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-A-U3-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? home, bedroom, kitchen, living room, bathroom, balcony ????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "home",
+            "rooms"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "home_and_places",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U3-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "My Sweet Home",
+          "category": "grammar",
+          "name": "there be ??",
+          "description": "?? There is/are ????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "be ??????"
+          ],
+          "skills": [
+            "grammar",
+            "description"
+          ],
+          "keywords": [
+            "there is",
+            "there are"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "home_and_places",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U3-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "My Sweet Home",
+          "category": "grammar",
+          "name": "????",
+          "description": "?? in, on, under, next to, behind, between, in front of ??????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "grammar",
+            "spatial_description"
+          ],
+          "keywords": [
+            "prepositions of place"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "home_and_places",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U3-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "My Sweet Home",
+          "category": "function",
+          "name": "??????",
+          "description": "?? there be ??????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "there be ??",
+            "????"
+          ],
+          "skills": [
+            "speaking",
+            "writing"
+          ],
+          "keywords": [
+            "describe home",
+            "furniture"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "home_and_places",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U3-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "L2",
+          "section_name": "Time to Tidy",
+          "category": "vocabulary",
+          "name": "?????????",
+          "description": "?? tidy, put away, clean, mess, clothes, toys ??????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "tidy",
+            "housework"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "home_and_places",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U3-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "L2",
+          "section_name": "Time to Tidy",
+          "category": "grammar",
+          "name": "???",
+          "description": "???????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "grammar",
+            "function"
+          ],
+          "keywords": [
+            "imperatives",
+            "Don't"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "home_and_places",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U3-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "L3",
+          "section_name": "Near My Home",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? restaurant, supermarket, hospital, station, near, far, around ?????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary",
+            "description"
+          ],
+          "keywords": [
+            "places",
+            "neighbourhood"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "home_and_places",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U3-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "L3",
+          "section_name": "Near My Home",
+          "category": "function",
+          "name": "???????",
+          "description": "?? Where is...? It is near... Go along... Turn left/right ?????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "speaking",
+            "directions"
+          ],
+          "keywords": [
+            "asking directions",
+            "giving directions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "home_and_places",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U3-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "WW",
+          "section_name": "Writing Workshop",
+          "category": "writing",
+          "name": "???????",
+          "description": "??????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????",
+            "???????"
+          ],
+          "skills": [
+            "writing",
+            "spatial_organization"
+          ],
+          "keywords": [
+            "home writing",
+            "place description"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "home_and_places",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U3-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Home and Places",
+          "unit_name_zh": "????",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "??????",
+          "description": "??????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????",
+            "???????"
+          ],
+          "skills": [
+            "speaking",
+            "interaction"
+          ],
+          "keywords": [
+            "home conversation"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "home_and_places",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Interests and Abilities",
+      "unit_name_zh": "?????",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "My Hobby, My Dream Job"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "Joining the Club"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "Abilities and Disabilities"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7E-A-U4-KP001",
+        "M7E-A-U4-KP002",
+        "M7E-A-U4-KP003",
+        "M7E-A-U4-KP004",
+        "M7E-A-U4-KP005",
+        "M7E-A-U4-KP006",
+        "M7E-A-U4-KP007",
+        "M7E-A-U4-KP008",
+        "M7E-A-U4-KP009",
+        "M7E-A-U4-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-A-U4-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "??????",
+          "description": "?? hobby, interest, collect, draw, dance, sing, sport, music ????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "hobbies",
+            "interests"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "interests_and_abilities",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U4-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "L1",
+          "section_name": "My Hobby, My Dream Job",
+          "category": "function",
+          "name": "????????",
+          "description": "?? like/love/enjoy/be interested in ?????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "speaking",
+            "reasoning"
+          ],
+          "keywords": [
+            "like",
+            "love",
+            "enjoy",
+            "because"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "interests_and_abilities",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U4-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "L1",
+          "section_name": "My Hobby, My Dream Job",
+          "category": "grammar",
+          "name": "????????",
+          "description": "?? like/enjoy ????-ing ???? enjoy reading, like playing football?",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "grammar",
+            "sentence_building"
+          ],
+          "keywords": [
+            "gerund",
+            "verb-ing"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "interests_and_abilities",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U4-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "L1",
+          "section_name": "My Hobby, My Dream Job",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? job, dream job, doctor, teacher, firefighter, musician ??????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "jobs",
+            "dream job"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "interests_and_abilities",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U4-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "L2",
+          "section_name": "Joining the Club",
+          "category": "function",
+          "name": "???????",
+          "description": "??????????????????? I want to join... because...?",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "speaking",
+            "interaction"
+          ],
+          "keywords": [
+            "club",
+            "join",
+            "reason"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "interests_and_abilities",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U4-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "L2",
+          "section_name": "Joining the Club",
+          "category": "grammar",
+          "name": "can ???",
+          "description": "?? can/can't ????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????????"
+          ],
+          "skills": [
+            "grammar",
+            "speaking"
+          ],
+          "keywords": [
+            "can",
+            "ability"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "interests_and_abilities",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U4-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "L3",
+          "section_name": "Abilities and Disabilities",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? ability, disability, good at, be able to, difficult ????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "can ???"
+          ],
+          "skills": [
+            "vocabulary",
+            "attitude"
+          ],
+          "keywords": [
+            "ability",
+            "disability",
+            "good at"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "interests_and_abilities",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U4-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "L3",
+          "section_name": "Abilities and Disabilities",
+          "category": "reading",
+          "name": "????????",
+          "description": "??????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "reading",
+            "information_extraction"
+          ],
+          "keywords": [
+            "profile",
+            "ability"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "interests_and_abilities",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U4-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "WW",
+          "section_name": "Writing Workshop",
+          "category": "writing",
+          "name": "????????",
+          "description": "?????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????",
+            "can ???"
+          ],
+          "skills": [
+            "writing",
+            "self_expression"
+          ],
+          "keywords": [
+            "hobby writing",
+            "ability writing"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "interests_and_abilities",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-A-U4-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Interests and Abilities",
+          "unit_name_zh": "?????",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "???????",
+          "description": "??? Can you...? What are you good at? What club do you want to join? ?????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????",
+            "can ???"
+          ],
+          "skills": [
+            "speaking",
+            "interview"
+          ],
+          "keywords": [
+            "interview",
+            "club",
+            "ability"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "interests_and_abilities",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Every Day",
+      "unit_name_zh": "????",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "Everyday Life"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "My Family Members' Daily Routines"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "A Firefighter's Day"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop: An Informal Email"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7E-B-U1-KP001",
+        "M7E-B-U1-KP002",
+        "M7E-B-U1-KP003",
+        "M7E-B-U1-KP004",
+        "M7E-B-U1-KP005",
+        "M7E-B-U1-KP006",
+        "M7E-B-U1-KP007",
+        "M7E-B-U1-KP008",
+        "M7E-B-U1-KP009",
+        "M7E-B-U1-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-B-U1-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "?????????",
+          "description": "?? daily, routine, get up, leave school, have dinner, go to bed ????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "daily routine",
+            "activities"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "every_day",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U1-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "Everyday Life",
+          "category": "grammar",
+          "name": "??????????",
+          "description": "?????????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????????"
+          ],
+          "skills": [
+            "grammar",
+            "writing"
+          ],
+          "keywords": [
+            "present simple",
+            "habits"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "every_day",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U1-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "Everyday Life",
+          "category": "function",
+          "name": "?????????",
+          "description": "??? first, then, after that, finally ??????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "speaking",
+            "sequencing"
+          ],
+          "keywords": [
+            "sequence words",
+            "daily schedule"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "every_day",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U1-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "L2",
+          "section_name": "My Family Members' Daily Routines",
+          "category": "grammar",
+          "name": "??????????",
+          "description": "???????????????? -s/-es/ies ??????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????????"
+          ],
+          "skills": [
+            "grammar",
+            "accuracy"
+          ],
+          "keywords": [
+            "third person singular",
+            "-s",
+            "-es"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "every_day",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U1-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "L2",
+          "section_name": "My Family Members' Daily Routines",
+          "category": "function",
+          "name": "????????",
+          "description": "???????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????????"
+          ],
+          "skills": [
+            "speaking",
+            "writing"
+          ],
+          "keywords": [
+            "family routines"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "every_day",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U1-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "L3",
+          "section_name": "A Firefighter's Day",
+          "category": "vocabulary",
+          "name": "?????????",
+          "description": "?? firefighter, workplace, emergency, duty, teammate ???????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary",
+            "reading"
+          ],
+          "keywords": [
+            "job",
+            "workplace",
+            "firefighter"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "every_day",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U1-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "L3",
+          "section_name": "A Firefighter's Day",
+          "category": "reading",
+          "name": "????????",
+          "description": "???????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????",
+            "??????????"
+          ],
+          "skills": [
+            "reading",
+            "inference"
+          ],
+          "keywords": [
+            "job routine",
+            "details"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "every_day",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U1-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "WW",
+          "section_name": "Writing Workshop: An Informal Email",
+          "category": "writing",
+          "name": "??????",
+          "description": "????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????",
+            "????????"
+          ],
+          "skills": [
+            "writing",
+            "email_format"
+          ],
+          "keywords": [
+            "informal email",
+            "routine"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "every_day",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U1-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "??????",
+          "description": "?? What time do you...? How often do you...? What does he/she...? ?????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????????"
+          ],
+          "skills": [
+            "speaking",
+            "question_answering"
+          ],
+          "keywords": [
+            "routine questions"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "every_day",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U1-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Every Day",
+          "unit_name_zh": "????",
+          "section_id": "RC",
+          "section_name": "Reading Club1&2",
+          "category": "reading",
+          "name": "?????????",
+          "description": "????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "reading",
+            "compare_contrast"
+          ],
+          "keywords": [
+            "daily life",
+            "culture"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "every_day",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Food and Health",
+      "unit_name_zh": "?????",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "Lunchtime"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "What Would You Like to Have?"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "Eat Well!"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop: Describing a Favourite Dish"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7E-B-U2-KP001",
+        "M7E-B-U2-KP002",
+        "M7E-B-U2-KP003",
+        "M7E-B-U2-KP004",
+        "M7E-B-U2-KP005",
+        "M7E-B-U2-KP006",
+        "M7E-B-U2-KP007",
+        "M7E-B-U2-KP008",
+        "M7E-B-U2-KP009",
+        "M7E-B-U2-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-B-U2-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? rice, noodles, vegetable, fruit, meat, juice, milk ????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "food",
+            "drink"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "food_and_health",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U2-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "L1",
+          "section_name": "Lunchtime",
+          "category": "function",
+          "name": "?????????",
+          "description": "???????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????",
+            "????????"
+          ],
+          "skills": [
+            "speaking",
+            "preference"
+          ],
+          "keywords": [
+            "lunch",
+            "food choice"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "food_and_health",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U2-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "L1",
+          "section_name": "Lunchtime",
+          "category": "grammar",
+          "name": "??????????",
+          "description": "?????????????????? a/an, some, any ??????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "grammar",
+            "noun_usage"
+          ],
+          "keywords": [
+            "countable nouns",
+            "uncountable nouns",
+            "some",
+            "any"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "food_and_health",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U2-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "L2",
+          "section_name": "What Would You Like to Have?",
+          "category": "function",
+          "name": "???????",
+          "description": "??? What would you like...? I'd like..., Can I have...? ????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "speaking",
+            "role_play"
+          ],
+          "keywords": [
+            "ordering food",
+            "would like"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "food_and_health",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U2-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "L2",
+          "section_name": "What Would You Like to Have?",
+          "category": "grammar",
+          "name": "would like ???",
+          "description": "?? would like ?????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "grammar",
+            "function"
+          ],
+          "keywords": [
+            "would like",
+            "request"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "food_and_health",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U2-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "L3",
+          "section_name": "Eat Well!",
+          "category": "vocabulary",
+          "name": "??????",
+          "description": "?? healthy, unhealthy, balanced, sugar, fat, protein, energy ????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary",
+            "health_literacy"
+          ],
+          "keywords": [
+            "healthy eating",
+            "nutrition"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "food_and_health",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U2-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "L3",
+          "section_name": "Eat Well!",
+          "category": "reading",
+          "name": "?????????",
+          "description": "???????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "reading",
+            "main_idea"
+          ],
+          "keywords": [
+            "healthy diet",
+            "advice"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "food_and_health",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U2-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "WW",
+          "section_name": "Writing Workshop: Describing a Favourite Dish",
+          "category": "writing",
+          "name": "???????",
+          "description": "??????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????????",
+            "??????"
+          ],
+          "skills": [
+            "writing",
+            "description"
+          ],
+          "keywords": [
+            "favourite dish",
+            "ingredients"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "food_and_health",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U2-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "??????",
+          "description": "?????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "speaking",
+            "interaction"
+          ],
+          "keywords": [
+            "restaurant dialogue"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "food_and_health",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U2-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Food and Health",
+          "unit_name_zh": "?????",
+          "section_id": "RC",
+          "section_name": "Reading Club1&2",
+          "category": "reading",
+          "name": "??????",
+          "description": "???????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "reading",
+            "culture_awareness"
+          ],
+          "keywords": [
+            "food culture"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "food_and_health",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Rain or Shine",
+      "unit_name_zh": "?????",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "Whatever the Weather"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "Weather Around the World"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "Weather Matters"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop: A Blog Post About Favourite Weather"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7E-B-U3-KP001",
+        "M7E-B-U3-KP002",
+        "M7E-B-U3-KP003",
+        "M7E-B-U3-KP004",
+        "M7E-B-U3-KP005",
+        "M7E-B-U3-KP006",
+        "M7E-B-U3-KP007",
+        "M7E-B-U3-KP008",
+        "M7E-B-U3-KP009",
+        "M7E-B-U3-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-B-U3-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "????",
+          "description": "?? sunny, cloudy, rainy, snowy, windy, warm, cool, hot, cold ??????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "weather",
+            "temperature"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "rain_or_shine",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U3-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "L1",
+          "section_name": "Whatever the Weather",
+          "category": "function",
+          "name": "???????",
+          "description": "?? What's the weather like? How is the weather? It is sunny/raining. ?????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????"
+          ],
+          "skills": [
+            "speaking",
+            "listening"
+          ],
+          "keywords": [
+            "weather questions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "rain_or_shine",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U3-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "L1",
+          "section_name": "Whatever the Weather",
+          "category": "grammar",
+          "name": "?????????????",
+          "description": "?? be + verb-ing ??????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "be ??????"
+          ],
+          "skills": [
+            "grammar",
+            "sentence_building"
+          ],
+          "keywords": [
+            "present continuous",
+            "verb-ing"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "rain_or_shine",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U3-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "L2",
+          "section_name": "Weather Around the World",
+          "category": "vocabulary",
+          "name": "???????????",
+          "description": "?? world, city, country, forecast, temperature, degree ??????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????",
+            "???????"
+          ],
+          "skills": [
+            "vocabulary",
+            "reading"
+          ],
+          "keywords": [
+            "forecast",
+            "temperature",
+            "city"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "rain_or_shine",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U3-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "L2",
+          "section_name": "Weather Around the World",
+          "category": "reading",
+          "name": "????????",
+          "description": "???????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????????"
+          ],
+          "skills": [
+            "reading",
+            "data_reading"
+          ],
+          "keywords": [
+            "weather forecast",
+            "chart"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "rain_or_shine",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U3-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "L3",
+          "section_name": "Weather Matters",
+          "category": "function",
+          "name": "???????",
+          "description": "???????????????? Take an umbrella, Wear warm clothes?",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "speaking",
+            "advice"
+          ],
+          "keywords": [
+            "weather advice",
+            "activities"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "rain_or_shine",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U3-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "L3",
+          "section_name": "Weather Matters",
+          "category": "grammar",
+          "name": "???? should ???",
+          "description": "?? should/shouldn't ?????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "grammar",
+            "function"
+          ],
+          "keywords": [
+            "should",
+            "advice"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "rain_or_shine",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U3-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "WW",
+          "section_name": "Writing Workshop: A Blog Post About Favourite Weather",
+          "category": "writing",
+          "name": "???????",
+          "description": "???????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????????",
+            "???????"
+          ],
+          "skills": [
+            "writing",
+            "blog_post"
+          ],
+          "keywords": [
+            "weather blog",
+            "feelings"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "rain_or_shine",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U3-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "???????",
+          "description": "??????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "speaking",
+            "presentation"
+          ],
+          "keywords": [
+            "weather report"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "rain_or_shine",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U3-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Rain or Shine",
+          "unit_name_zh": "?????",
+          "section_id": "RC",
+          "section_name": "Reading Club1&2",
+          "category": "reading",
+          "name": "???????",
+          "description": "?????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "reading",
+            "cause_effect"
+          ],
+          "keywords": [
+            "weather and life"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "rain_or_shine",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Landmarks",
+      "unit_name_zh": "??",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "Visiting Singapore"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "Exploring London"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "Landmarks in China"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop: Introducing a Landmark"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7E-B-U4-KP001",
+        "M7E-B-U4-KP002",
+        "M7E-B-U4-KP003",
+        "M7E-B-U4-KP004",
+        "M7E-B-U4-KP005",
+        "M7E-B-U4-KP006",
+        "M7E-B-U4-KP007",
+        "M7E-B-U4-KP008",
+        "M7E-B-U4-KP009",
+        "M7E-B-U4-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-B-U4-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? landmark, visit, explore, famous, tourist, guide, trip ????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "landmarks",
+            "travel"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "landmarks",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U4-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "L1",
+          "section_name": "Visiting Singapore",
+          "category": "reading",
+          "name": "???????",
+          "description": "??????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "reading",
+            "information_extraction"
+          ],
+          "keywords": [
+            "Singapore",
+            "travel text"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "landmarks",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U4-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "L1",
+          "section_name": "Visiting Singapore",
+          "category": "grammar",
+          "name": "?????????",
+          "description": "?? in, on, near, next to, between, across from ???????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????",
+            "???????"
+          ],
+          "skills": [
+            "grammar",
+            "description"
+          ],
+          "keywords": [
+            "prepositions of place"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "landmarks",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U4-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "L2",
+          "section_name": "Exploring London",
+          "category": "function",
+          "name": "????????",
+          "description": "?????????????????? first, next, then, finally?",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "speaking",
+            "sequencing"
+          ],
+          "keywords": [
+            "route",
+            "itinerary"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "landmarks",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U4-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "L2",
+          "section_name": "Exploring London",
+          "category": "vocabulary",
+          "name": "?????????",
+          "description": "?? bridge, museum, tower, station, underground, square ???????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "city places",
+            "transport"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "landmarks",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U4-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "L3",
+          "section_name": "Landmarks in China",
+          "category": "reading",
+          "name": "????????",
+          "description": "?????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "reading",
+            "culture_awareness"
+          ],
+          "keywords": [
+            "Chinese landmarks",
+            "culture"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "landmarks",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U4-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "L3",
+          "section_name": "Landmarks in China",
+          "category": "grammar",
+          "name": "???????",
+          "description": "??? famous, ancient, modern, beautiful, popular ???????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "grammar",
+            "description"
+          ],
+          "keywords": [
+            "adjectives",
+            "landmark description"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "landmarks",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U4-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "WW",
+          "section_name": "Writing Workshop: Introducing a Landmark",
+          "category": "writing",
+          "name": "?????",
+          "description": "??????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????",
+            "???????"
+          ],
+          "skills": [
+            "writing",
+            "informative_text"
+          ],
+          "keywords": [
+            "introduce a landmark"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "landmarks",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U4-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "????????",
+          "description": "??????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????",
+            "?????"
+          ],
+          "skills": [
+            "speaking",
+            "presentation"
+          ],
+          "keywords": [
+            "recommendation",
+            "travel speaking"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "landmarks",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U4-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Landmarks",
+          "unit_name_zh": "??",
+          "section_id": "RC",
+          "section_name": "Reading Club1&2",
+          "category": "reading",
+          "name": "????????",
+          "description": "?????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????"
+          ],
+          "skills": [
+            "reading",
+            "compare_contrast"
+          ],
+          "keywords": [
+            "world landmarks"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "landmarks",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Now and Then",
+      "unit_name_zh": "????",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "Changes in Our Town"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "Remembering the Past"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "First-time Experiences"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop: Describing a Personal Experience"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7E-B-U5-KP001",
+        "M7E-B-U5-KP002",
+        "M7E-B-U5-KP003",
+        "M7E-B-U5-KP004",
+        "M7E-B-U5-KP005",
+        "M7E-B-U5-KP006",
+        "M7E-B-U5-KP007",
+        "M7E-B-U5-KP008",
+        "M7E-B-U5-KP009",
+        "M7E-B-U5-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-B-U5-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? past, present, change, before, now, town, memory ???????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary"
+          ],
+          "keywords": [
+            "past",
+            "present",
+            "change"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "now_and_then",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U5-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "Changes in Our Town",
+          "category": "grammar",
+          "name": "????? be ??",
+          "description": "?? was/were ?????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "be ??????"
+          ],
+          "skills": [
+            "grammar",
+            "sentence_building"
+          ],
+          "keywords": [
+            "was",
+            "were",
+            "past simple"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "now_and_then",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U5-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "L1",
+          "section_name": "Changes in Our Town",
+          "category": "function",
+          "name": "??????",
+          "description": "????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????",
+            "????? be ??"
+          ],
+          "skills": [
+            "speaking",
+            "compare_contrast"
+          ],
+          "keywords": [
+            "changes",
+            "town"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "now_and_then",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U5-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "L2",
+          "section_name": "Remembering the Past",
+          "category": "grammar",
+          "name": "?????????",
+          "description": "????????? -ed ???????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????? be ??"
+          ],
+          "skills": [
+            "grammar",
+            "pronunciation"
+          ],
+          "keywords": [
+            "regular past verbs",
+            "-ed"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "now_and_then",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U5-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "L2",
+          "section_name": "Remembering the Past",
+          "category": "function",
+          "name": "??????",
+          "description": "?????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "speaking",
+            "narration"
+          ],
+          "keywords": [
+            "remember",
+            "past experience"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "now_and_then",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U5-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "L2",
+          "section_name": "Remembering the Past",
+          "category": "vocabulary",
+          "name": "???????????",
+          "description": "?? yesterday, last week, years ago, when I was..., at that time ????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "vocabulary",
+            "grammar"
+          ],
+          "keywords": [
+            "past time expressions"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "now_and_then",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U5-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "L3",
+          "section_name": "First-time Experiences",
+          "category": "grammar",
+          "name": "????????????",
+          "description": "?????????????? went, had, saw, came, made?",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "grammar",
+            "accuracy"
+          ],
+          "keywords": [
+            "irregular verbs",
+            "past simple"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "now_and_then",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U5-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "L3",
+          "section_name": "First-time Experiences",
+          "category": "reading",
+          "name": "????????",
+          "description": "?????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????",
+            "????????????"
+          ],
+          "skills": [
+            "reading",
+            "narrative_structure"
+          ],
+          "keywords": [
+            "first-time experience",
+            "story"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "now_and_then",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U5-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "WW",
+          "section_name": "Writing Workshop: Describing a Personal Experience",
+          "category": "writing",
+          "name": "?????",
+          "description": "????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "????????",
+            "???????????"
+          ],
+          "skills": [
+            "writing",
+            "narration"
+          ],
+          "keywords": [
+            "personal experience",
+            "past tense"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "now_and_then",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U5-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Now and Then",
+          "unit_name_zh": "????",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "??????",
+          "description": "????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????"
+          ],
+          "skills": [
+            "speaking",
+            "storytelling"
+          ],
+          "keywords": [
+            "past event",
+            "storytelling"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "now_and_then",
+            "??"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Animals",
+      "unit_name_zh": "??",
+      "volume": "?????",
+      "sections": [
+        {
+          "section_id": "TT",
+          "section_name": "Topic Talk"
+        },
+        {
+          "section_id": "L1",
+          "section_name": "Amazing Creatures"
+        },
+        {
+          "section_id": "L2",
+          "section_name": "Animal Facts"
+        },
+        {
+          "section_id": "L3",
+          "section_name": "An Animal Story"
+        },
+        {
+          "section_id": "WW",
+          "section_name": "Writing Workshop: Introducing an Animal"
+        },
+        {
+          "section_id": "SW",
+          "section_name": "Speaking Workshop"
+        },
+        {
+          "section_id": "RC",
+          "section_name": "Reading Club1&2"
+        }
+      ],
+      "knowledge_point_count": 11,
+      "knowledge_point_ids": [
+        "M7E-B-U6-KP001",
+        "M7E-B-U6-KP002",
+        "M7E-B-U6-KP003",
+        "M7E-B-U6-KP004",
+        "M7E-B-U6-KP005",
+        "M7E-B-U6-KP006",
+        "M7E-B-U6-KP007",
+        "M7E-B-U6-KP008",
+        "M7E-B-U6-KP009",
+        "M7E-B-U6-KP010",
+        "M7E-B-U6-KP011"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7E-B-U6-KP001",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "TT",
+          "section_name": "Topic Talk",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "????????? mammal, bird, insect, reptile ????????",
+          "difficulty": "??",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "classification"
+          ],
+          "keywords": [
+            "animals",
+            "classification"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP002",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "L1",
+          "section_name": "Amazing Creatures",
+          "category": "vocabulary",
+          "name": "???????",
+          "description": "?? wing, tail, fur, beak, claw, huge, tiny, amazing ??????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "vocabulary",
+            "description"
+          ],
+          "keywords": [
+            "animal features",
+            "appearance"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP003",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "L1",
+          "section_name": "Amazing Creatures",
+          "category": "grammar",
+          "name": "?????",
+          "description": "??????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????"
+          ],
+          "skills": [
+            "grammar",
+            "comparison"
+          ],
+          "keywords": [
+            "comparatives",
+            "bigger",
+            "faster"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP004",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "L1",
+          "section_name": "Amazing Creatures",
+          "category": "function",
+          "name": "??????",
+          "description": "??????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "???????",
+            "?????"
+          ],
+          "skills": [
+            "speaking",
+            "description"
+          ],
+          "keywords": [
+            "amazing animals"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP005",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "L2",
+          "section_name": "Animal Facts",
+          "category": "reading",
+          "name": "?????????",
+          "description": "????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "reading",
+            "information_extraction"
+          ],
+          "keywords": [
+            "animal facts",
+            "habitat"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP006",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "L2",
+          "section_name": "Animal Facts",
+          "category": "grammar",
+          "name": "?????",
+          "description": "??????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????"
+          ],
+          "skills": [
+            "grammar",
+            "comparison"
+          ],
+          "keywords": [
+            "superlatives",
+            "biggest",
+            "fastest"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP007",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "L2",
+          "section_name": "Animal Facts",
+          "category": "function",
+          "name": "??????",
+          "description": "?? It lives..., It eats..., It can..., It is one of... ??????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????",
+            "?????"
+          ],
+          "skills": [
+            "speaking",
+            "informative_speaking"
+          ],
+          "keywords": [
+            "animal facts",
+            "habitat",
+            "diet"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP008",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "L3",
+          "section_name": "An Animal Story",
+          "category": "reading",
+          "name": "??????",
+          "description": "????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????"
+          ],
+          "skills": [
+            "reading",
+            "narrative_understanding"
+          ],
+          "keywords": [
+            "animal story",
+            "plot"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP009",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "WW",
+          "section_name": "Writing Workshop: Introducing an Animal",
+          "category": "writing",
+          "name": "?????",
+          "description": "???????????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "??????",
+            "?????",
+            "?????"
+          ],
+          "skills": [
+            "writing",
+            "informative_text"
+          ],
+          "keywords": [
+            "introduce an animal"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP010",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "SW",
+          "section_name": "Speaking Workshop",
+          "category": "speaking",
+          "name": "??????",
+          "description": "????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????"
+          ],
+          "skills": [
+            "speaking",
+            "presentation"
+          ],
+          "keywords": [
+            "animal presentation"
+          ],
+          "diagnosis_tags": [
+            "speaking",
+            "animals",
+            "??"
+          ]
+        },
+        {
+          "id": "M7E-B-U6-KP011",
+          "grade": 7,
+          "subject": "??",
+          "publisher": "?????????",
+          "edition": "?????2024???",
+          "volume": "?????",
+          "unit_id": "M7E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Animals",
+          "unit_name_zh": "??",
+          "section_id": "RC",
+          "section_name": "Reading Club1&2",
+          "category": "reading",
+          "name": "????????",
+          "description": "????????????????????????",
+          "difficulty": "??",
+          "prerequisites": [
+            "?????????"
+          ],
+          "skills": [
+            "reading",
+            "critical_thinking"
+          ],
+          "keywords": [
+            "animal protection",
+            "environment"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "animals",
+            "??"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3750 @@
+{
+  "metadata": {
+    "name": "北师大版七年级数学上下册知识点库",
+    "grade": 7,
+    "subject": "数学",
+    "publisher": "北京师范大学出版社",
+    "edition_note": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+    "created_at": "2026-07-20",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 12,
+    "total_knowledge_points": 109,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段已避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "M7A-U1",
+      "unit_no": 1,
+      "unit_name": "丰富的图形世界",
+      "volume": "七年级上册",
+      "knowledge_point_count": 6,
+      "knowledge_point_ids": [
+        "M7A-U1-KP001",
+        "M7A-U1-KP002",
+        "M7A-U1-KP003",
+        "M7A-U1-KP004",
+        "M7A-U1-KP005",
+        "M7A-U1-KP006"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7A-U1-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U1",
+          "unit_no": 1,
+          "unit_name": "丰富的图形世界",
+          "unit_name_zh": "",
+          "category": "图形认识",
+          "name": "常见立体图形的识别",
+          "description": "识别棱柱、棱锥、圆柱、圆锥、球等基本立体图形，并能从生活物体中抽象出几何体。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "识图",
+            "分类"
+          ],
+          "keywords": [
+            "棱柱",
+            "圆柱",
+            "圆锥",
+            "球"
+          ],
+          "diagnosis_tags": [
+            "图形认识",
+            "基础",
+            "丰富的图形世界"
+          ]
+        },
+        {
+          "id": "M7A-U1-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U1",
+          "unit_no": 1,
+          "unit_name": "丰富的图形世界",
+          "unit_name_zh": "",
+          "category": "图形认识",
+          "name": "立体图形的构成元素",
+          "description": "理解点、线、面、体之间的关系，认识面与面相交成线、线与线相交成点。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "常见立体图形的识别"
+          ],
+          "skills": [
+            "空间想象"
+          ],
+          "keywords": [
+            "点",
+            "线",
+            "面",
+            "体"
+          ],
+          "diagnosis_tags": [
+            "图形认识",
+            "基础",
+            "丰富的图形世界"
+          ]
+        },
+        {
+          "id": "M7A-U1-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U1",
+          "unit_no": 1,
+          "unit_name": "丰富的图形世界",
+          "unit_name_zh": "",
+          "category": "图形认识",
+          "name": "棱柱的特征",
+          "description": "掌握棱柱的底面、侧面、棱、顶点等概念，能判断棱柱的面数、棱数、顶点数。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "立体图形的构成元素"
+          ],
+          "skills": [
+            "观察",
+            "计数"
+          ],
+          "keywords": [
+            "棱柱",
+            "底面",
+            "侧面",
+            "棱",
+            "顶点"
+          ],
+          "diagnosis_tags": [
+            "图形认识",
+            "核心",
+            "丰富的图形世界"
+          ]
+        },
+        {
+          "id": "M7A-U1-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U1",
+          "unit_no": 1,
+          "unit_name": "丰富的图形世界",
+          "unit_name_zh": "",
+          "category": "空间想象",
+          "name": "展开图与折叠",
+          "description": "理解立体图形的展开图，能判断给定平面图形能否折叠成指定几何体。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "常见立体图形的识别"
+          ],
+          "skills": [
+            "空间想象",
+            "图形转换"
+          ],
+          "keywords": [
+            "展开图",
+            "折叠"
+          ],
+          "diagnosis_tags": [
+            "空间想象",
+            "核心",
+            "丰富的图形世界"
+          ]
+        },
+        {
+          "id": "M7A-U1-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U1",
+          "unit_no": 1,
+          "unit_name": "丰富的图形世界",
+          "unit_name_zh": "",
+          "category": "空间想象",
+          "name": "三视图初步",
+          "description": "能从正面、左面、上面观察简单物体，并画出或识别对应的平面图形。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "立体图形的构成元素"
+          ],
+          "skills": [
+            "观察",
+            "空间想象"
+          ],
+          "keywords": [
+            "从正面看",
+            "从左面看",
+            "从上面看"
+          ],
+          "diagnosis_tags": [
+            "空间想象",
+            "核心",
+            "丰富的图形世界"
+          ]
+        },
+        {
+          "id": "M7A-U1-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U1",
+          "unit_no": 1,
+          "unit_name": "丰富的图形世界",
+          "unit_name_zh": "",
+          "category": "空间想象",
+          "name": "截面初步",
+          "description": "理解用平面截几何体得到截面的思想，能判断简单截面的形状。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "常见立体图形的识别"
+          ],
+          "skills": [
+            "空间想象"
+          ],
+          "keywords": [
+            "截面",
+            "截一个几何体"
+          ],
+          "diagnosis_tags": [
+            "空间想象",
+            "提高",
+            "丰富的图形世界"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7A-U2",
+      "unit_no": 2,
+      "unit_name": "有理数及其运算",
+      "volume": "七年级上册",
+      "knowledge_point_count": 16,
+      "knowledge_point_ids": [
+        "M7A-U2-KP001",
+        "M7A-U2-KP002",
+        "M7A-U2-KP003",
+        "M7A-U2-KP004",
+        "M7A-U2-KP005",
+        "M7A-U2-KP006",
+        "M7A-U2-KP007",
+        "M7A-U2-KP008",
+        "M7A-U2-KP009",
+        "M7A-U2-KP010",
+        "M7A-U2-KP011",
+        "M7A-U2-KP012",
+        "M7A-U2-KP013",
+        "M7A-U2-KP014",
+        "M7A-U2-KP015",
+        "M7A-U2-KP016"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7A-U2-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "数与代数",
+          "name": "正数与负数",
+          "description": "理解正数、负数的意义，会用正负数表示具有相反意义的量。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "建模",
+            "表示"
+          ],
+          "keywords": [
+            "正数",
+            "负数",
+            "相反意义的量"
+          ],
+          "diagnosis_tags": [
+            "数与代数",
+            "基础",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "数与代数",
+          "name": "有理数的分类",
+          "description": "掌握整数、分数、正有理数、负有理数、零之间的包含关系。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "正数与负数"
+          ],
+          "skills": [
+            "分类"
+          ],
+          "keywords": [
+            "整数",
+            "分数",
+            "有理数",
+            "0"
+          ],
+          "diagnosis_tags": [
+            "数与代数",
+            "基础",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "数形结合",
+          "name": "数轴",
+          "description": "理解数轴三要素：原点、正方向、单位长度，会在数轴上表示有理数。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "有理数的分类"
+          ],
+          "skills": [
+            "数形结合"
+          ],
+          "keywords": [
+            "数轴",
+            "原点",
+            "单位长度"
+          ],
+          "diagnosis_tags": [
+            "数形结合",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "数与代数",
+          "name": "相反数",
+          "description": "理解相反数的意义，能求一个数的相反数，并会用数轴解释。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "数轴"
+          ],
+          "skills": [
+            "数形结合"
+          ],
+          "keywords": [
+            "相反数"
+          ],
+          "diagnosis_tags": [
+            "数与代数",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "数与代数",
+          "name": "绝对值",
+          "description": "理解绝对值表示数轴上点到原点的距离，能求有理数的绝对值。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "数轴"
+          ],
+          "skills": [
+            "数形结合"
+          ],
+          "keywords": [
+            "绝对值",
+            "距离"
+          ],
+          "diagnosis_tags": [
+            "数与代数",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "数与代数",
+          "name": "有理数大小比较",
+          "description": "能利用数轴和绝对值比较有理数大小，掌握负数比较大小的方法。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "数轴",
+            "绝对值"
+          ],
+          "skills": [
+            "比较"
+          ],
+          "keywords": [
+            "大小比较",
+            "负数"
+          ],
+          "diagnosis_tags": [
+            "数与代数",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "有理数加法法则",
+          "description": "掌握同号、异号有理数加法法则，能正确确定和的符号与绝对值。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "绝对值"
+          ],
+          "skills": [
+            "运算"
+          ],
+          "keywords": [
+            "加法法则",
+            "同号",
+            "异号"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "有理数减法法则",
+          "description": "理解减去一个数等于加上这个数的相反数，并能进行有理数减法。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "相反数",
+            "有理数加法法则"
+          ],
+          "skills": [
+            "转化",
+            "运算"
+          ],
+          "keywords": [
+            "减法法则",
+            "加相反数"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP009",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "有理数加减混合运算",
+          "description": "能把加减混合运算统一为加法，正确使用运算律简化计算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "有理数加法法则",
+            "有理数减法法则"
+          ],
+          "skills": [
+            "运算",
+            "简算"
+          ],
+          "keywords": [
+            "加减混合",
+            "运算律"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP010",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "有理数乘法法则",
+          "description": "掌握有理数乘法的符号法则和绝对值相乘规则。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "绝对值"
+          ],
+          "skills": [
+            "运算"
+          ],
+          "keywords": [
+            "乘法法则",
+            "符号法则"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP011",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "倒数",
+          "description": "理解倒数的意义，会求非零有理数的倒数。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "有理数乘法法则"
+          ],
+          "skills": [
+            "运算"
+          ],
+          "keywords": [
+            "倒数",
+            "乘积为1"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "基础",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP012",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "有理数除法法则",
+          "description": "理解除以一个非零数等于乘以这个数的倒数，并能进行除法运算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "倒数",
+            "有理数乘法法则"
+          ],
+          "skills": [
+            "转化",
+            "运算"
+          ],
+          "keywords": [
+            "除法法则",
+            "乘倒数"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP013",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "乘方的意义",
+          "description": "理解底数、指数、幂的意义，能把相同因数相乘写成乘方形式。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "有理数乘法法则"
+          ],
+          "skills": [
+            "符号表示"
+          ],
+          "keywords": [
+            "底数",
+            "指数",
+            "幂"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "基础",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP014",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "有理数乘方符号规律",
+          "description": "掌握正数、负数、零乘方的符号规律，特别是负数偶次幂与奇次幂。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "乘方的意义"
+          ],
+          "skills": [
+            "运算",
+            "规律归纳"
+          ],
+          "keywords": [
+            "负数的乘方",
+            "偶次幂",
+            "奇次幂"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP015",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "有理数混合运算顺序",
+          "description": "掌握含加、减、乘、除、乘方和括号的混合运算顺序。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "有理数加减混合运算",
+            "有理数除法法则",
+            "乘方的意义"
+          ],
+          "skills": [
+            "综合运算"
+          ],
+          "keywords": [
+            "先乘方",
+            "先乘除后加减",
+            "括号"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "有理数及其运算"
+          ]
+        },
+        {
+          "id": "M7A-U2-KP016",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U2",
+          "unit_no": 2,
+          "unit_name": "有理数及其运算",
+          "unit_name_zh": "",
+          "category": "数与代数",
+          "name": "科学记数法初步",
+          "description": "能用 a×10^n 的形式表示较大的数，理解 a 的范围和指数 n 的意义。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "乘方的意义"
+          ],
+          "skills": [
+            "表示",
+            "估算"
+          ],
+          "keywords": [
+            "科学记数法",
+            "10的幂"
+          ],
+          "diagnosis_tags": [
+            "数与代数",
+            "提高",
+            "有理数及其运算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7A-U3",
+      "unit_no": 3,
+      "unit_name": "整式及其加减",
+      "volume": "七年级上册",
+      "knowledge_point_count": 11,
+      "knowledge_point_ids": [
+        "M7A-U3-KP001",
+        "M7A-U3-KP002",
+        "M7A-U3-KP003",
+        "M7A-U3-KP004",
+        "M7A-U3-KP005",
+        "M7A-U3-KP006",
+        "M7A-U3-KP007",
+        "M7A-U3-KP008",
+        "M7A-U3-KP009",
+        "M7A-U3-KP010",
+        "M7A-U3-KP011"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7A-U3-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "代数式",
+          "name": "用字母表示数",
+          "description": "理解用字母表示数的必要性，能用字母表示数量关系和运算规律。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "抽象",
+            "符号表示"
+          ],
+          "keywords": [
+            "字母表示数"
+          ],
+          "diagnosis_tags": [
+            "代数式",
+            "基础",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "代数式",
+          "name": "代数式的概念",
+          "description": "理解代数式的含义，能根据文字语言列出代数式。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "用字母表示数"
+          ],
+          "skills": [
+            "建模",
+            "翻译"
+          ],
+          "keywords": [
+            "代数式",
+            "数量关系"
+          ],
+          "diagnosis_tags": [
+            "代数式",
+            "基础",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "代数式",
+          "name": "代数式的值",
+          "description": "能把字母的取值代入代数式，按照运算顺序求代数式的值。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "代数式的概念",
+            "有理数混合运算顺序"
+          ],
+          "skills": [
+            "代入",
+            "运算"
+          ],
+          "keywords": [
+            "代入",
+            "代数式的值"
+          ],
+          "diagnosis_tags": [
+            "代数式",
+            "核心",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "整式",
+          "name": "单项式",
+          "description": "理解单项式、系数、次数的概念，能判断单项式的系数和次数。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "代数式的概念"
+          ],
+          "skills": [
+            "识别",
+            "分类"
+          ],
+          "keywords": [
+            "单项式",
+            "系数",
+            "次数"
+          ],
+          "diagnosis_tags": [
+            "整式",
+            "核心",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "整式",
+          "name": "多项式",
+          "description": "理解多项式、项、常数项、次数的概念，能判断多项式的项数和次数。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "单项式"
+          ],
+          "skills": [
+            "识别",
+            "分类"
+          ],
+          "keywords": [
+            "多项式",
+            "项",
+            "常数项"
+          ],
+          "diagnosis_tags": [
+            "整式",
+            "核心",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "整式",
+          "name": "同类项",
+          "description": "理解同类项的条件：所含字母相同且相同字母指数相同。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "单项式"
+          ],
+          "skills": [
+            "识别"
+          ],
+          "keywords": [
+            "同类项"
+          ],
+          "diagnosis_tags": [
+            "整式",
+            "核心",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "整式",
+          "name": "合并同类项",
+          "description": "掌握合并同类项法则：系数相加减，字母及指数不变。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "同类项",
+            "有理数加减混合运算"
+          ],
+          "skills": [
+            "化简",
+            "运算"
+          ],
+          "keywords": [
+            "合并同类项",
+            "系数"
+          ],
+          "diagnosis_tags": [
+            "整式",
+            "核心",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "整式",
+          "name": "去括号法则",
+          "description": "掌握括号前是正号或负号时去括号的符号变化规则。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "有理数加减混合运算"
+          ],
+          "skills": [
+            "符号处理",
+            "化简"
+          ],
+          "keywords": [
+            "去括号",
+            "符号变化"
+          ],
+          "diagnosis_tags": [
+            "整式",
+            "核心",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP009",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "整式",
+          "name": "整式加减运算",
+          "description": "能通过去括号、合并同类项完成整式加减化简。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "合并同类项",
+            "去括号法则"
+          ],
+          "skills": [
+            "化简",
+            "综合运算"
+          ],
+          "keywords": [
+            "整式加减"
+          ],
+          "diagnosis_tags": [
+            "整式",
+            "核心",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP010",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "规律探索",
+          "name": "数式规律探索",
+          "description": "能观察数列或算式中的变化规律，并用代数式表示一般规律。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "代数式的概念"
+          ],
+          "skills": [
+            "归纳",
+            "表达"
+          ],
+          "keywords": [
+            "规律",
+            "归纳",
+            "一般项"
+          ],
+          "diagnosis_tags": [
+            "规律探索",
+            "提高",
+            "整式及其加减"
+          ]
+        },
+        {
+          "id": "M7A-U3-KP011",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U3",
+          "unit_no": 3,
+          "unit_name": "整式及其加减",
+          "unit_name_zh": "",
+          "category": "规律探索",
+          "name": "图形规律探索",
+          "description": "能从点阵、拼图、图形数量变化中发现规律，并建立代数表达。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "用字母表示数"
+          ],
+          "skills": [
+            "数形结合",
+            "归纳"
+          ],
+          "keywords": [
+            "图形规律",
+            "点阵"
+          ],
+          "diagnosis_tags": [
+            "规律探索",
+            "提高",
+            "整式及其加减"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7A-U4",
+      "unit_no": 4,
+      "unit_name": "基本平面图形",
+      "volume": "七年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M7A-U4-KP001",
+        "M7A-U4-KP002",
+        "M7A-U4-KP003",
+        "M7A-U4-KP004",
+        "M7A-U4-KP005",
+        "M7A-U4-KP006",
+        "M7A-U4-KP007",
+        "M7A-U4-KP008",
+        "M7A-U4-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7A-U4-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U4",
+          "unit_no": 4,
+          "unit_name": "基本平面图形",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "线段、射线、直线",
+          "description": "理解线段、射线、直线的区别与联系，掌握表示方法。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "识图",
+            "表示"
+          ],
+          "keywords": [
+            "线段",
+            "射线",
+            "直线"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "基础",
+            "基本平面图形"
+          ]
+        },
+        {
+          "id": "M7A-U4-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U4",
+          "unit_no": 4,
+          "unit_name": "基本平面图形",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "两点确定一条直线",
+          "description": "理解经过两点有且只有一条直线，并能用于简单几何推理。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "线段、射线、直线"
+          ],
+          "skills": [
+            "推理"
+          ],
+          "keywords": [
+            "两点确定一条直线"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "基础",
+            "基本平面图形"
+          ]
+        },
+        {
+          "id": "M7A-U4-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U4",
+          "unit_no": 4,
+          "unit_name": "基本平面图形",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "线段的比较与和差",
+          "description": "会比较线段长短，理解线段和、差及中点的意义。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "线段、射线、直线"
+          ],
+          "skills": [
+            "度量",
+            "计算"
+          ],
+          "keywords": [
+            "线段比较",
+            "中点"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "基本平面图形"
+          ]
+        },
+        {
+          "id": "M7A-U4-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U4",
+          "unit_no": 4,
+          "unit_name": "基本平面图形",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "角的概念与表示",
+          "description": "理解角由两条有公共端点的射线组成，掌握角的表示方法。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "线段、射线、直线"
+          ],
+          "skills": [
+            "识图",
+            "表示"
+          ],
+          "keywords": [
+            "角",
+            "顶点",
+            "边"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "基础",
+            "基本平面图形"
+          ]
+        },
+        {
+          "id": "M7A-U4-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U4",
+          "unit_no": 4,
+          "unit_name": "基本平面图形",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "角的度量",
+          "description": "掌握度、分、秒的换算，会用量角器度量角。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "角的概念与表示"
+          ],
+          "skills": [
+            "度量",
+            "换算"
+          ],
+          "keywords": [
+            "度",
+            "分",
+            "秒",
+            "量角器"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "基本平面图形"
+          ]
+        },
+        {
+          "id": "M7A-U4-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U4",
+          "unit_no": 4,
+          "unit_name": "基本平面图形",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "角的比较与和差",
+          "description": "会比较角的大小，理解角平分线以及角的和、差关系。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "角的度量"
+          ],
+          "skills": [
+            "计算",
+            "识图"
+          ],
+          "keywords": [
+            "角平分线",
+            "角的和差"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "基本平面图形"
+          ]
+        },
+        {
+          "id": "M7A-U4-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U4",
+          "unit_no": 4,
+          "unit_name": "基本平面图形",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "余角和补角",
+          "description": "理解互余、互补的概念，能利用余角、补角关系进行计算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "角的比较与和差"
+          ],
+          "skills": [
+            "计算",
+            "推理"
+          ],
+          "keywords": [
+            "余角",
+            "补角"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "基本平面图形"
+          ]
+        },
+        {
+          "id": "M7A-U4-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U4",
+          "unit_no": 4,
+          "unit_name": "基本平面图形",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "多边形初步",
+          "description": "认识三角形、四边形及一般多边形，理解边、顶点、内角、对角线等概念。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "线段、射线、直线",
+            "角的概念与表示"
+          ],
+          "skills": [
+            "识图",
+            "分类"
+          ],
+          "keywords": [
+            "多边形",
+            "对角线"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "基础",
+            "基本平面图形"
+          ]
+        },
+        {
+          "id": "M7A-U4-KP009",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U4",
+          "unit_no": 4,
+          "unit_name": "基本平面图形",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "圆的初步认识",
+          "description": "认识圆、圆心、半径、直径、弧等基本概念。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "识图"
+          ],
+          "keywords": [
+            "圆",
+            "圆心",
+            "半径",
+            "直径"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "基础",
+            "基本平面图形"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7A-U5",
+      "unit_no": 5,
+      "unit_name": "一元一次方程",
+      "volume": "七年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7A-U5-KP001",
+        "M7A-U5-KP002",
+        "M7A-U5-KP003",
+        "M7A-U5-KP004",
+        "M7A-U5-KP005",
+        "M7A-U5-KP006",
+        "M7A-U5-KP007",
+        "M7A-U5-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7A-U5-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U5",
+          "unit_no": 5,
+          "unit_name": "一元一次方程",
+          "unit_name_zh": "",
+          "category": "方程",
+          "name": "方程的概念",
+          "description": "理解方程是含有未知数的等式，能判断一个式子是否为方程。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "代数式的概念"
+          ],
+          "skills": [
+            "识别"
+          ],
+          "keywords": [
+            "方程",
+            "未知数",
+            "等式"
+          ],
+          "diagnosis_tags": [
+            "方程",
+            "基础",
+            "一元一次方程"
+          ]
+        },
+        {
+          "id": "M7A-U5-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U5",
+          "unit_no": 5,
+          "unit_name": "一元一次方程",
+          "unit_name_zh": "",
+          "category": "方程",
+          "name": "一元一次方程",
+          "description": "理解只含一个未知数且未知数次数为1的整式方程是一元一次方程。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "方程的概念",
+            "整式"
+          ],
+          "skills": [
+            "识别",
+            "分类"
+          ],
+          "keywords": [
+            "一元一次方程"
+          ],
+          "diagnosis_tags": [
+            "方程",
+            "核心",
+            "一元一次方程"
+          ]
+        },
+        {
+          "id": "M7A-U5-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U5",
+          "unit_no": 5,
+          "unit_name": "一元一次方程",
+          "unit_name_zh": "",
+          "category": "方程",
+          "name": "方程的解",
+          "description": "理解使方程左右两边相等的未知数的值叫方程的解，会检验一个数是否为方程的解。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "方程的概念",
+            "代数式的值"
+          ],
+          "skills": [
+            "代入",
+            "检验"
+          ],
+          "keywords": [
+            "方程的解",
+            "检验"
+          ],
+          "diagnosis_tags": [
+            "方程",
+            "核心",
+            "一元一次方程"
+          ]
+        },
+        {
+          "id": "M7A-U5-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U5",
+          "unit_no": 5,
+          "unit_name": "一元一次方程",
+          "unit_name_zh": "",
+          "category": "方程",
+          "name": "等式的基本性质",
+          "description": "掌握等式两边同时加减同一个数或乘除同一个非零数，等式仍成立。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "方程的概念"
+          ],
+          "skills": [
+            "推理",
+            "变形"
+          ],
+          "keywords": [
+            "等式性质"
+          ],
+          "diagnosis_tags": [
+            "方程",
+            "核心",
+            "一元一次方程"
+          ]
+        },
+        {
+          "id": "M7A-U5-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U5",
+          "unit_no": 5,
+          "unit_name": "一元一次方程",
+          "unit_name_zh": "",
+          "category": "方程",
+          "name": "移项",
+          "description": "理解移项本质是等式两边同加减，掌握移项变号规则。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "等式的基本性质"
+          ],
+          "skills": [
+            "变形"
+          ],
+          "keywords": [
+            "移项",
+            "变号"
+          ],
+          "diagnosis_tags": [
+            "方程",
+            "核心",
+            "一元一次方程"
+          ]
+        },
+        {
+          "id": "M7A-U5-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U5",
+          "unit_no": 5,
+          "unit_name": "一元一次方程",
+          "unit_name_zh": "",
+          "category": "方程",
+          "name": "解一元一次方程的一般步骤",
+          "description": "掌握去分母、去括号、移项、合并同类项、系数化为1等解方程步骤。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "移项",
+            "去括号法则",
+            "合并同类项"
+          ],
+          "skills": [
+            "综合运算",
+            "变形"
+          ],
+          "keywords": [
+            "去分母",
+            "去括号",
+            "系数化为1"
+          ],
+          "diagnosis_tags": [
+            "方程",
+            "核心",
+            "一元一次方程"
+          ]
+        },
+        {
+          "id": "M7A-U5-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U5",
+          "unit_no": 5,
+          "unit_name": "一元一次方程",
+          "unit_name_zh": "",
+          "category": "方程应用",
+          "name": "列方程解应用题",
+          "description": "能审题设未知数，寻找等量关系，列一元一次方程解决实际问题。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "解一元一次方程的一般步骤"
+          ],
+          "skills": [
+            "建模",
+            "应用"
+          ],
+          "keywords": [
+            "等量关系",
+            "列方程"
+          ],
+          "diagnosis_tags": [
+            "方程应用",
+            "核心",
+            "一元一次方程"
+          ]
+        },
+        {
+          "id": "M7A-U5-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U5",
+          "unit_no": 5,
+          "unit_name": "一元一次方程",
+          "unit_name_zh": "",
+          "category": "方程应用",
+          "name": "常见一元一次方程应用模型",
+          "description": "掌握行程、工程、销售、配套、分配、增长率等常见问题中的等量关系。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "列方程解应用题"
+          ],
+          "skills": [
+            "建模",
+            "迁移"
+          ],
+          "keywords": [
+            "行程",
+            "工程",
+            "销售",
+            "增长率"
+          ],
+          "diagnosis_tags": [
+            "方程应用",
+            "提高",
+            "一元一次方程"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7A-U6",
+      "unit_no": 6,
+      "unit_name": "数据的收集与整理",
+      "volume": "七年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7A-U6-KP001",
+        "M7A-U6-KP002",
+        "M7A-U6-KP003",
+        "M7A-U6-KP004",
+        "M7A-U6-KP005",
+        "M7A-U6-KP006",
+        "M7A-U6-KP007",
+        "M7A-U6-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7A-U6-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的收集与整理",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "数据与统计问题",
+          "description": "理解数据来源于实际问题，能区分定性数据和定量数据。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "统计意识"
+          ],
+          "keywords": [
+            "数据",
+            "统计"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "基础",
+            "数据的收集与整理"
+          ]
+        },
+        {
+          "id": "M7A-U6-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的收集与整理",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "全面调查与抽样调查",
+          "description": "理解全面调查和抽样调查的区别，能根据问题选择合适的调查方式。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "数据与统计问题"
+          ],
+          "skills": [
+            "判断",
+            "方案设计"
+          ],
+          "keywords": [
+            "全面调查",
+            "抽样调查"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "核心",
+            "数据的收集与整理"
+          ]
+        },
+        {
+          "id": "M7A-U6-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的收集与整理",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "总体、个体、样本、样本容量",
+          "description": "理解总体、个体、样本、样本容量等统计基本概念。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "全面调查与抽样调查"
+          ],
+          "skills": [
+            "识别"
+          ],
+          "keywords": [
+            "总体",
+            "个体",
+            "样本",
+            "样本容量"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "核心",
+            "数据的收集与整理"
+          ]
+        },
+        {
+          "id": "M7A-U6-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的收集与整理",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "抽样的代表性",
+          "description": "理解样本应具有代表性，能识别简单抽样偏差。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "总体、个体、样本、样本容量"
+          ],
+          "skills": [
+            "评价",
+            "统计判断"
+          ],
+          "keywords": [
+            "代表性",
+            "抽样偏差"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "提高",
+            "数据的收集与整理"
+          ]
+        },
+        {
+          "id": "M7A-U6-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的收集与整理",
+          "unit_name_zh": "",
+          "category": "统计图表",
+          "name": "统计表",
+          "description": "能用统计表整理数据，并从统计表中获取信息。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "数据与统计问题"
+          ],
+          "skills": [
+            "整理",
+            "读取"
+          ],
+          "keywords": [
+            "统计表"
+          ],
+          "diagnosis_tags": [
+            "统计图表",
+            "基础",
+            "数据的收集与整理"
+          ]
+        },
+        {
+          "id": "M7A-U6-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的收集与整理",
+          "unit_name_zh": "",
+          "category": "统计图表",
+          "name": "条形统计图",
+          "description": "理解条形统计图适合比较各类别数量，能读图和画图。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "统计表"
+          ],
+          "skills": [
+            "读图",
+            "作图"
+          ],
+          "keywords": [
+            "条形统计图"
+          ],
+          "diagnosis_tags": [
+            "统计图表",
+            "基础",
+            "数据的收集与整理"
+          ]
+        },
+        {
+          "id": "M7A-U6-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的收集与整理",
+          "unit_name_zh": "",
+          "category": "统计图表",
+          "name": "扇形统计图",
+          "description": "理解扇形统计图表示部分占总体的百分比，能进行简单百分比和圆心角计算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "统计表",
+            "角的度量"
+          ],
+          "skills": [
+            "读图",
+            "计算"
+          ],
+          "keywords": [
+            "扇形统计图",
+            "百分比",
+            "圆心角"
+          ],
+          "diagnosis_tags": [
+            "统计图表",
+            "核心",
+            "数据的收集与整理"
+          ]
+        },
+        {
+          "id": "M7A-U6-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级上册",
+          "unit_id": "M7A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的收集与整理",
+          "unit_name_zh": "",
+          "category": "统计图表",
+          "name": "折线统计图",
+          "description": "理解折线统计图适合表示数据随时间变化的趋势，能读图分析变化。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "统计表"
+          ],
+          "skills": [
+            "读图",
+            "趋势分析"
+          ],
+          "keywords": [
+            "折线统计图",
+            "变化趋势"
+          ],
+          "diagnosis_tags": [
+            "统计图表",
+            "核心",
+            "数据的收集与整理"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7B-U1",
+      "unit_no": 1,
+      "unit_name": "整式的乘除",
+      "volume": "七年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7B-U1-KP001",
+        "M7B-U1-KP002",
+        "M7B-U1-KP003",
+        "M7B-U1-KP004",
+        "M7B-U1-KP005",
+        "M7B-U1-KP006",
+        "M7B-U1-KP007",
+        "M7B-U1-KP008",
+        "M7B-U1-KP009",
+        "M7B-U1-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7B-U1-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "整式运算",
+          "name": "同底数幂的乘法",
+          "description": "掌握同底数幂相乘，底数不变，指数相加。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "乘方的意义"
+          ],
+          "skills": [
+            "符号运算"
+          ],
+          "keywords": [
+            "同底数幂",
+            "指数相加"
+          ],
+          "diagnosis_tags": [
+            "整式运算",
+            "核心",
+            "整式的乘除"
+          ]
+        },
+        {
+          "id": "M7B-U1-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "整式运算",
+          "name": "幂的乘方",
+          "description": "掌握幂的乘方，底数不变，指数相乘。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "乘方的意义"
+          ],
+          "skills": [
+            "符号运算"
+          ],
+          "keywords": [
+            "幂的乘方",
+            "指数相乘"
+          ],
+          "diagnosis_tags": [
+            "整式运算",
+            "核心",
+            "整式的乘除"
+          ]
+        },
+        {
+          "id": "M7B-U1-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "整式运算",
+          "name": "积的乘方",
+          "description": "掌握积的乘方等于把积中每个因式分别乘方再相乘。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "幂的乘方"
+          ],
+          "skills": [
+            "符号运算"
+          ],
+          "keywords": [
+            "积的乘方"
+          ],
+          "diagnosis_tags": [
+            "整式运算",
+            "核心",
+            "整式的乘除"
+          ]
+        },
+        {
+          "id": "M7B-U1-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "整式运算",
+          "name": "同底数幂的除法",
+          "description": "掌握同底数幂相除，底数不变，指数相减，并理解零指数幂。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "同底数幂的乘法"
+          ],
+          "skills": [
+            "符号运算"
+          ],
+          "keywords": [
+            "同底数幂除法",
+            "零指数幂"
+          ],
+          "diagnosis_tags": [
+            "整式运算",
+            "核心",
+            "整式的乘除"
+          ]
+        },
+        {
+          "id": "M7B-U1-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "整式运算",
+          "name": "单项式乘单项式",
+          "description": "掌握系数相乘、同底数幂相乘、其余字母连同指数作为积因式的方法。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "单项式",
+            "同底数幂的乘法"
+          ],
+          "skills": [
+            "整式运算"
+          ],
+          "keywords": [
+            "单项式乘单项式"
+          ],
+          "diagnosis_tags": [
+            "整式运算",
+            "核心",
+            "整式的乘除"
+          ]
+        },
+        {
+          "id": "M7B-U1-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "整式运算",
+          "name": "单项式乘多项式",
+          "description": "掌握单项式乘多项式的分配律展开方法。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "单项式乘单项式",
+            "去括号法则"
+          ],
+          "skills": [
+            "整式运算",
+            "展开"
+          ],
+          "keywords": [
+            "单项式乘多项式",
+            "分配律"
+          ],
+          "diagnosis_tags": [
+            "整式运算",
+            "核心",
+            "整式的乘除"
+          ]
+        },
+        {
+          "id": "M7B-U1-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "整式运算",
+          "name": "多项式乘多项式",
+          "description": "掌握多项式乘多项式的逐项相乘再合并同类项的方法。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "单项式乘多项式",
+            "合并同类项"
+          ],
+          "skills": [
+            "整式运算",
+            "展开"
+          ],
+          "keywords": [
+            "多项式乘多项式"
+          ],
+          "diagnosis_tags": [
+            "整式运算",
+            "核心",
+            "整式的乘除"
+          ]
+        },
+        {
+          "id": "M7B-U1-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "乘法公式",
+          "name": "平方差公式",
+          "description": "掌握 (a+b)(a-b)=a²-b²，并能识别公式结构进行简算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "多项式乘多项式"
+          ],
+          "skills": [
+            "公式运用",
+            "简算"
+          ],
+          "keywords": [
+            "平方差公式"
+          ],
+          "diagnosis_tags": [
+            "乘法公式",
+            "核心",
+            "整式的乘除"
+          ]
+        },
+        {
+          "id": "M7B-U1-KP009",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "乘法公式",
+          "name": "完全平方公式",
+          "description": "掌握 (a+b)²=a²+2ab+b² 和 (a-b)²=a²-2ab+b²。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "多项式乘多项式"
+          ],
+          "skills": [
+            "公式运用",
+            "展开"
+          ],
+          "keywords": [
+            "完全平方公式"
+          ],
+          "diagnosis_tags": [
+            "乘法公式",
+            "核心",
+            "整式的乘除"
+          ]
+        },
+        {
+          "id": "M7B-U1-KP010",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U1",
+          "unit_no": 1,
+          "unit_name": "整式的乘除",
+          "unit_name_zh": "",
+          "category": "整式运算",
+          "name": "整式的除法",
+          "description": "掌握单项式除以单项式、多项式除以单项式的基本方法。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "同底数幂的除法",
+            "多项式"
+          ],
+          "skills": [
+            "整式运算"
+          ],
+          "keywords": [
+            "整式除法"
+          ],
+          "diagnosis_tags": [
+            "整式运算",
+            "核心",
+            "整式的乘除"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7B-U2",
+      "unit_no": 2,
+      "unit_name": "相交线与平行线",
+      "volume": "七年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7B-U2-KP001",
+        "M7B-U2-KP002",
+        "M7B-U2-KP003",
+        "M7B-U2-KP004",
+        "M7B-U2-KP005",
+        "M7B-U2-KP006",
+        "M7B-U2-KP007",
+        "M7B-U2-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7B-U2-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U2",
+          "unit_no": 2,
+          "unit_name": "相交线与平行线",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "相交线和平行线",
+          "description": "理解同一平面内两条直线相交或平行的位置关系。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "线段、射线、直线"
+          ],
+          "skills": [
+            "识图"
+          ],
+          "keywords": [
+            "相交线",
+            "平行线"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "基础",
+            "相交线与平行线"
+          ]
+        },
+        {
+          "id": "M7B-U2-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U2",
+          "unit_no": 2,
+          "unit_name": "相交线与平行线",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "对顶角",
+          "description": "理解对顶角的概念和对顶角相等的性质。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "角的概念与表示"
+          ],
+          "skills": [
+            "推理",
+            "计算"
+          ],
+          "keywords": [
+            "对顶角"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "相交线与平行线"
+          ]
+        },
+        {
+          "id": "M7B-U2-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U2",
+          "unit_no": 2,
+          "unit_name": "相交线与平行线",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "垂直",
+          "description": "理解垂直、垂线、垂足的概念，掌握过一点作已知直线垂线的基本事实。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "角的度量"
+          ],
+          "skills": [
+            "作图",
+            "识图"
+          ],
+          "keywords": [
+            "垂直",
+            "垂线",
+            "垂足"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "相交线与平行线"
+          ]
+        },
+        {
+          "id": "M7B-U2-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U2",
+          "unit_no": 2,
+          "unit_name": "相交线与平行线",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "点到直线的距离",
+          "description": "理解点到直线的距离是该点到直线垂线段的长度。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "垂直",
+            "线段的比较与和差"
+          ],
+          "skills": [
+            "度量",
+            "应用"
+          ],
+          "keywords": [
+            "点到直线距离",
+            "垂线段"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "相交线与平行线"
+          ]
+        },
+        {
+          "id": "M7B-U2-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U2",
+          "unit_no": 2,
+          "unit_name": "相交线与平行线",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "同位角、内错角、同旁内角",
+          "description": "认识由两条直线被第三条直线所截形成的同位角、内错角、同旁内角。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "角的概念与表示"
+          ],
+          "skills": [
+            "识图"
+          ],
+          "keywords": [
+            "同位角",
+            "内错角",
+            "同旁内角"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "相交线与平行线"
+          ]
+        },
+        {
+          "id": "M7B-U2-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U2",
+          "unit_no": 2,
+          "unit_name": "相交线与平行线",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "平行线判定",
+          "description": "掌握同位角相等、内错角相等、同旁内角互补可判定两直线平行。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "同位角、内错角、同旁内角"
+          ],
+          "skills": [
+            "几何推理"
+          ],
+          "keywords": [
+            "平行线判定"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "相交线与平行线"
+          ]
+        },
+        {
+          "id": "M7B-U2-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U2",
+          "unit_no": 2,
+          "unit_name": "相交线与平行线",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "平行线性质",
+          "description": "掌握两直线平行时同位角相等、内错角相等、同旁内角互补。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平行线判定"
+          ],
+          "skills": [
+            "几何推理",
+            "计算"
+          ],
+          "keywords": [
+            "平行线性质"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "核心",
+            "相交线与平行线"
+          ]
+        },
+        {
+          "id": "M7B-U2-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U2",
+          "unit_no": 2,
+          "unit_name": "相交线与平行线",
+          "unit_name_zh": "",
+          "category": "几何",
+          "name": "平行线判定与性质综合",
+          "description": "能区分判定和性质，在几何证明与角度计算中正确使用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "平行线判定",
+            "平行线性质"
+          ],
+          "skills": [
+            "证明",
+            "综合推理"
+          ],
+          "keywords": [
+            "判定",
+            "性质",
+            "角度计算"
+          ],
+          "diagnosis_tags": [
+            "几何",
+            "提高",
+            "相交线与平行线"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7B-U3",
+      "unit_no": 3,
+      "unit_name": "概率初步",
+      "volume": "七年级下册",
+      "knowledge_point_count": 7,
+      "knowledge_point_ids": [
+        "M7B-U3-KP001",
+        "M7B-U3-KP002",
+        "M7B-U3-KP003",
+        "M7B-U3-KP004",
+        "M7B-U3-KP005",
+        "M7B-U3-KP006",
+        "M7B-U3-KP007"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7B-U3-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U3",
+          "unit_no": 3,
+          "unit_name": "概率初步",
+          "unit_name_zh": "",
+          "category": "概率",
+          "name": "必然事件、不可能事件、随机事件",
+          "description": "理解必然事件、不可能事件、随机事件的含义，并能判断事件类型。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "分类",
+            "概率意识"
+          ],
+          "keywords": [
+            "必然事件",
+            "不可能事件",
+            "随机事件"
+          ],
+          "diagnosis_tags": [
+            "概率",
+            "基础",
+            "概率初步"
+          ]
+        },
+        {
+          "id": "M7B-U3-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U3",
+          "unit_no": 3,
+          "unit_name": "概率初步",
+          "unit_name_zh": "",
+          "category": "概率",
+          "name": "可能性大小",
+          "description": "能根据经验或实验判断随机事件发生可能性的大小。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "必然事件、不可能事件、随机事件"
+          ],
+          "skills": [
+            "判断",
+            "比较"
+          ],
+          "keywords": [
+            "可能性"
+          ],
+          "diagnosis_tags": [
+            "概率",
+            "基础",
+            "概率初步"
+          ]
+        },
+        {
+          "id": "M7B-U3-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U3",
+          "unit_no": 3,
+          "unit_name": "概率初步",
+          "unit_name_zh": "",
+          "category": "概率",
+          "name": "频率",
+          "description": "理解频率是事件发生次数与试验总次数的比值。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "可能性大小"
+          ],
+          "skills": [
+            "计算",
+            "实验统计"
+          ],
+          "keywords": [
+            "频率"
+          ],
+          "diagnosis_tags": [
+            "概率",
+            "核心",
+            "概率初步"
+          ]
+        },
+        {
+          "id": "M7B-U3-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U3",
+          "unit_no": 3,
+          "unit_name": "概率初步",
+          "unit_name_zh": "",
+          "category": "概率",
+          "name": "频率稳定性",
+          "description": "理解大量重复试验中频率会在某个数附近摆动，可用频率估计概率。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "频率"
+          ],
+          "skills": [
+            "实验",
+            "估计"
+          ],
+          "keywords": [
+            "频率稳定性",
+            "估计概率"
+          ],
+          "diagnosis_tags": [
+            "概率",
+            "核心",
+            "概率初步"
+          ]
+        },
+        {
+          "id": "M7B-U3-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U3",
+          "unit_no": 3,
+          "unit_name": "概率初步",
+          "unit_name_zh": "",
+          "category": "概率",
+          "name": "等可能结果",
+          "description": "理解等可能结果的含义，会判断简单试验结果是否等可能。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "随机事件"
+          ],
+          "skills": [
+            "判断"
+          ],
+          "keywords": [
+            "等可能"
+          ],
+          "diagnosis_tags": [
+            "概率",
+            "核心",
+            "概率初步"
+          ]
+        },
+        {
+          "id": "M7B-U3-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U3",
+          "unit_no": 3,
+          "unit_name": "概率初步",
+          "unit_name_zh": "",
+          "category": "概率",
+          "name": "简单概率计算",
+          "description": "掌握等可能事件概率=所关注结果数/所有等可能结果数。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "等可能结果"
+          ],
+          "skills": [
+            "计算",
+            "建模"
+          ],
+          "keywords": [
+            "概率公式"
+          ],
+          "diagnosis_tags": [
+            "概率",
+            "核心",
+            "概率初步"
+          ]
+        },
+        {
+          "id": "M7B-U3-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U3",
+          "unit_no": 3,
+          "unit_name": "概率初步",
+          "unit_name_zh": "",
+          "category": "概率",
+          "name": "列表和画树状图初步",
+          "description": "能用列表或树状图列举简单随机试验的所有可能结果。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "简单概率计算"
+          ],
+          "skills": [
+            "枚举",
+            "有序思考"
+          ],
+          "keywords": [
+            "列表",
+            "树状图"
+          ],
+          "diagnosis_tags": [
+            "概率",
+            "提高",
+            "概率初步"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7B-U4",
+      "unit_no": 4,
+      "unit_name": "三角形",
+      "volume": "七年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M7B-U4-KP001",
+        "M7B-U4-KP002",
+        "M7B-U4-KP003",
+        "M7B-U4-KP004",
+        "M7B-U4-KP005",
+        "M7B-U4-KP006",
+        "M7B-U4-KP007",
+        "M7B-U4-KP008",
+        "M7B-U4-KP009",
+        "M7B-U4-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7B-U4-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "三角形",
+          "name": "三角形的基本元素",
+          "description": "认识三角形的边、顶点、内角及表示方法。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "多边形初步"
+          ],
+          "skills": [
+            "识图",
+            "表示"
+          ],
+          "keywords": [
+            "三角形",
+            "边",
+            "角",
+            "顶点"
+          ],
+          "diagnosis_tags": [
+            "三角形",
+            "基础",
+            "三角形"
+          ]
+        },
+        {
+          "id": "M7B-U4-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "三角形",
+          "name": "三角形三边关系",
+          "description": "掌握三角形任意两边之和大于第三边，任意两边之差小于第三边。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "线段的比较与和差"
+          ],
+          "skills": [
+            "判断",
+            "计算"
+          ],
+          "keywords": [
+            "三边关系"
+          ],
+          "diagnosis_tags": [
+            "三角形",
+            "核心",
+            "三角形"
+          ]
+        },
+        {
+          "id": "M7B-U4-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "三角形",
+          "name": "三角形内角和",
+          "description": "掌握三角形内角和等于180°，并能进行角度计算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平行线性质",
+            "角的比较与和差"
+          ],
+          "skills": [
+            "推理",
+            "计算"
+          ],
+          "keywords": [
+            "内角和",
+            "180度"
+          ],
+          "diagnosis_tags": [
+            "三角形",
+            "核心",
+            "三角形"
+          ]
+        },
+        {
+          "id": "M7B-U4-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "三角形",
+          "name": "三角形分类",
+          "description": "能按边或角对三角形进行分类，如等腰三角形、等边三角形、直角三角形等。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "三角形的基本元素"
+          ],
+          "skills": [
+            "分类"
+          ],
+          "keywords": [
+            "等腰三角形",
+            "等边三角形",
+            "直角三角形"
+          ],
+          "diagnosis_tags": [
+            "三角形",
+            "基础",
+            "三角形"
+          ]
+        },
+        {
+          "id": "M7B-U4-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "三角形",
+          "name": "三角形的高、角平分线、中线",
+          "description": "理解并能作出三角形的高、角平分线、中线。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "垂直",
+            "角的比较与和差",
+            "线段的比较与和差"
+          ],
+          "skills": [
+            "作图",
+            "识图"
+          ],
+          "keywords": [
+            "高",
+            "角平分线",
+            "中线"
+          ],
+          "diagnosis_tags": [
+            "三角形",
+            "核心",
+            "三角形"
+          ]
+        },
+        {
+          "id": "M7B-U4-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "全等三角形",
+          "name": "全等三角形性质",
+          "description": "掌握全等三角形对应边相等、对应角相等，并能用于证明和计算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "三角形的基本元素"
+          ],
+          "skills": [
+            "推理",
+            "计算"
+          ],
+          "keywords": [
+            "全等三角形性质"
+          ],
+          "diagnosis_tags": [
+            "全等三角形",
+            "核心",
+            "三角形"
+          ]
+        },
+        {
+          "id": "M7B-U4-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "全等三角形",
+          "name": "SSS 判定",
+          "description": "掌握三边对应相等的两个三角形全等。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "全等三角形性质"
+          ],
+          "skills": [
+            "证明"
+          ],
+          "keywords": [
+            "SSS",
+            "边边边"
+          ],
+          "diagnosis_tags": [
+            "全等三角形",
+            "核心",
+            "三角形"
+          ]
+        },
+        {
+          "id": "M7B-U4-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "全等三角形",
+          "name": "SAS 判定",
+          "description": "掌握两边及其夹角对应相等的两个三角形全等。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "全等三角形性质"
+          ],
+          "skills": [
+            "证明"
+          ],
+          "keywords": [
+            "SAS",
+            "边角边"
+          ],
+          "diagnosis_tags": [
+            "全等三角形",
+            "核心",
+            "三角形"
+          ]
+        },
+        {
+          "id": "M7B-U4-KP009",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "全等三角形",
+          "name": "ASA 与 AAS 判定",
+          "description": "掌握两角及夹边、两角及其中一角的对边对应相等时三角形全等。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "三角形内角和",
+            "全等三角形性质"
+          ],
+          "skills": [
+            "证明"
+          ],
+          "keywords": [
+            "ASA",
+            "AAS",
+            "角边角",
+            "角角边"
+          ],
+          "diagnosis_tags": [
+            "全等三角形",
+            "核心",
+            "三角形"
+          ]
+        },
+        {
+          "id": "M7B-U4-KP010",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U4",
+          "unit_no": 4,
+          "unit_name": "三角形",
+          "unit_name_zh": "",
+          "category": "全等三角形",
+          "name": "HL 判定",
+          "description": "掌握直角三角形中斜边和一条直角边对应相等则全等。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "直角三角形",
+            "全等三角形性质"
+          ],
+          "skills": [
+            "证明"
+          ],
+          "keywords": [
+            "HL",
+            "斜边直角边"
+          ],
+          "diagnosis_tags": [
+            "全等三角形",
+            "提高",
+            "三角形"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7B-U5",
+      "unit_no": 5,
+      "unit_name": "图形的轴对称",
+      "volume": "七年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7B-U5-KP001",
+        "M7B-U5-KP002",
+        "M7B-U5-KP003",
+        "M7B-U5-KP004",
+        "M7B-U5-KP005",
+        "M7B-U5-KP006",
+        "M7B-U5-KP007",
+        "M7B-U5-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7B-U5-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U5",
+          "unit_no": 5,
+          "unit_name": "图形的轴对称",
+          "unit_name_zh": "",
+          "category": "轴对称",
+          "name": "轴对称图形",
+          "description": "理解轴对称图形和对称轴的概念，能识别常见轴对称图形。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "基本平面图形"
+          ],
+          "skills": [
+            "识图",
+            "分类"
+          ],
+          "keywords": [
+            "轴对称图形",
+            "对称轴"
+          ],
+          "diagnosis_tags": [
+            "轴对称",
+            "基础",
+            "图形的轴对称"
+          ]
+        },
+        {
+          "id": "M7B-U5-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U5",
+          "unit_no": 5,
+          "unit_name": "图形的轴对称",
+          "unit_name_zh": "",
+          "category": "轴对称",
+          "name": "两个图形成轴对称",
+          "description": "理解两个图形成轴对称时，对称轴垂直平分对应点连线。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "轴对称图形",
+            "垂直"
+          ],
+          "skills": [
+            "识图",
+            "推理"
+          ],
+          "keywords": [
+            "成轴对称",
+            "对应点"
+          ],
+          "diagnosis_tags": [
+            "轴对称",
+            "核心",
+            "图形的轴对称"
+          ]
+        },
+        {
+          "id": "M7B-U5-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U5",
+          "unit_no": 5,
+          "unit_name": "图形的轴对称",
+          "unit_name_zh": "",
+          "category": "轴对称",
+          "name": "轴对称性质",
+          "description": "掌握轴对称中对应线段相等、对应角相等、对应点连线被对称轴垂直平分。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "两个图形成轴对称"
+          ],
+          "skills": [
+            "推理",
+            "作图"
+          ],
+          "keywords": [
+            "轴对称性质",
+            "垂直平分"
+          ],
+          "diagnosis_tags": [
+            "轴对称",
+            "核心",
+            "图形的轴对称"
+          ]
+        },
+        {
+          "id": "M7B-U5-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U5",
+          "unit_no": 5,
+          "unit_name": "图形的轴对称",
+          "unit_name_zh": "",
+          "category": "轴对称",
+          "name": "画轴对称图形",
+          "description": "能根据对称轴作出已知图形的轴对称图形。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "轴对称性质"
+          ],
+          "skills": [
+            "尺规作图",
+            "空间想象"
+          ],
+          "keywords": [
+            "画对称图形"
+          ],
+          "diagnosis_tags": [
+            "轴对称",
+            "核心",
+            "图形的轴对称"
+          ]
+        },
+        {
+          "id": "M7B-U5-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U5",
+          "unit_no": 5,
+          "unit_name": "图形的轴对称",
+          "unit_name_zh": "",
+          "category": "轴对称",
+          "name": "线段垂直平分线",
+          "description": "理解线段垂直平分线上的点到线段两端距离相等及其逆命题。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "轴对称性质",
+            "点到直线的距离"
+          ],
+          "skills": [
+            "推理",
+            "作图"
+          ],
+          "keywords": [
+            "垂直平分线"
+          ],
+          "diagnosis_tags": [
+            "轴对称",
+            "核心",
+            "图形的轴对称"
+          ]
+        },
+        {
+          "id": "M7B-U5-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U5",
+          "unit_no": 5,
+          "unit_name": "图形的轴对称",
+          "unit_name_zh": "",
+          "category": "轴对称",
+          "name": "角平分线性质",
+          "description": "理解角平分线上的点到角两边距离相等及其逆命题。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "角平分线",
+            "点到直线的距离"
+          ],
+          "skills": [
+            "推理",
+            "作图"
+          ],
+          "keywords": [
+            "角平分线性质"
+          ],
+          "diagnosis_tags": [
+            "轴对称",
+            "核心",
+            "图形的轴对称"
+          ]
+        },
+        {
+          "id": "M7B-U5-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U5",
+          "unit_no": 5,
+          "unit_name": "图形的轴对称",
+          "unit_name_zh": "",
+          "category": "轴对称",
+          "name": "等腰三角形性质",
+          "description": "掌握等腰三角形两腰相等、底角相等、三线合一等性质。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "轴对称性质",
+            "三角形分类"
+          ],
+          "skills": [
+            "推理",
+            "计算"
+          ],
+          "keywords": [
+            "等腰三角形",
+            "三线合一"
+          ],
+          "diagnosis_tags": [
+            "轴对称",
+            "核心",
+            "图形的轴对称"
+          ]
+        },
+        {
+          "id": "M7B-U5-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U5",
+          "unit_no": 5,
+          "unit_name": "图形的轴对称",
+          "unit_name_zh": "",
+          "category": "轴对称",
+          "name": "等边三角形性质",
+          "description": "掌握等边三角形三边相等、三个角都为60°，并能进行判断与计算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "等腰三角形性质",
+            "三角形内角和"
+          ],
+          "skills": [
+            "推理",
+            "计算"
+          ],
+          "keywords": [
+            "等边三角形",
+            "60度"
+          ],
+          "diagnosis_tags": [
+            "轴对称",
+            "核心",
+            "图形的轴对称"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M7B-U6",
+      "unit_no": 6,
+      "unit_name": "变量之间的关系",
+      "volume": "七年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M7B-U6-KP001",
+        "M7B-U6-KP002",
+        "M7B-U6-KP003",
+        "M7B-U6-KP004",
+        "M7B-U6-KP005",
+        "M7B-U6-KP006",
+        "M7B-U6-KP007",
+        "M7B-U6-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M7B-U6-KP001",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U6",
+          "unit_no": 6,
+          "unit_name": "变量之间的关系",
+          "unit_name_zh": "",
+          "category": "变量关系",
+          "name": "变量与常量",
+          "description": "理解实际情境中的变量、常量，能识别自变量和因变量。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "代数式的概念"
+          ],
+          "skills": [
+            "建模",
+            "识别"
+          ],
+          "keywords": [
+            "变量",
+            "常量",
+            "自变量",
+            "因变量"
+          ],
+          "diagnosis_tags": [
+            "变量关系",
+            "基础",
+            "变量之间的关系"
+          ]
+        },
+        {
+          "id": "M7B-U6-KP002",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U6",
+          "unit_no": 6,
+          "unit_name": "变量之间的关系",
+          "unit_name_zh": "",
+          "category": "变量关系",
+          "name": "表格表示变量关系",
+          "description": "能用表格记录两个变量之间的对应关系，并从表格中读取变化信息。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "变量与常量",
+            "统计表"
+          ],
+          "skills": [
+            "读表",
+            "整理数据"
+          ],
+          "keywords": [
+            "表格",
+            "对应关系"
+          ],
+          "diagnosis_tags": [
+            "变量关系",
+            "基础",
+            "变量之间的关系"
+          ]
+        },
+        {
+          "id": "M7B-U6-KP003",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U6",
+          "unit_no": 6,
+          "unit_name": "变量之间的关系",
+          "unit_name_zh": "",
+          "category": "变量关系",
+          "name": "从表格分析变化趋势",
+          "description": "能根据表格判断因变量随自变量增大而增大、减小或先增后减等趋势。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "表格表示变量关系"
+          ],
+          "skills": [
+            "趋势分析"
+          ],
+          "keywords": [
+            "变化趋势"
+          ],
+          "diagnosis_tags": [
+            "变量关系",
+            "核心",
+            "变量之间的关系"
+          ]
+        },
+        {
+          "id": "M7B-U6-KP004",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U6",
+          "unit_no": 6,
+          "unit_name": "变量之间的关系",
+          "unit_name_zh": "",
+          "category": "变量关系",
+          "name": "关系式表示变量关系",
+          "description": "能用含有自变量的代数式表示因变量，理解关系式中的数量关系。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "变量与常量",
+            "代数式的概念"
+          ],
+          "skills": [
+            "建模",
+            "符号表示"
+          ],
+          "keywords": [
+            "关系式"
+          ],
+          "diagnosis_tags": [
+            "变量关系",
+            "核心",
+            "变量之间的关系"
+          ]
+        },
+        {
+          "id": "M7B-U6-KP005",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U6",
+          "unit_no": 6,
+          "unit_name": "变量之间的关系",
+          "unit_name_zh": "",
+          "category": "变量关系",
+          "name": "利用关系式求值",
+          "description": "能把自变量的值代入关系式，求出因变量的对应值。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "关系式表示变量关系",
+            "代数式的值"
+          ],
+          "skills": [
+            "代入",
+            "计算"
+          ],
+          "keywords": [
+            "代入求值"
+          ],
+          "diagnosis_tags": [
+            "变量关系",
+            "核心",
+            "变量之间的关系"
+          ]
+        },
+        {
+          "id": "M7B-U6-KP006",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U6",
+          "unit_no": 6,
+          "unit_name": "变量之间的关系",
+          "unit_name_zh": "",
+          "category": "变量关系",
+          "name": "图象表示变量关系",
+          "description": "理解用图象表示两个变量之间关系的思想。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "变量与常量",
+            "折线统计图"
+          ],
+          "skills": [
+            "读图",
+            "数形结合"
+          ],
+          "keywords": [
+            "图象",
+            "变量关系"
+          ],
+          "diagnosis_tags": [
+            "变量关系",
+            "核心",
+            "变量之间的关系"
+          ]
+        },
+        {
+          "id": "M7B-U6-KP007",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U6",
+          "unit_no": 6,
+          "unit_name": "变量之间的关系",
+          "unit_name_zh": "",
+          "category": "变量关系",
+          "name": "从图象读取信息",
+          "description": "能从图象中读取起点、终点、最大值、最小值、变化快慢等信息。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "图象表示变量关系"
+          ],
+          "skills": [
+            "读图",
+            "信息提取"
+          ],
+          "keywords": [
+            "最大值",
+            "最小值",
+            "变化快慢"
+          ],
+          "diagnosis_tags": [
+            "变量关系",
+            "核心",
+            "变量之间的关系"
+          ]
+        },
+        {
+          "id": "M7B-U6-KP008",
+          "grade": 7,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版七年级数学，按公开教材目录与初一常规教学诊断点整理。",
+          "volume": "七年级下册",
+          "unit_id": "M7B-U6",
+          "unit_no": 6,
+          "unit_name": "变量之间的关系",
+          "unit_name_zh": "",
+          "category": "变量关系",
+          "name": "表格、关系式、图象互相转化",
+          "description": "能在简单情境中把变量关系在表格、关系式、图象三种表示之间转化。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "表格表示变量关系",
+            "关系式表示变量关系",
+            "图象表示变量关系"
+          ],
+          "skills": [
+            "转化",
+            "综合建模"
+          ],
+          "keywords": [
+            "表格",
+            "关系式",
+            "图象"
+          ],
+          "diagnosis_tags": [
+            "变量关系",
+            "提高",
+            "变量之间的关系"
+          ]
+        }
+      ]
+    }
+  ]
+}
