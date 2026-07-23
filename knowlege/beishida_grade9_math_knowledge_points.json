@@ -1,0 +1,3199 @@
+{
+  "metadata": {
+    "name": "北师大版九年级数学上下册知识点库",
+    "grade": 9,
+    "subject": "数学",
+    "publisher": "北京师范大学出版社",
+    "edition_note": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+    "created_at": "2026-07-23",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 10,
+    "total_knowledge_points": 96,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "volume": "九年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M9-A-U1-KP001",
+        "M9-A-U1-KP002",
+        "M9-A-U1-KP003",
+        "M9-A-U1-KP004",
+        "M9-A-U1-KP005",
+        "M9-A-U1-KP006",
+        "M9-A-U1-KP007",
+        "M9-A-U1-KP008",
+        "M9-A-U1-KP009"
+      ]
+    },
+    {
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "volume": "九年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M9-A-U2-KP001",
+        "M9-A-U2-KP002",
+        "M9-A-U2-KP003",
+        "M9-A-U2-KP004",
+        "M9-A-U2-KP005",
+        "M9-A-U2-KP006",
+        "M9-A-U2-KP007",
+        "M9-A-U2-KP008",
+        "M9-A-U2-KP009",
+        "M9-A-U2-KP010"
+      ]
+    },
+    {
+      "unit_id": "M9-A-U3",
+      "unit_no": 3,
+      "unit_name": "概率的进一步认识",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9-A-U3-KP001",
+        "M9-A-U3-KP002",
+        "M9-A-U3-KP003",
+        "M9-A-U3-KP004",
+        "M9-A-U3-KP005",
+        "M9-A-U3-KP006",
+        "M9-A-U3-KP007",
+        "M9-A-U3-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "volume": "九年级上册",
+      "knowledge_point_count": 11,
+      "knowledge_point_ids": [
+        "M9-A-U4-KP001",
+        "M9-A-U4-KP002",
+        "M9-A-U4-KP003",
+        "M9-A-U4-KP004",
+        "M9-A-U4-KP005",
+        "M9-A-U4-KP006",
+        "M9-A-U4-KP007",
+        "M9-A-U4-KP008",
+        "M9-A-U4-KP009",
+        "M9-A-U4-KP010",
+        "M9-A-U4-KP011"
+      ]
+    },
+    {
+      "unit_id": "M9-A-U5",
+      "unit_no": 5,
+      "unit_name": "投影与视图",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9-A-U5-KP001",
+        "M9-A-U5-KP002",
+        "M9-A-U5-KP003",
+        "M9-A-U5-KP004",
+        "M9-A-U5-KP005",
+        "M9-A-U5-KP006",
+        "M9-A-U5-KP007",
+        "M9-A-U5-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "volume": "九年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M9-A-U6-KP001",
+        "M9-A-U6-KP002",
+        "M9-A-U6-KP003",
+        "M9-A-U6-KP004",
+        "M9-A-U6-KP005",
+        "M9-A-U6-KP006",
+        "M9-A-U6-KP007",
+        "M9-A-U6-KP008",
+        "M9-A-U6-KP009"
+      ]
+    },
+    {
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "volume": "九年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M9-B-U1-KP001",
+        "M9-B-U1-KP002",
+        "M9-B-U1-KP003",
+        "M9-B-U1-KP004",
+        "M9-B-U1-KP005",
+        "M9-B-U1-KP006",
+        "M9-B-U1-KP007",
+        "M9-B-U1-KP008",
+        "M9-B-U1-KP009",
+        "M9-B-U1-KP010"
+      ]
+    },
+    {
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "volume": "九年级下册",
+      "knowledge_point_count": 11,
+      "knowledge_point_ids": [
+        "M9-B-U2-KP001",
+        "M9-B-U2-KP002",
+        "M9-B-U2-KP003",
+        "M9-B-U2-KP004",
+        "M9-B-U2-KP005",
+        "M9-B-U2-KP006",
+        "M9-B-U2-KP007",
+        "M9-B-U2-KP008",
+        "M9-B-U2-KP009",
+        "M9-B-U2-KP010",
+        "M9-B-U2-KP011"
+      ]
+    },
+    {
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "volume": "九年级下册",
+      "knowledge_point_count": 12,
+      "knowledge_point_ids": [
+        "M9-B-U3-KP001",
+        "M9-B-U3-KP002",
+        "M9-B-U3-KP003",
+        "M9-B-U3-KP004",
+        "M9-B-U3-KP005",
+        "M9-B-U3-KP006",
+        "M9-B-U3-KP007",
+        "M9-B-U3-KP008",
+        "M9-B-U3-KP009",
+        "M9-B-U3-KP010",
+        "M9-B-U3-KP011",
+        "M9-B-U3-KP012"
+      ]
+    },
+    {
+      "unit_id": "M9-B-U4",
+      "unit_no": 4,
+      "unit_name": "统计与概率综合",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9-B-U4-KP001",
+        "M9-B-U4-KP002",
+        "M9-B-U4-KP003",
+        "M9-B-U4-KP004",
+        "M9-B-U4-KP005",
+        "M9-B-U4-KP006",
+        "M9-B-U4-KP007",
+        "M9-B-U4-KP008"
+      ]
+    }
+  ],
+  "knowledge_points": [
+    {
+      "id": "M9-A-U1-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "矩形的定义与性质",
+      "description": "掌握“矩形的定义与性质”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "矩形",
+        "定义",
+        "性质"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "基础",
+        "特殊平行四边形"
+      ]
+    },
+    {
+      "id": "M9-A-U1-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "矩形的判定",
+      "description": "掌握“矩形的判定”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "矩形的定义与性质"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "矩形",
+        "判定"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "特殊平行四边形"
+      ]
+    },
+    {
+      "id": "M9-A-U1-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "菱形的定义与性质",
+      "description": "掌握“菱形的定义与性质”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "矩形的判定"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "菱形",
+        "定义",
+        "性质"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "特殊平行四边形"
+      ]
+    },
+    {
+      "id": "M9-A-U1-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "菱形的判定",
+      "description": "掌握“菱形的判定”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "菱形的定义与性质"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "菱形",
+        "判定"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "特殊平行四边形"
+      ]
+    },
+    {
+      "id": "M9-A-U1-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "正方形的性质",
+      "description": "掌握“正方形的性质”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "菱形的判定"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "正方形",
+        "性质"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "提高",
+        "特殊平行四边形"
+      ]
+    },
+    {
+      "id": "M9-A-U1-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "正方形的判定",
+      "description": "掌握“正方形的判定”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "正方形的性质"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "正方形",
+        "判定"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "提高",
+        "特殊平行四边形"
+      ]
+    },
+    {
+      "id": "M9-A-U1-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "特殊平行四边形关系辨析",
+      "description": "掌握“特殊平行四边形关系辨析”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "正方形的判定"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "特殊平行四边形关系辨析"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "特殊平行四边形"
+      ]
+    },
+    {
+      "id": "M9-A-U1-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "中点四边形",
+      "description": "掌握“中点四边形”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "特殊平行四边形关系辨析"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "中点四边形"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "特殊平行四边形"
+      ]
+    },
+    {
+      "id": "M9-A-U1-KP009",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U1",
+      "unit_no": 1,
+      "unit_name": "特殊平行四边形",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "特殊四边形综合证明",
+      "description": "掌握“特殊四边形综合证明”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "中点四边形"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "特殊四边形综合证明"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "提高",
+        "特殊平行四边形"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "方程",
+      "name": "一元二次方程的概念",
+      "description": "掌握“一元二次方程的概念”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "一元二次方程",
+        "概念"
+      ],
+      "diagnosis_tags": [
+        "方程",
+        "基础",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "直接开平方法",
+      "description": "掌握“直接开平方法”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "一元二次方程的概念"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "直接开平方法"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "方程",
+      "name": "配方法解一元二次方程",
+      "description": "掌握“配方法解一元二次方程”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "直接开平方法"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "配方法解一元二次方程"
+      ],
+      "diagnosis_tags": [
+        "方程",
+        "核心",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "方程",
+      "name": "公式法解一元二次方程",
+      "description": "掌握“公式法解一元二次方程”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "配方法解一元二次方程"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "公式法解一元二次方程"
+      ],
+      "diagnosis_tags": [
+        "方程",
+        "核心",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "方程",
+      "name": "因式分解法解一元二次方程",
+      "description": "掌握“因式分解法解一元二次方程”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "公式法解一元二次方程"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "因式分解法解一元二次方程"
+      ],
+      "diagnosis_tags": [
+        "方程",
+        "提高",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "方程",
+      "name": "根的判别式",
+      "description": "掌握“根的判别式”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "因式分解法解一元二次方程"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "根",
+        "判别式"
+      ],
+      "diagnosis_tags": [
+        "方程",
+        "提高",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "方程",
+      "name": "一元二次方程根与系数关系初步",
+      "description": "掌握“一元二次方程根与系数关系初步”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "根的判别式"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "一元二次方程根",
+        "系数关系初步"
+      ],
+      "diagnosis_tags": [
+        "方程",
+        "核心",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "增长率问题",
+      "description": "掌握“增长率问题”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "一元二次方程根与系数关系初步"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "增长率问题"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP009",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "面积问题建模",
+      "description": "掌握“面积问题建模”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "增长率问题"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "面积问题建模"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "提高",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U2-KP010",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U2",
+      "unit_no": 2,
+      "unit_name": "一元二次方程",
+      "unit_name_zh": "",
+      "category": "方程",
+      "name": "一元二次方程应用题检验",
+      "description": "掌握“一元二次方程应用题检验”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "面积问题建模"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "一元二次方程应用题检验"
+      ],
+      "diagnosis_tags": [
+        "方程",
+        "核心",
+        "一元二次方程"
+      ]
+    },
+    {
+      "id": "M9-A-U3-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U3",
+      "unit_no": 3,
+      "unit_name": "概率的进一步认识",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "频率估计概率",
+      "description": "掌握“频率估计概率”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "频率估计概率"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "基础",
+        "概率的进一步认识"
+      ]
+    },
+    {
+      "id": "M9-A-U3-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U3",
+      "unit_no": 3,
+      "unit_name": "概率的进一步认识",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "列表法求概率",
+      "description": "掌握“列表法求概率”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "频率估计概率"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "列表法求概率"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "核心",
+        "概率的进一步认识"
+      ]
+    },
+    {
+      "id": "M9-A-U3-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U3",
+      "unit_no": 3,
+      "unit_name": "概率的进一步认识",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "树状图法求概率",
+      "description": "掌握“树状图法求概率”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "列表法求概率"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "树状图法求概率"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "核心",
+        "概率的进一步认识"
+      ]
+    },
+    {
+      "id": "M9-A-U3-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U3",
+      "unit_no": 3,
+      "unit_name": "概率的进一步认识",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "等可能事件概率",
+      "description": "掌握“等可能事件概率”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "树状图法求概率"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "等可能事件概率"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "核心",
+        "概率的进一步认识"
+      ]
+    },
+    {
+      "id": "M9-A-U3-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U3",
+      "unit_no": 3,
+      "unit_name": "概率的进一步认识",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "非等可能事件概率初步",
+      "description": "掌握“非等可能事件概率初步”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "等可能事件概率"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "非等可能事件概率初步"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "提高",
+        "概率的进一步认识"
+      ]
+    },
+    {
+      "id": "M9-A-U3-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U3",
+      "unit_no": 3,
+      "unit_name": "概率的进一步认识",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "几何概率初步",
+      "description": "掌握“几何概率初步”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "非等可能事件概率初步"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "几何概率初步"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "提高",
+        "概率的进一步认识"
+      ]
+    },
+    {
+      "id": "M9-A-U3-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U3",
+      "unit_no": 3,
+      "unit_name": "概率的进一步认识",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "用概率作决策",
+      "description": "掌握“用概率作决策”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "几何概率初步"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "用概率作决策"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "核心",
+        "概率的进一步认识"
+      ]
+    },
+    {
+      "id": "M9-A-U3-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U3",
+      "unit_no": 3,
+      "unit_name": "概率的进一步认识",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "概率综合应用",
+      "description": "掌握“概率综合应用”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "用概率作决策"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "概率综合应用"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "核心",
+        "概率的进一步认识"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "比例线段",
+      "description": "掌握“比例线段”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "比例线段"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "基础",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "相似多边形",
+      "description": "掌握“相似多边形”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "比例线段"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "相似多边形"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "核心",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "相似三角形定义",
+      "description": "掌握“相似三角形定义”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "相似多边形"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "相似三角形定义"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "核心",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "相似三角形判定 AA",
+      "description": "掌握“相似三角形判定 AA”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "相似三角形定义"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "相似三角形判定",
+        "AA"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "核心",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "相似三角形判定 SAS",
+      "description": "掌握“相似三角形判定 SAS”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "相似三角形判定 AA"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "相似三角形判定",
+        "SAS"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "提高",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "相似三角形判定 SSS",
+      "description": "掌握“相似三角形判定 SSS”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "相似三角形判定 SAS"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "相似三角形判定",
+        "SSS"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "提高",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "相似三角形性质",
+      "description": "掌握“相似三角形性质”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "相似三角形判定 SSS"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "相似三角形性质"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "核心",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "相似三角形面积比",
+      "description": "掌握“相似三角形面积比”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "相似三角形性质"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "相似三角形面积比"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "核心",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP009",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "位似图形",
+      "description": "掌握“位似图形”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "相似三角形面积比"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "位似图形"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "提高",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP010",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "相似实际测量",
+      "description": "掌握“相似实际测量”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "位似图形"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "相似实际测量"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "核心",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U4-KP011",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U4",
+      "unit_no": 4,
+      "unit_name": "图形的相似",
+      "unit_name_zh": "",
+      "category": "相似",
+      "name": "相似综合证明",
+      "description": "掌握“相似综合证明”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "相似实际测量"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "相似综合证明"
+      ],
+      "diagnosis_tags": [
+        "相似",
+        "核心",
+        "图形的相似"
+      ]
+    },
+    {
+      "id": "M9-A-U5-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U5",
+      "unit_no": 5,
+      "unit_name": "投影与视图",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "中心投影",
+      "description": "掌握“中心投影”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "中心投影"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "基础",
+        "投影与视图"
+      ]
+    },
+    {
+      "id": "M9-A-U5-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U5",
+      "unit_no": 5,
+      "unit_name": "投影与视图",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "平行投影",
+      "description": "掌握“平行投影”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "中心投影"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "平行投影"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "投影与视图"
+      ]
+    },
+    {
+      "id": "M9-A-U5-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U5",
+      "unit_no": 5,
+      "unit_name": "投影与视图",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "正投影",
+      "description": "掌握“正投影”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "平行投影"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "正投影"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "投影与视图"
+      ]
+    },
+    {
+      "id": "M9-A-U5-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U5",
+      "unit_no": 5,
+      "unit_name": "投影与视图",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "三视图识别",
+      "description": "掌握“三视图识别”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "正投影"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "三视图识别"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "投影与视图"
+      ]
+    },
+    {
+      "id": "M9-A-U5-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U5",
+      "unit_no": 5,
+      "unit_name": "投影与视图",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "由实物画三视图",
+      "description": "掌握“由实物画三视图”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "三视图识别"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "由实物画三视图"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "提高",
+        "投影与视图"
+      ]
+    },
+    {
+      "id": "M9-A-U5-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U5",
+      "unit_no": 5,
+      "unit_name": "投影与视图",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "由三视图还原立体图形",
+      "description": "掌握“由三视图还原立体图形”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "由实物画三视图"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "由三视图还原立体图形"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "提高",
+        "投影与视图"
+      ]
+    },
+    {
+      "id": "M9-A-U5-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U5",
+      "unit_no": 5,
+      "unit_name": "投影与视图",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "三视图中的面积与体积",
+      "description": "掌握“三视图中的面积与体积”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "由三视图还原立体图形"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "三视图中",
+        "面积",
+        "体积"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "投影与视图"
+      ]
+    },
+    {
+      "id": "M9-A-U5-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U5",
+      "unit_no": 5,
+      "unit_name": "投影与视图",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "投影与视图综合应用",
+      "description": "掌握“投影与视图综合应用”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "三视图中的面积与体积"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "投影",
+        "视图综合应用"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "投影与视图"
+      ]
+    },
+    {
+      "id": "M9-A-U6-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "反比例函数概念",
+      "description": "掌握“反比例函数概念”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "反比例函数概念"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "基础",
+        "反比例函数"
+      ]
+    },
+    {
+      "id": "M9-A-U6-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "反比例函数解析式 y=k/x",
+      "description": "掌握“反比例函数解析式 y=k/x”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "反比例函数概念"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "反比例函数解析式",
+        "y=k",
+        "x"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "反比例函数"
+      ]
+    },
+    {
+      "id": "M9-A-U6-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "待定系数法求反比例函数",
+      "description": "掌握“待定系数法求反比例函数”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "反比例函数解析式 y=k/x"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "待定系数法求反比例函数"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "反比例函数"
+      ]
+    },
+    {
+      "id": "M9-A-U6-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "反比例函数图象",
+      "description": "掌握“反比例函数图象”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "待定系数法求反比例函数"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "反比例函数图象"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "反比例函数"
+      ]
+    },
+    {
+      "id": "M9-A-U6-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "反比例函数性质",
+      "description": "掌握“反比例函数性质”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "反比例函数图象"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "反比例函数性质"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "提高",
+        "反比例函数"
+      ]
+    },
+    {
+      "id": "M9-A-U6-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "k 的几何意义",
+      "description": "掌握“k 的几何意义”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "反比例函数性质"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "k",
+        "几何意义"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "提高",
+        "反比例函数"
+      ]
+    },
+    {
+      "id": "M9-A-U6-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "反比例函数与一次函数交点",
+      "description": "掌握“反比例函数与一次函数交点”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "k 的几何意义"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "反比例函数",
+        "一次函数交点"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "反比例函数"
+      ]
+    },
+    {
+      "id": "M9-A-U6-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "反比例函数实际应用",
+      "description": "掌握“反比例函数实际应用”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "反比例函数与一次函数交点"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "反比例函数实际应用"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "反比例函数"
+      ]
+    },
+    {
+      "id": "M9-A-U6-KP009",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9-A-U6",
+      "unit_no": 6,
+      "unit_name": "反比例函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "反比例函数综合题",
+      "description": "掌握“反比例函数综合题”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "反比例函数实际应用"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "反比例函数综合题"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "提高",
+        "反比例函数"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "锐角三角函数概念",
+      "description": "掌握“锐角三角函数概念”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "锐角三角函数概念"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "基础",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "正弦",
+      "description": "掌握“正弦”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "锐角三角函数概念"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "正弦"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "余弦",
+      "description": "掌握“余弦”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "正弦"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "余弦"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "正切",
+      "description": "掌握“正切”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "余弦"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "正切"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "特殊角三角函数值",
+      "description": "掌握“特殊角三角函数值”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "正切"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "特殊角三角函数值"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "提高",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "解直角三角形",
+      "description": "掌握“解直角三角形”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "特殊角三角函数值"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "解直角三角形"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "提高",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "仰角俯角问题",
+      "description": "掌握“仰角俯角问题”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "解直角三角形"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "仰角俯角问题"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "坡度坡角问题",
+      "description": "掌握“坡度坡角问题”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "仰角俯角问题"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "坡度坡角问题"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP009",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "测高测距应用",
+      "description": "掌握“测高测距应用”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "坡度坡角问题"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "测高测距应用"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "提高",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U1-KP010",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U1",
+      "unit_no": 1,
+      "unit_name": "直角三角形的边角关系",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "三角函数综合应用",
+      "description": "掌握“三角函数综合应用”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "测高测距应用"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "三角函数综合应用"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "直角三角形的边角关系"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "二次函数概念",
+      "description": "掌握“二次函数概念”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "二次函数概念"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "基础",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "y=ax² 的图象和性质",
+      "description": "掌握“y=ax² 的图象和性质”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "二次函数概念"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "y=ax²",
+        "图象",
+        "性质"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "y=a(x-h)²+k 的图象和性质",
+      "description": "掌握“y=a(x-h)²+k 的图象和性质”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "y=ax² 的图象和性质"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "y=a(x-h)²+k",
+        "图象",
+        "性质"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "二次函数一般式",
+      "description": "掌握“二次函数一般式”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "y=a(x-h)²+k 的图象和性质"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "二次函数一般式"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "二次函数顶点式",
+      "description": "掌握“二次函数顶点式”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "二次函数一般式"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "二次函数顶点式"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "提高",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "二次函数图象平移",
+      "description": "掌握“二次函数图象平移”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "二次函数顶点式"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "二次函数图象平移"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "提高",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "抛物线开口与对称轴",
+      "description": "掌握“抛物线开口与对称轴”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "二次函数图象平移"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "抛物线开口",
+        "对称轴"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "二次函数最值",
+      "description": "掌握“二次函数最值”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "抛物线开口与对称轴"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "二次函数最值"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP009",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "二次函数与一元二次方程",
+      "description": "掌握“二次函数与一元二次方程”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "二次函数最值"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "二次函数",
+        "一元二次方程"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "提高",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP010",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "二次函数应用题",
+      "description": "掌握“二次函数应用题”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "二次函数与一元二次方程"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "二次函数应用题"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U2-KP011",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U2",
+      "unit_no": 2,
+      "unit_name": "二次函数",
+      "unit_name_zh": "",
+      "category": "函数",
+      "name": "二次函数综合题",
+      "description": "掌握“二次函数综合题”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "二次函数应用题"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "二次函数综合题"
+      ],
+      "diagnosis_tags": [
+        "函数",
+        "核心",
+        "二次函数"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "圆的有关概念",
+      "description": "掌握“圆的有关概念”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "圆",
+        "有关概念"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "基础",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "垂径定理",
+      "description": "掌握“垂径定理”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "圆的有关概念"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "垂径定理"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "圆心角弧弦关系",
+      "description": "掌握“圆心角弧弦关系”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "垂径定理"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "圆心角弧弦关系"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "核心",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "圆周角定理",
+      "description": "掌握“圆周角定理”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "圆心角弧弦关系"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "圆周角定理"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "核心",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "点和圆的位置关系",
+      "description": "掌握“点和圆的位置关系”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "圆周角定理"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "点",
+        "圆",
+        "位置关系"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "提高",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "直线和圆的位置关系",
+      "description": "掌握“直线和圆的位置关系”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "点和圆的位置关系"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "直线",
+        "圆",
+        "位置关系"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "提高",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "切线的判定",
+      "description": "掌握“切线的判定”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "直线和圆的位置关系"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "切线",
+        "判定"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "核心",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "切线的性质",
+      "description": "掌握“切线的性质”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "切线的判定"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "切线",
+        "性质"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "核心",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP009",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "三角形的内切圆与外接圆",
+      "description": "掌握“三角形的内切圆与外接圆”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "切线的性质"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "三角形",
+        "内切圆",
+        "外接圆"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "提高",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP010",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "弧长公式",
+      "description": "掌握“弧长公式”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "三角形的内切圆与外接圆"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "弧长公式"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "核心",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP011",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "扇形面积公式",
+      "description": "掌握“扇形面积公式”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "弧长公式"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "扇形面积公式"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "核心",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U3-KP012",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U3",
+      "unit_no": 3,
+      "unit_name": "圆",
+      "unit_name_zh": "",
+      "category": "圆",
+      "name": "圆综合证明",
+      "description": "掌握“圆综合证明”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "扇形面积公式"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "圆综合证明"
+      ],
+      "diagnosis_tags": [
+        "圆",
+        "提高",
+        "圆"
+      ]
+    },
+    {
+      "id": "M9-B-U4-KP001",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U4",
+      "unit_no": 4,
+      "unit_name": "统计与概率综合",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "总体样本个体",
+      "description": "掌握“总体样本个体”的概念、方法和常见题型。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "总体样本个体"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "基础",
+        "统计与概率综合"
+      ]
+    },
+    {
+      "id": "M9-B-U4-KP002",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U4",
+      "unit_no": 4,
+      "unit_name": "统计与概率综合",
+      "unit_name_zh": "",
+      "category": "几何",
+      "name": "抽样调查方案",
+      "description": "掌握“抽样调查方案”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "总体样本个体"
+      ],
+      "skills": [
+        "推理证明",
+        "数形结合"
+      ],
+      "keywords": [
+        "抽样调查方案"
+      ],
+      "diagnosis_tags": [
+        "几何",
+        "核心",
+        "统计与概率综合"
+      ]
+    },
+    {
+      "id": "M9-B-U4-KP003",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U4",
+      "unit_no": 4,
+      "unit_name": "统计与概率综合",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "频数分布表",
+      "description": "掌握“频数分布表”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "抽样调查方案"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "频数分布表"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "核心",
+        "统计与概率综合"
+      ]
+    },
+    {
+      "id": "M9-B-U4-KP004",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U4",
+      "unit_no": 4,
+      "unit_name": "统计与概率综合",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "频数分布直方图",
+      "description": "掌握“频数分布直方图”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "频数分布表"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "频数分布直方图"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "核心",
+        "统计与概率综合"
+      ]
+    },
+    {
+      "id": "M9-B-U4-KP005",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U4",
+      "unit_no": 4,
+      "unit_name": "统计与概率综合",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "平均数中位数众数综合",
+      "description": "掌握“平均数中位数众数综合”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "频数分布直方图"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "平均数中位数众数综合"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "提高",
+        "统计与概率综合"
+      ]
+    },
+    {
+      "id": "M9-B-U4-KP006",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U4",
+      "unit_no": 4,
+      "unit_name": "统计与概率综合",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "方差与稳定性",
+      "description": "掌握“方差与稳定性”的概念、方法和常见题型。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "平均数中位数众数综合"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "方差",
+        "稳定性"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "提高",
+        "统计与概率综合"
+      ]
+    },
+    {
+      "id": "M9-B-U4-KP007",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U4",
+      "unit_no": 4,
+      "unit_name": "统计与概率综合",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "统计量选择",
+      "description": "掌握“统计量选择”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "方差与稳定性"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "统计量选择"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "核心",
+        "统计与概率综合"
+      ]
+    },
+    {
+      "id": "M9-B-U4-KP008",
+      "grade": 9,
+      "subject": "数学",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版九年级数学，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9-B-U4",
+      "unit_no": 4,
+      "unit_name": "统计与概率综合",
+      "unit_name_zh": "",
+      "category": "统计与概率",
+      "name": "概率与统计综合决策",
+      "description": "掌握“概率与统计综合决策”的概念、方法和常见题型。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "统计量选择"
+      ],
+      "skills": [
+        "理解概念",
+        "解题应用"
+      ],
+      "keywords": [
+        "概率",
+        "统计综合决策"
+      ],
+      "diagnosis_tags": [
+        "统计与概率",
+        "核心",
+        "统计与概率综合"
+      ]
+    }
+  ]
+}

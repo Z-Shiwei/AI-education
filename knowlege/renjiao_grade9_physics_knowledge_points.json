@@ -1,0 +1,3118 @@
+{
+  "metadata": {
+    "name": "人教版九年级物理上下册知识点库",
+    "grade": 9,
+    "subject": "物理",
+    "publisher": "人民教育出版社",
+    "edition_note": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+    "created_at": "2026-07-23",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 10,
+    "total_knowledge_points": 94,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "volume": "九年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P9-A-U13-KP001",
+        "P9-A-U13-KP002",
+        "P9-A-U13-KP003",
+        "P9-A-U13-KP004",
+        "P9-A-U13-KP005",
+        "P9-A-U13-KP006",
+        "P9-A-U13-KP007",
+        "P9-A-U13-KP008",
+        "P9-A-U13-KP009",
+        "P9-A-U13-KP010"
+      ]
+    },
+    {
+      "unit_id": "P9-A-U14",
+      "unit_no": 14,
+      "unit_name": "内能的利用",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "P9-A-U14-KP001",
+        "P9-A-U14-KP002",
+        "P9-A-U14-KP003",
+        "P9-A-U14-KP004",
+        "P9-A-U14-KP005",
+        "P9-A-U14-KP006",
+        "P9-A-U14-KP007",
+        "P9-A-U14-KP008"
+      ]
+    },
+    {
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "volume": "九年级上册",
+      "knowledge_point_count": 12,
+      "knowledge_point_ids": [
+        "P9-A-U15-KP001",
+        "P9-A-U15-KP002",
+        "P9-A-U15-KP003",
+        "P9-A-U15-KP004",
+        "P9-A-U15-KP005",
+        "P9-A-U15-KP006",
+        "P9-A-U15-KP007",
+        "P9-A-U15-KP008",
+        "P9-A-U15-KP009",
+        "P9-A-U15-KP010",
+        "P9-A-U15-KP011",
+        "P9-A-U15-KP012"
+      ]
+    },
+    {
+      "unit_id": "P9-A-U16",
+      "unit_no": 16,
+      "unit_name": "电压 电阻",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "P9-A-U16-KP001",
+        "P9-A-U16-KP002",
+        "P9-A-U16-KP003",
+        "P9-A-U16-KP004",
+        "P9-A-U16-KP005",
+        "P9-A-U16-KP006",
+        "P9-A-U16-KP007",
+        "P9-A-U16-KP008"
+      ]
+    },
+    {
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "volume": "九年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "P9-A-U17-KP001",
+        "P9-A-U17-KP002",
+        "P9-A-U17-KP003",
+        "P9-A-U17-KP004",
+        "P9-A-U17-KP005",
+        "P9-A-U17-KP006",
+        "P9-A-U17-KP007",
+        "P9-A-U17-KP008",
+        "P9-A-U17-KP009"
+      ]
+    },
+    {
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "volume": "九年级下册",
+      "knowledge_point_count": 11,
+      "knowledge_point_ids": [
+        "P9-B-U18-KP001",
+        "P9-B-U18-KP002",
+        "P9-B-U18-KP003",
+        "P9-B-U18-KP004",
+        "P9-B-U18-KP005",
+        "P9-B-U18-KP006",
+        "P9-B-U18-KP007",
+        "P9-B-U18-KP008",
+        "P9-B-U18-KP009",
+        "P9-B-U18-KP010",
+        "P9-B-U18-KP011"
+      ]
+    },
+    {
+      "unit_id": "P9-B-U19",
+      "unit_no": 19,
+      "unit_name": "生活用电",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "P9-B-U19-KP001",
+        "P9-B-U19-KP002",
+        "P9-B-U19-KP003",
+        "P9-B-U19-KP004",
+        "P9-B-U19-KP005",
+        "P9-B-U19-KP006",
+        "P9-B-U19-KP007",
+        "P9-B-U19-KP008"
+      ]
+    },
+    {
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "volume": "九年级下册",
+      "knowledge_point_count": 12,
+      "knowledge_point_ids": [
+        "P9-B-U20-KP001",
+        "P9-B-U20-KP002",
+        "P9-B-U20-KP003",
+        "P9-B-U20-KP004",
+        "P9-B-U20-KP005",
+        "P9-B-U20-KP006",
+        "P9-B-U20-KP007",
+        "P9-B-U20-KP008",
+        "P9-B-U20-KP009",
+        "P9-B-U20-KP010",
+        "P9-B-U20-KP011",
+        "P9-B-U20-KP012"
+      ]
+    },
+    {
+      "unit_id": "P9-B-U21",
+      "unit_no": 21,
+      "unit_name": "信息的传递",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "P9-B-U21-KP001",
+        "P9-B-U21-KP002",
+        "P9-B-U21-KP003",
+        "P9-B-U21-KP004",
+        "P9-B-U21-KP005",
+        "P9-B-U21-KP006",
+        "P9-B-U21-KP007",
+        "P9-B-U21-KP008"
+      ]
+    },
+    {
+      "unit_id": "P9-B-U22",
+      "unit_no": 22,
+      "unit_name": "能源与可持续发展",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "P9-B-U22-KP001",
+        "P9-B-U22-KP002",
+        "P9-B-U22-KP003",
+        "P9-B-U22-KP004",
+        "P9-B-U22-KP005",
+        "P9-B-U22-KP006",
+        "P9-B-U22-KP007",
+        "P9-B-U22-KP008"
+      ]
+    }
+  ],
+  "knowledge_points": [
+    {
+      "id": "P9-A-U13-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "分子热运动",
+      "description": "理解“分子热运动”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "分子热运动"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U13-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "扩散现象",
+      "description": "理解“扩散现象”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "分子热运动"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "扩散现象"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U13-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "分子间作用力",
+      "description": "理解“分子间作用力”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "扩散现象"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "分子间作用力"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U13-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "内能概念",
+      "description": "理解“内能概念”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "分子间作用力"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "内能概念"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U13-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "改变内能的两种方式",
+      "description": "理解“改变内能的两种方式”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "内能概念"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "改变内能",
+        "两种方式"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U13-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "热量概念",
+      "description": "理解“热量概念”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "改变内能的两种方式"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "热量概念"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "提高",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U13-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "比热容",
+      "description": "理解“比热容”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "热量概念"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "比热容"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U13-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "热量计算 Q=cmΔt",
+      "description": "理解“热量计算 Q=cmΔt”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "比热容"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "热量计算",
+        "Q=cmΔt"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "核心",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U13-KP009",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "水的比热容应用",
+      "description": "理解“水的比热容应用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "热量计算 Q=cmΔt"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "水",
+        "比热容应用"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U13-KP010",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U13",
+      "unit_no": 13,
+      "unit_name": "内能",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "内能实验探究",
+      "description": "理解“内能实验探究”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "水的比热容应用"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "内能实验探究"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "核心",
+        "内能"
+      ]
+    },
+    {
+      "id": "P9-A-U14-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U14",
+      "unit_no": 14,
+      "unit_name": "内能的利用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "热机原理",
+      "description": "理解“热机原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "热机原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "内能的利用"
+      ]
+    },
+    {
+      "id": "P9-A-U14-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U14",
+      "unit_no": 14,
+      "unit_name": "内能的利用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "汽油机四冲程",
+      "description": "理解“汽油机四冲程”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "热机原理"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "汽油机四冲程"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "内能的利用"
+      ]
+    },
+    {
+      "id": "P9-A-U14-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U14",
+      "unit_no": 14,
+      "unit_name": "内能的利用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "柴油机特点",
+      "description": "理解“柴油机特点”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "汽油机四冲程"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "柴油机特点"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "内能的利用"
+      ]
+    },
+    {
+      "id": "P9-A-U14-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U14",
+      "unit_no": 14,
+      "unit_name": "内能的利用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "燃料热值",
+      "description": "理解“燃料热值”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "柴油机特点"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "燃料热值"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "内能的利用"
+      ]
+    },
+    {
+      "id": "P9-A-U14-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U14",
+      "unit_no": 14,
+      "unit_name": "内能的利用",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "燃料完全燃烧放热计算",
+      "description": "理解“燃料完全燃烧放热计算”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "燃料热值"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "燃料完全燃烧放热计算"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "提高",
+        "内能的利用"
+      ]
+    },
+    {
+      "id": "P9-A-U14-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U14",
+      "unit_no": 14,
+      "unit_name": "内能的利用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "热机效率",
+      "description": "理解“热机效率”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "燃料完全燃烧放热计算"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "热机效率"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "内能的利用"
+      ]
+    },
+    {
+      "id": "P9-A-U14-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U14",
+      "unit_no": 14,
+      "unit_name": "内能的利用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "能量转化和守恒",
+      "description": "理解“能量转化和守恒”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "热机效率"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "能量转化",
+        "守恒"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "内能的利用"
+      ]
+    },
+    {
+      "id": "P9-A-U14-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U14",
+      "unit_no": 14,
+      "unit_name": "内能的利用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "热机综合应用",
+      "description": "理解“热机综合应用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "能量转化和守恒"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "热机综合应用"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "内能的利用"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "两种电荷",
+      "description": "理解“两种电荷”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "两种电荷"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "摩擦起电",
+      "description": "理解“摩擦起电”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "两种电荷"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "摩擦起电"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电荷间相互作用",
+      "description": "理解“电荷间相互作用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "摩擦起电"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电荷间相互作用"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "导体和绝缘体",
+      "description": "理解“导体和绝缘体”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电荷间相互作用"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "导体",
+        "绝缘体"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电流形成",
+      "description": "理解“电流形成”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "导体和绝缘体"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电流形成"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "电路组成",
+      "description": "理解“电路组成”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "电流形成"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电路组成"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "提高",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "通路断路短路",
+      "description": "理解“通路断路短路”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电路组成"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "通路断路短路"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "电路图",
+      "description": "理解“电路图”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "通路断路短路"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电路图"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "核心",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP009",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "串联电路",
+      "description": "理解“串联电路”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "电路图"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "串联电路"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "提高",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP010",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "并联电路",
+      "description": "理解“并联电路”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "串联电路"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "并联电路"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "核心",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP011",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "电流表使用",
+      "description": "理解“电流表使用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "并联电路"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电流表使用"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "核心",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U15-KP012",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U15",
+      "unit_no": 15,
+      "unit_name": "电流和电路",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "串并联电流规律",
+      "description": "理解“串并联电流规律”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "电流表使用"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "串并联电流规律"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "电流和电路"
+      ]
+    },
+    {
+      "id": "P9-A-U16-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U16",
+      "unit_no": 16,
+      "unit_name": "电压 电阻",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电压概念",
+      "description": "理解“电压概念”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电压概念"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "电压 电阻"
+      ]
+    },
+    {
+      "id": "P9-A-U16-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U16",
+      "unit_no": 16,
+      "unit_name": "电压 电阻",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "电压表使用",
+      "description": "理解“电压表使用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电压概念"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电压表使用"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "核心",
+        "电压 电阻"
+      ]
+    },
+    {
+      "id": "P9-A-U16-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U16",
+      "unit_no": 16,
+      "unit_name": "电压 电阻",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "串并联电压规律",
+      "description": "理解“串并联电压规律”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电压表使用"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "串并联电压规律"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电压 电阻"
+      ]
+    },
+    {
+      "id": "P9-A-U16-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U16",
+      "unit_no": 16,
+      "unit_name": "电压 电阻",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电阻概念",
+      "description": "理解“电阻概念”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "串并联电压规律"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电阻概念"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电压 电阻"
+      ]
+    },
+    {
+      "id": "P9-A-U16-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U16",
+      "unit_no": 16,
+      "unit_name": "电压 电阻",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "影响电阻大小因素",
+      "description": "理解“影响电阻大小因素”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "电阻概念"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "影响电阻大小因素"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "电压 电阻"
+      ]
+    },
+    {
+      "id": "P9-A-U16-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U16",
+      "unit_no": 16,
+      "unit_name": "电压 电阻",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "滑动变阻器原理",
+      "description": "理解“滑动变阻器原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "影响电阻大小因素"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "滑动变阻器原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "电压 电阻"
+      ]
+    },
+    {
+      "id": "P9-A-U16-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U16",
+      "unit_no": 16,
+      "unit_name": "电压 电阻",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "滑动变阻器接法",
+      "description": "理解“滑动变阻器接法”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "滑动变阻器原理"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "滑动变阻器接法"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电压 电阻"
+      ]
+    },
+    {
+      "id": "P9-A-U16-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U16",
+      "unit_no": 16,
+      "unit_name": "电压 电阻",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "电路故障分析初步",
+      "description": "理解“电路故障分析初步”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "滑动变阻器接法"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电路故障分析初步"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "核心",
+        "电压 电阻"
+      ]
+    },
+    {
+      "id": "P9-A-U17-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "探究电流与电压关系",
+      "description": "理解“探究电流与电压关系”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "探究电流",
+        "电压关系"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "基础",
+        "欧姆定律"
+      ]
+    },
+    {
+      "id": "P9-A-U17-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "探究电流与电阻关系",
+      "description": "理解“探究电流与电阻关系”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "探究电流与电压关系"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "探究电流",
+        "电阻关系"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "核心",
+        "欧姆定律"
+      ]
+    },
+    {
+      "id": "P9-A-U17-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "欧姆定律 I=U/R",
+      "description": "理解“欧姆定律 I=U/R”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "探究电流与电阻关系"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "欧姆定律",
+        "I=U",
+        "R"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "核心",
+        "欧姆定律"
+      ]
+    },
+    {
+      "id": "P9-A-U17-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "欧姆定律计算",
+      "description": "理解“欧姆定律计算”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "欧姆定律 I=U/R"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "欧姆定律计算"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "核心",
+        "欧姆定律"
+      ]
+    },
+    {
+      "id": "P9-A-U17-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "串联电路电阻规律",
+      "description": "理解“串联电路电阻规律”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "欧姆定律计算"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "串联电路电阻规律"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "提高",
+        "欧姆定律"
+      ]
+    },
+    {
+      "id": "P9-A-U17-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "并联电路电阻规律",
+      "description": "理解“并联电路电阻规律”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "串联电路电阻规律"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "并联电路电阻规律"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "提高",
+        "欧姆定律"
+      ]
+    },
+    {
+      "id": "P9-A-U17-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "伏安法测电阻",
+      "description": "理解“伏安法测电阻”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "并联电路电阻规律"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "伏安法测电阻"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "欧姆定律"
+      ]
+    },
+    {
+      "id": "P9-A-U17-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "动态电路分析",
+      "description": "理解“动态电路分析”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "伏安法测电阻"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "动态电路分析"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "核心",
+        "欧姆定律"
+      ]
+    },
+    {
+      "id": "P9-A-U17-KP009",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "P9-A-U17",
+      "unit_no": 17,
+      "unit_name": "欧姆定律",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "欧姆定律综合应用",
+      "description": "理解“欧姆定律综合应用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "动态电路分析"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "欧姆定律综合应用"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "提高",
+        "欧姆定律"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电能",
+      "description": "理解“电能”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电能"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电能表读数",
+      "description": "理解“电能表读数”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电能"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电能表读数"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "电功计算 W=UIt",
+      "description": "理解“电功计算 W=UIt”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电能表读数"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "电功计算",
+        "W=UIt"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "核心",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "电功率概念",
+      "description": "理解“电功率概念”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电功计算 W=UIt"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "电功率概念"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "核心",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "电功率公式 P=UI",
+      "description": "理解“电功率公式 P=UI”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "电功率概念"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "电功率公式",
+        "P=UI"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "提高",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "额定电压和额定功率",
+      "description": "理解“额定电压和额定功率”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "电功率公式 P=UI"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "额定电压",
+        "额定功率"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "提高",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "实际功率",
+      "description": "理解“实际功率”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "额定电压和额定功率"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "实际功率"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "核心",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "测量小灯泡电功率",
+      "description": "理解“测量小灯泡电功率”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "实际功率"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "测量小灯泡电功率"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "核心",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP009",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "焦耳定律",
+      "description": "理解“焦耳定律”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "测量小灯泡电功率"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "焦耳定律"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "提高",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP010",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "电热计算",
+      "description": "理解“电热计算”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "焦耳定律"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "电热计算"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "核心",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U18-KP011",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U18",
+      "unit_no": 18,
+      "unit_name": "电功率",
+      "unit_name_zh": "",
+      "category": "计算规律",
+      "name": "家庭电路功率估算",
+      "description": "理解“家庭电路功率估算”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电热计算"
+      ],
+      "skills": [
+        "公式应用",
+        "现象解释"
+      ],
+      "keywords": [
+        "家庭电路功率估算"
+      ],
+      "diagnosis_tags": [
+        "计算规律",
+        "核心",
+        "电功率"
+      ]
+    },
+    {
+      "id": "P9-B-U19-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U19",
+      "unit_no": 19,
+      "unit_name": "生活用电",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "家庭电路组成",
+      "description": "理解“家庭电路组成”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "家庭电路组成"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "基础",
+        "生活用电"
+      ]
+    },
+    {
+      "id": "P9-B-U19-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U19",
+      "unit_no": 19,
+      "unit_name": "生活用电",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "火线零线地线",
+      "description": "理解“火线零线地线”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "家庭电路组成"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "火线零线地线"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "生活用电"
+      ]
+    },
+    {
+      "id": "P9-B-U19-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U19",
+      "unit_no": 19,
+      "unit_name": "生活用电",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "试电笔使用",
+      "description": "理解“试电笔使用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "火线零线地线"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "试电笔使用"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "核心",
+        "生活用电"
+      ]
+    },
+    {
+      "id": "P9-B-U19-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U19",
+      "unit_no": 19,
+      "unit_name": "生活用电",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "三孔插座和接地",
+      "description": "理解“三孔插座和接地”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "试电笔使用"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "三孔插座",
+        "接地"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "生活用电"
+      ]
+    },
+    {
+      "id": "P9-B-U19-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U19",
+      "unit_no": 19,
+      "unit_name": "生活用电",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "保险丝和空气开关",
+      "description": "理解“保险丝和空气开关”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "三孔插座和接地"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "保险丝",
+        "空气开关"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "生活用电"
+      ]
+    },
+    {
+      "id": "P9-B-U19-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U19",
+      "unit_no": 19,
+      "unit_name": "生活用电",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "安全用电原则",
+      "description": "理解“安全用电原则”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "保险丝和空气开关"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "安全用电原则"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "生活用电"
+      ]
+    },
+    {
+      "id": "P9-B-U19-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U19",
+      "unit_no": 19,
+      "unit_name": "生活用电",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "触电类型",
+      "description": "理解“触电类型”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "安全用电原则"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "触电类型"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "生活用电"
+      ]
+    },
+    {
+      "id": "P9-B-U19-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U19",
+      "unit_no": 19,
+      "unit_name": "生活用电",
+      "unit_name_zh": "",
+      "category": "电学电路",
+      "name": "家庭电路故障判断",
+      "description": "理解“家庭电路故障判断”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "触电类型"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "家庭电路故障判断"
+      ],
+      "diagnosis_tags": [
+        "电学电路",
+        "核心",
+        "生活用电"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "磁现象",
+      "description": "理解“磁现象”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "磁现象"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "磁场和磁感线",
+      "description": "理解“磁场和磁感线”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "磁现象"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "磁场",
+        "磁感线"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "地磁场",
+      "description": "理解“地磁场”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "磁场和磁感线"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "地磁场"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电流的磁效应",
+      "description": "理解“电流的磁效应”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "地磁场"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电流",
+        "磁效应"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "通电螺线管磁场",
+      "description": "理解“通电螺线管磁场”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "电流的磁效应"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "通电螺线管磁场"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "安培定则",
+      "description": "理解“安培定则”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "通电螺线管磁场"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "安培定则"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电磁铁",
+      "description": "理解“电磁铁”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "安培定则"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电磁铁"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电磁继电器",
+      "description": "理解“电磁继电器”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电磁铁"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电磁继电器"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP009",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "磁场对通电导线的作用",
+      "description": "理解“磁场对通电导线的作用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "电磁继电器"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "磁场对通电导线",
+        "作用"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP010",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电动机原理",
+      "description": "理解“电动机原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "磁场对通电导线的作用"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电动机原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP011",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电磁感应",
+      "description": "理解“电磁感应”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电动机原理"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电磁感应"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U20-KP012",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U20",
+      "unit_no": 20,
+      "unit_name": "电与磁",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "发电机原理",
+      "description": "理解“发电机原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "电磁感应"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "发电机原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "电与磁"
+      ]
+    },
+    {
+      "id": "P9-B-U21-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U21",
+      "unit_no": 21,
+      "unit_name": "信息的传递",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电话通信原理",
+      "description": "理解“电话通信原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电话通信原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "信息的传递"
+      ]
+    },
+    {
+      "id": "P9-B-U21-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U21",
+      "unit_no": 21,
+      "unit_name": "信息的传递",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电磁波产生",
+      "description": "理解“电磁波产生”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电话通信原理"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电磁波产生"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "信息的传递"
+      ]
+    },
+    {
+      "id": "P9-B-U21-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U21",
+      "unit_no": 21,
+      "unit_name": "信息的传递",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "电磁波传播",
+      "description": "理解“电磁波传播”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电磁波产生"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "电磁波传播"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "信息的传递"
+      ]
+    },
+    {
+      "id": "P9-B-U21-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U21",
+      "unit_no": 21,
+      "unit_name": "信息的传递",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "广播电视和移动通信",
+      "description": "理解“广播电视和移动通信”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "电磁波传播"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "广播电视",
+        "移动通信"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "信息的传递"
+      ]
+    },
+    {
+      "id": "P9-B-U21-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U21",
+      "unit_no": 21,
+      "unit_name": "信息的传递",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "微波通信",
+      "description": "理解“微波通信”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "广播电视和移动通信"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "微波通信"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "信息的传递"
+      ]
+    },
+    {
+      "id": "P9-B-U21-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U21",
+      "unit_no": 21,
+      "unit_name": "信息的传递",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "卫星通信",
+      "description": "理解“卫星通信”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "微波通信"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "卫星通信"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "信息的传递"
+      ]
+    },
+    {
+      "id": "P9-B-U21-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U21",
+      "unit_no": 21,
+      "unit_name": "信息的传递",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "光纤通信",
+      "description": "理解“光纤通信”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "卫星通信"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "光纤通信"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "信息的传递"
+      ]
+    },
+    {
+      "id": "P9-B-U21-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U21",
+      "unit_no": 21,
+      "unit_name": "信息的传递",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "信息技术应用",
+      "description": "理解“信息技术应用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "光纤通信"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "信息技术应用"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "信息的传递"
+      ]
+    },
+    {
+      "id": "P9-B-U22-KP001",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U22",
+      "unit_no": 22,
+      "unit_name": "能源与可持续发展",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "能源分类",
+      "description": "理解“能源分类”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "能源分类"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "能源与可持续发展"
+      ]
+    },
+    {
+      "id": "P9-B-U22-KP002",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U22",
+      "unit_no": 22,
+      "unit_name": "能源与可持续发展",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "一次能源和二次能源",
+      "description": "理解“一次能源和二次能源”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "能源分类"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "一次能源",
+        "二次能源"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "能源与可持续发展"
+      ]
+    },
+    {
+      "id": "P9-B-U22-KP003",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U22",
+      "unit_no": 22,
+      "unit_name": "能源与可持续发展",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "可再生和不可再生能源",
+      "description": "理解“可再生和不可再生能源”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "一次能源和二次能源"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "可再生",
+        "不可再生能源"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "能源与可持续发展"
+      ]
+    },
+    {
+      "id": "P9-B-U22-KP004",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U22",
+      "unit_no": 22,
+      "unit_name": "能源与可持续发展",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "核能",
+      "description": "理解“核能”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "可再生和不可再生能源"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "核能"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "能源与可持续发展"
+      ]
+    },
+    {
+      "id": "P9-B-U22-KP005",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U22",
+      "unit_no": 22,
+      "unit_name": "能源与可持续发展",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "太阳能",
+      "description": "理解“太阳能”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "核能"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "太阳能"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "能源与可持续发展"
+      ]
+    },
+    {
+      "id": "P9-B-U22-KP006",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U22",
+      "unit_no": 22,
+      "unit_name": "能源与可持续发展",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "能源消耗与环境",
+      "description": "理解“能源消耗与环境”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "太阳能"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "能源消耗",
+        "环境"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "能源与可持续发展"
+      ]
+    },
+    {
+      "id": "P9-B-U22-KP007",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U22",
+      "unit_no": 22,
+      "unit_name": "能源与可持续发展",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "能量转化效率",
+      "description": "理解“能量转化效率”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "能源消耗与环境"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "能量转化效率"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "能源与可持续发展"
+      ]
+    },
+    {
+      "id": "P9-B-U22-KP008",
+      "grade": 9,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版九年级物理，按公开教材目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "P9-B-U22",
+      "unit_no": 22,
+      "unit_name": "能源与可持续发展",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "可持续发展",
+      "description": "理解“可持续发展”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "能量转化效率"
+      ],
+      "skills": [
+        "理解概念",
+        "实验分析"
+      ],
+      "keywords": [
+        "可持续发展"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "能源与可持续发展"
+      ]
+    }
+  ]
+}

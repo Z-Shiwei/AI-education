@@ -1,3 +1,5 @@
+let allSubjects = [];
+let selectedGrade = null;
 let selectedSubject = null;
 let selectedSubjectLabel = '';
 let selectedUnit = null;
@@ -6,6 +8,7 @@ let selectedUnitTitle = '';
 document.addEventListener('DOMContentLoaded', async () => {
     initApiKeyBox();
     await loadSubjects();
+    document.getElementById('gradeSelect').addEventListener('change', onGradeChange);
     document.getElementById('subjectSelect').addEventListener('change', onSubjectChange);
     document.getElementById('startBtn').addEventListener('click', onStartQuiz);
 });
@@ -17,17 +20,13 @@ function initApiKeyBox() {
     const suggestions = document.getElementById('keySuggestions');
     const saved = Session.get('deepseek_api_key');
 
-    // 内置预设 Key
     const BUILTIN_KEY = 'sk-02168810f6ca444fa3d964cfc332161e';
-    const BUILTIN_MASKED = 'sk-0216…161e（内置默认）';
+    const BUILTIN_MASKED = 'sk-0216...161e（内置默认）';
 
-    // 输入框始终从空开始
-    // 如果之前保存过 Key，在状态下提示，但不填入输入框
     if (saved) {
-        status.textContent = '上次保存过 Key，仍有效。点击输入框可选择或更换。';
+        status.textContent = '已保存个人 Key，本次会话优先使用个人 Key。';
     }
 
-    // 构建下拉选项（内置 Key + 之前保存的 Key 如果不同）
     let optionItems = `<li class="key-suggestion-item" data-key="${BUILTIN_KEY}">
         <span class="suggestion-label">${BUILTIN_MASKED}</span>
         <span class="suggestion-hint">点击使用</span>
@@ -35,38 +34,32 @@ function initApiKeyBox() {
 
     if (saved && saved !== BUILTIN_KEY) {
         const savedMasked = saved.length > 12
-            ? saved.slice(0, 7) + '…' + saved.slice(-4) + '（上次保存）'
-            : saved + '（上次保存）';
-        optionItems += `<li class="key-suggestion-item" data-key="${saved}">
-            <span class="suggestion-label">${savedMasked}</span>
+            ? `${saved.slice(0, 7)}...${saved.slice(-4)}（上次保存）`
+            : `${saved}（上次保存）`;
+        optionItems += `<li class="key-suggestion-item" data-key="${escapeHtml(saved)}">
+            <span class="suggestion-label">${escapeHtml(savedMasked)}</span>
             <span class="suggestion-hint">点击使用</span>
         </li>`;
     }
 
     suggestions.innerHTML = optionItems;
 
-    // 点击输入框 → 如果为空则显示建议列表
     input.addEventListener('focus', () => {
-        if (!input.value.trim()) {
-            suggestions.style.display = 'block';
-        }
+        if (!input.value.trim()) suggestions.style.display = 'block';
     });
 
-    // 点击建议项 → 填入
     suggestions.addEventListener('click', (e) => {
         const item = e.target.closest('.key-suggestion-item');
         if (!item) return;
         input.value = item.dataset.key;
         suggestions.style.display = 'none';
-        status.textContent = '已选择 Key，点击"保存"生效。';
+        status.textContent = '已选择 Key，点击“保存”后生效。';
     });
 
-    // 用户手动输入时隐藏建议
     input.addEventListener('input', () => {
         suggestions.style.display = 'none';
     });
 
-    // 点击外部关闭建议
     document.addEventListener('click', (e) => {
         if (!input.contains(e.target) && !suggestions.contains(e.target)) {
             suggestions.style.display = 'none';
@@ -77,7 +70,7 @@ function initApiKeyBox() {
         const value = input.value.trim();
         if (!value) {
             sessionStorage.removeItem('deepseek_api_key');
-            status.textContent = '已清除 Key；系统仍可使用内置默认 Key。';
+            status.textContent = '已清除个人 Key；系统会使用内置默认 Key。';
             return;
         }
         Session.set('deepseek_api_key', value);
@@ -86,20 +79,53 @@ function initApiKeyBox() {
 }
 
 async function loadSubjects() {
-    const select = document.getElementById('subjectSelect');
+    const gradeSelect = document.getElementById('gradeSelect');
     try {
         const data = await fetchSubjects();
-        for (const subject of data.subjects || []) {
+        allSubjects = data.subjects || [];
+        const grades = [...new Set(allSubjects.map(subject => subject.grade))].sort((a, b) => a - b);
+        for (const grade of grades) {
             const opt = document.createElement('option');
-            opt.value = subject.id;
-            opt.textContent = `${subject.name} · 七年级 · ${subject.total_units} 个单元 · ${subject.total_knowledge_points} 个知识点`;
-            opt.dataset.name = subject.name;
-            select.appendChild(opt);
+            opt.value = String(grade);
+            opt.textContent = `${grade}年级`;
+            gradeSelect.appendChild(opt);
         }
     } catch (err) {
-        select.innerHTML = '<option value="">学科加载失败，请刷新重试</option>';
+        gradeSelect.innerHTML = '<option value="">年级加载失败，请刷新重试</option>';
         console.error(err);
     }
+}
+
+function onGradeChange() {
+    selectedGrade = this.value ? Number(this.value) : null;
+    selectedSubject = null;
+    selectedSubjectLabel = '';
+    selectedUnit = null;
+    selectedUnitTitle = '';
+
+    document.getElementById('unitSection').style.display = 'none';
+    document.getElementById('selectedInfo').style.display = 'none';
+    document.getElementById('startBtn').disabled = true;
+
+    const subjectSection = document.getElementById('subjectSection');
+    const subjectSelect = document.getElementById('subjectSelect');
+    subjectSelect.innerHTML = '<option value="">请选择学科</option>';
+
+    if (!selectedGrade) {
+        subjectSection.style.display = 'none';
+        return;
+    }
+
+    const subjects = allSubjects.filter(subject => subject.grade === selectedGrade);
+    for (const subject of subjects) {
+        const opt = document.createElement('option');
+        opt.value = subject.id;
+        opt.textContent = `${subject.name} · ${subject.total_units} 个单元 · ${subject.total_knowledge_points} 个知识点`;
+        opt.dataset.name = subject.name;
+        opt.dataset.grade = subject.grade;
+        subjectSelect.appendChild(opt);
+    }
+    subjectSection.style.display = 'block';
 }
 
 async function onSubjectChange() {
@@ -165,6 +191,7 @@ function renderUnitList(units) {
             selectedUnitTitle = item.dataset.title;
 
             document.getElementById('selectedDetail').innerHTML = `
+                <p><strong>年级：</strong>${escapeHtml(selectedGrade ? `${selectedGrade}年级` : '')}</p>
                 <p><strong>学科：</strong>${escapeHtml(selectedSubjectLabel)}</p>
                 <p><strong>单元：</strong>${escapeHtml(selectedUnitTitle)}</p>
             `;
@@ -176,21 +203,26 @@ function renderUnitList(units) {
 
 function buildDisplayTitle(unit) {
     const subjectName = selectedSubjectLabel || '';
-    const unitLabel = selectedSubject === 'english'
+    const unitLabel = subjectName === '英语'
         ? `Unit ${unit.unit_no}`
         : `第${unit.unit_no}单元`;
-    const name = selectedSubject === 'english' && unit.unit_name_zh
+    const name = subjectName === '英语' && unit.unit_name_zh
         ? `${unit.unit_name} ${unit.unit_name_zh}`
         : (unit.unit_name_zh || unit.unit_name);
-    return `${subjectName} · 七年级${unit.volume} · ${unitLabel}：${name}`;
+    return `${subjectName} · ${selectedGrade}年级 · ${unit.volume} · ${unitLabel}：${name}`;
 }
 
 function onStartQuiz() {
     if (!selectedSubject || !selectedUnit) return;
+    const questionCount = Number(document.getElementById('questionCountSelect')?.value || 20);
+    const difficulty = document.getElementById('difficultySelect')?.value || 'mixed';
+    Session.set('grade', selectedGrade);
     Session.set('subject', selectedSubject);
     Session.set('subject_label', selectedSubjectLabel);
     Session.set('unit_id', selectedUnit);
     Session.set('unit_title', selectedUnitTitle);
+    Session.set('question_count', questionCount);
+    Session.set('difficulty', difficulty);
     window.location.href = 'quiz.html';
 }
 

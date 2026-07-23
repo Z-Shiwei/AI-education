@@ -1,0 +1,3281 @@
+{
+  "metadata": {
+    "name": "统编版九年级语文上下册知识点库",
+    "grade": 9,
+    "subject": "语文",
+    "publisher": "人民教育出版社",
+    "edition_note": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+    "created_at": "2026-07-23",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 12,
+    "total_knowledge_points": 99,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "M9C-A-U1",
+      "unit_no": 1,
+      "unit_name": "诗歌与时代情怀",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9C-A-U1-KP001",
+        "M9C-A-U1-KP002",
+        "M9C-A-U1-KP003",
+        "M9C-A-U1-KP004",
+        "M9C-A-U1-KP005",
+        "M9C-A-U1-KP006",
+        "M9C-A-U1-KP007",
+        "M9C-A-U1-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9C-A-U2",
+      "unit_no": 2,
+      "unit_name": "议论文阅读与观点表达",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9C-A-U2-KP001",
+        "M9C-A-U2-KP002",
+        "M9C-A-U2-KP003",
+        "M9C-A-U2-KP004",
+        "M9C-A-U2-KP005",
+        "M9C-A-U2-KP006",
+        "M9C-A-U2-KP007",
+        "M9C-A-U2-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "volume": "九年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M9C-A-U3-KP001",
+        "M9C-A-U3-KP002",
+        "M9C-A-U3-KP003",
+        "M9C-A-U3-KP004",
+        "M9C-A-U3-KP005",
+        "M9C-A-U3-KP006",
+        "M9C-A-U3-KP007",
+        "M9C-A-U3-KP008",
+        "M9C-A-U3-KP009"
+      ]
+    },
+    {
+      "unit_id": "M9C-A-U4",
+      "unit_no": 4,
+      "unit_name": "小说中的少年成长",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9C-A-U4-KP001",
+        "M9C-A-U4-KP002",
+        "M9C-A-U4-KP003",
+        "M9C-A-U4-KP004",
+        "M9C-A-U4-KP005",
+        "M9C-A-U4-KP006",
+        "M9C-A-U4-KP007",
+        "M9C-A-U4-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9C-A-U5",
+      "unit_no": 5,
+      "unit_name": "思想风采与名著阅读",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9C-A-U5-KP001",
+        "M9C-A-U5-KP002",
+        "M9C-A-U5-KP003",
+        "M9C-A-U5-KP004",
+        "M9C-A-U5-KP005",
+        "M9C-A-U5-KP006",
+        "M9C-A-U5-KP007",
+        "M9C-A-U5-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古典小说与历史叙事",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9C-A-U6-KP001",
+        "M9C-A-U6-KP002",
+        "M9C-A-U6-KP003",
+        "M9C-A-U6-KP004",
+        "M9C-A-U6-KP005",
+        "M9C-A-U6-KP006",
+        "M9C-A-U6-KP007",
+        "M9C-A-U6-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9C-B-U1",
+      "unit_no": 1,
+      "unit_name": "家国之思与现代诗文",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9C-B-U1-KP001",
+        "M9C-B-U1-KP002",
+        "M9C-B-U1-KP003",
+        "M9C-B-U1-KP004",
+        "M9C-B-U1-KP005",
+        "M9C-B-U1-KP006",
+        "M9C-B-U1-KP007",
+        "M9C-B-U1-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9C-B-U2",
+      "unit_no": 2,
+      "unit_name": "小说与社会人生",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9C-B-U2-KP001",
+        "M9C-B-U2-KP002",
+        "M9C-B-U2-KP003",
+        "M9C-B-U2-KP004",
+        "M9C-B-U2-KP005",
+        "M9C-B-U2-KP006",
+        "M9C-B-U2-KP007",
+        "M9C-B-U2-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "volume": "九年级下册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M9C-B-U3-KP001",
+        "M9C-B-U3-KP002",
+        "M9C-B-U3-KP003",
+        "M9C-B-U3-KP004",
+        "M9C-B-U3-KP005",
+        "M9C-B-U3-KP006",
+        "M9C-B-U3-KP007",
+        "M9C-B-U3-KP008",
+        "M9C-B-U3-KP009"
+      ]
+    },
+    {
+      "unit_id": "M9C-B-U4",
+      "unit_no": 4,
+      "unit_name": "戏剧阅读与舞台表达",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9C-B-U4-KP001",
+        "M9C-B-U4-KP002",
+        "M9C-B-U4-KP003",
+        "M9C-B-U4-KP004",
+        "M9C-B-U4-KP005",
+        "M9C-B-U4-KP006",
+        "M9C-B-U4-KP007",
+        "M9C-B-U4-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9C-B-U5",
+      "unit_no": 5,
+      "unit_name": "散文与人生感悟",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9C-B-U5-KP001",
+        "M9C-B-U5-KP002",
+        "M9C-B-U5-KP003",
+        "M9C-B-U5-KP004",
+        "M9C-B-U5-KP005",
+        "M9C-B-U5-KP006",
+        "M9C-B-U5-KP007",
+        "M9C-B-U5-KP008"
+      ]
+    },
+    {
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "volume": "九年级下册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M9C-B-U6-KP001",
+        "M9C-B-U6-KP002",
+        "M9C-B-U6-KP003",
+        "M9C-B-U6-KP004",
+        "M9C-B-U6-KP005",
+        "M9C-B-U6-KP006",
+        "M9C-B-U6-KP007",
+        "M9C-B-U6-KP008",
+        "M9C-B-U6-KP009"
+      ]
+    }
+  ],
+  "knowledge_points": [
+    {
+      "id": "M9C-A-U1-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U1",
+      "unit_no": 1,
+      "unit_name": "诗歌与时代情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "现代诗意象分析",
+      "description": "围绕“诗歌与时代情怀”单元，掌握“现代诗意象分析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "现代诗意象分析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "诗歌与时代情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U1-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U1",
+      "unit_no": 1,
+      "unit_name": "诗歌与时代情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "诗歌节奏与停连",
+      "description": "围绕“诗歌与时代情怀”单元，掌握“诗歌节奏与停连”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "现代诗意象分析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "诗歌节奏",
+        "停连"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "诗歌与时代情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U1-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U1",
+      "unit_no": 1,
+      "unit_name": "诗歌与时代情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "诗歌情感基调",
+      "description": "围绕“诗歌与时代情怀”单元，掌握“诗歌情感基调”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "诗歌节奏与停连"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "诗歌情感基调"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "诗歌与时代情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U1-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U1",
+      "unit_no": 1,
+      "unit_name": "诗歌与时代情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "象征手法赏析",
+      "description": "围绕“诗歌与时代情怀”单元，掌握“象征手法赏析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "诗歌情感基调"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "象征手法赏析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "诗歌与时代情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U1-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U1",
+      "unit_no": 1,
+      "unit_name": "诗歌与时代情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "诗歌语言凝练性",
+      "description": "围绕“诗歌与时代情怀”单元，掌握“诗歌语言凝练性”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "象征手法赏析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "诗歌语言凝练性"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "诗歌与时代情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U1-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U1",
+      "unit_no": 1,
+      "unit_name": "诗歌与时代情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "时代背景与主题",
+      "description": "围绕“诗歌与时代情怀”单元，掌握“时代背景与主题”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "诗歌语言凝练性"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "时代背景",
+        "主题"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "诗歌与时代情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U1-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U1",
+      "unit_no": 1,
+      "unit_name": "诗歌与时代情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "诗歌朗诵设计",
+      "description": "围绕“诗歌与时代情怀”单元，掌握“诗歌朗诵设计”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "时代背景与主题"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "诗歌朗诵设计"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "诗歌与时代情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U1-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U1",
+      "unit_no": 1,
+      "unit_name": "诗歌与时代情怀",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "诗歌仿写",
+      "description": "围绕“诗歌与时代情怀”单元，掌握“诗歌仿写”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "诗歌朗诵设计"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "诗歌仿写"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "诗歌与时代情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U2-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U2",
+      "unit_no": 2,
+      "unit_name": "议论文阅读与观点表达",
+      "unit_name_zh": "",
+      "category": "议论文",
+      "name": "论点提炼",
+      "description": "围绕“议论文阅读与观点表达”单元，掌握“论点提炼”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "论点提炼"
+      ],
+      "diagnosis_tags": [
+        "议论文",
+        "基础",
+        "议论文阅读与观点表达"
+      ]
+    },
+    {
+      "id": "M9C-A-U2-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U2",
+      "unit_no": 2,
+      "unit_name": "议论文阅读与观点表达",
+      "unit_name_zh": "",
+      "category": "议论文",
+      "name": "论据类型辨析",
+      "description": "围绕“议论文阅读与观点表达”单元，掌握“论据类型辨析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "论点提炼"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "论据类型辨析"
+      ],
+      "diagnosis_tags": [
+        "议论文",
+        "核心",
+        "议论文阅读与观点表达"
+      ]
+    },
+    {
+      "id": "M9C-A-U2-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U2",
+      "unit_no": 2,
+      "unit_name": "议论文阅读与观点表达",
+      "unit_name_zh": "",
+      "category": "议论文",
+      "name": "论证方法及作用",
+      "description": "围绕“议论文阅读与观点表达”单元，掌握“论证方法及作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "论据类型辨析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "论证方法",
+        "作用"
+      ],
+      "diagnosis_tags": [
+        "议论文",
+        "核心",
+        "议论文阅读与观点表达"
+      ]
+    },
+    {
+      "id": "M9C-A-U2-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U2",
+      "unit_no": 2,
+      "unit_name": "议论文阅读与观点表达",
+      "unit_name_zh": "",
+      "category": "议论文",
+      "name": "论证思路梳理",
+      "description": "围绕“议论文阅读与观点表达”单元，掌握“论证思路梳理”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "论证方法及作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "论证思路梳理"
+      ],
+      "diagnosis_tags": [
+        "议论文",
+        "核心",
+        "议论文阅读与观点表达"
+      ]
+    },
+    {
+      "id": "M9C-A-U2-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U2",
+      "unit_no": 2,
+      "unit_name": "议论文阅读与观点表达",
+      "unit_name_zh": "",
+      "category": "议论文",
+      "name": "议论文语言严密性",
+      "description": "围绕“议论文阅读与观点表达”单元，掌握“议论文语言严密性”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "论证思路梳理"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "议论文语言严密性"
+      ],
+      "diagnosis_tags": [
+        "议论文",
+        "提高",
+        "议论文阅读与观点表达"
+      ]
+    },
+    {
+      "id": "M9C-A-U2-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U2",
+      "unit_no": 2,
+      "unit_name": "议论文阅读与观点表达",
+      "unit_name_zh": "",
+      "category": "议论文",
+      "name": "事实论据补写",
+      "description": "围绕“议论文阅读与观点表达”单元，掌握“事实论据补写”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "议论文语言严密性"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "事实论据补写"
+      ],
+      "diagnosis_tags": [
+        "议论文",
+        "提高",
+        "议论文阅读与观点表达"
+      ]
+    },
+    {
+      "id": "M9C-A-U2-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U2",
+      "unit_no": 2,
+      "unit_name": "议论文阅读与观点表达",
+      "unit_name_zh": "",
+      "category": "议论文",
+      "name": "道理论据运用",
+      "description": "围绕“议论文阅读与观点表达”单元，掌握“道理论据运用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "事实论据补写"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "道理论据运用"
+      ],
+      "diagnosis_tags": [
+        "议论文",
+        "核心",
+        "议论文阅读与观点表达"
+      ]
+    },
+    {
+      "id": "M9C-A-U2-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U2",
+      "unit_no": 2,
+      "unit_name": "议论文阅读与观点表达",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "观点表达与反驳",
+      "description": "围绕“议论文阅读与观点表达”单元，掌握“观点表达与反驳”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "道理论据运用"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "观点表达",
+        "反驳"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "议论文阅读与观点表达"
+      ]
+    },
+    {
+      "id": "M9C-A-U3-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "岳阳楼记文意理解",
+      "description": "围绕“古诗文山水与贬谪情怀”单元，掌握“岳阳楼记文意理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "岳阳楼记文意理解"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "基础",
+        "古诗文山水与贬谪情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U3-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "醉翁亭记景情关系",
+      "description": "围绕“古诗文山水与贬谪情怀”单元，掌握“醉翁亭记景情关系”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "岳阳楼记文意理解"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "醉翁亭记景情关系"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文山水与贬谪情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U3-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "湖心亭看雪白描手法",
+      "description": "围绕“古诗文山水与贬谪情怀”单元，掌握“湖心亭看雪白描手法”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "醉翁亭记景情关系"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "湖心亭看雪白描手法"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古诗文山水与贬谪情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U3-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言实词迁移",
+      "description": "围绕“古诗文山水与贬谪情怀”单元，掌握“文言实词迁移”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "湖心亭看雪白描手法"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言实词迁移"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文山水与贬谪情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U3-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言虚词积累",
+      "description": "围绕“古诗文山水与贬谪情怀”单元，掌握“文言虚词积累”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "文言实词迁移"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言虚词积累"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文山水与贬谪情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U3-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言句式翻译",
+      "description": "围绕“古诗文山水与贬谪情怀”单元，掌握“文言句式翻译”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "文言虚词积累"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言句式翻译"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文山水与贬谪情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U3-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "古诗词意象",
+      "description": "围绕“古诗文山水与贬谪情怀”单元，掌握“古诗词意象”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "文言句式翻译"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "古诗词意象"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文山水与贬谪情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U3-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "古诗文情感比较",
+      "description": "围绕“古诗文山水与贬谪情怀”单元，掌握“古诗文情感比较”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "古诗词意象"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "古诗文情感比较"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文山水与贬谪情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U3-KP009",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与贬谪情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "名句默写运用",
+      "description": "围绕“古诗文山水与贬谪情怀”单元，掌握“名句默写运用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "古诗文情感比较"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "名句默写运用"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文山水与贬谪情怀"
+      ]
+    },
+    {
+      "id": "M9C-A-U4-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U4",
+      "unit_no": 4,
+      "unit_name": "小说中的少年成长",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "小说情节结构",
+      "description": "围绕“小说中的少年成长”单元，掌握“小说情节结构”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "小说情节结构"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "小说中的少年成长"
+      ]
+    },
+    {
+      "id": "M9C-A-U4-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U4",
+      "unit_no": 4,
+      "unit_name": "小说中的少年成长",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人物形象分析",
+      "description": "围绕“小说中的少年成长”单元，掌握“人物形象分析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "小说情节结构"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人物形象分析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "小说中的少年成长"
+      ]
+    },
+    {
+      "id": "M9C-A-U4-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U4",
+      "unit_no": 4,
+      "unit_name": "小说中的少年成长",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "环境描写作用",
+      "description": "围绕“小说中的少年成长”单元，掌握“环境描写作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "人物形象分析"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "环境描写作用"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "小说中的少年成长"
+      ]
+    },
+    {
+      "id": "M9C-A-U4-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U4",
+      "unit_no": 4,
+      "unit_name": "小说中的少年成长",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "叙述视角",
+      "description": "围绕“小说中的少年成长”单元，掌握“叙述视角”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "环境描写作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "叙述视角"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "小说中的少年成长"
+      ]
+    },
+    {
+      "id": "M9C-A-U4-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U4",
+      "unit_no": 4,
+      "unit_name": "小说中的少年成长",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "伏笔照应",
+      "description": "围绕“小说中的少年成长”单元，掌握“伏笔照应”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "叙述视角"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "伏笔照应"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "小说中的少年成长"
+      ]
+    },
+    {
+      "id": "M9C-A-U4-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U4",
+      "unit_no": 4,
+      "unit_name": "小说中的少年成长",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "细节描写赏析",
+      "description": "围绕“小说中的少年成长”单元，掌握“细节描写赏析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "伏笔照应"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "细节描写赏析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "小说中的少年成长"
+      ]
+    },
+    {
+      "id": "M9C-A-U4-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U4",
+      "unit_no": 4,
+      "unit_name": "小说中的少年成长",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "小说主题理解",
+      "description": "围绕“小说中的少年成长”单元，掌握“小说主题理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "细节描写赏析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "小说主题理解"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "小说中的少年成长"
+      ]
+    },
+    {
+      "id": "M9C-A-U4-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U4",
+      "unit_no": 4,
+      "unit_name": "小说中的少年成长",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "成长主题写作",
+      "description": "围绕“小说中的少年成长”单元，掌握“成长主题写作”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "小说主题理解"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "成长主题写作"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "小说中的少年成长"
+      ]
+    },
+    {
+      "id": "M9C-A-U5-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U5",
+      "unit_no": 5,
+      "unit_name": "思想风采与名著阅读",
+      "unit_name_zh": "",
+      "category": "议论文",
+      "name": "议论性文章结构",
+      "description": "围绕“思想风采与名著阅读”单元，掌握“议论性文章结构”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "议论性文章结构"
+      ],
+      "diagnosis_tags": [
+        "议论文",
+        "基础",
+        "思想风采与名著阅读"
+      ]
+    },
+    {
+      "id": "M9C-A-U5-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U5",
+      "unit_no": 5,
+      "unit_name": "思想风采与名著阅读",
+      "unit_name_zh": "",
+      "category": "议论文",
+      "name": "观点与材料关系",
+      "description": "围绕“思想风采与名著阅读”单元，掌握“观点与材料关系”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "议论性文章结构"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "观点",
+        "材料关系"
+      ],
+      "diagnosis_tags": [
+        "议论文",
+        "核心",
+        "思想风采与名著阅读"
+      ]
+    },
+    {
+      "id": "M9C-A-U5-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U5",
+      "unit_no": 5,
+      "unit_name": "思想风采与名著阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "驳论文初步",
+      "description": "围绕“思想风采与名著阅读”单元，掌握“驳论文初步”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "观点与材料关系"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "驳论文初步"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "思想风采与名著阅读"
+      ]
+    },
+    {
+      "id": "M9C-A-U5-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U5",
+      "unit_no": 5,
+      "unit_name": "思想风采与名著阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "演讲稿语言",
+      "description": "围绕“思想风采与名著阅读”单元，掌握“演讲稿语言”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "驳论文初步"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "演讲稿语言"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "思想风采与名著阅读"
+      ]
+    },
+    {
+      "id": "M9C-A-U5-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U5",
+      "unit_no": 5,
+      "unit_name": "思想风采与名著阅读",
+      "unit_name_zh": "",
+      "category": "名著阅读",
+      "name": "水浒传人物形象",
+      "description": "围绕“思想风采与名著阅读”单元，掌握“水浒传人物形象”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "演讲稿语言"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "水浒传人物形象"
+      ],
+      "diagnosis_tags": [
+        "名著阅读",
+        "提高",
+        "思想风采与名著阅读"
+      ]
+    },
+    {
+      "id": "M9C-A-U5-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U5",
+      "unit_no": 5,
+      "unit_name": "思想风采与名著阅读",
+      "unit_name_zh": "",
+      "category": "名著阅读",
+      "name": "水浒传情节梳理",
+      "description": "围绕“思想风采与名著阅读”单元，掌握“水浒传情节梳理”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "水浒传人物形象"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "水浒传情节梳理"
+      ],
+      "diagnosis_tags": [
+        "名著阅读",
+        "提高",
+        "思想风采与名著阅读"
+      ]
+    },
+    {
+      "id": "M9C-A-U5-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U5",
+      "unit_no": 5,
+      "unit_name": "思想风采与名著阅读",
+      "unit_name_zh": "",
+      "category": "名著阅读",
+      "name": "名著人物评价",
+      "description": "围绕“思想风采与名著阅读”单元，掌握“名著人物评价”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "水浒传情节梳理"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "名著人物评价"
+      ],
+      "diagnosis_tags": [
+        "名著阅读",
+        "核心",
+        "思想风采与名著阅读"
+      ]
+    },
+    {
+      "id": "M9C-A-U5-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U5",
+      "unit_no": 5,
+      "unit_name": "思想风采与名著阅读",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "读书笔记写作",
+      "description": "围绕“思想风采与名著阅读”单元，掌握“读书笔记写作”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "名著人物评价"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "读书笔记写作"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "思想风采与名著阅读"
+      ]
+    },
+    {
+      "id": "M9C-A-U6-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古典小说与历史叙事",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "古典小说情节概括",
+      "description": "围绕“古典小说与历史叙事”单元，掌握“古典小说情节概括”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "古典小说情节概括"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "古典小说与历史叙事"
+      ]
+    },
+    {
+      "id": "M9C-A-U6-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古典小说与历史叙事",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人物语言个性化",
+      "description": "围绕“古典小说与历史叙事”单元，掌握“人物语言个性化”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "古典小说情节概括"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人物语言个性化"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古典小说与历史叙事"
+      ]
+    },
+    {
+      "id": "M9C-A-U6-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古典小说与历史叙事",
+      "unit_name_zh": "",
+      "category": "名著阅读",
+      "name": "三国演义人物评价",
+      "description": "围绕“古典小说与历史叙事”单元，掌握“三国演义人物评价”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "人物语言个性化"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "三国演义人物评价"
+      ],
+      "diagnosis_tags": [
+        "名著阅读",
+        "核心",
+        "古典小说与历史叙事"
+      ]
+    },
+    {
+      "id": "M9C-A-U6-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古典小说与历史叙事",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "范进中举讽刺艺术",
+      "description": "围绕“古典小说与历史叙事”单元，掌握“范进中举讽刺艺术”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "三国演义人物评价"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "范进中举讽刺艺术"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古典小说与历史叙事"
+      ]
+    },
+    {
+      "id": "M9C-A-U6-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古典小说与历史叙事",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "智取生辰纲情节结构",
+      "description": "围绕“古典小说与历史叙事”单元，掌握“智取生辰纲情节结构”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "范进中举讽刺艺术"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "智取生辰纲情节结构"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "古典小说与历史叙事"
+      ]
+    },
+    {
+      "id": "M9C-A-U6-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古典小说与历史叙事",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言与白话过渡阅读",
+      "description": "围绕“古典小说与历史叙事”单元，掌握“文言与白话过渡阅读”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "智取生辰纲情节结构"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言",
+        "白话过渡阅读"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古典小说与历史叙事"
+      ]
+    },
+    {
+      "id": "M9C-A-U6-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古典小说与历史叙事",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "小说细节与主旨",
+      "description": "围绕“古典小说与历史叙事”单元，掌握“小说细节与主旨”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "文言与白话过渡阅读"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "小说细节",
+        "主旨"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古典小说与历史叙事"
+      ]
+    },
+    {
+      "id": "M9C-A-U6-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级上册",
+      "unit_id": "M9C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古典小说与历史叙事",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "故事改写",
+      "description": "围绕“古典小说与历史叙事”单元，掌握“故事改写”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "小说细节与主旨"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "故事改写"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "古典小说与历史叙事"
+      ]
+    },
+    {
+      "id": "M9C-B-U1-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U1",
+      "unit_no": 1,
+      "unit_name": "家国之思与现代诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "抒情方式辨析",
+      "description": "围绕“家国之思与现代诗文”单元，掌握“抒情方式辨析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "抒情方式辨析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "家国之思与现代诗文"
+      ]
+    },
+    {
+      "id": "M9C-B-U1-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U1",
+      "unit_no": 1,
+      "unit_name": "家国之思与现代诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "意象群分析",
+      "description": "围绕“家国之思与现代诗文”单元，掌握“意象群分析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "抒情方式辨析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "意象群分析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "家国之思与现代诗文"
+      ]
+    },
+    {
+      "id": "M9C-B-U1-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U1",
+      "unit_no": 1,
+      "unit_name": "家国之思与现代诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "诗文中的家国情怀",
+      "description": "围绕“家国之思与现代诗文”单元，掌握“诗文中的家国情怀”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "意象群分析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "诗文中",
+        "家国情怀"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "家国之思与现代诗文"
+      ]
+    },
+    {
+      "id": "M9C-B-U1-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U1",
+      "unit_no": 1,
+      "unit_name": "家国之思与现代诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "象征与托物言志",
+      "description": "围绕“家国之思与现代诗文”单元，掌握“象征与托物言志”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "诗文中的家国情怀"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "象征",
+        "托物言志"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "家国之思与现代诗文"
+      ]
+    },
+    {
+      "id": "M9C-B-U1-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U1",
+      "unit_no": 1,
+      "unit_name": "家国之思与现代诗文",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "句式表达效果",
+      "description": "围绕“家国之思与现代诗文”单元，掌握“句式表达效果”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "象征与托物言志"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "句式表达效果"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "提高",
+        "家国之思与现代诗文"
+      ]
+    },
+    {
+      "id": "M9C-B-U1-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U1",
+      "unit_no": 1,
+      "unit_name": "家国之思与现代诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "现代文主题探究",
+      "description": "围绕“家国之思与现代诗文”单元，掌握“现代文主题探究”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "句式表达效果"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "现代文主题探究"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "家国之思与现代诗文"
+      ]
+    },
+    {
+      "id": "M9C-B-U1-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U1",
+      "unit_no": 1,
+      "unit_name": "家国之思与现代诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "朗读脚本设计",
+      "description": "围绕“家国之思与现代诗文”单元，掌握“朗读脚本设计”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "现代文主题探究"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "朗读脚本设计"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "家国之思与现代诗文"
+      ]
+    },
+    {
+      "id": "M9C-B-U1-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U1",
+      "unit_no": 1,
+      "unit_name": "家国之思与现代诗文",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "抒情片段写作",
+      "description": "围绕“家国之思与现代诗文”单元，掌握“抒情片段写作”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "朗读脚本设计"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "抒情片段写作"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "家国之思与现代诗文"
+      ]
+    },
+    {
+      "id": "M9C-B-U2-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U2",
+      "unit_no": 2,
+      "unit_name": "小说与社会人生",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "小说矛盾冲突",
+      "description": "围绕“小说与社会人生”单元，掌握“小说矛盾冲突”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "小说矛盾冲突"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "小说与社会人生"
+      ]
+    },
+    {
+      "id": "M9C-B-U2-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U2",
+      "unit_no": 2,
+      "unit_name": "小说与社会人生",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人物心理变化",
+      "description": "围绕“小说与社会人生”单元，掌握“人物心理变化”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "小说矛盾冲突"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人物心理变化"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "小说与社会人生"
+      ]
+    },
+    {
+      "id": "M9C-B-U2-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U2",
+      "unit_no": 2,
+      "unit_name": "小说与社会人生",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "社会环境作用",
+      "description": "围绕“小说与社会人生”单元，掌握“社会环境作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "人物心理变化"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "社会环境作用"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "小说与社会人生"
+      ]
+    },
+    {
+      "id": "M9C-B-U2-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U2",
+      "unit_no": 2,
+      "unit_name": "小说与社会人生",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "讽刺手法",
+      "description": "围绕“小说与社会人生”单元，掌握“讽刺手法”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "社会环境作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "讽刺手法"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "小说与社会人生"
+      ]
+    },
+    {
+      "id": "M9C-B-U2-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U2",
+      "unit_no": 2,
+      "unit_name": "小说与社会人生",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "叙事节奏",
+      "description": "围绕“小说与社会人生”单元，掌握“叙事节奏”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "讽刺手法"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "叙事节奏"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "小说与社会人生"
+      ]
+    },
+    {
+      "id": "M9C-B-U2-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U2",
+      "unit_no": 2,
+      "unit_name": "小说与社会人生",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "开放式结尾理解",
+      "description": "围绕“小说与社会人生”单元，掌握“开放式结尾理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "叙事节奏"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "开放式结尾理解"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "小说与社会人生"
+      ]
+    },
+    {
+      "id": "M9C-B-U2-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U2",
+      "unit_no": 2,
+      "unit_name": "小说与社会人生",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "小说标题含义",
+      "description": "围绕“小说与社会人生”单元，掌握“小说标题含义”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "开放式结尾理解"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "小说标题含义"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "小说与社会人生"
+      ]
+    },
+    {
+      "id": "M9C-B-U2-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U2",
+      "unit_no": 2,
+      "unit_name": "小说与社会人生",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "小说主题比较",
+      "description": "围绕“小说与社会人生”单元，掌握“小说主题比较”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "小说标题含义"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "小说主题比较"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "小说与社会人生"
+      ]
+    },
+    {
+      "id": "M9C-B-U3-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "鱼我所欲也论证思路",
+      "description": "围绕“古诗文人格与选择”单元，掌握“鱼我所欲也论证思路”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "鱼我所欲也论证思路"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "基础",
+        "古诗文人格与选择"
+      ]
+    },
+    {
+      "id": "M9C-B-U3-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "唐雎不辱使命人物形象",
+      "description": "围绕“古诗文人格与选择”单元，掌握“唐雎不辱使命人物形象”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "鱼我所欲也论证思路"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "唐雎不辱使命人物形象"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古诗文人格与选择"
+      ]
+    },
+    {
+      "id": "M9C-B-U3-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "送东阳马生序劝学主题",
+      "description": "围绕“古诗文人格与选择”单元，掌握“送东阳马生序劝学主题”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "唐雎不辱使命人物形象"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "送东阳马生序劝学主题"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古诗文人格与选择"
+      ]
+    },
+    {
+      "id": "M9C-B-U3-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "词类活用",
+      "description": "围绕“古诗文人格与选择”单元，掌握“词类活用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "送东阳马生序劝学主题"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "词类活用"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古诗文人格与选择"
+      ]
+    },
+    {
+      "id": "M9C-B-U3-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言特殊句式",
+      "description": "围绕“古诗文人格与选择”单元，掌握“文言特殊句式”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "词类活用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言特殊句式"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文人格与选择"
+      ]
+    },
+    {
+      "id": "M9C-B-U3-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言文比较阅读",
+      "description": "围绕“古诗文人格与选择”单元，掌握“文言文比较阅读”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "文言特殊句式"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言文比较阅读"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文人格与选择"
+      ]
+    },
+    {
+      "id": "M9C-B-U3-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "古诗词用典",
+      "description": "围绕“古诗文人格与选择”单元，掌握“古诗词用典”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "文言文比较阅读"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "古诗词用典"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文人格与选择"
+      ]
+    },
+    {
+      "id": "M9C-B-U3-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人格精神评价",
+      "description": "围绕“古诗文人格与选择”单元，掌握“人格精神评价”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "古诗词用典"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人格精神评价"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古诗文人格与选择"
+      ]
+    },
+    {
+      "id": "M9C-B-U3-KP009",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文人格与选择",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "古诗文迁移表达",
+      "description": "围绕“古诗文人格与选择”单元，掌握“古诗文迁移表达”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "人格精神评价"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "古诗文迁移表达"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "提高",
+        "古诗文人格与选择"
+      ]
+    },
+    {
+      "id": "M9C-B-U4-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U4",
+      "unit_no": 4,
+      "unit_name": "戏剧阅读与舞台表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "戏剧冲突",
+      "description": "围绕“戏剧阅读与舞台表达”单元，掌握“戏剧冲突”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "戏剧冲突"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "戏剧阅读与舞台表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U4-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U4",
+      "unit_no": 4,
+      "unit_name": "戏剧阅读与舞台表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "台词潜台词",
+      "description": "围绕“戏剧阅读与舞台表达”单元，掌握“台词潜台词”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "戏剧冲突"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "台词潜台词"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "戏剧阅读与舞台表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U4-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U4",
+      "unit_no": 4,
+      "unit_name": "戏剧阅读与舞台表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人物动作提示",
+      "description": "围绕“戏剧阅读与舞台表达”单元，掌握“人物动作提示”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "台词潜台词"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人物动作提示"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "戏剧阅读与舞台表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U4-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U4",
+      "unit_no": 4,
+      "unit_name": "戏剧阅读与舞台表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "舞台说明作用",
+      "description": "围绕“戏剧阅读与舞台表达”单元，掌握“舞台说明作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "人物动作提示"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "舞台说明作用"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "戏剧阅读与舞台表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U4-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U4",
+      "unit_no": 4,
+      "unit_name": "戏剧阅读与舞台表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "戏剧情节推进",
+      "description": "围绕“戏剧阅读与舞台表达”单元，掌握“戏剧情节推进”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "舞台说明作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "戏剧情节推进"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "戏剧阅读与舞台表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U4-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U4",
+      "unit_no": 4,
+      "unit_name": "戏剧阅读与舞台表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人物性格塑造",
+      "description": "围绕“戏剧阅读与舞台表达”单元，掌握“人物性格塑造”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "戏剧情节推进"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人物性格塑造"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "戏剧阅读与舞台表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U4-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U4",
+      "unit_no": 4,
+      "unit_name": "戏剧阅读与舞台表达",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "剧本片段改写",
+      "description": "围绕“戏剧阅读与舞台表达”单元，掌握“剧本片段改写”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "人物性格塑造"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "剧本片段改写"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "戏剧阅读与舞台表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U4-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U4",
+      "unit_no": 4,
+      "unit_name": "戏剧阅读与舞台表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "表演方案设计",
+      "description": "围绕“戏剧阅读与舞台表达”单元，掌握“表演方案设计”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "剧本片段改写"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "表演方案设计"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "戏剧阅读与舞台表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U5-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U5",
+      "unit_no": 5,
+      "unit_name": "散文与人生感悟",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "散文线索",
+      "description": "围绕“散文与人生感悟”单元，掌握“散文线索”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "散文线索"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "散文与人生感悟"
+      ]
+    },
+    {
+      "id": "M9C-B-U5-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U5",
+      "unit_no": 5,
+      "unit_name": "散文与人生感悟",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "关键句含义",
+      "description": "围绕“散文与人生感悟”单元，掌握“关键句含义”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "散文线索"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "关键句含义"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "散文与人生感悟"
+      ]
+    },
+    {
+      "id": "M9C-B-U5-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U5",
+      "unit_no": 5,
+      "unit_name": "散文与人生感悟",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "托物寓意",
+      "description": "围绕“散文与人生感悟”单元，掌握“托物寓意”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "关键句含义"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "托物寓意"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "散文与人生感悟"
+      ]
+    },
+    {
+      "id": "M9C-B-U5-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U5",
+      "unit_no": 5,
+      "unit_name": "散文与人生感悟",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "哲理句赏析",
+      "description": "围绕“散文与人生感悟”单元，掌握“哲理句赏析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "托物寓意"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "哲理句赏析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "散文与人生感悟"
+      ]
+    },
+    {
+      "id": "M9C-B-U5-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U5",
+      "unit_no": 5,
+      "unit_name": "散文与人生感悟",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "材料详略安排",
+      "description": "围绕“散文与人生感悟”单元，掌握“材料详略安排”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "哲理句赏析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "材料详略安排"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "散文与人生感悟"
+      ]
+    },
+    {
+      "id": "M9C-B-U5-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U5",
+      "unit_no": 5,
+      "unit_name": "散文与人生感悟",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "叙议结合",
+      "description": "围绕“散文与人生感悟”单元，掌握“叙议结合”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "材料详略安排"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "叙议结合"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "散文与人生感悟"
+      ]
+    },
+    {
+      "id": "M9C-B-U5-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U5",
+      "unit_no": 5,
+      "unit_name": "散文与人生感悟",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人生感悟提炼",
+      "description": "围绕“散文与人生感悟”单元，掌握“人生感悟提炼”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "叙议结合"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人生感悟提炼"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "散文与人生感悟"
+      ]
+    },
+    {
+      "id": "M9C-B-U5-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U5",
+      "unit_no": 5,
+      "unit_name": "散文与人生感悟",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "议论抒情片段写作",
+      "description": "围绕“散文与人生感悟”单元，掌握“议论抒情片段写作”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "人生感悟提炼"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "议论抒情片段写作"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "散文与人生感悟"
+      ]
+    },
+    {
+      "id": "M9C-B-U6-KP001",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "材料概括",
+      "description": "围绕“综合性学习与中考表达”单元，掌握“材料概括”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "材料概括"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "综合性学习与中考表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U6-KP002",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "图表信息转述",
+      "description": "围绕“综合性学习与中考表达”单元，掌握“图表信息转述”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "材料概括"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "图表信息转述"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "综合性学习与中考表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U6-KP003",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "新闻压缩",
+      "description": "围绕“综合性学习与中考表达”单元，掌握“新闻压缩”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "图表信息转述"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "新闻压缩"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "综合性学习与中考表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U6-KP004",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "应用文格式",
+      "description": "围绕“综合性学习与中考表达”单元，掌握“应用文格式”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "新闻压缩"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "应用文格式"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "综合性学习与中考表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U6-KP005",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "口语交际得体",
+      "description": "围绕“综合性学习与中考表达”单元，掌握“口语交际得体”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "应用文格式"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "口语交际得体"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "综合性学习与中考表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U6-KP006",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "病句修改",
+      "description": "围绕“综合性学习与中考表达”单元，掌握“病句修改”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "口语交际得体"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "病句修改"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "综合性学习与中考表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U6-KP007",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "句子衔接排序",
+      "description": "围绕“综合性学习与中考表达”单元，掌握“句子衔接排序”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "病句修改"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "句子衔接排序"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "综合性学习与中考表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U6-KP008",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "作文立意与选材",
+      "description": "围绕“综合性学习与中考表达”单元，掌握“作文立意与选材”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "句子衔接排序"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "作文立意",
+        "选材"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "综合性学习与中考表达"
+      ]
+    },
+    {
+      "id": "M9C-B-U6-KP009",
+      "grade": 9,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版九年级语文，按公开目录与初三常规教学诊断点整理。",
+      "volume": "九年级下册",
+      "unit_id": "M9C-B-U6",
+      "unit_no": 6,
+      "unit_name": "综合性学习与中考表达",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "作文结构升格",
+      "description": "围绕“综合性学习与中考表达”单元，掌握“作文结构升格”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "作文立意与选材"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "作文结构升格"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "提高",
+        "综合性学习与中考表达"
+      ]
+    }
+  ]
+}

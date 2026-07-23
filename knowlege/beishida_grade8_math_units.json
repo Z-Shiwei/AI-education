@@ -1,0 +1,3602 @@
+{
+  "metadata": {
+    "name": "北京师范大学版八年级数学上下册知识点库",
+    "grade": 8,
+    "subject": "数学",
+    "publisher": "北京师范大学出版社",
+    "edition_note": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+    "created_at": "2026-07-23",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 13,
+    "total_knowledge_points": 107,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "M8-A-U1",
+      "unit_no": 1,
+      "unit_name": "勾股定理",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8-A-U1-KP001",
+        "M8-A-U1-KP002",
+        "M8-A-U1-KP003",
+        "M8-A-U1-KP004",
+        "M8-A-U1-KP005",
+        "M8-A-U1-KP006",
+        "M8-A-U1-KP007",
+        "M8-A-U1-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-A-U1-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U1",
+          "unit_no": 1,
+          "unit_name": "勾股定理",
+          "unit_name_zh": "",
+          "category": "几何证明",
+          "name": "直角三角形与勾股定理条件",
+          "description": "理解直角三角形两直角边、斜边关系，能判断是否适用勾股定理。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "直角三角形",
+            "勾股定理条件"
+          ],
+          "diagnosis_tags": [
+            "几何证明",
+            "基础",
+            "勾股定理"
+          ]
+        },
+        {
+          "id": "M8-A-U1-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U1",
+          "unit_no": 1,
+          "unit_name": "勾股定理",
+          "unit_name_zh": "",
+          "category": "几何计算",
+          "name": "勾股定理公式 a²+b²=c²",
+          "description": "掌握勾股定理公式，会根据两边求第三边。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "直角三角形与勾股定理条件"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "勾股定理公式",
+            "a²+b²=c²"
+          ],
+          "diagnosis_tags": [
+            "几何计算",
+            "核心",
+            "勾股定理"
+          ]
+        },
+        {
+          "id": "M8-A-U1-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U1",
+          "unit_no": 1,
+          "unit_name": "勾股定理",
+          "unit_name_zh": "",
+          "category": "几何证明",
+          "name": "勾股定理的面积证明思想",
+          "description": "理解利用面积割补证明勾股定理的基本思路。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "勾股定理公式 a²+b²=c²"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "勾股定理",
+            "面积证明思想"
+          ],
+          "diagnosis_tags": [
+            "几何证明",
+            "核心",
+            "勾股定理"
+          ]
+        },
+        {
+          "id": "M8-A-U1-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U1",
+          "unit_no": 1,
+          "unit_name": "勾股定理",
+          "unit_name_zh": "",
+          "category": "建模应用",
+          "name": "勾股定理的实际应用",
+          "description": "能把楼梯、梯子、距离等情境转化为直角三角形求解。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "勾股定理的面积证明思想"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "勾股定理",
+            "实际应用"
+          ],
+          "diagnosis_tags": [
+            "建模应用",
+            "核心",
+            "勾股定理"
+          ]
+        },
+        {
+          "id": "M8-A-U1-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U1",
+          "unit_no": 1,
+          "unit_name": "勾股定理",
+          "unit_name_zh": "",
+          "category": "几何判定",
+          "name": "勾股定理的逆定理",
+          "description": "能用三边关系判断三角形是否为直角三角形。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "勾股定理的实际应用"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "勾股定理",
+            "逆定理"
+          ],
+          "diagnosis_tags": [
+            "几何判定",
+            "核心",
+            "勾股定理"
+          ]
+        },
+        {
+          "id": "M8-A-U1-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U1",
+          "unit_no": 1,
+          "unit_name": "勾股定理",
+          "unit_name_zh": "",
+          "category": "几何计算",
+          "name": "勾股数识别",
+          "description": "识别常见勾股数并用于快速判断和计算。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "勾股定理的逆定理"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "勾股数识别"
+          ],
+          "diagnosis_tags": [
+            "几何计算",
+            "基础",
+            "勾股定理"
+          ]
+        },
+        {
+          "id": "M8-A-U1-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U1",
+          "unit_no": 1,
+          "unit_name": "勾股定理",
+          "unit_name_zh": "",
+          "category": "数形结合",
+          "name": "网格中的最短距离",
+          "description": "能在方格或坐标背景下用勾股定理求线段长度。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "勾股数识别"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "网格中",
+            "最短距离"
+          ],
+          "diagnosis_tags": [
+            "数形结合",
+            "核心",
+            "勾股定理"
+          ]
+        },
+        {
+          "id": "M8-A-U1-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U1",
+          "unit_no": 1,
+          "unit_name": "勾股定理",
+          "unit_name_zh": "",
+          "category": "空间想象",
+          "name": "立体图形中的路径最短问题",
+          "description": "能把简单立体表面展开成平面后用勾股定理求最短路径。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "网格中的最短距离"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "立体图形中",
+            "路径最短问题"
+          ],
+          "diagnosis_tags": [
+            "空间想象",
+            "提高",
+            "勾股定理"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-A-U2",
+      "unit_no": 2,
+      "unit_name": "实数",
+      "volume": "八年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M8-A-U2-KP001",
+        "M8-A-U2-KP002",
+        "M8-A-U2-KP003",
+        "M8-A-U2-KP004",
+        "M8-A-U2-KP005",
+        "M8-A-U2-KP006",
+        "M8-A-U2-KP007",
+        "M8-A-U2-KP008",
+        "M8-A-U2-KP009",
+        "M8-A-U2-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-A-U2-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "数与式",
+          "name": "平方根的意义",
+          "description": "理解若 x²=a，则 x 是 a 的平方根。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平方根",
+            "意义"
+          ],
+          "diagnosis_tags": [
+            "数与式",
+            "基础",
+            "实数"
+          ]
+        },
+        {
+          "id": "M8-A-U2-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "数与式",
+          "name": "算术平方根",
+          "description": "掌握非负数算术平方根的意义、符号和基本求法。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平方根的意义"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "算术平方根"
+          ],
+          "diagnosis_tags": [
+            "数与式",
+            "核心",
+            "实数"
+          ]
+        },
+        {
+          "id": "M8-A-U2-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "数与式",
+          "name": "立方根的意义",
+          "description": "理解若 x³=a，则 x 是 a 的立方根，会求简单立方根。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "算术平方根"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "立方根",
+            "意义"
+          ],
+          "diagnosis_tags": [
+            "数与式",
+            "核心",
+            "实数"
+          ]
+        },
+        {
+          "id": "M8-A-U2-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "数系扩充",
+          "name": "无理数的认识",
+          "description": "理解无限不循环小数是无理数，能识别常见无理数。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "立方根的意义"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "无理数",
+            "认识"
+          ],
+          "diagnosis_tags": [
+            "数系扩充",
+            "基础",
+            "实数"
+          ]
+        },
+        {
+          "id": "M8-A-U2-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "数系扩充",
+          "name": "实数的分类",
+          "description": "能按有理数、无理数、正实数、负实数等标准分类。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "无理数的认识"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "实数",
+            "分类"
+          ],
+          "diagnosis_tags": [
+            "数系扩充",
+            "基础",
+            "实数"
+          ]
+        },
+        {
+          "id": "M8-A-U2-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "数形结合",
+          "name": "实数与数轴",
+          "description": "理解实数与数轴上的点一一对应，会在数轴上估计无理数位置。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "实数的分类"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "实数",
+            "数轴"
+          ],
+          "diagnosis_tags": [
+            "数形结合",
+            "核心",
+            "实数"
+          ]
+        },
+        {
+          "id": "M8-A-U2-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "数与式",
+          "name": "实数大小比较",
+          "description": "会利用数轴、平方、近似值比较实数大小。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "实数与数轴"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "实数大小比较"
+          ],
+          "diagnosis_tags": [
+            "数与式",
+            "核心",
+            "实数"
+          ]
+        },
+        {
+          "id": "M8-A-U2-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "数与式",
+          "name": "二次根式的初步化简",
+          "description": "会化简简单平方根，理解被开方数非负。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "实数大小比较"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "二次根式",
+            "初步化简"
+          ],
+          "diagnosis_tags": [
+            "数与式",
+            "核心",
+            "实数"
+          ]
+        },
+        {
+          "id": "M8-A-U2-KP009",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "实数的混合运算",
+          "description": "会进行含平方根、立方根的简单实数运算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "二次根式的初步化简"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "实数",
+            "混合运算"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "实数"
+          ]
+        },
+        {
+          "id": "M8-A-U2-KP010",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U2",
+          "unit_no": 2,
+          "unit_name": "实数",
+          "unit_name_zh": "",
+          "category": "估算",
+          "name": "近似数与估算",
+          "description": "能对根号数进行合理估算并解决实际问题。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "实数的混合运算"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "近似数",
+            "估算"
+          ],
+          "diagnosis_tags": [
+            "估算",
+            "基础",
+            "实数"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-A-U3",
+      "unit_no": 3,
+      "unit_name": "位置与坐标",
+      "volume": "八年级上册",
+      "knowledge_point_count": 7,
+      "knowledge_point_ids": [
+        "M8-A-U3-KP001",
+        "M8-A-U3-KP002",
+        "M8-A-U3-KP003",
+        "M8-A-U3-KP004",
+        "M8-A-U3-KP005",
+        "M8-A-U3-KP006",
+        "M8-A-U3-KP007"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-A-U3-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U3",
+          "unit_no": 3,
+          "unit_name": "位置与坐标",
+          "unit_name_zh": "",
+          "category": "坐标几何",
+          "name": "平面直角坐标系",
+          "description": "理解横轴、纵轴、原点和象限。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平面直角坐标系"
+          ],
+          "diagnosis_tags": [
+            "坐标几何",
+            "基础",
+            "位置与坐标"
+          ]
+        },
+        {
+          "id": "M8-A-U3-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U3",
+          "unit_no": 3,
+          "unit_name": "位置与坐标",
+          "unit_name_zh": "",
+          "category": "坐标几何",
+          "name": "点的坐标表示",
+          "description": "会写出平面内点的坐标并根据坐标描点。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平面直角坐标系"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "点",
+            "坐标表示"
+          ],
+          "diagnosis_tags": [
+            "坐标几何",
+            "核心",
+            "位置与坐标"
+          ]
+        },
+        {
+          "id": "M8-A-U3-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U3",
+          "unit_no": 3,
+          "unit_name": "位置与坐标",
+          "unit_name_zh": "",
+          "category": "坐标几何",
+          "name": "象限内点的坐标特征",
+          "description": "掌握四个象限及坐标轴上点的符号特征。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "点的坐标表示"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "象限内点",
+            "坐标特征"
+          ],
+          "diagnosis_tags": [
+            "坐标几何",
+            "核心",
+            "位置与坐标"
+          ]
+        },
+        {
+          "id": "M8-A-U3-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U3",
+          "unit_no": 3,
+          "unit_name": "位置与坐标",
+          "unit_name_zh": "",
+          "category": "图形变换",
+          "name": "坐标轴对称点",
+          "description": "掌握关于 x 轴、y 轴和原点对称点坐标变化。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "象限内点的坐标特征"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "坐标轴对称点"
+          ],
+          "diagnosis_tags": [
+            "图形变换",
+            "核心",
+            "位置与坐标"
+          ]
+        },
+        {
+          "id": "M8-A-U3-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U3",
+          "unit_no": 3,
+          "unit_name": "位置与坐标",
+          "unit_name_zh": "",
+          "category": "图形变换",
+          "name": "图形平移与坐标变化",
+          "description": "理解左右、上下平移对点坐标的影响。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "坐标轴对称点"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "图形平移",
+            "坐标变化"
+          ],
+          "diagnosis_tags": [
+            "图形变换",
+            "核心",
+            "位置与坐标"
+          ]
+        },
+        {
+          "id": "M8-A-U3-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U3",
+          "unit_no": 3,
+          "unit_name": "位置与坐标",
+          "unit_name_zh": "",
+          "category": "数形结合",
+          "name": "坐标系中的距离初步",
+          "description": "能结合坐标和勾股定理求简单线段长度。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "图形平移与坐标变化"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "坐标系中",
+            "距离初步"
+          ],
+          "diagnosis_tags": [
+            "数形结合",
+            "提高",
+            "位置与坐标"
+          ]
+        },
+        {
+          "id": "M8-A-U3-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U3",
+          "unit_no": 3,
+          "unit_name": "位置与坐标",
+          "unit_name_zh": "",
+          "category": "建模应用",
+          "name": "用坐标描述位置",
+          "description": "能建立合适坐标系描述实际位置。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "坐标系中的距离初步"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "用坐标描述位置"
+          ],
+          "diagnosis_tags": [
+            "建模应用",
+            "基础",
+            "位置与坐标"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-A-U4",
+      "unit_no": 4,
+      "unit_name": "一次函数",
+      "volume": "八年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M8-A-U4-KP001",
+        "M8-A-U4-KP002",
+        "M8-A-U4-KP003",
+        "M8-A-U4-KP004",
+        "M8-A-U4-KP005",
+        "M8-A-U4-KP006",
+        "M8-A-U4-KP007",
+        "M8-A-U4-KP008",
+        "M8-A-U4-KP009",
+        "M8-A-U4-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-A-U4-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "函数",
+          "name": "函数的概念",
+          "description": "理解变量之间对应关系，能判断一个关系是否为函数。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "函数",
+            "概念"
+          ],
+          "diagnosis_tags": [
+            "函数",
+            "基础",
+            "一次函数"
+          ]
+        },
+        {
+          "id": "M8-A-U4-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "函数",
+          "name": "函数的三种表示方法",
+          "description": "会用表格、关系式、图象表示函数。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "函数的概念"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "函数",
+            "三种表示方法"
+          ],
+          "diagnosis_tags": [
+            "函数",
+            "基础",
+            "一次函数"
+          ]
+        },
+        {
+          "id": "M8-A-U4-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "一次函数",
+          "name": "一次函数 y=kx+b",
+          "description": "理解一次函数解析式及 k、b 的意义。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "函数的三种表示方法"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "一次函数",
+            "y=kx+b"
+          ],
+          "diagnosis_tags": [
+            "一次函数",
+            "核心",
+            "一次函数"
+          ]
+        },
+        {
+          "id": "M8-A-U4-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "一次函数",
+          "name": "正比例函数 y=kx",
+          "description": "掌握正比例函数图象和性质。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "一次函数 y=kx+b"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "正比例函数",
+            "y=kx"
+          ],
+          "diagnosis_tags": [
+            "一次函数",
+            "核心",
+            "一次函数"
+          ]
+        },
+        {
+          "id": "M8-A-U4-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "图象",
+          "name": "一次函数图象画法",
+          "description": "会用两点法画一次函数图象。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "正比例函数 y=kx"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "一次函数图象画法"
+          ],
+          "diagnosis_tags": [
+            "图象",
+            "核心",
+            "一次函数"
+          ]
+        },
+        {
+          "id": "M8-A-U4-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "图象",
+          "name": "k 与 b 对图象的影响",
+          "description": "理解斜率、截距对直线方向和位置的影响。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "一次函数图象画法"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "k",
+            "b",
+            "对图象",
+            "影响"
+          ],
+          "diagnosis_tags": [
+            "图象",
+            "核心",
+            "一次函数"
+          ]
+        },
+        {
+          "id": "M8-A-U4-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "函数性质",
+          "name": "一次函数增减性",
+          "description": "能根据 k 的正负判断函数随 x 增大而增大或减小。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "k 与 b 对图象的影响"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "一次函数增减性"
+          ],
+          "diagnosis_tags": [
+            "函数性质",
+            "核心",
+            "一次函数"
+          ]
+        },
+        {
+          "id": "M8-A-U4-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "函数应用",
+          "name": "待定系数法求解析式",
+          "description": "会根据点或实际条件求一次函数解析式。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "一次函数增减性"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "待定系数法求解析式"
+          ],
+          "diagnosis_tags": [
+            "函数应用",
+            "核心",
+            "一次函数"
+          ]
+        },
+        {
+          "id": "M8-A-U4-KP009",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "数形结合",
+          "name": "一次函数与方程",
+          "description": "理解函数图象交点与方程解的关系。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "待定系数法求解析式"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "一次函数",
+            "方程"
+          ],
+          "diagnosis_tags": [
+            "数形结合",
+            "提高",
+            "一次函数"
+          ]
+        },
+        {
+          "id": "M8-A-U4-KP010",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U4",
+          "unit_no": 4,
+          "unit_name": "一次函数",
+          "unit_name_zh": "",
+          "category": "建模应用",
+          "name": "一次函数实际应用",
+          "description": "能用一次函数解决费用、行程、方案选择等问题。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "一次函数与方程"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "一次函数实际应用"
+          ],
+          "diagnosis_tags": [
+            "建模应用",
+            "核心",
+            "一次函数"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-A-U5",
+      "unit_no": 5,
+      "unit_name": "二元一次方程组",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8-A-U5-KP001",
+        "M8-A-U5-KP002",
+        "M8-A-U5-KP003",
+        "M8-A-U5-KP004",
+        "M8-A-U5-KP005",
+        "M8-A-U5-KP006",
+        "M8-A-U5-KP007",
+        "M8-A-U5-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-A-U5-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U5",
+          "unit_no": 5,
+          "unit_name": "二元一次方程组",
+          "unit_name_zh": "",
+          "category": "方程",
+          "name": "二元一次方程",
+          "description": "理解含两个未知数且次数为一的方程。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "二元一次方程"
+          ],
+          "diagnosis_tags": [
+            "方程",
+            "基础",
+            "二元一次方程组"
+          ]
+        },
+        {
+          "id": "M8-A-U5-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U5",
+          "unit_no": 5,
+          "unit_name": "二元一次方程组",
+          "unit_name_zh": "",
+          "category": "方程组",
+          "name": "二元一次方程组",
+          "description": "理解两个二元一次方程组成的方程组及其解。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "二元一次方程"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "二元一次方程组"
+          ],
+          "diagnosis_tags": [
+            "方程组",
+            "基础",
+            "二元一次方程组"
+          ]
+        },
+        {
+          "id": "M8-A-U5-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U5",
+          "unit_no": 5,
+          "unit_name": "二元一次方程组",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "代入消元法",
+          "description": "掌握代入消元求解方程组。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "二元一次方程组"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "代入消元法"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "二元一次方程组"
+          ]
+        },
+        {
+          "id": "M8-A-U5-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U5",
+          "unit_no": 5,
+          "unit_name": "二元一次方程组",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "加减消元法",
+          "description": "掌握加减消元求解方程组。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "代入消元法"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "加减消元法"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "二元一次方程组"
+          ]
+        },
+        {
+          "id": "M8-A-U5-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U5",
+          "unit_no": 5,
+          "unit_name": "二元一次方程组",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "方程组解的检验",
+          "description": "会把解代回原方程组进行检验。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "加减消元法"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "方程组解",
+            "检验"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "基础",
+            "二元一次方程组"
+          ]
+        },
+        {
+          "id": "M8-A-U5-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U5",
+          "unit_no": 5,
+          "unit_name": "二元一次方程组",
+          "unit_name_zh": "",
+          "category": "建模应用",
+          "name": "二元一次方程组建模",
+          "description": "能从实际问题中找等量关系列方程组。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "方程组解的检验"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "二元一次方程组建模"
+          ],
+          "diagnosis_tags": [
+            "建模应用",
+            "核心",
+            "二元一次方程组"
+          ]
+        },
+        {
+          "id": "M8-A-U5-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U5",
+          "unit_no": 5,
+          "unit_name": "二元一次方程组",
+          "unit_name_zh": "",
+          "category": "数形结合",
+          "name": "一次函数与二元一次方程组",
+          "description": "理解两条直线交点对应方程组解。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "二元一次方程组建模"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "一次函数",
+            "二元一次方程组"
+          ],
+          "diagnosis_tags": [
+            "数形结合",
+            "提高",
+            "二元一次方程组"
+          ]
+        },
+        {
+          "id": "M8-A-U5-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U5",
+          "unit_no": 5,
+          "unit_name": "二元一次方程组",
+          "unit_name_zh": "",
+          "category": "建模应用",
+          "name": "方案与配套问题",
+          "description": "能解决配套、购买、行程等方程组应用题。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "一次函数与二元一次方程组"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "方案",
+            "配套问题"
+          ],
+          "diagnosis_tags": [
+            "建模应用",
+            "核心",
+            "二元一次方程组"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-A-U6",
+      "unit_no": 6,
+      "unit_name": "数据的分析",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8-A-U6-KP001",
+        "M8-A-U6-KP002",
+        "M8-A-U6-KP003",
+        "M8-A-U6-KP004",
+        "M8-A-U6-KP005",
+        "M8-A-U6-KP006",
+        "M8-A-U6-KP007",
+        "M8-A-U6-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-A-U6-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的分析",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "平均数",
+          "description": "理解算术平均数和加权平均数的意义。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平均数"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "基础",
+            "数据的分析"
+          ]
+        },
+        {
+          "id": "M8-A-U6-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的分析",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "加权平均数",
+          "description": "会根据权重计算平均水平。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平均数"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "加权平均数"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "核心",
+            "数据的分析"
+          ]
+        },
+        {
+          "id": "M8-A-U6-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的分析",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "中位数",
+          "description": "理解中位数反映数据中间位置，能正确求中位数。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "加权平均数"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "中位数"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "核心",
+            "数据的分析"
+          ]
+        },
+        {
+          "id": "M8-A-U6-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的分析",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "众数",
+          "description": "理解众数反映出现次数最多的数据。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "中位数"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "众数"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "基础",
+            "数据的分析"
+          ]
+        },
+        {
+          "id": "M8-A-U6-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的分析",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "极差",
+          "description": "用最大值与最小值差描述数据波动范围。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "众数"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "极差"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "基础",
+            "数据的分析"
+          ]
+        },
+        {
+          "id": "M8-A-U6-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的分析",
+          "unit_name_zh": "",
+          "category": "统计",
+          "name": "方差",
+          "description": "理解方差反映数据离散程度，会进行简单计算。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "极差"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "方差"
+          ],
+          "diagnosis_tags": [
+            "统计",
+            "核心",
+            "数据的分析"
+          ]
+        },
+        {
+          "id": "M8-A-U6-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的分析",
+          "unit_name_zh": "",
+          "category": "统计分析",
+          "name": "数据代表性比较",
+          "description": "能根据情境选择平均数、中位数或众数。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "方差"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "数据代表性比较"
+          ],
+          "diagnosis_tags": [
+            "统计分析",
+            "核心",
+            "数据的分析"
+          ]
+        },
+        {
+          "id": "M8-A-U6-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U6",
+          "unit_no": 6,
+          "unit_name": "数据的分析",
+          "unit_name_zh": "",
+          "category": "统计分析",
+          "name": "统计图表综合分析",
+          "description": "能从表格和统计图中提取信息并作判断。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "数据代表性比较"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "统计图表综合分析"
+          ],
+          "diagnosis_tags": [
+            "统计分析",
+            "核心",
+            "数据的分析"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-A-U7",
+      "unit_no": 7,
+      "unit_name": "平行线的证明",
+      "volume": "八年级上册",
+      "knowledge_point_count": 6,
+      "knowledge_point_ids": [
+        "M8-A-U7-KP001",
+        "M8-A-U7-KP002",
+        "M8-A-U7-KP003",
+        "M8-A-U7-KP004",
+        "M8-A-U7-KP005",
+        "M8-A-U7-KP006"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-A-U7-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U7",
+          "unit_no": 7,
+          "unit_name": "平行线的证明",
+          "unit_name_zh": "",
+          "category": "推理证明",
+          "name": "命题与证明",
+          "description": "理解命题、题设、结论和证明的基本结构。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "命题",
+            "证明"
+          ],
+          "diagnosis_tags": [
+            "推理证明",
+            "基础",
+            "平行线的证明"
+          ]
+        },
+        {
+          "id": "M8-A-U7-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U7",
+          "unit_no": 7,
+          "unit_name": "平行线的证明",
+          "unit_name_zh": "",
+          "category": "推理证明",
+          "name": "公理、定理和推论",
+          "description": "理解几何推理中基本事实和定理的作用。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "命题与证明"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "公理",
+            "定理",
+            "推论"
+          ],
+          "diagnosis_tags": [
+            "推理证明",
+            "基础",
+            "平行线的证明"
+          ]
+        },
+        {
+          "id": "M8-A-U7-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U7",
+          "unit_no": 7,
+          "unit_name": "平行线的证明",
+          "unit_name_zh": "",
+          "category": "平行线",
+          "name": "平行线判定定理",
+          "description": "会用同位角、内错角、同旁内角关系判定平行。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "公理、定理和推论"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平行线判定定理"
+          ],
+          "diagnosis_tags": [
+            "平行线",
+            "核心",
+            "平行线的证明"
+          ]
+        },
+        {
+          "id": "M8-A-U7-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U7",
+          "unit_no": 7,
+          "unit_name": "平行线的证明",
+          "unit_name_zh": "",
+          "category": "平行线",
+          "name": "平行线性质定理",
+          "description": "会由两直线平行推出角的关系。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平行线判定定理"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平行线性质定理"
+          ],
+          "diagnosis_tags": [
+            "平行线",
+            "核心",
+            "平行线的证明"
+          ]
+        },
+        {
+          "id": "M8-A-U7-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U7",
+          "unit_no": 7,
+          "unit_name": "平行线的证明",
+          "unit_name_zh": "",
+          "category": "几何证明",
+          "name": "平行线综合证明",
+          "description": "能综合使用判定和性质完成角度证明。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平行线性质定理"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平行线综合证明"
+          ],
+          "diagnosis_tags": [
+            "几何证明",
+            "核心",
+            "平行线的证明"
+          ]
+        },
+        {
+          "id": "M8-A-U7-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级上册",
+          "unit_id": "M8-A-U7",
+          "unit_no": 7,
+          "unit_name": "平行线的证明",
+          "unit_name_zh": "",
+          "category": "推理证明",
+          "name": "反证法初步",
+          "description": "理解简单反证思路。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "平行线综合证明"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "反证法初步"
+          ],
+          "diagnosis_tags": [
+            "推理证明",
+            "提高",
+            "平行线的证明"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-B-U1",
+      "unit_no": 1,
+      "unit_name": "三角形的证明",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8-B-U1-KP001",
+        "M8-B-U1-KP002",
+        "M8-B-U1-KP003",
+        "M8-B-U1-KP004",
+        "M8-B-U1-KP005",
+        "M8-B-U1-KP006",
+        "M8-B-U1-KP007",
+        "M8-B-U1-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-B-U1-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U1",
+          "unit_no": 1,
+          "unit_name": "三角形的证明",
+          "unit_name_zh": "",
+          "category": "几何证明",
+          "name": "等腰三角形性质证明",
+          "description": "掌握等边对等角、三线合一等性质及证明。",
+          "difficulty": "核心",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "等腰三角形性质证明"
+          ],
+          "diagnosis_tags": [
+            "几何证明",
+            "核心",
+            "三角形的证明"
+          ]
+        },
+        {
+          "id": "M8-B-U1-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U1",
+          "unit_no": 1,
+          "unit_name": "三角形的证明",
+          "unit_name_zh": "",
+          "category": "几何判定",
+          "name": "等腰三角形判定",
+          "description": "会用等角对等边判定等腰三角形。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "等腰三角形性质证明"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "等腰三角形判定"
+          ],
+          "diagnosis_tags": [
+            "几何判定",
+            "核心",
+            "三角形的证明"
+          ]
+        },
+        {
+          "id": "M8-B-U1-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U1",
+          "unit_no": 1,
+          "unit_name": "三角形的证明",
+          "unit_name_zh": "",
+          "category": "几何证明",
+          "name": "等边三角形性质与判定",
+          "description": "掌握等边三角形三边相等、三角均为60度及判定。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "等腰三角形判定"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "等边三角形性质",
+            "判定"
+          ],
+          "diagnosis_tags": [
+            "几何证明",
+            "核心",
+            "三角形的证明"
+          ]
+        },
+        {
+          "id": "M8-B-U1-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U1",
+          "unit_no": 1,
+          "unit_name": "三角形的证明",
+          "unit_name_zh": "",
+          "category": "全等",
+          "name": "直角三角形全等 HL",
+          "description": "理解斜边和一条直角边对应相等可判定全等。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "等边三角形性质与判定"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "直角三角形全等",
+            "HL"
+          ],
+          "diagnosis_tags": [
+            "全等",
+            "核心",
+            "三角形的证明"
+          ]
+        },
+        {
+          "id": "M8-B-U1-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U1",
+          "unit_no": 1,
+          "unit_name": "三角形的证明",
+          "unit_name_zh": "",
+          "category": "几何证明",
+          "name": "角平分线性质定理",
+          "description": "掌握角平分线上的点到角两边距离相等。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "直角三角形全等 HL"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "角平分线性质定理"
+          ],
+          "diagnosis_tags": [
+            "几何证明",
+            "核心",
+            "三角形的证明"
+          ]
+        },
+        {
+          "id": "M8-B-U1-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U1",
+          "unit_no": 1,
+          "unit_name": "三角形的证明",
+          "unit_name_zh": "",
+          "category": "几何证明",
+          "name": "线段垂直平分线性质定理",
+          "description": "掌握垂直平分线上的点到线段两端距离相等。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "角平分线性质定理"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "线段垂直平分线性质定理"
+          ],
+          "diagnosis_tags": [
+            "几何证明",
+            "核心",
+            "三角形的证明"
+          ]
+        },
+        {
+          "id": "M8-B-U1-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U1",
+          "unit_no": 1,
+          "unit_name": "三角形的证明",
+          "unit_name_zh": "",
+          "category": "作图",
+          "name": "尺规作图与证明",
+          "description": "能完成基本作图并说明理由。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "线段垂直平分线性质定理"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "尺规作图",
+            "证明"
+          ],
+          "diagnosis_tags": [
+            "作图",
+            "提高",
+            "三角形的证明"
+          ]
+        },
+        {
+          "id": "M8-B-U1-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U1",
+          "unit_no": 1,
+          "unit_name": "三角形的证明",
+          "unit_name_zh": "",
+          "category": "几何综合",
+          "name": "三角形综合证明",
+          "description": "能综合全等、等腰、角平分线等进行证明。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "尺规作图与证明"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "三角形综合证明"
+          ],
+          "diagnosis_tags": [
+            "几何综合",
+            "提高",
+            "三角形的证明"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-B-U2",
+      "unit_no": 2,
+      "unit_name": "一元一次不等式与一元一次不等式组",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8-B-U2-KP001",
+        "M8-B-U2-KP002",
+        "M8-B-U2-KP003",
+        "M8-B-U2-KP004",
+        "M8-B-U2-KP005",
+        "M8-B-U2-KP006",
+        "M8-B-U2-KP007",
+        "M8-B-U2-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-B-U2-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U2",
+          "unit_no": 2,
+          "unit_name": "一元一次不等式与一元一次不等式组",
+          "unit_name_zh": "",
+          "category": "不等式",
+          "name": "不等式的意义",
+          "description": "理解不等关系和不等式表示。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "不等式",
+            "意义"
+          ],
+          "diagnosis_tags": [
+            "不等式",
+            "基础",
+            "一元一次不等式与一元一次不等式组"
+          ]
+        },
+        {
+          "id": "M8-B-U2-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U2",
+          "unit_no": 2,
+          "unit_name": "一元一次不等式与一元一次不等式组",
+          "unit_name_zh": "",
+          "category": "不等式",
+          "name": "不等式基本性质",
+          "description": "掌握不等式两边同加、同乘以及乘负数变号。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "不等式的意义"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "不等式基本性质"
+          ],
+          "diagnosis_tags": [
+            "不等式",
+            "核心",
+            "一元一次不等式与一元一次不等式组"
+          ]
+        },
+        {
+          "id": "M8-B-U2-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U2",
+          "unit_no": 2,
+          "unit_name": "一元一次不等式与一元一次不等式组",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "一元一次不等式解法",
+          "description": "会按去分母、去括号、移项、合并、系数化一求解。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "不等式基本性质"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "一元一次不等式解法"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "一元一次不等式与一元一次不等式组"
+          ]
+        },
+        {
+          "id": "M8-B-U2-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U2",
+          "unit_no": 2,
+          "unit_name": "一元一次不等式与一元一次不等式组",
+          "unit_name_zh": "",
+          "category": "数形结合",
+          "name": "不等式解集表示",
+          "description": "会用数轴表示不等式解集。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "一元一次不等式解法"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "不等式解集表示"
+          ],
+          "diagnosis_tags": [
+            "数形结合",
+            "核心",
+            "一元一次不等式与一元一次不等式组"
+          ]
+        },
+        {
+          "id": "M8-B-U2-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U2",
+          "unit_no": 2,
+          "unit_name": "一元一次不等式与一元一次不等式组",
+          "unit_name_zh": "",
+          "category": "建模应用",
+          "name": "一元一次不等式应用",
+          "description": "能用不等式解决范围、至少、至多类问题。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "不等式解集表示"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "一元一次不等式应用"
+          ],
+          "diagnosis_tags": [
+            "建模应用",
+            "核心",
+            "一元一次不等式与一元一次不等式组"
+          ]
+        },
+        {
+          "id": "M8-B-U2-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U2",
+          "unit_no": 2,
+          "unit_name": "一元一次不等式与一元一次不等式组",
+          "unit_name_zh": "",
+          "category": "不等式组",
+          "name": "一元一次不等式组",
+          "description": "理解多个不等式公共解集。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "一元一次不等式应用"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "一元一次不等式组"
+          ],
+          "diagnosis_tags": [
+            "不等式组",
+            "基础",
+            "一元一次不等式与一元一次不等式组"
+          ]
+        },
+        {
+          "id": "M8-B-U2-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U2",
+          "unit_no": 2,
+          "unit_name": "一元一次不等式与一元一次不等式组",
+          "unit_name_zh": "",
+          "category": "数形结合",
+          "name": "不等式组解集求法",
+          "description": "会在数轴上求公共部分。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "一元一次不等式组"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "不等式组解集求法"
+          ],
+          "diagnosis_tags": [
+            "数形结合",
+            "核心",
+            "一元一次不等式与一元一次不等式组"
+          ]
+        },
+        {
+          "id": "M8-B-U2-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U2",
+          "unit_no": 2,
+          "unit_name": "一元一次不等式与一元一次不等式组",
+          "unit_name_zh": "",
+          "category": "建模应用",
+          "name": "不等式组实际应用",
+          "description": "能解决方案限制、取值范围等综合问题。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "不等式组解集求法"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "不等式组实际应用"
+          ],
+          "diagnosis_tags": [
+            "建模应用",
+            "提高",
+            "一元一次不等式与一元一次不等式组"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-B-U3",
+      "unit_no": 3,
+      "unit_name": "图形的平移与旋转",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8-B-U3-KP001",
+        "M8-B-U3-KP002",
+        "M8-B-U3-KP003",
+        "M8-B-U3-KP004",
+        "M8-B-U3-KP005",
+        "M8-B-U3-KP006",
+        "M8-B-U3-KP007",
+        "M8-B-U3-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-B-U3-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U3",
+          "unit_no": 3,
+          "unit_name": "图形的平移与旋转",
+          "unit_name_zh": "",
+          "category": "图形变换",
+          "name": "平移的概念",
+          "description": "理解平移保持图形形状、大小和方向不变。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平移",
+            "概念"
+          ],
+          "diagnosis_tags": [
+            "图形变换",
+            "基础",
+            "图形的平移与旋转"
+          ]
+        },
+        {
+          "id": "M8-B-U3-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U3",
+          "unit_no": 3,
+          "unit_name": "图形的平移与旋转",
+          "unit_name_zh": "",
+          "category": "图形变换",
+          "name": "平移性质",
+          "description": "掌握对应点连线平行且相等、对应线段平行且相等。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平移的概念"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平移性质"
+          ],
+          "diagnosis_tags": [
+            "图形变换",
+            "核心",
+            "图形的平移与旋转"
+          ]
+        },
+        {
+          "id": "M8-B-U3-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U3",
+          "unit_no": 3,
+          "unit_name": "图形的平移与旋转",
+          "unit_name_zh": "",
+          "category": "作图",
+          "name": "平移作图",
+          "description": "会按给定方向和距离作出平移图形。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平移性质"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平移作图"
+          ],
+          "diagnosis_tags": [
+            "作图",
+            "核心",
+            "图形的平移与旋转"
+          ]
+        },
+        {
+          "id": "M8-B-U3-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U3",
+          "unit_no": 3,
+          "unit_name": "图形的平移与旋转",
+          "unit_name_zh": "",
+          "category": "图形变换",
+          "name": "旋转的概念",
+          "description": "理解旋转中心、旋转方向和旋转角。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "平移作图"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "旋转",
+            "概念"
+          ],
+          "diagnosis_tags": [
+            "图形变换",
+            "基础",
+            "图形的平移与旋转"
+          ]
+        },
+        {
+          "id": "M8-B-U3-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U3",
+          "unit_no": 3,
+          "unit_name": "图形的平移与旋转",
+          "unit_name_zh": "",
+          "category": "图形变换",
+          "name": "旋转性质",
+          "description": "掌握对应点到旋转中心距离相等、对应线段和角相等。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "旋转的概念"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "旋转性质"
+          ],
+          "diagnosis_tags": [
+            "图形变换",
+            "核心",
+            "图形的平移与旋转"
+          ]
+        },
+        {
+          "id": "M8-B-U3-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U3",
+          "unit_no": 3,
+          "unit_name": "图形的平移与旋转",
+          "unit_name_zh": "",
+          "category": "中心对称",
+          "name": "中心对称",
+          "description": "理解中心对称图形和关于点成中心对称。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "旋转性质"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "中心对称"
+          ],
+          "diagnosis_tags": [
+            "中心对称",
+            "核心",
+            "图形的平移与旋转"
+          ]
+        },
+        {
+          "id": "M8-B-U3-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U3",
+          "unit_no": 3,
+          "unit_name": "图形的平移与旋转",
+          "unit_name_zh": "",
+          "category": "作图",
+          "name": "旋转作图",
+          "description": "会按旋转中心、方向和角度作出旋转图形。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "中心对称"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "旋转作图"
+          ],
+          "diagnosis_tags": [
+            "作图",
+            "核心",
+            "图形的平移与旋转"
+          ]
+        },
+        {
+          "id": "M8-B-U3-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U3",
+          "unit_no": 3,
+          "unit_name": "图形的平移与旋转",
+          "unit_name_zh": "",
+          "category": "几何综合",
+          "name": "图形变换综合应用",
+          "description": "能用平移、旋转、中心对称分析复杂图形。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "旋转作图"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "图形变换综合应用"
+          ],
+          "diagnosis_tags": [
+            "几何综合",
+            "提高",
+            "图形的平移与旋转"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-B-U4",
+      "unit_no": 4,
+      "unit_name": "因式分解",
+      "volume": "八年级下册",
+      "knowledge_point_count": 7,
+      "knowledge_point_ids": [
+        "M8-B-U4-KP001",
+        "M8-B-U4-KP002",
+        "M8-B-U4-KP003",
+        "M8-B-U4-KP004",
+        "M8-B-U4-KP005",
+        "M8-B-U4-KP006",
+        "M8-B-U4-KP007"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-B-U4-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U4",
+          "unit_no": 4,
+          "unit_name": "因式分解",
+          "unit_name_zh": "",
+          "category": "整式",
+          "name": "因式分解的意义",
+          "description": "理解把多项式化为几个整式乘积的形式。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "因式分解",
+            "意义"
+          ],
+          "diagnosis_tags": [
+            "整式",
+            "基础",
+            "因式分解"
+          ]
+        },
+        {
+          "id": "M8-B-U4-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U4",
+          "unit_no": 4,
+          "unit_name": "因式分解",
+          "unit_name_zh": "",
+          "category": "因式分解",
+          "name": "提公因式法",
+          "description": "会找公因式并提取公因式。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "因式分解的意义"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "提公因式法"
+          ],
+          "diagnosis_tags": [
+            "因式分解",
+            "核心",
+            "因式分解"
+          ]
+        },
+        {
+          "id": "M8-B-U4-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U4",
+          "unit_no": 4,
+          "unit_name": "因式分解",
+          "unit_name_zh": "",
+          "category": "因式分解",
+          "name": "平方差公式分解",
+          "description": "会用 a²-b²=(a+b)(a-b) 分解因式。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "提公因式法"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平方差公式分解"
+          ],
+          "diagnosis_tags": [
+            "因式分解",
+            "核心",
+            "因式分解"
+          ]
+        },
+        {
+          "id": "M8-B-U4-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U4",
+          "unit_no": 4,
+          "unit_name": "因式分解",
+          "unit_name_zh": "",
+          "category": "因式分解",
+          "name": "完全平方公式分解",
+          "description": "会识别并分解 a²±2ab+b²。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平方差公式分解"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "完全平方公式分解"
+          ],
+          "diagnosis_tags": [
+            "因式分解",
+            "核心",
+            "因式分解"
+          ]
+        },
+        {
+          "id": "M8-B-U4-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U4",
+          "unit_no": 4,
+          "unit_name": "因式分解",
+          "unit_name_zh": "",
+          "category": "因式分解",
+          "name": "分组分解初步",
+          "description": "能对简单四项式进行分组分解。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "完全平方公式分解"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分组分解初步"
+          ],
+          "diagnosis_tags": [
+            "因式分解",
+            "提高",
+            "因式分解"
+          ]
+        },
+        {
+          "id": "M8-B-U4-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U4",
+          "unit_no": 4,
+          "unit_name": "因式分解",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "因式分解综合",
+          "description": "能选择合适方法进行多步骤分解。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分组分解初步"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "因式分解综合"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "因式分解"
+          ]
+        },
+        {
+          "id": "M8-B-U4-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U4",
+          "unit_no": 4,
+          "unit_name": "因式分解",
+          "unit_name_zh": "",
+          "category": "应用",
+          "name": "因式分解应用",
+          "description": "能用因式分解进行简算、求值和证明整除。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "因式分解综合"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "因式分解应用"
+          ],
+          "diagnosis_tags": [
+            "应用",
+            "提高",
+            "因式分解"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-B-U5",
+      "unit_no": 5,
+      "unit_name": "分式与分式方程",
+      "volume": "八年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "M8-B-U5-KP001",
+        "M8-B-U5-KP002",
+        "M8-B-U5-KP003",
+        "M8-B-U5-KP004",
+        "M8-B-U5-KP005",
+        "M8-B-U5-KP006",
+        "M8-B-U5-KP007",
+        "M8-B-U5-KP008",
+        "M8-B-U5-KP009",
+        "M8-B-U5-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-B-U5-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "分式",
+          "name": "分式的概念",
+          "description": "理解形如 A/B 且 B 含字母、B不为0 的式子。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式",
+            "概念"
+          ],
+          "diagnosis_tags": [
+            "分式",
+            "基础",
+            "分式与分式方程"
+          ]
+        },
+        {
+          "id": "M8-B-U5-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "分式",
+          "name": "分式有意义条件",
+          "description": "会确定分母不为零的取值范围。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分式的概念"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式有意义条件"
+          ],
+          "diagnosis_tags": [
+            "分式",
+            "核心",
+            "分式与分式方程"
+          ]
+        },
+        {
+          "id": "M8-B-U5-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "分式",
+          "name": "分式基本性质",
+          "description": "掌握分式约分和通分的依据。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分式有意义条件"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式基本性质"
+          ],
+          "diagnosis_tags": [
+            "分式",
+            "核心",
+            "分式与分式方程"
+          ]
+        },
+        {
+          "id": "M8-B-U5-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "分式约分",
+          "description": "能借助因式分解进行约分。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分式基本性质"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式约分"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "分式与分式方程"
+          ]
+        },
+        {
+          "id": "M8-B-U5-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "分式通分",
+          "description": "会确定最简公分母进行通分。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分式约分"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式通分"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "分式与分式方程"
+          ]
+        },
+        {
+          "id": "M8-B-U5-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "分式加减",
+          "description": "会进行同分母、异分母分式加减。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分式通分"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式加减"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "分式与分式方程"
+          ]
+        },
+        {
+          "id": "M8-B-U5-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "运算",
+          "name": "分式乘除",
+          "description": "会进行分式乘除和乘方。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分式加减"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式乘除"
+          ],
+          "diagnosis_tags": [
+            "运算",
+            "核心",
+            "分式与分式方程"
+          ]
+        },
+        {
+          "id": "M8-B-U5-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "方程",
+          "name": "分式方程解法",
+          "description": "会去分母把分式方程转化为整式方程。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分式乘除"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式方程解法"
+          ],
+          "diagnosis_tags": [
+            "方程",
+            "核心",
+            "分式与分式方程"
+          ]
+        },
+        {
+          "id": "M8-B-U5-KP009",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "方程",
+          "name": "分式方程验根",
+          "description": "理解增根产生原因并会验根。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分式方程解法"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式方程验根"
+          ],
+          "diagnosis_tags": [
+            "方程",
+            "核心",
+            "分式与分式方程"
+          ]
+        },
+        {
+          "id": "M8-B-U5-KP010",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U5",
+          "unit_no": 5,
+          "unit_name": "分式与分式方程",
+          "unit_name_zh": "",
+          "category": "建模应用",
+          "name": "分式方程应用",
+          "description": "能解决工程、行程、效率等实际问题。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "分式方程验根"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "分式方程应用"
+          ],
+          "diagnosis_tags": [
+            "建模应用",
+            "提高",
+            "分式与分式方程"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "M8-B-U6",
+      "unit_no": 6,
+      "unit_name": "平行四边形",
+      "volume": "八年级下册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M8-B-U6-KP001",
+        "M8-B-U6-KP002",
+        "M8-B-U6-KP003",
+        "M8-B-U6-KP004",
+        "M8-B-U6-KP005",
+        "M8-B-U6-KP006",
+        "M8-B-U6-KP007",
+        "M8-B-U6-KP008",
+        "M8-B-U6-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M8-B-U6-KP001",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U6",
+          "unit_no": 6,
+          "unit_name": "平行四边形",
+          "unit_name_zh": "",
+          "category": "四边形",
+          "name": "平行四边形定义",
+          "description": "理解两组对边分别平行的四边形。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平行四边形定义"
+          ],
+          "diagnosis_tags": [
+            "四边形",
+            "基础",
+            "平行四边形"
+          ]
+        },
+        {
+          "id": "M8-B-U6-KP002",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U6",
+          "unit_no": 6,
+          "unit_name": "平行四边形",
+          "unit_name_zh": "",
+          "category": "四边形",
+          "name": "平行四边形性质",
+          "description": "掌握对边相等、对角相等、对角线互相平分。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平行四边形定义"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平行四边形性质"
+          ],
+          "diagnosis_tags": [
+            "四边形",
+            "核心",
+            "平行四边形"
+          ]
+        },
+        {
+          "id": "M8-B-U6-KP003",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U6",
+          "unit_no": 6,
+          "unit_name": "平行四边形",
+          "unit_name_zh": "",
+          "category": "四边形",
+          "name": "平行四边形判定",
+          "description": "会用对边、对角线等条件判定平行四边形。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平行四边形性质"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平行四边形判定"
+          ],
+          "diagnosis_tags": [
+            "四边形",
+            "核心",
+            "平行四边形"
+          ]
+        },
+        {
+          "id": "M8-B-U6-KP004",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U6",
+          "unit_no": 6,
+          "unit_name": "平行四边形",
+          "unit_name_zh": "",
+          "category": "特殊四边形",
+          "name": "矩形性质与判定",
+          "description": "掌握矩形四角为直角、对角线相等及判定。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "平行四边形判定"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "矩形性质",
+            "判定"
+          ],
+          "diagnosis_tags": [
+            "特殊四边形",
+            "核心",
+            "平行四边形"
+          ]
+        },
+        {
+          "id": "M8-B-U6-KP005",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U6",
+          "unit_no": 6,
+          "unit_name": "平行四边形",
+          "unit_name_zh": "",
+          "category": "特殊四边形",
+          "name": "菱形性质与判定",
+          "description": "掌握菱形四边相等、对角线垂直及判定。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "矩形性质与判定"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "菱形性质",
+            "判定"
+          ],
+          "diagnosis_tags": [
+            "特殊四边形",
+            "核心",
+            "平行四边形"
+          ]
+        },
+        {
+          "id": "M8-B-U6-KP006",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U6",
+          "unit_no": 6,
+          "unit_name": "平行四边形",
+          "unit_name_zh": "",
+          "category": "特殊四边形",
+          "name": "正方形性质与判定",
+          "description": "理解正方形兼具矩形和菱形性质。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "菱形性质与判定"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "正方形性质",
+            "判定"
+          ],
+          "diagnosis_tags": [
+            "特殊四边形",
+            "核心",
+            "平行四边形"
+          ]
+        },
+        {
+          "id": "M8-B-U6-KP007",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U6",
+          "unit_no": 6,
+          "unit_name": "平行四边形",
+          "unit_name_zh": "",
+          "category": "几何证明",
+          "name": "三角形中位线",
+          "description": "掌握三角形中位线平行第三边且等于第三边一半。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "正方形性质与判定"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "三角形中位线"
+          ],
+          "diagnosis_tags": [
+            "几何证明",
+            "核心",
+            "平行四边形"
+          ]
+        },
+        {
+          "id": "M8-B-U6-KP008",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U6",
+          "unit_no": 6,
+          "unit_name": "平行四边形",
+          "unit_name_zh": "",
+          "category": "多边形",
+          "name": "多边形内角和",
+          "description": "掌握 n 边形内角和公式并能计算。",
+          "difficulty": "基础",
+          "prerequisites": [
+            "三角形中位线"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "多边形内角"
+          ],
+          "diagnosis_tags": [
+            "多边形",
+            "基础",
+            "平行四边形"
+          ]
+        },
+        {
+          "id": "M8-B-U6-KP009",
+          "grade": 8,
+          "subject": "数学",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版八年级数学，按公开教材目录与初二常规教学诊断点整理。",
+          "volume": "八年级下册",
+          "unit_id": "M8-B-U6",
+          "unit_no": 6,
+          "unit_name": "平行四边形",
+          "unit_name_zh": "",
+          "category": "几何综合",
+          "name": "平行四边形综合证明",
+          "description": "能综合特殊四边形性质和判定解决证明题。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "多边形内角和"
+          ],
+          "skills": [
+            "理解",
+            "应用"
+          ],
+          "keywords": [
+            "平行四边形综合证明"
+          ],
+          "diagnosis_tags": [
+            "几何综合",
+            "提高",
+            "平行四边形"
+          ]
+        }
+      ]
+    }
+  ]
+}

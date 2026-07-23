@@ -21,12 +21,14 @@ async function loadQuestions(subjectId, unitId) {
     const loadingText = document.getElementById('loadingText');
     const quizArea = document.getElementById('quizArea');
     const sourceMsg = document.getElementById('questionSourceMsg');
+    const count = Number(Session.get('question_count') || 20);
+    const difficulty = Session.get('difficulty') || 'mixed';
 
     try {
         loadingArea.style.display = 'block';
         loadingText.textContent = '正在生成诊断题...';
 
-        const data = await fetchQuestions(subjectId, unitId);
+        const data = await fetchQuestions(subjectId, unitId, count, difficulty);
         if (!data.questions || data.questions.length === 0) {
             showError(data.error || '生成失败，请重试。');
             return;
@@ -108,6 +110,7 @@ function updateProgress() {
 async function onSubmit() {
     const subjectId = Session.get('subject');
     const unitId = Session.get('unit_id');
+    const difficulty = Session.get('difficulty') || 'mixed';
     const submitBtn = document.getElementById('submitBtn');
     const answerList = questions.map(q => ({
         q_id: q.id,
@@ -118,7 +121,7 @@ async function onSubmit() {
     submitBtn.textContent = '正在提交并诊断...';
 
     try {
-        const result = await submitAnswers(subjectId, unitId, answerList);
+        const result = await submitAnswers(subjectId, unitId, answerList, difficulty);
         Session.set('diagnosis', result);
         window.location.href = 'report.html';
     } catch (err) {

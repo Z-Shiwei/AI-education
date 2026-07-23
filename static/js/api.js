@@ -41,14 +41,19 @@ function fetchUnits(subjectId) {
     return apiGet(`/subjects/${subjectId}/units`);
 }
 
-function fetchQuestions(subjectId, unitId, count = 20) {
-    return apiGet(`/subjects/${subjectId}/units/${unitId}/questions?count=${count}`);
+function fetchQuestions(subjectId, unitId, count = 20, difficulty = 'mixed') {
+    const params = new URLSearchParams({
+        count: String(count),
+        difficulty: difficulty || 'mixed',
+    });
+    return apiGet(`/subjects/${subjectId}/units/${unitId}/questions?${params.toString()}`);
 }
 
-function submitAnswers(subjectId, unitId, answers) {
+function submitAnswers(subjectId, unitId, answers, difficulty = 'mixed') {
     return apiPost('/submit', {
         subject: subjectId,
         unit_id: unitId,
+        difficulty: difficulty || 'mixed',
         answers,
     });
 }

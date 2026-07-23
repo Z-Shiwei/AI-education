@@ -50,6 +50,10 @@ def _merge_kp_instances(instances: list[dict]) -> dict:
     return merged
 
 
+def _is_bad_text(value: str) -> bool:
+    return not value or "?" in value or "�" in value
+
+
 def init_knowledge_base():
     _units_cache.clear()
     _name_to_kps.clear()
@@ -57,7 +61,7 @@ def init_knowledge_base():
     _merged_kps.clear()
 
     for subject_id, cfg in SUBJECT_CONFIG.items():
-        print(f"[加载] {cfg['name']} ({subject_id})")
+        print(f"[加载] {cfg['grade']}年级{cfg['name']} ({subject_id})")
         data = _load_units_file(cfg["units_file"])
         _units_cache[subject_id] = data
 
@@ -65,7 +69,7 @@ def init_knowledge_base():
         for unit in data.get("units", []):
             for kp in unit.get("knowledge_points", []):
                 name = kp.get("name", "")
-                if name and "?" not in name:
+                if not _is_bad_text(name):
                     groups[name].append(kp)
 
         _name_to_kps[subject_id] = dict(groups)
@@ -85,12 +89,12 @@ def _format_unit_title(subject_id: str, unit: dict) -> str:
     unit_name = unit.get("unit_name", "")
     unit_name_zh = unit.get("unit_name_zh", "")
 
-    if subject_id == "english" and unit_name_zh and unit_name_zh != unit_name:
+    if cfg["name"] == "英语" and unit_name_zh and unit_name_zh != unit_name:
         name = f"{unit_name} {unit_name_zh}"
     else:
         name = unit_name_zh or unit_name
 
-    return f"{cfg['name']} · 七年级{unit.get('volume', '')} · {label}：{name}"
+    return f"{cfg['name']} · {cfg['grade']}年级 · {unit.get('volume', '')} · {label}：{name}"
 
 
 def get_subjects() -> list[dict]:
@@ -99,13 +103,13 @@ def get_subjects() -> list[dict]:
         data = _units_cache.get(subject_id, {})
         subjects.append({
             "id": subject_id,
+            "grade": cfg["grade"],
             "name": cfg["name"],
             "publisher": cfg["publisher"],
-            "grade": cfg["grade"],
             "total_units": len(data.get("units", [])),
             "total_knowledge_points": len(_unique_names.get(subject_id, [])),
         })
-    return subjects
+    return sorted(subjects, key=lambda item: (item["grade"], item["name"]))
 
 
 def get_units(subject_id: str) -> list[dict]:
@@ -158,7 +162,7 @@ def get_kp_names(subject_id: str, unit_id: str | None = None) -> list[str]:
         names = []
         for kp in get_knowledge_points(subject_id, unit_id):
             name = kp.get("name", "")
-            if name and "?" not in name and name not in seen:
+            if not _is_bad_text(name) and name not in seen:
                 seen.add(name)
                 names.append(name)
         return names

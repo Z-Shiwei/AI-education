@@ -1,0 +1,3403 @@
+{
+  "metadata": {
+    "name": "北师大版九年级英语上下册知识点库",
+    "grade": 9,
+    "subject": "英语",
+    "publisher": "北京师范大学出版社",
+    "edition_note": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+    "created_at": "2026-07-23",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 12,
+    "total_knowledge_points": 96,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "M9E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Language Learning",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-A-U1-KP001",
+        "M9E-A-U1-KP002",
+        "M9E-A-U1-KP003",
+        "M9E-A-U1-KP004",
+        "M9E-A-U1-KP005",
+        "M9E-A-U1-KP006",
+        "M9E-A-U1-KP007",
+        "M9E-A-U1-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-A-U1-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Language Learning",
+          "unit_name_zh": "语言学习",
+          "category": "vocabulary",
+          "name": "learning strategies vocabulary",
+          "description": "围绕 Language Learning 主题，掌握 learning strategies vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "learning",
+            "strategies",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Language Learning"
+          ]
+        },
+        {
+          "id": "M9E-A-U1-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Language Learning",
+          "unit_name_zh": "语言学习",
+          "category": "function",
+          "name": "verb patterns review",
+          "description": "围绕 Language Learning 主题，掌握 verb patterns review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "learning strategies vocabulary"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "verb",
+            "patterns",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Language Learning"
+          ]
+        },
+        {
+          "id": "M9E-A-U1-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Language Learning",
+          "unit_name_zh": "语言学习",
+          "category": "function",
+          "name": "how to give advice",
+          "description": "围绕 Language Learning 主题，掌握 how to give advice，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "verb patterns review"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "how",
+            "to",
+            "give",
+            "advice"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Language Learning"
+          ]
+        },
+        {
+          "id": "M9E-A-U1-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Language Learning",
+          "unit_name_zh": "语言学习",
+          "category": "reading",
+          "name": "reading for learning problems",
+          "description": "围绕 Language Learning 主题，掌握 reading for learning problems，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "how to give advice"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "for",
+            "learning",
+            "problems"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "核心",
+            "Language Learning"
+          ]
+        },
+        {
+          "id": "M9E-A-U1-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Language Learning",
+          "unit_name_zh": "语言学习",
+          "category": "listening",
+          "name": "listening for suggestions",
+          "description": "围绕 Language Learning 主题，掌握 listening for suggestions，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "reading for learning problems"
+          ],
+          "skills": [
+            "listening",
+            "communication"
+          ],
+          "keywords": [
+            "listening",
+            "for",
+            "suggestions"
+          ],
+          "diagnosis_tags": [
+            "listening",
+            "提高",
+            "Language Learning"
+          ]
+        },
+        {
+          "id": "M9E-A-U1-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Language Learning",
+          "unit_name_zh": "语言学习",
+          "category": "writing",
+          "name": "writing a learning plan",
+          "description": "围绕 Language Learning 主题，掌握 writing a learning plan，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "listening for suggestions"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "a",
+            "learning",
+            "plan"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "提高",
+            "Language Learning"
+          ]
+        },
+        {
+          "id": "M9E-A-U1-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Language Learning",
+          "unit_name_zh": "语言学习",
+          "category": "function",
+          "name": "self-assessment expressions",
+          "description": "围绕 Language Learning 主题，掌握 self-assessment expressions，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "writing a learning plan"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "self-assessment",
+            "expressions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Language Learning"
+          ]
+        },
+        {
+          "id": "M9E-A-U1-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U1",
+          "unit_no": 1,
+          "unit_name": "Language Learning",
+          "unit_name_zh": "语言学习",
+          "category": "function",
+          "name": "word formation review",
+          "description": "围绕 Language Learning 主题，掌握 word formation review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "self-assessment expressions"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "word",
+            "formation",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Language Learning"
+          ]
+        }
+      ],
+      "unit_name_zh": "语言学习"
+    },
+    {
+      "unit_id": "M9E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Great People",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-A-U2-KP001",
+        "M9E-A-U2-KP002",
+        "M9E-A-U2-KP003",
+        "M9E-A-U2-KP004",
+        "M9E-A-U2-KP005",
+        "M9E-A-U2-KP006",
+        "M9E-A-U2-KP007",
+        "M9E-A-U2-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-A-U2-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U2",
+          "unit_no": 2,
+          "unit_name": "Great People",
+          "unit_name_zh": "伟大人物",
+          "category": "vocabulary",
+          "name": "biography vocabulary",
+          "description": "围绕 Great People 主题，掌握 biography vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "biography",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Great People"
+          ]
+        },
+        {
+          "id": "M9E-A-U2-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U2",
+          "unit_no": 2,
+          "unit_name": "Great People",
+          "unit_name_zh": "伟大人物",
+          "category": "function",
+          "name": "past simple and past continuous review",
+          "description": "围绕 Great People 主题，掌握 past simple and past continuous review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "biography vocabulary"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "past",
+            "simple",
+            "and",
+            "past",
+            "continuous"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Great People"
+          ]
+        },
+        {
+          "id": "M9E-A-U2-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U2",
+          "unit_no": 2,
+          "unit_name": "Great People",
+          "unit_name_zh": "伟大人物",
+          "category": "grammar",
+          "name": "relative clauses with who and that",
+          "description": "围绕 Great People 主题，掌握 relative clauses with who and that，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "past simple and past continuous review"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "relative",
+            "clauses",
+            "with",
+            "who",
+            "and"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Great People"
+          ]
+        },
+        {
+          "id": "M9E-A-U2-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U2",
+          "unit_no": 2,
+          "unit_name": "Great People",
+          "unit_name_zh": "伟大人物",
+          "category": "function",
+          "name": "describing achievements",
+          "description": "围绕 Great People 主题，掌握 describing achievements，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "relative clauses with who and that"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "describing",
+            "achievements"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Great People"
+          ]
+        },
+        {
+          "id": "M9E-A-U2-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U2",
+          "unit_no": 2,
+          "unit_name": "Great People",
+          "unit_name_zh": "伟大人物",
+          "category": "reading",
+          "name": "reading for timeline",
+          "description": "围绕 Great People 主题，掌握 reading for timeline，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "describing achievements"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "for",
+            "timeline"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Great People"
+          ]
+        },
+        {
+          "id": "M9E-A-U2-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U2",
+          "unit_no": 2,
+          "unit_name": "Great People",
+          "unit_name_zh": "伟大人物",
+          "category": "function",
+          "name": "talking about role models",
+          "description": "围绕 Great People 主题，掌握 talking about role models，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "reading for timeline"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "talking",
+            "about",
+            "role",
+            "models"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Great People"
+          ]
+        },
+        {
+          "id": "M9E-A-U2-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U2",
+          "unit_no": 2,
+          "unit_name": "Great People",
+          "unit_name_zh": "伟大人物",
+          "category": "writing",
+          "name": "writing a short biography",
+          "description": "围绕 Great People 主题，掌握 writing a short biography，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "talking about role models"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "a",
+            "short",
+            "biography"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Great People"
+          ]
+        },
+        {
+          "id": "M9E-A-U2-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U2",
+          "unit_no": 2,
+          "unit_name": "Great People",
+          "unit_name_zh": "伟大人物",
+          "category": "vocabulary",
+          "name": "values and qualities words",
+          "description": "围绕 Great People 主题，掌握 values and qualities words，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "writing a short biography"
+          ],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "values",
+            "and",
+            "qualities",
+            "words"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "核心",
+            "Great People"
+          ]
+        }
+      ],
+      "unit_name_zh": "伟大人物"
+    },
+    {
+      "unit_id": "M9E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Inventions",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-A-U3-KP001",
+        "M9E-A-U3-KP002",
+        "M9E-A-U3-KP003",
+        "M9E-A-U3-KP004",
+        "M9E-A-U3-KP005",
+        "M9E-A-U3-KP006",
+        "M9E-A-U3-KP007",
+        "M9E-A-U3-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-A-U3-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Inventions",
+          "unit_name_zh": "发明创造",
+          "category": "vocabulary",
+          "name": "invention vocabulary",
+          "description": "围绕 Inventions 主题，掌握 invention vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "invention",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Inventions"
+          ]
+        },
+        {
+          "id": "M9E-A-U3-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Inventions",
+          "unit_name_zh": "发明创造",
+          "category": "grammar",
+          "name": "passive voice present",
+          "description": "围绕 Inventions 主题，掌握 passive voice present，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "invention vocabulary"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "passive",
+            "voice",
+            "present"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Inventions"
+          ]
+        },
+        {
+          "id": "M9E-A-U3-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Inventions",
+          "unit_name_zh": "发明创造",
+          "category": "grammar",
+          "name": "passive voice past",
+          "description": "围绕 Inventions 主题，掌握 passive voice past，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "passive voice present"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "passive",
+            "voice",
+            "past"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Inventions"
+          ]
+        },
+        {
+          "id": "M9E-A-U3-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Inventions",
+          "unit_name_zh": "发明创造",
+          "category": "function",
+          "name": "materials and uses",
+          "description": "围绕 Inventions 主题，掌握 materials and uses，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "passive voice past"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "materials",
+            "and",
+            "uses"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Inventions"
+          ]
+        },
+        {
+          "id": "M9E-A-U3-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Inventions",
+          "unit_name_zh": "发明创造",
+          "category": "function",
+          "name": "explaining how things are made",
+          "description": "围绕 Inventions 主题，掌握 explaining how things are made，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "materials and uses"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "explaining",
+            "how",
+            "things",
+            "are",
+            "made"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Inventions"
+          ]
+        },
+        {
+          "id": "M9E-A-U3-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Inventions",
+          "unit_name_zh": "发明创造",
+          "category": "reading",
+          "name": "reading for process",
+          "description": "围绕 Inventions 主题，掌握 reading for process，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "explaining how things are made"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "for",
+            "process"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Inventions"
+          ]
+        },
+        {
+          "id": "M9E-A-U3-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Inventions",
+          "unit_name_zh": "发明创造",
+          "category": "function",
+          "name": "giving a product presentation",
+          "description": "围绕 Inventions 主题，掌握 giving a product presentation，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "reading for process"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "giving",
+            "a",
+            "product",
+            "presentation"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Inventions"
+          ]
+        },
+        {
+          "id": "M9E-A-U3-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U3",
+          "unit_no": 3,
+          "unit_name": "Inventions",
+          "unit_name_zh": "发明创造",
+          "category": "writing",
+          "name": "writing an invention description",
+          "description": "围绕 Inventions 主题，掌握 writing an invention description，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "giving a product presentation"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "an",
+            "invention",
+            "description"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Inventions"
+          ]
+        }
+      ],
+      "unit_name_zh": "发明创造"
+    },
+    {
+      "unit_id": "M9E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Culture and Customs",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-A-U4-KP001",
+        "M9E-A-U4-KP002",
+        "M9E-A-U4-KP003",
+        "M9E-A-U4-KP004",
+        "M9E-A-U4-KP005",
+        "M9E-A-U4-KP006",
+        "M9E-A-U4-KP007",
+        "M9E-A-U4-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-A-U4-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Culture and Customs",
+          "unit_name_zh": "文化与习俗",
+          "category": "vocabulary",
+          "name": "customs vocabulary",
+          "description": "围绕 Culture and Customs 主题，掌握 customs vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "customs",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Culture and Customs"
+          ]
+        },
+        {
+          "id": "M9E-A-U4-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Culture and Customs",
+          "unit_name_zh": "文化与习俗",
+          "category": "grammar",
+          "name": "modal verbs for rules",
+          "description": "围绕 Culture and Customs 主题，掌握 modal verbs for rules，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "customs vocabulary"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "modal",
+            "verbs",
+            "for",
+            "rules"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Culture and Customs"
+          ]
+        },
+        {
+          "id": "M9E-A-U4-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Culture and Customs",
+          "unit_name_zh": "文化与习俗",
+          "category": "function",
+          "name": "be supposed to",
+          "description": "围绕 Culture and Customs 主题，掌握 be supposed to，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "modal verbs for rules"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "be",
+            "supposed",
+            "to"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Culture and Customs"
+          ]
+        },
+        {
+          "id": "M9E-A-U4-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Culture and Customs",
+          "unit_name_zh": "文化与习俗",
+          "category": "function",
+          "name": "table manners expressions",
+          "description": "围绕 Culture and Customs 主题，掌握 table manners expressions，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "be supposed to"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "table",
+            "manners",
+            "expressions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Culture and Customs"
+          ]
+        },
+        {
+          "id": "M9E-A-U4-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Culture and Customs",
+          "unit_name_zh": "文化与习俗",
+          "category": "reading",
+          "name": "reading cultural differences",
+          "description": "围绕 Culture and Customs 主题，掌握 reading cultural differences，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "table manners expressions"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "cultural",
+            "differences"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Culture and Customs"
+          ]
+        },
+        {
+          "id": "M9E-A-U4-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Culture and Customs",
+          "unit_name_zh": "文化与习俗",
+          "category": "function",
+          "name": "giving polite suggestions",
+          "description": "围绕 Culture and Customs 主题，掌握 giving polite suggestions，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "reading cultural differences"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "giving",
+            "polite",
+            "suggestions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Culture and Customs"
+          ]
+        },
+        {
+          "id": "M9E-A-U4-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Culture and Customs",
+          "unit_name_zh": "文化与习俗",
+          "category": "function",
+          "name": "comparing customs",
+          "description": "围绕 Culture and Customs 主题，掌握 comparing customs，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "giving polite suggestions"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "comparing",
+            "customs"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Culture and Customs"
+          ]
+        },
+        {
+          "id": "M9E-A-U4-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U4",
+          "unit_no": 4,
+          "unit_name": "Culture and Customs",
+          "unit_name_zh": "文化与习俗",
+          "category": "writing",
+          "name": "writing a culture guide",
+          "description": "围绕 Culture and Customs 主题，掌握 writing a culture guide，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "comparing customs"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "a",
+            "culture",
+            "guide"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Culture and Customs"
+          ]
+        }
+      ],
+      "unit_name_zh": "文化与习俗"
+    },
+    {
+      "unit_id": "M9E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Movies and Music",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-A-U5-KP001",
+        "M9E-A-U5-KP002",
+        "M9E-A-U5-KP003",
+        "M9E-A-U5-KP004",
+        "M9E-A-U5-KP005",
+        "M9E-A-U5-KP006",
+        "M9E-A-U5-KP007",
+        "M9E-A-U5-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-A-U5-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U5",
+          "unit_no": 5,
+          "unit_name": "Movies and Music",
+          "unit_name_zh": "影视与音乐",
+          "category": "vocabulary",
+          "name": "entertainment vocabulary",
+          "description": "围绕 Movies and Music 主题，掌握 entertainment vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "entertainment",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Movies and Music"
+          ]
+        },
+        {
+          "id": "M9E-A-U5-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U5",
+          "unit_no": 5,
+          "unit_name": "Movies and Music",
+          "unit_name_zh": "影视与音乐",
+          "category": "grammar",
+          "name": "attributive clauses with which and that",
+          "description": "围绕 Movies and Music 主题，掌握 attributive clauses with which and that，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "entertainment vocabulary"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "attributive",
+            "clauses",
+            "with",
+            "which",
+            "and"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Movies and Music"
+          ]
+        },
+        {
+          "id": "M9E-A-U5-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U5",
+          "unit_no": 5,
+          "unit_name": "Movies and Music",
+          "unit_name_zh": "影视与音乐",
+          "category": "function",
+          "name": "expressing preferences and reasons",
+          "description": "围绕 Movies and Music 主题，掌握 expressing preferences and reasons，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "attributive clauses with which and that"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "expressing",
+            "preferences",
+            "and",
+            "reasons"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Movies and Music"
+          ]
+        },
+        {
+          "id": "M9E-A-U5-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U5",
+          "unit_no": 5,
+          "unit_name": "Movies and Music",
+          "unit_name_zh": "影视与音乐",
+          "category": "function",
+          "name": "review language",
+          "description": "围绕 Movies and Music 主题，掌握 review language，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "expressing preferences and reasons"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "review",
+            "language"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Movies and Music"
+          ]
+        },
+        {
+          "id": "M9E-A-U5-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U5",
+          "unit_no": 5,
+          "unit_name": "Movies and Music",
+          "unit_name_zh": "影视与音乐",
+          "category": "reading",
+          "name": "reading film reviews",
+          "description": "围绕 Movies and Music 主题，掌握 reading film reviews，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "review language"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "film",
+            "reviews"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Movies and Music"
+          ]
+        },
+        {
+          "id": "M9E-A-U5-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U5",
+          "unit_no": 5,
+          "unit_name": "Movies and Music",
+          "unit_name_zh": "影视与音乐",
+          "category": "listening",
+          "name": "listening for opinions",
+          "description": "围绕 Movies and Music 主题，掌握 listening for opinions，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "reading film reviews"
+          ],
+          "skills": [
+            "listening",
+            "communication"
+          ],
+          "keywords": [
+            "listening",
+            "for",
+            "opinions"
+          ],
+          "diagnosis_tags": [
+            "listening",
+            "提高",
+            "Movies and Music"
+          ]
+        },
+        {
+          "id": "M9E-A-U5-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U5",
+          "unit_no": 5,
+          "unit_name": "Movies and Music",
+          "unit_name_zh": "影视与音乐",
+          "category": "writing",
+          "name": "writing a movie review",
+          "description": "围绕 Movies and Music 主题，掌握 writing a movie review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "listening for opinions"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "a",
+            "movie",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Movies and Music"
+          ]
+        },
+        {
+          "id": "M9E-A-U5-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U5",
+          "unit_no": 5,
+          "unit_name": "Movies and Music",
+          "unit_name_zh": "影视与音乐",
+          "category": "function",
+          "name": "speaking about favourite works",
+          "description": "围绕 Movies and Music 主题，掌握 speaking about favourite works，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "writing a movie review"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "speaking",
+            "about",
+            "favourite",
+            "works"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Movies and Music"
+          ]
+        }
+      ],
+      "unit_name_zh": "影视与音乐"
+    },
+    {
+      "unit_id": "M9E-A-U6",
+      "unit_no": 6,
+      "unit_name": "Safety and Rules",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-A-U6-KP001",
+        "M9E-A-U6-KP002",
+        "M9E-A-U6-KP003",
+        "M9E-A-U6-KP004",
+        "M9E-A-U6-KP005",
+        "M9E-A-U6-KP006",
+        "M9E-A-U6-KP007",
+        "M9E-A-U6-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-A-U6-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U6",
+          "unit_no": 6,
+          "unit_name": "Safety and Rules",
+          "unit_name_zh": "安全与规则",
+          "category": "vocabulary",
+          "name": "safety vocabulary",
+          "description": "围绕 Safety and Rules 主题，掌握 safety vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "safety",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Safety and Rules"
+          ]
+        },
+        {
+          "id": "M9E-A-U6-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U6",
+          "unit_no": 6,
+          "unit_name": "Safety and Rules",
+          "unit_name_zh": "安全与规则",
+          "category": "function",
+          "name": "should must have to review",
+          "description": "围绕 Safety and Rules 主题，掌握 should must have to review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "safety vocabulary"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "should",
+            "must",
+            "have",
+            "to",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Safety and Rules"
+          ]
+        },
+        {
+          "id": "M9E-A-U6-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U6",
+          "unit_no": 6,
+          "unit_name": "Safety and Rules",
+          "unit_name_zh": "安全与规则",
+          "category": "grammar",
+          "name": "if conditional sentences",
+          "description": "围绕 Safety and Rules 主题，掌握 if conditional sentences，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "should must have to review"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "if",
+            "conditional",
+            "sentences"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Safety and Rules"
+          ]
+        },
+        {
+          "id": "M9E-A-U6-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U6",
+          "unit_no": 6,
+          "unit_name": "Safety and Rules",
+          "unit_name_zh": "安全与规则",
+          "category": "function",
+          "name": "warning signs",
+          "description": "围绕 Safety and Rules 主题，掌握 warning signs，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "if conditional sentences"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "warning",
+            "signs"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Safety and Rules"
+          ]
+        },
+        {
+          "id": "M9E-A-U6-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U6",
+          "unit_no": 6,
+          "unit_name": "Safety and Rules",
+          "unit_name_zh": "安全与规则",
+          "category": "reading",
+          "name": "reading safety instructions",
+          "description": "围绕 Safety and Rules 主题，掌握 reading safety instructions，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "warning signs"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "safety",
+            "instructions"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Safety and Rules"
+          ]
+        },
+        {
+          "id": "M9E-A-U6-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U6",
+          "unit_no": 6,
+          "unit_name": "Safety and Rules",
+          "unit_name_zh": "安全与规则",
+          "category": "function",
+          "name": "giving rules",
+          "description": "围绕 Safety and Rules 主题，掌握 giving rules，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "reading safety instructions"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "giving",
+            "rules"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Safety and Rules"
+          ]
+        },
+        {
+          "id": "M9E-A-U6-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U6",
+          "unit_no": 6,
+          "unit_name": "Safety and Rules",
+          "unit_name_zh": "安全与规则",
+          "category": "function",
+          "name": "emergency expressions",
+          "description": "围绕 Safety and Rules 主题，掌握 emergency expressions，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "giving rules"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "emergency",
+            "expressions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Safety and Rules"
+          ]
+        },
+        {
+          "id": "M9E-A-U6-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "M9E-A-U6",
+          "unit_no": 6,
+          "unit_name": "Safety and Rules",
+          "unit_name_zh": "安全与规则",
+          "category": "writing",
+          "name": "writing a safety notice",
+          "description": "围绕 Safety and Rules 主题，掌握 writing a safety notice，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "emergency expressions"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "a",
+            "safety",
+            "notice"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Safety and Rules"
+          ]
+        }
+      ],
+      "unit_name_zh": "安全与规则"
+    },
+    {
+      "unit_id": "M9E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Environment and Energy",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-B-U1-KP001",
+        "M9E-B-U1-KP002",
+        "M9E-B-U1-KP003",
+        "M9E-B-U1-KP004",
+        "M9E-B-U1-KP005",
+        "M9E-B-U1-KP006",
+        "M9E-B-U1-KP007",
+        "M9E-B-U1-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-B-U1-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Environment and Energy",
+          "unit_name_zh": "环境与能源",
+          "category": "vocabulary",
+          "name": "environment vocabulary",
+          "description": "围绕 Environment and Energy 主题，掌握 environment vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "environment",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Environment and Energy"
+          ]
+        },
+        {
+          "id": "M9E-B-U1-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Environment and Energy",
+          "unit_name_zh": "环境与能源",
+          "category": "grammar",
+          "name": "passive voice review",
+          "description": "围绕 Environment and Energy 主题，掌握 passive voice review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "environment vocabulary"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "passive",
+            "voice",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Environment and Energy"
+          ]
+        },
+        {
+          "id": "M9E-B-U1-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Environment and Energy",
+          "unit_name_zh": "环境与能源",
+          "category": "function",
+          "name": "present perfect review",
+          "description": "围绕 Environment and Energy 主题，掌握 present perfect review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "passive voice review"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "present",
+            "perfect",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Environment and Energy"
+          ]
+        },
+        {
+          "id": "M9E-B-U1-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Environment and Energy",
+          "unit_name_zh": "环境与能源",
+          "category": "function",
+          "name": "cause and effect connectors",
+          "description": "围绕 Environment and Energy 主题，掌握 cause and effect connectors，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "present perfect review"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "cause",
+            "and",
+            "effect",
+            "connectors"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Environment and Energy"
+          ]
+        },
+        {
+          "id": "M9E-B-U1-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Environment and Energy",
+          "unit_name_zh": "环境与能源",
+          "category": "reading",
+          "name": "reading environmental reports",
+          "description": "围绕 Environment and Energy 主题，掌握 reading environmental reports，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "cause and effect connectors"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "environmental",
+            "reports"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Environment and Energy"
+          ]
+        },
+        {
+          "id": "M9E-B-U1-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Environment and Energy",
+          "unit_name_zh": "环境与能源",
+          "category": "function",
+          "name": "discussing solutions",
+          "description": "围绕 Environment and Energy 主题，掌握 discussing solutions，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "reading environmental reports"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "discussing",
+            "solutions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Environment and Energy"
+          ]
+        },
+        {
+          "id": "M9E-B-U1-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Environment and Energy",
+          "unit_name_zh": "环境与能源",
+          "category": "writing",
+          "name": "writing a proposal",
+          "description": "围绕 Environment and Energy 主题，掌握 writing a proposal，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "discussing solutions"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "a",
+            "proposal"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Environment and Energy"
+          ]
+        },
+        {
+          "id": "M9E-B-U1-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U1",
+          "unit_no": 1,
+          "unit_name": "Environment and Energy",
+          "unit_name_zh": "环境与能源",
+          "category": "function",
+          "name": "public speaking on green life",
+          "description": "围绕 Environment and Energy 主题，掌握 public speaking on green life，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "writing a proposal"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "public",
+            "speaking",
+            "on",
+            "green",
+            "life"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Environment and Energy"
+          ]
+        }
+      ],
+      "unit_name_zh": "环境与能源"
+    },
+    {
+      "unit_id": "M9E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Science and Technology",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-B-U2-KP001",
+        "M9E-B-U2-KP002",
+        "M9E-B-U2-KP003",
+        "M9E-B-U2-KP004",
+        "M9E-B-U2-KP005",
+        "M9E-B-U2-KP006",
+        "M9E-B-U2-KP007",
+        "M9E-B-U2-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-B-U2-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Science and Technology",
+          "unit_name_zh": "科学技术",
+          "category": "vocabulary",
+          "name": "technology vocabulary",
+          "description": "围绕 Science and Technology 主题，掌握 technology vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "technology",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Science and Technology"
+          ]
+        },
+        {
+          "id": "M9E-B-U2-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Science and Technology",
+          "unit_name_zh": "科学技术",
+          "category": "function",
+          "name": "future forms review",
+          "description": "围绕 Science and Technology 主题，掌握 future forms review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "technology vocabulary"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "future",
+            "forms",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Science and Technology"
+          ]
+        },
+        {
+          "id": "M9E-B-U2-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Science and Technology",
+          "unit_name_zh": "科学技术",
+          "category": "grammar",
+          "name": "object clauses",
+          "description": "围绕 Science and Technology 主题，掌握 object clauses，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "future forms review"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "object",
+            "clauses"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Science and Technology"
+          ]
+        },
+        {
+          "id": "M9E-B-U2-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Science and Technology",
+          "unit_name_zh": "科学技术",
+          "category": "function",
+          "name": "explaining data",
+          "description": "围绕 Science and Technology 主题，掌握 explaining data，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "object clauses"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "explaining",
+            "data"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Science and Technology"
+          ]
+        },
+        {
+          "id": "M9E-B-U2-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Science and Technology",
+          "unit_name_zh": "科学技术",
+          "category": "reading",
+          "name": "reading science articles",
+          "description": "围绕 Science and Technology 主题，掌握 reading science articles，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "explaining data"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "science",
+            "articles"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Science and Technology"
+          ]
+        },
+        {
+          "id": "M9E-B-U2-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Science and Technology",
+          "unit_name_zh": "科学技术",
+          "category": "function",
+          "name": "talking about technology impact",
+          "description": "围绕 Science and Technology 主题，掌握 talking about technology impact，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "reading science articles"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "talking",
+            "about",
+            "technology",
+            "impact"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Science and Technology"
+          ]
+        },
+        {
+          "id": "M9E-B-U2-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Science and Technology",
+          "unit_name_zh": "科学技术",
+          "category": "writing",
+          "name": "writing an opinion paragraph",
+          "description": "围绕 Science and Technology 主题，掌握 writing an opinion paragraph，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "talking about technology impact"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "an",
+            "opinion",
+            "paragraph"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Science and Technology"
+          ]
+        },
+        {
+          "id": "M9E-B-U2-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U2",
+          "unit_no": 2,
+          "unit_name": "Science and Technology",
+          "unit_name_zh": "科学技术",
+          "category": "function",
+          "name": "presentation language",
+          "description": "围绕 Science and Technology 主题，掌握 presentation language，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "writing an opinion paragraph"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "presentation",
+            "language"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Science and Technology"
+          ]
+        }
+      ],
+      "unit_name_zh": "科学技术"
+    },
+    {
+      "unit_id": "M9E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Society and Services",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-B-U3-KP001",
+        "M9E-B-U3-KP002",
+        "M9E-B-U3-KP003",
+        "M9E-B-U3-KP004",
+        "M9E-B-U3-KP005",
+        "M9E-B-U3-KP006",
+        "M9E-B-U3-KP007",
+        "M9E-B-U3-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-B-U3-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Society and Services",
+          "unit_name_zh": "社会与服务",
+          "category": "vocabulary",
+          "name": "community vocabulary",
+          "description": "围绕 Society and Services 主题，掌握 community vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "community",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Society and Services"
+          ]
+        },
+        {
+          "id": "M9E-B-U3-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Society and Services",
+          "unit_name_zh": "社会与服务",
+          "category": "grammar",
+          "name": "reported speech introduction",
+          "description": "围绕 Society and Services 主题，掌握 reported speech introduction，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "community vocabulary"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "reported",
+            "speech",
+            "introduction"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Society and Services"
+          ]
+        },
+        {
+          "id": "M9E-B-U3-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Society and Services",
+          "unit_name_zh": "社会与服务",
+          "category": "function",
+          "name": "polite requests review",
+          "description": "围绕 Society and Services 主题，掌握 polite requests review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "reported speech introduction"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "polite",
+            "requests",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Society and Services"
+          ]
+        },
+        {
+          "id": "M9E-B-U3-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Society and Services",
+          "unit_name_zh": "社会与服务",
+          "category": "function",
+          "name": "service dialogue",
+          "description": "围绕 Society and Services 主题，掌握 service dialogue，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "polite requests review"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "service",
+            "dialogue"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Society and Services"
+          ]
+        },
+        {
+          "id": "M9E-B-U3-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Society and Services",
+          "unit_name_zh": "社会与服务",
+          "category": "reading",
+          "name": "reading public information",
+          "description": "围绕 Society and Services 主题，掌握 reading public information，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "service dialogue"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "public",
+            "information"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Society and Services"
+          ]
+        },
+        {
+          "id": "M9E-B-U3-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Society and Services",
+          "unit_name_zh": "社会与服务",
+          "category": "function",
+          "name": "making complaints politely",
+          "description": "围绕 Society and Services 主题，掌握 making complaints politely，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "reading public information"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "making",
+            "complaints",
+            "politely"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Society and Services"
+          ]
+        },
+        {
+          "id": "M9E-B-U3-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Society and Services",
+          "unit_name_zh": "社会与服务",
+          "category": "writing",
+          "name": "writing a formal email",
+          "description": "围绕 Society and Services 主题，掌握 writing a formal email，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "making complaints politely"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "a",
+            "formal",
+            "email"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Society and Services"
+          ]
+        },
+        {
+          "id": "M9E-B-U3-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U3",
+          "unit_no": 3,
+          "unit_name": "Society and Services",
+          "unit_name_zh": "社会与服务",
+          "category": "function",
+          "name": "problem-solution structure",
+          "description": "围绕 Society and Services 主题，掌握 problem-solution structure，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "writing a formal email"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "problem-solution",
+            "structure"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Society and Services"
+          ]
+        }
+      ],
+      "unit_name_zh": "社会与服务"
+    },
+    {
+      "unit_id": "M9E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Stories and Literature",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-B-U4-KP001",
+        "M9E-B-U4-KP002",
+        "M9E-B-U4-KP003",
+        "M9E-B-U4-KP004",
+        "M9E-B-U4-KP005",
+        "M9E-B-U4-KP006",
+        "M9E-B-U4-KP007",
+        "M9E-B-U4-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-B-U4-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Stories and Literature",
+          "unit_name_zh": "故事与文学",
+          "category": "vocabulary",
+          "name": "literary words",
+          "description": "围绕 Stories and Literature 主题，掌握 literary words，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "literary",
+            "words"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Stories and Literature"
+          ]
+        },
+        {
+          "id": "M9E-B-U4-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Stories and Literature",
+          "unit_name_zh": "故事与文学",
+          "category": "grammar",
+          "name": "narrative tenses review",
+          "description": "围绕 Stories and Literature 主题，掌握 narrative tenses review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "literary words"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "narrative",
+            "tenses",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Stories and Literature"
+          ]
+        },
+        {
+          "id": "M9E-B-U4-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Stories and Literature",
+          "unit_name_zh": "故事与文学",
+          "category": "grammar",
+          "name": "direct and indirect speech",
+          "description": "围绕 Stories and Literature 主题，掌握 direct and indirect speech，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "narrative tenses review"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "direct",
+            "and",
+            "indirect",
+            "speech"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Stories and Literature"
+          ]
+        },
+        {
+          "id": "M9E-B-U4-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Stories and Literature",
+          "unit_name_zh": "故事与文学",
+          "category": "function",
+          "name": "character description",
+          "description": "围绕 Stories and Literature 主题，掌握 character description，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "direct and indirect speech"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "character",
+            "description"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Stories and Literature"
+          ]
+        },
+        {
+          "id": "M9E-B-U4-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Stories and Literature",
+          "unit_name_zh": "故事与文学",
+          "category": "reading",
+          "name": "reading for theme",
+          "description": "围绕 Stories and Literature 主题，掌握 reading for theme，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "character description"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "for",
+            "theme"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Stories and Literature"
+          ]
+        },
+        {
+          "id": "M9E-B-U4-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Stories and Literature",
+          "unit_name_zh": "故事与文学",
+          "category": "function",
+          "name": "retelling a story",
+          "description": "围绕 Stories and Literature 主题，掌握 retelling a story，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "reading for theme"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "retelling",
+            "a",
+            "story"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Stories and Literature"
+          ]
+        },
+        {
+          "id": "M9E-B-U4-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Stories and Literature",
+          "unit_name_zh": "故事与文学",
+          "category": "writing",
+          "name": "writing a continuation",
+          "description": "围绕 Stories and Literature 主题，掌握 writing a continuation，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "retelling a story"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "a",
+            "continuation"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Stories and Literature"
+          ]
+        },
+        {
+          "id": "M9E-B-U4-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U4",
+          "unit_no": 4,
+          "unit_name": "Stories and Literature",
+          "unit_name_zh": "故事与文学",
+          "category": "function",
+          "name": "book review expressions",
+          "description": "围绕 Stories and Literature 主题，掌握 book review expressions，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "writing a continuation"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "book",
+            "review",
+            "expressions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Stories and Literature"
+          ]
+        }
+      ],
+      "unit_name_zh": "故事与文学"
+    },
+    {
+      "unit_id": "M9E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Exam Skills",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-B-U5-KP001",
+        "M9E-B-U5-KP002",
+        "M9E-B-U5-KP003",
+        "M9E-B-U5-KP004",
+        "M9E-B-U5-KP005",
+        "M9E-B-U5-KP006",
+        "M9E-B-U5-KP007",
+        "M9E-B-U5-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-B-U5-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Exam Skills",
+          "unit_name_zh": "中考技能整合",
+          "category": "function",
+          "name": "cloze context clues",
+          "description": "围绕 Exam Skills 主题，掌握 cloze context clues，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "cloze",
+            "context",
+            "clues"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "基础",
+            "Exam Skills"
+          ]
+        },
+        {
+          "id": "M9E-B-U5-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Exam Skills",
+          "unit_name_zh": "中考技能整合",
+          "category": "reading",
+          "name": "reading main idea",
+          "description": "围绕 Exam Skills 主题，掌握 reading main idea，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "cloze context clues"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "main",
+            "idea"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "核心",
+            "Exam Skills"
+          ]
+        },
+        {
+          "id": "M9E-B-U5-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Exam Skills",
+          "unit_name_zh": "中考技能整合",
+          "category": "reading",
+          "name": "reading detail location",
+          "description": "围绕 Exam Skills 主题，掌握 reading detail location，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "reading main idea"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "detail",
+            "location"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "核心",
+            "Exam Skills"
+          ]
+        },
+        {
+          "id": "M9E-B-U5-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Exam Skills",
+          "unit_name_zh": "中考技能整合",
+          "category": "function",
+          "name": "inference questions",
+          "description": "围绕 Exam Skills 主题，掌握 inference questions，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "reading detail location"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "inference",
+            "questions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Exam Skills"
+          ]
+        },
+        {
+          "id": "M9E-B-U5-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Exam Skills",
+          "unit_name_zh": "中考技能整合",
+          "category": "grammar",
+          "name": "grammar filling",
+          "description": "围绕 Exam Skills 主题，掌握 grammar filling，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "inference questions"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "grammar",
+            "filling"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "提高",
+            "Exam Skills"
+          ]
+        },
+        {
+          "id": "M9E-B-U5-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Exam Skills",
+          "unit_name_zh": "中考技能整合",
+          "category": "function",
+          "name": "sentence completion",
+          "description": "围绕 Exam Skills 主题，掌握 sentence completion，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "grammar filling"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "sentence",
+            "completion"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Exam Skills"
+          ]
+        },
+        {
+          "id": "M9E-B-U5-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Exam Skills",
+          "unit_name_zh": "中考技能整合",
+          "category": "writing",
+          "name": "writing outline",
+          "description": "围绕 Exam Skills 主题，掌握 writing outline，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "sentence completion"
+          ],
+          "skills": [
+            "writing",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "outline"
+          ],
+          "diagnosis_tags": [
+            "writing",
+            "核心",
+            "Exam Skills"
+          ]
+        },
+        {
+          "id": "M9E-B-U5-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U5",
+          "unit_no": 5,
+          "unit_name": "Exam Skills",
+          "unit_name_zh": "中考技能整合",
+          "category": "function",
+          "name": "error correction awareness",
+          "description": "围绕 Exam Skills 主题，掌握 error correction awareness，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "writing outline"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "error",
+            "correction",
+            "awareness"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Exam Skills"
+          ]
+        }
+      ],
+      "unit_name_zh": "中考技能整合"
+    },
+    {
+      "unit_id": "M9E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Future Plans",
+      "volume": "九年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M9E-B-U6-KP001",
+        "M9E-B-U6-KP002",
+        "M9E-B-U6-KP003",
+        "M9E-B-U6-KP004",
+        "M9E-B-U6-KP005",
+        "M9E-B-U6-KP006",
+        "M9E-B-U6-KP007",
+        "M9E-B-U6-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "M9E-B-U6-KP001",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Future Plans",
+          "unit_name_zh": "未来规划",
+          "category": "vocabulary",
+          "name": "career vocabulary",
+          "description": "围绕 Future Plans 主题，掌握 career vocabulary，并能在听、说、读、写活动中运用。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "vocabulary",
+            "communication"
+          ],
+          "keywords": [
+            "career",
+            "vocabulary"
+          ],
+          "diagnosis_tags": [
+            "vocabulary",
+            "基础",
+            "Future Plans"
+          ]
+        },
+        {
+          "id": "M9E-B-U6-KP002",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Future Plans",
+          "unit_name_zh": "未来规划",
+          "category": "function",
+          "name": "wish and hope expressions",
+          "description": "围绕 Future Plans 主题，掌握 wish and hope expressions，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "career vocabulary"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "wish",
+            "and",
+            "hope",
+            "expressions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Future Plans"
+          ]
+        },
+        {
+          "id": "M9E-B-U6-KP003",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Future Plans",
+          "unit_name_zh": "未来规划",
+          "category": "function",
+          "name": "goal-setting language",
+          "description": "围绕 Future Plans 主题，掌握 goal-setting language，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "wish and hope expressions"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "goal-setting",
+            "language"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Future Plans"
+          ]
+        },
+        {
+          "id": "M9E-B-U6-KP004",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Future Plans",
+          "unit_name_zh": "未来规划",
+          "category": "grammar",
+          "name": "conditionals review",
+          "description": "围绕 Future Plans 主题，掌握 conditionals review，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "goal-setting language"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "conditionals",
+            "review"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Future Plans"
+          ]
+        },
+        {
+          "id": "M9E-B-U6-KP005",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Future Plans",
+          "unit_name_zh": "未来规划",
+          "category": "function",
+          "name": "talking about choices",
+          "description": "围绕 Future Plans 主题，掌握 talking about choices，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "conditionals review"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "talking",
+            "about",
+            "choices"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "提高",
+            "Future Plans"
+          ]
+        },
+        {
+          "id": "M9E-B-U6-KP006",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Future Plans",
+          "unit_name_zh": "未来规划",
+          "category": "reading",
+          "name": "reading personal plans",
+          "description": "围绕 Future Plans 主题，掌握 reading personal plans，并能在听、说、读、写活动中运用。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "talking about choices"
+          ],
+          "skills": [
+            "reading",
+            "communication"
+          ],
+          "keywords": [
+            "reading",
+            "personal",
+            "plans"
+          ],
+          "diagnosis_tags": [
+            "reading",
+            "提高",
+            "Future Plans"
+          ]
+        },
+        {
+          "id": "M9E-B-U6-KP007",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Future Plans",
+          "unit_name_zh": "未来规划",
+          "category": "grammar",
+          "name": "writing a graduation speech",
+          "description": "围绕 Future Plans 主题，掌握 writing a graduation speech，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "reading personal plans"
+          ],
+          "skills": [
+            "grammar",
+            "communication"
+          ],
+          "keywords": [
+            "writing",
+            "a",
+            "graduation",
+            "speech"
+          ],
+          "diagnosis_tags": [
+            "grammar",
+            "核心",
+            "Future Plans"
+          ]
+        },
+        {
+          "id": "M9E-B-U6-KP008",
+          "grade": 9,
+          "subject": "英语",
+          "publisher": "北京师范大学出版社",
+          "edition": "北师大版九年级英语，按公开主题单元与初三常规语言诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "M9E-B-U6",
+          "unit_no": 6,
+          "unit_name": "Future Plans",
+          "unit_name_zh": "未来规划",
+          "category": "function",
+          "name": "interview expressions",
+          "description": "围绕 Future Plans 主题，掌握 interview expressions，并能在听、说、读、写活动中运用。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "writing a graduation speech"
+          ],
+          "skills": [
+            "function",
+            "communication"
+          ],
+          "keywords": [
+            "interview",
+            "expressions"
+          ],
+          "diagnosis_tags": [
+            "function",
+            "核心",
+            "Future Plans"
+          ]
+        }
+      ],
+      "unit_name_zh": "未来规划"
+    }
+  ]
+}

@@ -16,12 +16,12 @@
     <main class="container">
         <section class="card intro-card">
             <h2>开始一次单元诊断</h2>
-            <p>选择学科和单元，系统会生成诊断题，提交后给出薄弱知识点和补习路径。</p>
+            <p>选择年级、学科和单元，系统会生成诊断题，提交后给出薄弱知识点和补习路径。</p>
         </section>
 
         <section class="card">
             <div class="card-title">DeepSeek API Key</div>
-            <p class="muted key-help">用于生成新题和 AI 补习内容。只保存在当前浏览器会话里，不会写进代码。</p>
+            <p class="muted key-help">系统已内置默认 Key，也可以输入自己的 Key 临时使用。</p>
             <div class="key-row">
                 <div class="key-input-wrapper">
                     <input id="apiKeyInput" type="password" placeholder="可选：请输入 sk-..." autocomplete="off">
@@ -29,10 +29,17 @@
                 </div>
                 <button id="saveKeyBtn" class="btn btn-outline" type="button">保存</button>
             </div>
-            <div id="apiKeyStatus" class="muted key-status">未设置 Key；系统已内置默认 Key，也可输入自己的。</div>
+            <div id="apiKeyStatus" class="muted key-status">未设置个人 Key；系统会使用内置默认 Key。</div>
         </section>
 
         <section class="card">
+            <div class="card-title">选择年级</div>
+            <select id="gradeSelect">
+                <option value="">请选择年级</option>
+            </select>
+        </section>
+
+        <section id="subjectSection" class="card" style="display:none;">
             <div class="card-title">选择学科</div>
             <select id="subjectSelect">
                 <option value="">请选择学科</option>
@@ -47,6 +54,27 @@
         <section id="selectedInfo" class="card selected-card" style="display:none;">
             <div class="card-title">已选择</div>
             <div id="selectedDetail"></div>
+            <div class="quiz-settings">
+                <div>
+                    <label class="field-label" for="questionCountSelect">出题数量</label>
+                    <select id="questionCountSelect">
+                        <option value="10">10 题</option>
+                        <option value="15">15 题</option>
+                        <option value="20" selected>20 题</option>
+                        <option value="25">25 题</option>
+                        <option value="30">30 题</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="field-label" for="difficultySelect">题目难度</label>
+                    <select id="difficultySelect">
+                        <option value="mixed" selected>综合难度</option>
+                        <option value="basic">基础</option>
+                        <option value="core">核心</option>
+                        <option value="advanced">提高</option>
+                    </select>
+                </div>
+            </div>
             <button id="startBtn" class="btn btn-primary btn-lg" disabled>
                 开始诊断测试
             </button>

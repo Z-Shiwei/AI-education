@@ -25,8 +25,8 @@ def _suggestion_for(kp_name: str, tags: list[str]) -> str:
     return f"先复习“{kp_name}”的定义、规则和典型例题，再做 2-3 道同类题。"
 
 
-def diagnose(subject_id: str, unit_id: str, student_answers: list[dict]) -> dict:
-    question_bank = load_question_bank(subject_id, unit_id)
+def diagnose(subject_id: str, unit_id: str, student_answers: list[dict], difficulty: str = "mixed") -> dict:
+    question_bank = load_question_bank(subject_id, unit_id, difficulty=difficulty)
     if not question_bank:
         return {
             "error": "题库不存在，请先生成题目。",

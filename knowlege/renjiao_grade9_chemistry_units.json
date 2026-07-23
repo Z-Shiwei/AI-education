@@ -1,0 +1,3901 @@
+{
+  "metadata": {
+    "name": "人教版九年级化学上下册知识点库",
+    "grade": 9,
+    "subject": "化学",
+    "publisher": "人民教育出版社",
+    "edition_note": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+    "created_at": "2026-07-23",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 12,
+    "total_knowledge_points": 117,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "C9-A-U1",
+      "unit_no": 1,
+      "unit_name": "走进化学世界",
+      "volume": "九年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "C9-A-U1-KP001",
+        "C9-A-U1-KP002",
+        "C9-A-U1-KP003",
+        "C9-A-U1-KP004",
+        "C9-A-U1-KP005",
+        "C9-A-U1-KP006",
+        "C9-A-U1-KP007",
+        "C9-A-U1-KP008",
+        "C9-A-U1-KP009",
+        "C9-A-U1-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-A-U1-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "化学研究对象",
+          "description": "掌握“化学研究对象”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化学研究对象"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "基础",
+            "走进化学世界"
+          ]
+        },
+        {
+          "id": "C9-A-U1-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "物理变化和化学变化",
+          "description": "掌握“物理变化和化学变化”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "化学研究对象"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "物理变化",
+            "化学变化"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "走进化学世界"
+          ]
+        },
+        {
+          "id": "C9-A-U1-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "物理性质和化学性质",
+          "description": "掌握“物理性质和化学性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "物理变化和化学变化"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "物理性质",
+            "化学性质"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "走进化学世界"
+          ]
+        },
+        {
+          "id": "C9-A-U1-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "科学探究基本环节",
+          "description": "掌握“科学探究基本环节”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "物理性质和化学性质"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "科学探究基本环节"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "走进化学世界"
+          ]
+        },
+        {
+          "id": "C9-A-U1-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "化学实验基本规则",
+          "description": "掌握“化学实验基本规则”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "科学探究基本环节"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "化学实验基本规则"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "提高",
+            "走进化学世界"
+          ]
+        },
+        {
+          "id": "C9-A-U1-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "常见仪器识别",
+          "description": "掌握“常见仪器识别”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "化学实验基本规则"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "常见仪器识别"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "走进化学世界"
+          ]
+        },
+        {
+          "id": "C9-A-U1-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "药品取用",
+          "description": "掌握“药品取用”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "常见仪器识别"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "药品取用"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "走进化学世界"
+          ]
+        },
+        {
+          "id": "C9-A-U1-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "物质加热",
+          "description": "掌握“物质加热”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "药品取用"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "物质加热"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "走进化学世界"
+          ]
+        },
+        {
+          "id": "C9-A-U1-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "仪器洗涤",
+          "description": "掌握“仪器洗涤”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "物质加热"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "仪器洗涤"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "走进化学世界"
+          ]
+        },
+        {
+          "id": "C9-A-U1-KP010",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U1",
+          "unit_no": 1,
+          "unit_name": "走进化学世界",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "实验现象描述",
+          "description": "掌握“实验现象描述”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "仪器洗涤"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "实验现象描述"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "走进化学世界"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-A-U2",
+      "unit_no": 2,
+      "unit_name": "我们周围的空气",
+      "volume": "九年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "C9-A-U2-KP001",
+        "C9-A-U2-KP002",
+        "C9-A-U2-KP003",
+        "C9-A-U2-KP004",
+        "C9-A-U2-KP005",
+        "C9-A-U2-KP006",
+        "C9-A-U2-KP007",
+        "C9-A-U2-KP008",
+        "C9-A-U2-KP009",
+        "C9-A-U2-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-A-U2-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "空气的组成",
+          "description": "掌握“空气的组成”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "空气",
+            "组成"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "基础",
+            "我们周围的空气"
+          ]
+        },
+        {
+          "id": "C9-A-U2-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "空气中氧气含量测定",
+          "description": "掌握“空气中氧气含量测定”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "空气的组成"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "空气中氧气含量测定"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "我们周围的空气"
+          ]
+        },
+        {
+          "id": "C9-A-U2-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "氧气性质",
+          "description": "掌握“氧气性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "空气中氧气含量测定"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "氧气性质"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "我们周围的空气"
+          ]
+        },
+        {
+          "id": "C9-A-U2-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "氧气用途",
+          "description": "掌握“氧气用途”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "氧气性质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "氧气用途"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "我们周围的空气"
+          ]
+        },
+        {
+          "id": "C9-A-U2-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "氧气实验室制法",
+          "description": "掌握“氧气实验室制法”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "氧气用途"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "氧气实验室制法"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "提高",
+            "我们周围的空气"
+          ]
+        },
+        {
+          "id": "C9-A-U2-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "催化剂",
+          "description": "掌握“催化剂”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "氧气实验室制法"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "催化剂"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "我们周围的空气"
+          ]
+        },
+        {
+          "id": "C9-A-U2-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "化合反应",
+          "description": "掌握“化合反应”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "催化剂"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化合反应"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "我们周围的空气"
+          ]
+        },
+        {
+          "id": "C9-A-U2-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "分解反应",
+          "description": "掌握“分解反应”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "化合反应"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "分解反应"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "我们周围的空气"
+          ]
+        },
+        {
+          "id": "C9-A-U2-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "纯净物和混合物",
+          "description": "掌握“纯净物和混合物”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "分解反应"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "纯净物",
+            "混合物"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "我们周围的空气"
+          ]
+        },
+        {
+          "id": "C9-A-U2-KP010",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U2",
+          "unit_no": 2,
+          "unit_name": "我们周围的空气",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "空气污染与防治",
+          "description": "掌握“空气污染与防治”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "纯净物和混合物"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "空气污染",
+            "防治"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "我们周围的空气"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-A-U3",
+      "unit_no": 3,
+      "unit_name": "物质构成的奥秘",
+      "volume": "九年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "C9-A-U3-KP001",
+        "C9-A-U3-KP002",
+        "C9-A-U3-KP003",
+        "C9-A-U3-KP004",
+        "C9-A-U3-KP005",
+        "C9-A-U3-KP006",
+        "C9-A-U3-KP007",
+        "C9-A-U3-KP008",
+        "C9-A-U3-KP009",
+        "C9-A-U3-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-A-U3-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "分子概念",
+          "description": "掌握“分子概念”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "分子概念"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "基础",
+            "物质构成的奥秘"
+          ]
+        },
+        {
+          "id": "C9-A-U3-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "原子概念",
+          "description": "掌握“原子概念”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分子概念"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "原子概念"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "物质构成的奥秘"
+          ]
+        },
+        {
+          "id": "C9-A-U3-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "分子和原子的区别",
+          "description": "掌握“分子和原子的区别”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "原子概念"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "分子",
+            "原子",
+            "区别"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "物质构成的奥秘"
+          ]
+        },
+        {
+          "id": "C9-A-U3-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "原子结构",
+          "description": "掌握“原子结构”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "分子和原子的区别"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "原子结构"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "物质构成的奥秘"
+          ]
+        },
+        {
+          "id": "C9-A-U3-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "原子核和核外电子",
+          "description": "掌握“原子核和核外电子”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "原子结构"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "原子核",
+            "核外电子"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "物质构成的奥秘"
+          ]
+        },
+        {
+          "id": "C9-A-U3-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "离子",
+          "description": "掌握“离子”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "原子核和核外电子"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "离子"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "物质构成的奥秘"
+          ]
+        },
+        {
+          "id": "C9-A-U3-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "元素",
+          "description": "掌握“元素”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "离子"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "元素"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "物质构成的奥秘"
+          ]
+        },
+        {
+          "id": "C9-A-U3-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "元素符号",
+          "description": "掌握“元素符号”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "元素"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "元素符号"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "物质构成的奥秘"
+          ]
+        },
+        {
+          "id": "C9-A-U3-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "元素周期表初步",
+          "description": "掌握“元素周期表初步”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "元素符号"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "元素周期表初步"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "物质构成的奥秘"
+          ]
+        },
+        {
+          "id": "C9-A-U3-KP010",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U3",
+          "unit_no": 3,
+          "unit_name": "物质构成的奥秘",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "相对原子质量",
+          "description": "掌握“相对原子质量”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "元素周期表初步"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "相对原子质量"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "核心",
+            "物质构成的奥秘"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-A-U4",
+      "unit_no": 4,
+      "unit_name": "自然界的水",
+      "volume": "九年级上册",
+      "knowledge_point_count": 11,
+      "knowledge_point_ids": [
+        "C9-A-U4-KP001",
+        "C9-A-U4-KP002",
+        "C9-A-U4-KP003",
+        "C9-A-U4-KP004",
+        "C9-A-U4-KP005",
+        "C9-A-U4-KP006",
+        "C9-A-U4-KP007",
+        "C9-A-U4-KP008",
+        "C9-A-U4-KP009",
+        "C9-A-U4-KP010",
+        "C9-A-U4-KP011"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-A-U4-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "爱护水资源",
+          "description": "掌握“爱护水资源”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "爱护水资源"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "基础",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "水的净化",
+          "description": "掌握“水的净化”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "爱护水资源"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "水",
+            "净化"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "过滤操作",
+          "description": "掌握“过滤操作”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "水的净化"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "过滤操作"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "硬水和软水",
+          "description": "掌握“硬水和软水”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "过滤操作"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "硬水",
+            "软水"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "水的组成",
+          "description": "掌握“水的组成”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "硬水和软水"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "水",
+            "组成"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "氢气性质",
+          "description": "掌握“氢气性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "水的组成"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "氢气性质"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "单质和化合物",
+          "description": "掌握“单质和化合物”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "氢气性质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "单质",
+            "化合物"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "化学式意义",
+          "description": "掌握“化学式意义”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "单质和化合物"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化学式意义"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "化合价",
+          "description": "掌握“化合价”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "化学式意义"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化合价"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP010",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "根据化合价写化学式",
+          "description": "掌握“根据化合价写化学式”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "化合价"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "根据化合价写化学式"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "自然界的水"
+          ]
+        },
+        {
+          "id": "C9-A-U4-KP011",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U4",
+          "unit_no": 4,
+          "unit_name": "自然界的水",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "相对分子质量计算",
+          "description": "掌握“相对分子质量计算”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "根据化合价写化学式"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "相对分子质量计算"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "核心",
+            "自然界的水"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-A-U5",
+      "unit_no": 5,
+      "unit_name": "化学方程式",
+      "volume": "九年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "C9-A-U5-KP001",
+        "C9-A-U5-KP002",
+        "C9-A-U5-KP003",
+        "C9-A-U5-KP004",
+        "C9-A-U5-KP005",
+        "C9-A-U5-KP006",
+        "C9-A-U5-KP007",
+        "C9-A-U5-KP008"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-A-U5-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U5",
+          "unit_no": 5,
+          "unit_name": "化学方程式",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "质量守恒定律",
+          "description": "掌握“质量守恒定律”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "质量守恒定律"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "基础",
+            "化学方程式"
+          ]
+        },
+        {
+          "id": "C9-A-U5-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U5",
+          "unit_no": 5,
+          "unit_name": "化学方程式",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "化学方程式意义",
+          "description": "掌握“化学方程式意义”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "质量守恒定律"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化学方程式意义"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "核心",
+            "化学方程式"
+          ]
+        },
+        {
+          "id": "C9-A-U5-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U5",
+          "unit_no": 5,
+          "unit_name": "化学方程式",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "化学方程式书写原则",
+          "description": "掌握“化学方程式书写原则”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "化学方程式意义"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化学方程式书写原则"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "核心",
+            "化学方程式"
+          ]
+        },
+        {
+          "id": "C9-A-U5-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U5",
+          "unit_no": 5,
+          "unit_name": "化学方程式",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "化学方程式配平",
+          "description": "掌握“化学方程式配平”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "化学方程式书写原则"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化学方程式配平"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "核心",
+            "化学方程式"
+          ]
+        },
+        {
+          "id": "C9-A-U5-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U5",
+          "unit_no": 5,
+          "unit_name": "化学方程式",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "根据化学方程式计算",
+          "description": "掌握“根据化学方程式计算”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "化学方程式配平"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "根据化学方程式计算"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "提高",
+            "化学方程式"
+          ]
+        },
+        {
+          "id": "C9-A-U5-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U5",
+          "unit_no": 5,
+          "unit_name": "化学方程式",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "反应物生成物质量关系",
+          "description": "掌握“反应物生成物质量关系”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "根据化学方程式计算"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "反应物生成物质量关系"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "化学方程式"
+          ]
+        },
+        {
+          "id": "C9-A-U5-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U5",
+          "unit_no": 5,
+          "unit_name": "化学方程式",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "含杂质计算初步",
+          "description": "掌握“含杂质计算初步”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "反应物生成物质量关系"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "含杂质计算初步"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "核心",
+            "化学方程式"
+          ]
+        },
+        {
+          "id": "C9-A-U5-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U5",
+          "unit_no": 5,
+          "unit_name": "化学方程式",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "化学方程式综合应用",
+          "description": "掌握“化学方程式综合应用”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "含杂质计算初步"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化学方程式综合应用"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "核心",
+            "化学方程式"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-A-U6",
+      "unit_no": 6,
+      "unit_name": "碳和碳的氧化物",
+      "volume": "九年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "C9-A-U6-KP001",
+        "C9-A-U6-KP002",
+        "C9-A-U6-KP003",
+        "C9-A-U6-KP004",
+        "C9-A-U6-KP005",
+        "C9-A-U6-KP006",
+        "C9-A-U6-KP007",
+        "C9-A-U6-KP008",
+        "C9-A-U6-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-A-U6-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U6",
+          "unit_no": 6,
+          "unit_name": "碳和碳的氧化物",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "金刚石石墨和C60",
+          "description": "掌握“金刚石石墨和C60”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "金刚石石墨",
+            "C60"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "基础",
+            "碳和碳的氧化物"
+          ]
+        },
+        {
+          "id": "C9-A-U6-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U6",
+          "unit_no": 6,
+          "unit_name": "碳和碳的氧化物",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "碳的化学性质",
+          "description": "掌握“碳的化学性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "金刚石石墨和C60"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "碳",
+            "化学性质"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "碳和碳的氧化物"
+          ]
+        },
+        {
+          "id": "C9-A-U6-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U6",
+          "unit_no": 6,
+          "unit_name": "碳和碳的氧化物",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "二氧化碳性质",
+          "description": "掌握“二氧化碳性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "碳的化学性质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "二氧化碳性质"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "碳和碳的氧化物"
+          ]
+        },
+        {
+          "id": "C9-A-U6-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U6",
+          "unit_no": 6,
+          "unit_name": "碳和碳的氧化物",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "二氧化碳实验室制法",
+          "description": "掌握“二氧化碳实验室制法”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "二氧化碳性质"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "二氧化碳实验室制法"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "碳和碳的氧化物"
+          ]
+        },
+        {
+          "id": "C9-A-U6-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U6",
+          "unit_no": 6,
+          "unit_name": "碳和碳的氧化物",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "二氧化碳检验",
+          "description": "掌握“二氧化碳检验”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "二氧化碳实验室制法"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "二氧化碳检验"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "提高",
+            "碳和碳的氧化物"
+          ]
+        },
+        {
+          "id": "C9-A-U6-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U6",
+          "unit_no": 6,
+          "unit_name": "碳和碳的氧化物",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "一氧化碳性质",
+          "description": "掌握“一氧化碳性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "二氧化碳检验"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "一氧化碳性质"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "碳和碳的氧化物"
+          ]
+        },
+        {
+          "id": "C9-A-U6-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U6",
+          "unit_no": 6,
+          "unit_name": "碳和碳的氧化物",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "一氧化碳还原氧化铜",
+          "description": "掌握“一氧化碳还原氧化铜”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "一氧化碳性质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "一氧化碳还原氧化铜"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "碳和碳的氧化物"
+          ]
+        },
+        {
+          "id": "C9-A-U6-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U6",
+          "unit_no": 6,
+          "unit_name": "碳和碳的氧化物",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "温室效应",
+          "description": "掌握“温室效应”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "一氧化碳还原氧化铜"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "温室效应"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "碳和碳的氧化物"
+          ]
+        },
+        {
+          "id": "C9-A-U6-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U6",
+          "unit_no": 6,
+          "unit_name": "碳和碳的氧化物",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "碳循环",
+          "description": "掌握“碳循环”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "温室效应"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "碳循环"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "碳和碳的氧化物"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-A-U7",
+      "unit_no": 7,
+      "unit_name": "燃料及其利用",
+      "volume": "九年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "C9-A-U7-KP001",
+        "C9-A-U7-KP002",
+        "C9-A-U7-KP003",
+        "C9-A-U7-KP004",
+        "C9-A-U7-KP005",
+        "C9-A-U7-KP006",
+        "C9-A-U7-KP007",
+        "C9-A-U7-KP008",
+        "C9-A-U7-KP009"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-A-U7-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U7",
+          "unit_no": 7,
+          "unit_name": "燃料及其利用",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "燃烧条件",
+          "description": "掌握“燃烧条件”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "燃烧条件"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "基础",
+            "燃料及其利用"
+          ]
+        },
+        {
+          "id": "C9-A-U7-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U7",
+          "unit_no": 7,
+          "unit_name": "燃料及其利用",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "灭火原理",
+          "description": "掌握“灭火原理”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "燃烧条件"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "灭火原理"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "燃料及其利用"
+          ]
+        },
+        {
+          "id": "C9-A-U7-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U7",
+          "unit_no": 7,
+          "unit_name": "燃料及其利用",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "易燃易爆安全",
+          "description": "掌握“易燃易爆安全”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "灭火原理"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "易燃易爆安全"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "燃料及其利用"
+          ]
+        },
+        {
+          "id": "C9-A-U7-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U7",
+          "unit_no": 7,
+          "unit_name": "燃料及其利用",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "化石燃料",
+          "description": "掌握“化石燃料”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "易燃易爆安全"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化石燃料"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "燃料及其利用"
+          ]
+        },
+        {
+          "id": "C9-A-U7-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U7",
+          "unit_no": 7,
+          "unit_name": "燃料及其利用",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "燃料充分燃烧",
+          "description": "掌握“燃料充分燃烧”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "化石燃料"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "燃料充分燃烧"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "燃料及其利用"
+          ]
+        },
+        {
+          "id": "C9-A-U7-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U7",
+          "unit_no": 7,
+          "unit_name": "燃料及其利用",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "化学反应中的能量变化",
+          "description": "掌握“化学反应中的能量变化”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "燃料充分燃烧"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化学反应中",
+            "能量变化"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "燃料及其利用"
+          ]
+        },
+        {
+          "id": "C9-A-U7-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U7",
+          "unit_no": 7,
+          "unit_name": "燃料及其利用",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "氢能",
+          "description": "掌握“氢能”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "化学反应中的能量变化"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "氢能"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "燃料及其利用"
+          ]
+        },
+        {
+          "id": "C9-A-U7-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U7",
+          "unit_no": 7,
+          "unit_name": "燃料及其利用",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "新能源",
+          "description": "掌握“新能源”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "氢能"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "新能源"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "燃料及其利用"
+          ]
+        },
+        {
+          "id": "C9-A-U7-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级上册",
+          "unit_id": "C9-A-U7",
+          "unit_no": 7,
+          "unit_name": "燃料及其利用",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "燃料利用与环境保护",
+          "description": "掌握“燃料利用与环境保护”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "新能源"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "燃料利用",
+            "环境保护"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "燃料及其利用"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-B-U8",
+      "unit_no": 8,
+      "unit_name": "金属和金属材料",
+      "volume": "九年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "C9-B-U8-KP001",
+        "C9-B-U8-KP002",
+        "C9-B-U8-KP003",
+        "C9-B-U8-KP004",
+        "C9-B-U8-KP005",
+        "C9-B-U8-KP006",
+        "C9-B-U8-KP007",
+        "C9-B-U8-KP008",
+        "C9-B-U8-KP009",
+        "C9-B-U8-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-B-U8-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "金属材料",
+          "description": "掌握“金属材料”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "金属材料"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "基础",
+            "金属和金属材料"
+          ]
+        },
+        {
+          "id": "C9-B-U8-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "金属物理性质",
+          "description": "掌握“金属物理性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "金属材料"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "金属物理性质"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "金属和金属材料"
+          ]
+        },
+        {
+          "id": "C9-B-U8-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "合金",
+          "description": "掌握“合金”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "金属物理性质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "合金"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "金属和金属材料"
+          ]
+        },
+        {
+          "id": "C9-B-U8-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "金属化学性质",
+          "description": "掌握“金属化学性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "合金"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "金属化学性质"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "金属和金属材料"
+          ]
+        },
+        {
+          "id": "C9-B-U8-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "金属活动性顺序",
+          "description": "掌握“金属活动性顺序”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "金属化学性质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "金属活动性顺序"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "提高",
+            "金属和金属材料"
+          ]
+        },
+        {
+          "id": "C9-B-U8-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "置换反应",
+          "description": "掌握“置换反应”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "金属活动性顺序"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "置换反应"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "金属和金属材料"
+          ]
+        },
+        {
+          "id": "C9-B-U8-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "金属资源利用",
+          "description": "掌握“金属资源利用”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "置换反应"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "金属资源利用"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "金属和金属材料"
+          ]
+        },
+        {
+          "id": "C9-B-U8-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "铁的冶炼",
+          "description": "掌握“铁的冶炼”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "金属资源利用"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "铁",
+            "冶炼"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "金属和金属材料"
+          ]
+        },
+        {
+          "id": "C9-B-U8-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "金属锈蚀条件",
+          "description": "掌握“金属锈蚀条件”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "铁的冶炼"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "金属锈蚀条件"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "提高",
+            "金属和金属材料"
+          ]
+        },
+        {
+          "id": "C9-B-U8-KP010",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U8",
+          "unit_no": 8,
+          "unit_name": "金属和金属材料",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "金属防锈",
+          "description": "掌握“金属防锈”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "金属锈蚀条件"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "金属防锈"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "金属和金属材料"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-B-U9",
+      "unit_no": 9,
+      "unit_name": "溶液",
+      "volume": "九年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "C9-B-U9-KP001",
+        "C9-B-U9-KP002",
+        "C9-B-U9-KP003",
+        "C9-B-U9-KP004",
+        "C9-B-U9-KP005",
+        "C9-B-U9-KP006",
+        "C9-B-U9-KP007",
+        "C9-B-U9-KP008",
+        "C9-B-U9-KP009",
+        "C9-B-U9-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-B-U9-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "溶液的形成",
+          "description": "掌握“溶液的形成”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "溶液",
+            "形成"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "基础",
+            "溶液"
+          ]
+        },
+        {
+          "id": "C9-B-U9-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "溶质和溶剂",
+          "description": "掌握“溶质和溶剂”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "溶液的形成"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "溶质",
+            "溶剂"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "溶液"
+          ]
+        },
+        {
+          "id": "C9-B-U9-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "乳化现象",
+          "description": "掌握“乳化现象”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "溶质和溶剂"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "乳化现象"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "溶液"
+          ]
+        },
+        {
+          "id": "C9-B-U9-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "饱和溶液和不饱和溶液",
+          "description": "掌握“饱和溶液和不饱和溶液”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "乳化现象"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "饱",
+            "溶液",
+            "不饱",
+            "溶液"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "溶液"
+          ]
+        },
+        {
+          "id": "C9-B-U9-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "溶解度",
+          "description": "掌握“溶解度”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "饱和溶液和不饱和溶液"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "溶解度"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "溶液"
+          ]
+        },
+        {
+          "id": "C9-B-U9-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "溶解度曲线",
+          "description": "掌握“溶解度曲线”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "溶解度"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "溶解度曲线"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "溶液"
+          ]
+        },
+        {
+          "id": "C9-B-U9-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "结晶",
+          "description": "掌握“结晶”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "溶解度曲线"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "结晶"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "溶液"
+          ]
+        },
+        {
+          "id": "C9-B-U9-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "溶质质量分数",
+          "description": "掌握“溶质质量分数”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "结晶"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "溶质质量分数"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "核心",
+            "溶液"
+          ]
+        },
+        {
+          "id": "C9-B-U9-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "化学计算",
+          "name": "溶液稀释计算",
+          "description": "掌握“溶液稀释计算”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "溶质质量分数"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "溶液稀释计算"
+          ],
+          "diagnosis_tags": [
+            "化学计算",
+            "提高",
+            "溶液"
+          ]
+        },
+        {
+          "id": "C9-B-U9-KP010",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U9",
+          "unit_no": 9,
+          "unit_name": "溶液",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "配制一定溶质质量分数溶液",
+          "description": "掌握“配制一定溶质质量分数溶液”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "溶液稀释计算"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "配制一定溶质质量分数溶液"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "溶液"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-B-U10",
+      "unit_no": 10,
+      "unit_name": "酸和碱",
+      "volume": "九年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "C9-B-U10-KP001",
+        "C9-B-U10-KP002",
+        "C9-B-U10-KP003",
+        "C9-B-U10-KP004",
+        "C9-B-U10-KP005",
+        "C9-B-U10-KP006",
+        "C9-B-U10-KP007",
+        "C9-B-U10-KP008",
+        "C9-B-U10-KP009",
+        "C9-B-U10-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-B-U10-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "酸碱指示剂",
+          "description": "掌握“酸碱指示剂”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "酸碱指示剂"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "基础",
+            "酸和碱"
+          ]
+        },
+        {
+          "id": "C9-B-U10-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "常见酸性质",
+          "description": "掌握“常见酸性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "酸碱指示剂"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "常见酸性质"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "酸和碱"
+          ]
+        },
+        {
+          "id": "C9-B-U10-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "常见碱性质",
+          "description": "掌握“常见碱性质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "常见酸性质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "常见碱性质"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "酸和碱"
+          ]
+        },
+        {
+          "id": "C9-B-U10-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "浓硫酸特性",
+          "description": "掌握“浓硫酸特性”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "常见碱性质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "浓硫酸特性"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "酸和碱"
+          ]
+        },
+        {
+          "id": "C9-B-U10-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "酸的化学通性",
+          "description": "掌握“酸的化学通性”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "浓硫酸特性"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "酸",
+            "化学通性"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "提高",
+            "酸和碱"
+          ]
+        },
+        {
+          "id": "C9-B-U10-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "碱的化学通性",
+          "description": "掌握“碱的化学通性”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "酸的化学通性"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "碱",
+            "化学通性"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "提高",
+            "酸和碱"
+          ]
+        },
+        {
+          "id": "C9-B-U10-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "中和反应",
+          "description": "掌握“中和反应”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "碱的化学通性"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "中",
+            "反应"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "酸和碱"
+          ]
+        },
+        {
+          "id": "C9-B-U10-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "pH 与酸碱性",
+          "description": "掌握“pH 与酸碱性”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "中和反应"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "pH",
+            "酸碱性"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "酸和碱"
+          ]
+        },
+        {
+          "id": "C9-B-U10-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "酸碱中和应用",
+          "description": "掌握“酸碱中和应用”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "pH 与酸碱性"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "酸碱中",
+            "应用"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "提高",
+            "酸和碱"
+          ]
+        },
+        {
+          "id": "C9-B-U10-KP010",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U10",
+          "unit_no": 10,
+          "unit_name": "酸和碱",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "酸碱实验探究",
+          "description": "掌握“酸碱实验探究”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "酸碱中和应用"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "酸碱实验探究"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "酸和碱"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-B-U11",
+      "unit_no": 11,
+      "unit_name": "盐 化肥",
+      "volume": "九年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "C9-B-U11-KP001",
+        "C9-B-U11-KP002",
+        "C9-B-U11-KP003",
+        "C9-B-U11-KP004",
+        "C9-B-U11-KP005",
+        "C9-B-U11-KP006",
+        "C9-B-U11-KP007",
+        "C9-B-U11-KP008",
+        "C9-B-U11-KP009",
+        "C9-B-U11-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-B-U11-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "常见盐",
+          "description": "掌握“常见盐”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "常见盐"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "基础",
+            "盐 化肥"
+          ]
+        },
+        {
+          "id": "C9-B-U11-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "碳酸盐检验",
+          "description": "掌握“碳酸盐检验”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "常见盐"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "碳酸盐检验"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "盐 化肥"
+          ]
+        },
+        {
+          "id": "C9-B-U11-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "复分解反应",
+          "description": "掌握“复分解反应”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "碳酸盐检验"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "复分解反应"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "盐 化肥"
+          ]
+        },
+        {
+          "id": "C9-B-U11-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "复分解反应发生条件",
+          "description": "掌握“复分解反应发生条件”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "复分解反应"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "复分解反应发生条件"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "盐 化肥"
+          ]
+        },
+        {
+          "id": "C9-B-U11-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "酸碱盐之间反应",
+          "description": "掌握“酸碱盐之间反应”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "复分解反应发生条件"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "酸碱盐之间反应"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "提高",
+            "盐 化肥"
+          ]
+        },
+        {
+          "id": "C9-B-U11-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "粗盐提纯",
+          "description": "掌握“粗盐提纯”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "酸碱盐之间反应"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "粗盐提纯"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "提高",
+            "盐 化肥"
+          ]
+        },
+        {
+          "id": "C9-B-U11-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "化肥种类",
+          "description": "掌握“化肥种类”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "粗盐提纯"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化肥种类"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "盐 化肥"
+          ]
+        },
+        {
+          "id": "C9-B-U11-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "实验探究",
+          "name": "铵态氮肥检验",
+          "description": "掌握“铵态氮肥检验”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "化肥种类"
+          ],
+          "skills": [
+            "实验操作",
+            "现象分析"
+          ],
+          "keywords": [
+            "铵态氮肥检验"
+          ],
+          "diagnosis_tags": [
+            "实验探究",
+            "核心",
+            "盐 化肥"
+          ]
+        },
+        {
+          "id": "C9-B-U11-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "物质鉴别与除杂",
+          "description": "掌握“物质鉴别与除杂”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "铵态氮肥检验"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "物质鉴别",
+            "除杂"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "盐 化肥"
+          ]
+        },
+        {
+          "id": "C9-B-U11-KP010",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U11",
+          "unit_no": 11,
+          "unit_name": "盐 化肥",
+          "unit_name_zh": "",
+          "category": "物质性质",
+          "name": "酸碱盐综合推断",
+          "description": "掌握“酸碱盐综合推断”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "物质鉴别与除杂"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "酸碱盐综合推断"
+          ],
+          "diagnosis_tags": [
+            "物质性质",
+            "核心",
+            "盐 化肥"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "C9-B-U12",
+      "unit_no": 12,
+      "unit_name": "化学与生活",
+      "volume": "九年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "C9-B-U12-KP001",
+        "C9-B-U12-KP002",
+        "C9-B-U12-KP003",
+        "C9-B-U12-KP004",
+        "C9-B-U12-KP005",
+        "C9-B-U12-KP006",
+        "C9-B-U12-KP007",
+        "C9-B-U12-KP008",
+        "C9-B-U12-KP009",
+        "C9-B-U12-KP010"
+      ],
+      "knowledge_points": [
+        {
+          "id": "C9-B-U12-KP001",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "人类重要营养物质",
+          "description": "掌握“人类重要营养物质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "基础",
+          "prerequisites": [],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "人类重要营养物质"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "基础",
+            "化学与生活"
+          ]
+        },
+        {
+          "id": "C9-B-U12-KP002",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "蛋白质",
+          "description": "掌握“蛋白质”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "人类重要营养物质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "蛋白质"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "化学与生活"
+          ]
+        },
+        {
+          "id": "C9-B-U12-KP003",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "糖类和油脂",
+          "description": "掌握“糖类和油脂”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "蛋白质"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "糖类",
+            "油脂"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "化学与生活"
+          ]
+        },
+        {
+          "id": "C9-B-U12-KP004",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "维生素",
+          "description": "掌握“维生素”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "糖类和油脂"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "维生素"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "化学与生活"
+          ]
+        },
+        {
+          "id": "C9-B-U12-KP005",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "化学元素与人体健康",
+          "description": "掌握“化学元素与人体健康”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "维生素"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化学元素",
+            "人体健康"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "化学与生活"
+          ]
+        },
+        {
+          "id": "C9-B-U12-KP006",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "有机合成材料",
+          "description": "掌握“有机合成材料”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "化学元素与人体健康"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "有机合成材料"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "化学与生活"
+          ]
+        },
+        {
+          "id": "C9-B-U12-KP007",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "塑料纤维橡胶",
+          "description": "掌握“塑料纤维橡胶”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "有机合成材料"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "塑料纤维橡胶"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "化学与生活"
+          ]
+        },
+        {
+          "id": "C9-B-U12-KP008",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "白色污染",
+          "description": "掌握“白色污染”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "塑料纤维橡胶"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "白色污染"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "化学与生活"
+          ]
+        },
+        {
+          "id": "C9-B-U12-KP009",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "材料选择与环境",
+          "description": "掌握“材料选择与环境”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "提高",
+          "prerequisites": [
+            "白色污染"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "材料选择",
+            "环境"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "提高",
+            "化学与生活"
+          ]
+        },
+        {
+          "id": "C9-B-U12-KP010",
+          "grade": 9,
+          "subject": "化学",
+          "publisher": "人民教育出版社",
+          "edition": "人教版九年级化学，按公开教材目录与初三常规教学诊断点整理。",
+          "volume": "九年级下册",
+          "unit_id": "C9-B-U12",
+          "unit_no": 12,
+          "unit_name": "化学与生活",
+          "unit_name_zh": "",
+          "category": "概念原理",
+          "name": "化学与社会发展",
+          "description": "掌握“化学与社会发展”的概念、实验现象、反应规律或计算方法，能用于化学诊断和补习。",
+          "difficulty": "核心",
+          "prerequisites": [
+            "材料选择与环境"
+          ],
+          "skills": [
+            "理解概念",
+            "推断应用"
+          ],
+          "keywords": [
+            "化学",
+            "社会发展"
+          ],
+          "diagnosis_tags": [
+            "概念原理",
+            "核心",
+            "化学与生活"
+          ]
+        }
+      ]
+    }
+  ]
+}

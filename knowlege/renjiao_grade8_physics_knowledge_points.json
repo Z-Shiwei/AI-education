@@ -1,0 +1,3980 @@
+{
+  "metadata": {
+    "name": "人教版八年级物理上下册知识点库",
+    "grade": 8,
+    "subject": "物理",
+    "publisher": "人民教育出版社",
+    "edition_note": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+    "created_at": "2026-07-23",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 12,
+    "total_knowledge_points": 119,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "volume": "八年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-A-U1-KP001",
+        "P8-A-U1-KP002",
+        "P8-A-U1-KP003",
+        "P8-A-U1-KP004",
+        "P8-A-U1-KP005",
+        "P8-A-U1-KP006",
+        "P8-A-U1-KP007",
+        "P8-A-U1-KP008",
+        "P8-A-U1-KP009",
+        "P8-A-U1-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "volume": "八年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-A-U2-KP001",
+        "P8-A-U2-KP002",
+        "P8-A-U2-KP003",
+        "P8-A-U2-KP004",
+        "P8-A-U2-KP005",
+        "P8-A-U2-KP006",
+        "P8-A-U2-KP007",
+        "P8-A-U2-KP008",
+        "P8-A-U2-KP009",
+        "P8-A-U2-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "volume": "八年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-A-U3-KP001",
+        "P8-A-U3-KP002",
+        "P8-A-U3-KP003",
+        "P8-A-U3-KP004",
+        "P8-A-U3-KP005",
+        "P8-A-U3-KP006",
+        "P8-A-U3-KP007",
+        "P8-A-U3-KP008",
+        "P8-A-U3-KP009",
+        "P8-A-U3-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "volume": "八年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-A-U4-KP001",
+        "P8-A-U4-KP002",
+        "P8-A-U4-KP003",
+        "P8-A-U4-KP004",
+        "P8-A-U4-KP005",
+        "P8-A-U4-KP006",
+        "P8-A-U4-KP007",
+        "P8-A-U4-KP008",
+        "P8-A-U4-KP009",
+        "P8-A-U4-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "volume": "八年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-A-U5-KP001",
+        "P8-A-U5-KP002",
+        "P8-A-U5-KP003",
+        "P8-A-U5-KP004",
+        "P8-A-U5-KP005",
+        "P8-A-U5-KP006",
+        "P8-A-U5-KP007",
+        "P8-A-U5-KP008",
+        "P8-A-U5-KP009",
+        "P8-A-U5-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "volume": "八年级上册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-A-U6-KP001",
+        "P8-A-U6-KP002",
+        "P8-A-U6-KP003",
+        "P8-A-U6-KP004",
+        "P8-A-U6-KP005",
+        "P8-A-U6-KP006",
+        "P8-A-U6-KP007",
+        "P8-A-U6-KP008",
+        "P8-A-U6-KP009",
+        "P8-A-U6-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "volume": "八年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-B-U7-KP001",
+        "P8-B-U7-KP002",
+        "P8-B-U7-KP003",
+        "P8-B-U7-KP004",
+        "P8-B-U7-KP005",
+        "P8-B-U7-KP006",
+        "P8-B-U7-KP007",
+        "P8-B-U7-KP008",
+        "P8-B-U7-KP009",
+        "P8-B-U7-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "volume": "八年级下册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "P8-B-U8-KP001",
+        "P8-B-U8-KP002",
+        "P8-B-U8-KP003",
+        "P8-B-U8-KP004",
+        "P8-B-U8-KP005",
+        "P8-B-U8-KP006",
+        "P8-B-U8-KP007",
+        "P8-B-U8-KP008",
+        "P8-B-U8-KP009"
+      ]
+    },
+    {
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "volume": "八年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-B-U9-KP001",
+        "P8-B-U9-KP002",
+        "P8-B-U9-KP003",
+        "P8-B-U9-KP004",
+        "P8-B-U9-KP005",
+        "P8-B-U9-KP006",
+        "P8-B-U9-KP007",
+        "P8-B-U9-KP008",
+        "P8-B-U9-KP009",
+        "P8-B-U9-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "volume": "八年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-B-U10-KP001",
+        "P8-B-U10-KP002",
+        "P8-B-U10-KP003",
+        "P8-B-U10-KP004",
+        "P8-B-U10-KP005",
+        "P8-B-U10-KP006",
+        "P8-B-U10-KP007",
+        "P8-B-U10-KP008",
+        "P8-B-U10-KP009",
+        "P8-B-U10-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "volume": "八年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-B-U11-KP001",
+        "P8-B-U11-KP002",
+        "P8-B-U11-KP003",
+        "P8-B-U11-KP004",
+        "P8-B-U11-KP005",
+        "P8-B-U11-KP006",
+        "P8-B-U11-KP007",
+        "P8-B-U11-KP008",
+        "P8-B-U11-KP009",
+        "P8-B-U11-KP010"
+      ]
+    },
+    {
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "volume": "八年级下册",
+      "knowledge_point_count": 10,
+      "knowledge_point_ids": [
+        "P8-B-U12-KP001",
+        "P8-B-U12-KP002",
+        "P8-B-U12-KP003",
+        "P8-B-U12-KP004",
+        "P8-B-U12-KP005",
+        "P8-B-U12-KP006",
+        "P8-B-U12-KP007",
+        "P8-B-U12-KP008",
+        "P8-B-U12-KP009",
+        "P8-B-U12-KP010"
+      ]
+    }
+  ],
+  "knowledge_points": [
+    {
+      "id": "P8-A-U1-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "长度和时间的测量",
+      "description": "理解“长度和时间的测量”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "实验操作",
+        "数据处理"
+      ],
+      "keywords": [
+        "长度",
+        "时间",
+        "测量"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "基础",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U1-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "刻度尺读数",
+      "description": "理解“刻度尺读数”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "长度和时间的测量"
+      ],
+      "skills": [
+        "实验操作",
+        "数据处理"
+      ],
+      "keywords": [
+        "刻度尺读数"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "核心",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U1-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "误差与错误",
+      "description": "理解“误差与错误”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "刻度尺读数"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "误差",
+        "错误"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U1-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "机械运动的参照物",
+      "description": "理解“机械运动的参照物”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "误差与错误"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "机械运动",
+        "参照物"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U1-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "运动和静止的相对性",
+      "description": "理解“运动和静止的相对性”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "机械运动的参照物"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "运动",
+        "静止",
+        "相对性"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U1-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "速度的定义",
+      "description": "理解“速度的定义”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "运动和静止的相对性"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "速度",
+        "定义"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "提高",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U1-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "速度公式 v=s/t",
+      "description": "理解“速度公式 v=s/t”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "速度的定义"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "速度公式",
+        "v=s",
+        "t"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U1-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "匀速直线运动",
+      "description": "理解“匀速直线运动”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "速度公式 v=s/t"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "匀速直线运动"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U1-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "平均速度测量",
+      "description": "理解“平均速度测量”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "匀速直线运动"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "平均速度测量"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "提高",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U1-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U1",
+      "unit_no": 1,
+      "unit_name": "机械运动",
+      "unit_name_zh": "",
+      "category": "图象作图",
+      "name": "运动图象初步",
+      "description": "理解“运动图象初步”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "平均速度测量"
+      ],
+      "skills": [
+        "作图",
+        "读图"
+      ],
+      "keywords": [
+        "运动图象初步"
+      ],
+      "diagnosis_tags": [
+        "图象作图",
+        "核心",
+        "机械运动"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "声音的产生",
+      "description": "理解“声音的产生”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "声音",
+        "产生"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "声音的传播条件",
+      "description": "理解“声音的传播条件”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "声音的产生"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "声音",
+        "传播条件"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "声速",
+      "description": "理解“声速”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "声音的传播条件"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "声速"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "回声测距",
+      "description": "理解“回声测距”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "声速"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "回声测距"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "音调与频率",
+      "description": "理解“音调与频率”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "回声测距"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "音调",
+        "频率"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "响度与振幅",
+      "description": "理解“响度与振幅”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "音调与频率"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "响度",
+        "振幅"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "音色辨别",
+      "description": "理解“音色辨别”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "响度与振幅"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "音色辨别"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "噪声及其控制",
+      "description": "理解“噪声及其控制”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "音色辨别"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "噪声",
+        "其控制"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "声音传递信息",
+      "description": "理解“声音传递信息”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "噪声及其控制"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "声音传递信息"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U2-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U2",
+      "unit_no": 2,
+      "unit_name": "声现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "声音传递能量",
+      "description": "理解“声音传递能量”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "声音传递信息"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "声音传递能量"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "声现象"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "温度与温度计",
+      "description": "理解“温度与温度计”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "温度",
+        "温度计"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "摄氏温度读数",
+      "description": "理解“摄氏温度读数”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "温度与温度计"
+      ],
+      "skills": [
+        "实验操作",
+        "数据处理"
+      ],
+      "keywords": [
+        "摄氏温度读数"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "核心",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "熔化和凝固",
+      "description": "理解“熔化和凝固”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "摄氏温度读数"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "熔化",
+        "凝固"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "晶体和非晶体",
+      "description": "理解“晶体和非晶体”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "熔化和凝固"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "晶体",
+        "非晶体"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "汽化与液化",
+      "description": "理解“汽化与液化”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "晶体和非晶体"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "汽化",
+        "液化"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "蒸发和沸腾",
+      "description": "理解“蒸发和沸腾”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "汽化与液化"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "蒸发",
+        "沸腾"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "升华和凝华",
+      "description": "理解“升华和凝华”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "蒸发和沸腾"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "升华",
+        "凝华"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "物态变化吸放热",
+      "description": "理解“物态变化吸放热”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "升华和凝华"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "物态变化吸放热"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "水循环中的物态变化",
+      "description": "理解“水循环中的物态变化”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "物态变化吸放热"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "水循环中",
+        "物态变化"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U3-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U3",
+      "unit_no": 3,
+      "unit_name": "物态变化",
+      "unit_name_zh": "",
+      "category": "图象作图",
+      "name": "物态变化图象",
+      "description": "理解“物态变化图象”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "水循环中的物态变化"
+      ],
+      "skills": [
+        "作图",
+        "读图"
+      ],
+      "keywords": [
+        "物态变化图象"
+      ],
+      "diagnosis_tags": [
+        "图象作图",
+        "核心",
+        "物态变化"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "光源与光的直线传播",
+      "description": "理解“光源与光的直线传播”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "光源",
+        "光",
+        "直线传播"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "影子的形成",
+      "description": "理解“影子的形成”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "光源与光的直线传播"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "影子",
+        "形成"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "光速",
+      "description": "理解“光速”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "影子的形成"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "光速"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "光的反射定律",
+      "description": "理解“光的反射定律”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "光速"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "光",
+        "反射定律"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "镜面反射和漫反射",
+      "description": "理解“镜面反射和漫反射”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "光的反射定律"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "镜面反射",
+        "漫反射"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "平面镜成像特点",
+      "description": "理解“平面镜成像特点”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "镜面反射和漫反射"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "平面镜成像特点"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "图象作图",
+      "name": "平面镜作图",
+      "description": "理解“平面镜作图”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "平面镜成像特点"
+      ],
+      "skills": [
+        "作图",
+        "读图"
+      ],
+      "keywords": [
+        "平面镜作图"
+      ],
+      "diagnosis_tags": [
+        "图象作图",
+        "核心",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "光的折射现象",
+      "description": "理解“光的折射现象”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "平面镜作图"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "光",
+        "折射现象"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "光的色散",
+      "description": "理解“光的色散”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "光的折射现象"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "光",
+        "色散"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U4-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U4",
+      "unit_no": 4,
+      "unit_name": "光现象",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "看不见的光",
+      "description": "理解“看不见的光”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "光的色散"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "看不见",
+        "光"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "光现象"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "凸透镜和凹透镜",
+      "description": "理解“凸透镜和凹透镜”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "凸透镜",
+        "凹透镜"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "透镜对光的作用",
+      "description": "理解“透镜对光的作用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "凸透镜和凹透镜"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "透镜对光",
+        "作用"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "焦点和焦距",
+      "description": "理解“焦点和焦距”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "透镜对光的作用"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "焦点",
+        "焦距"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "凸透镜成像规律",
+      "description": "理解“凸透镜成像规律”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "焦点和焦距"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "凸透镜成像规律"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "照相机原理",
+      "description": "理解“照相机原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "凸透镜成像规律"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "照相机原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "投影仪原理",
+      "description": "理解“投影仪原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "照相机原理"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "投影仪原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "放大镜原理",
+      "description": "理解“放大镜原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "投影仪原理"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "放大镜原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "眼睛成像",
+      "description": "理解“眼睛成像”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "放大镜原理"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "眼睛成像"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "近视和远视矫正",
+      "description": "理解“近视和远视矫正”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "眼睛成像"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "近视",
+        "远视矫正"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U5-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U5",
+      "unit_no": 5,
+      "unit_name": "透镜及其应用",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "显微镜和望远镜初步",
+      "description": "理解“显微镜和望远镜初步”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "近视和远视矫正"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "显微镜",
+        "望远镜初步"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "透镜及其应用"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "质量的概念",
+      "description": "理解“质量的概念”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "质量",
+        "概念"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "天平的使用",
+      "description": "理解“天平的使用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "质量的概念"
+      ],
+      "skills": [
+        "实验操作",
+        "数据处理"
+      ],
+      "keywords": [
+        "天平",
+        "使用"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "核心",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "密度的概念",
+      "description": "理解“密度的概念”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "天平的使用"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "密度",
+        "概念"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "密度公式 ρ=m/V",
+      "description": "理解“密度公式 ρ=m/V”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "密度的概念"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "密度公式",
+        "ρ=m",
+        "V"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "密度单位换算",
+      "description": "理解“密度单位换算”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "密度公式 ρ=m/V"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "密度单位换算"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "提高",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "测量固体密度",
+      "description": "理解“测量固体密度”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "密度单位换算"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "测量固体密度"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "提高",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "测量液体密度",
+      "description": "理解“测量液体密度”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "测量固体密度"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "测量液体密度"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "密度与物质鉴别",
+      "description": "理解“密度与物质鉴别”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "测量液体密度"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "密度",
+        "物质鉴别"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "密度应用题",
+      "description": "理解“密度应用题”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "密度与物质鉴别"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "密度应用题"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "提高",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-A-U6-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "P8-A-U6",
+      "unit_no": 6,
+      "unit_name": "质量与密度",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "空心实心判断",
+      "description": "理解“空心实心判断”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "密度应用题"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "空心实心判断"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "质量与密度"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "力的概念",
+      "description": "理解“力的概念”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "力",
+        "概念"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "力的作用效果",
+      "description": "理解“力的作用效果”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "力的概念"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "力",
+        "作用效果"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "力的三要素",
+      "description": "理解“力的三要素”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "力的作用效果"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "力",
+        "三要素"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "图象作图",
+      "name": "力的示意图",
+      "description": "理解“力的示意图”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "力的三要素"
+      ],
+      "skills": [
+        "作图",
+        "读图"
+      ],
+      "keywords": [
+        "力",
+        "示意图"
+      ],
+      "diagnosis_tags": [
+        "图象作图",
+        "核心",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "物体间力的作用是相互的",
+      "description": "理解“物体间力的作用是相互的”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "力的示意图"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "物体间力",
+        "作用是相互"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "弹力",
+      "description": "理解“弹力”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "物体间力的作用是相互的"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "弹力"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "弹簧测力计",
+      "description": "理解“弹簧测力计”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "弹力"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "弹簧测力计"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "重力",
+      "description": "理解“重力”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "弹簧测力计"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "重力"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "重力大小 G=mg",
+      "description": "理解“重力大小 G=mg”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "重力"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "重力大小",
+        "G=mg"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U7-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U7",
+      "unit_no": 7,
+      "unit_name": "力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "摩擦力及其影响因素",
+      "description": "理解“摩擦力及其影响因素”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "重力大小 G=mg"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "摩擦力",
+        "其影响因素"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "力"
+      ]
+    },
+    {
+      "id": "P8-B-U8-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "牛顿第一定律",
+      "description": "理解“牛顿第一定律”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "牛顿第一定律"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "运动和力"
+      ]
+    },
+    {
+      "id": "P8-B-U8-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "惯性",
+      "description": "理解“惯性”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "牛顿第一定律"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "惯性"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "运动和力"
+      ]
+    },
+    {
+      "id": "P8-B-U8-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "二力平衡条件",
+      "description": "理解“二力平衡条件”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "惯性"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "二力平衡条件"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "运动和力"
+      ]
+    },
+    {
+      "id": "P8-B-U8-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "平衡力和相互作用力区别",
+      "description": "理解“平衡力和相互作用力区别”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "二力平衡条件"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "平衡力",
+        "相互作用力区别"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "运动和力"
+      ]
+    },
+    {
+      "id": "P8-B-U8-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "力与运动状态改变",
+      "description": "理解“力与运动状态改变”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "平衡力和相互作用力区别"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "力",
+        "运动状态改变"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "运动和力"
+      ]
+    },
+    {
+      "id": "P8-B-U8-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "摩擦力方向判断",
+      "description": "理解“摩擦力方向判断”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "力与运动状态改变"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "摩擦力方向判断"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "运动和力"
+      ]
+    },
+    {
+      "id": "P8-B-U8-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "增大和减小摩擦",
+      "description": "理解“增大和减小摩擦”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "摩擦力方向判断"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "增大",
+        "减小摩擦"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "运动和力"
+      ]
+    },
+    {
+      "id": "P8-B-U8-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "受力分析初步",
+      "description": "理解“受力分析初步”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "增大和减小摩擦"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "受力分析初步"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "运动和力"
+      ]
+    },
+    {
+      "id": "P8-B-U8-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U8",
+      "unit_no": 8,
+      "unit_name": "运动和力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "运动和力综合判断",
+      "description": "理解“运动和力综合判断”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "受力分析初步"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "运动",
+        "力综合判断"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "运动和力"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "压力和压强",
+      "description": "理解“压力和压强”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "压力",
+        "压强"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "基础",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "压强公式 p=F/S",
+      "description": "理解“压强公式 p=F/S”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "压力和压强"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "压强公式",
+        "p=F",
+        "S"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "增大和减小压强",
+      "description": "理解“增大和减小压强”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "压强公式 p=F/S"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "增大",
+        "减小压强"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "液体压强特点",
+      "description": "理解“液体压强特点”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "增大和减小压强"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "液体压强特点"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "液体压强公式 p=ρgh",
+      "description": "理解“液体压强公式 p=ρgh”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "液体压强特点"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "液体压强公式",
+        "p=ρgh"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "提高",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "连通器",
+      "description": "理解“连通器”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "液体压强公式 p=ρgh"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "连通器"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "大气压强",
+      "description": "理解“大气压强”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "连通器"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "大气压强"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "实验探究",
+      "name": "托里拆利实验思想",
+      "description": "理解“托里拆利实验思想”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "大气压强"
+      ],
+      "skills": [
+        "实验操作",
+        "数据处理"
+      ],
+      "keywords": [
+        "托里拆利实验思想"
+      ],
+      "diagnosis_tags": [
+        "实验探究",
+        "核心",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "流体压强与流速关系",
+      "description": "理解“流体压强与流速关系”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "托里拆利实验思想"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "流体压强",
+        "流速关系"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "提高",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U9-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U9",
+      "unit_no": 9,
+      "unit_name": "压强",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "飞机升力初步",
+      "description": "理解“飞机升力初步”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "流体压强与流速关系"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "飞机升力初步"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "压强"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "浮力的产生原因",
+      "description": "理解“浮力的产生原因”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "浮力",
+        "产生原因"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "称重法测浮力",
+      "description": "理解“称重法测浮力”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "浮力的产生原因"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "称重法测浮力"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "阿基米德原理",
+      "description": "理解“阿基米德原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "称重法测浮力"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "阿基米德原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "浮力大小计算",
+      "description": "理解“浮力大小计算”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "阿基米德原理"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "浮力大小计算"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "物体浮沉条件",
+      "description": "理解“物体浮沉条件”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "浮力大小计算"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "物体浮沉条件"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "漂浮和悬浮",
+      "description": "理解“漂浮和悬浮”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "物体浮沉条件"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "漂浮",
+        "悬浮"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "轮船原理",
+      "description": "理解“轮船原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "漂浮和悬浮"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "轮船原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "潜水艇原理",
+      "description": "理解“潜水艇原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "轮船原理"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "潜水艇原理"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "密度计原理",
+      "description": "理解“密度计原理”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "潜水艇原理"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "密度计原理"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "提高",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U10-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U10",
+      "unit_no": 10,
+      "unit_name": "浮力",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "浮力综合应用",
+      "description": "理解“浮力综合应用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "密度计原理"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "浮力综合应用"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "浮力"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "功的概念",
+      "description": "理解“功的概念”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "功",
+        "概念"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "功的计算 W=Fs",
+      "description": "理解“功的计算 W=Fs”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "功的概念"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "功",
+        "计算",
+        "W=Fs"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "功率",
+      "description": "理解“功率”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "功的计算 W=Fs"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "功率"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "计算",
+      "name": "功率计算 P=W/t",
+      "description": "理解“功率计算 P=W/t”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "功率"
+      ],
+      "skills": [
+        "公式应用",
+        "单位换算"
+      ],
+      "keywords": [
+        "功率计算",
+        "P=W",
+        "t"
+      ],
+      "diagnosis_tags": [
+        "计算",
+        "核心",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "动能及影响因素",
+      "description": "理解“动能及影响因素”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "功率计算 P=W/t"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "动能",
+        "影响因素"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "重力势能及影响因素",
+      "description": "理解“重力势能及影响因素”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "动能及影响因素"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "重力势能",
+        "影响因素"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "弹性势能",
+      "description": "理解“弹性势能”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "重力势能及影响因素"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "弹性势能"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "机械能及转化",
+      "description": "理解“机械能及转化”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "弹性势能"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "机械能",
+        "转化"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "机械能守恒初步",
+      "description": "理解“机械能守恒初步”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "机械能及转化"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "机械能守恒初步"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U11-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U11",
+      "unit_no": 11,
+      "unit_name": "功和机械能",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "功和能综合判断",
+      "description": "理解“功和能综合判断”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "机械能守恒初步"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "功",
+        "能综合判断"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "功和机械能"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP001",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "杠杆五要素",
+      "description": "理解“杠杆五要素”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "杠杆五要素"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "基础",
+        "简单机械"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP002",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "杠杆平衡条件",
+      "description": "理解“杠杆平衡条件”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "杠杆五要素"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "杠杆平衡条件"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "简单机械"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP003",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "省力杠杆",
+      "description": "理解“省力杠杆”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "杠杆平衡条件"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "省力杠杆"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "简单机械"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP004",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "费力杠杆",
+      "description": "理解“费力杠杆”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "省力杠杆"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "费力杠杆"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "简单机械"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP005",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "等臂杠杆",
+      "description": "理解“等臂杠杆”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "费力杠杆"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "等臂杠杆"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "简单机械"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP006",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "滑轮和滑轮组",
+      "description": "理解“滑轮和滑轮组”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "等臂杠杆"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "滑轮",
+        "滑轮组"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "简单机械"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP007",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "滑轮组省力规律",
+      "description": "理解“滑轮组省力规律”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "滑轮和滑轮组"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "滑轮组省力规律"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "简单机械"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP008",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "机械效率",
+      "description": "理解“机械效率”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "滑轮组省力规律"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "机械效率"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "简单机械"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP009",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "有用功额外功总功",
+      "description": "理解“有用功额外功总功”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "机械效率"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "有用功额外功总功"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "提高",
+        "简单机械"
+      ]
+    },
+    {
+      "id": "P8-B-U12-KP010",
+      "grade": 8,
+      "subject": "物理",
+      "publisher": "人民教育出版社",
+      "edition": "人教版八年级物理，按公开教材目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "P8-B-U12",
+      "unit_no": 12,
+      "unit_name": "简单机械",
+      "unit_name_zh": "",
+      "category": "概念规律",
+      "name": "简单机械综合应用",
+      "description": "理解“简单机械综合应用”的物理意义、适用条件和常见考查方式，能解释现象或解决基础问题。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "有用功额外功总功"
+      ],
+      "skills": [
+        "理解概念",
+        "解释现象"
+      ],
+      "keywords": [
+        "简单机械综合应用"
+      ],
+      "diagnosis_tags": [
+        "概念规律",
+        "核心",
+        "简单机械"
+      ]
+    }
+  ]
+}

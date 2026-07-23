@@ -1,0 +1,3246 @@
+{
+  "metadata": {
+    "name": "统编版八年级语文上下册知识点库",
+    "grade": 8,
+    "subject": "语文",
+    "publisher": "人民教育出版社",
+    "edition_note": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+    "created_at": "2026-07-23",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 12,
+    "total_knowledge_points": 98,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "M8C-A-U1",
+      "unit_no": 1,
+      "unit_name": "新闻阅读与新闻写作",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-A-U1-KP001",
+        "M8C-A-U1-KP002",
+        "M8C-A-U1-KP003",
+        "M8C-A-U1-KP004",
+        "M8C-A-U1-KP005",
+        "M8C-A-U1-KP006",
+        "M8C-A-U1-KP007",
+        "M8C-A-U1-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-A-U2",
+      "unit_no": 2,
+      "unit_name": "人物回忆与传记阅读",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-A-U2-KP001",
+        "M8C-A-U2-KP002",
+        "M8C-A-U2-KP003",
+        "M8C-A-U2-KP004",
+        "M8C-A-U2-KP005",
+        "M8C-A-U2-KP006",
+        "M8C-A-U2-KP007",
+        "M8C-A-U2-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-A-U3",
+      "unit_no": 3,
+      "unit_name": "山川美景与古诗文",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-A-U3-KP001",
+        "M8C-A-U3-KP002",
+        "M8C-A-U3-KP003",
+        "M8C-A-U3-KP004",
+        "M8C-A-U3-KP005",
+        "M8C-A-U3-KP006",
+        "M8C-A-U3-KP007",
+        "M8C-A-U3-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-A-U4",
+      "unit_no": 4,
+      "unit_name": "散文阅读与语言品味",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-A-U4-KP001",
+        "M8C-A-U4-KP002",
+        "M8C-A-U4-KP003",
+        "M8C-A-U4-KP004",
+        "M8C-A-U4-KP005",
+        "M8C-A-U4-KP006",
+        "M8C-A-U4-KP007",
+        "M8C-A-U4-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-A-U5",
+      "unit_no": 5,
+      "unit_name": "说明文阅读",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-A-U5-KP001",
+        "M8C-A-U5-KP002",
+        "M8C-A-U5-KP003",
+        "M8C-A-U5-KP004",
+        "M8C-A-U5-KP005",
+        "M8C-A-U5-KP006",
+        "M8C-A-U5-KP007",
+        "M8C-A-U5-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "volume": "八年级上册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M8C-A-U6-KP001",
+        "M8C-A-U6-KP002",
+        "M8C-A-U6-KP003",
+        "M8C-A-U6-KP004",
+        "M8C-A-U6-KP005",
+        "M8C-A-U6-KP006",
+        "M8C-A-U6-KP007",
+        "M8C-A-U6-KP008",
+        "M8C-A-U6-KP009"
+      ]
+    },
+    {
+      "unit_id": "M8C-B-U1",
+      "unit_no": 1,
+      "unit_name": "民俗风情与小说阅读",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-B-U1-KP001",
+        "M8C-B-U1-KP002",
+        "M8C-B-U1-KP003",
+        "M8C-B-U1-KP004",
+        "M8C-B-U1-KP005",
+        "M8C-B-U1-KP006",
+        "M8C-B-U1-KP007",
+        "M8C-B-U1-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-B-U2",
+      "unit_no": 2,
+      "unit_name": "事理说明与科学精神",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-B-U2-KP001",
+        "M8C-B-U2-KP002",
+        "M8C-B-U2-KP003",
+        "M8C-B-U2-KP004",
+        "M8C-B-U2-KP005",
+        "M8C-B-U2-KP006",
+        "M8C-B-U2-KP007",
+        "M8C-B-U2-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与理趣",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-B-U3-KP001",
+        "M8C-B-U3-KP002",
+        "M8C-B-U3-KP003",
+        "M8C-B-U3-KP004",
+        "M8C-B-U3-KP005",
+        "M8C-B-U3-KP006",
+        "M8C-B-U3-KP007",
+        "M8C-B-U3-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-B-U4",
+      "unit_no": 4,
+      "unit_name": "演讲词与活动探究",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-B-U4-KP001",
+        "M8C-B-U4-KP002",
+        "M8C-B-U4-KP003",
+        "M8C-B-U4-KP004",
+        "M8C-B-U4-KP005",
+        "M8C-B-U4-KP006",
+        "M8C-B-U4-KP007",
+        "M8C-B-U4-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-B-U5",
+      "unit_no": 5,
+      "unit_name": "游记阅读与写作",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8C-B-U5-KP001",
+        "M8C-B-U5-KP002",
+        "M8C-B-U5-KP003",
+        "M8C-B-U5-KP004",
+        "M8C-B-U5-KP005",
+        "M8C-B-U5-KP006",
+        "M8C-B-U5-KP007",
+        "M8C-B-U5-KP008"
+      ]
+    },
+    {
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "volume": "八年级下册",
+      "knowledge_point_count": 9,
+      "knowledge_point_ids": [
+        "M8C-B-U6-KP001",
+        "M8C-B-U6-KP002",
+        "M8C-B-U6-KP003",
+        "M8C-B-U6-KP004",
+        "M8C-B-U6-KP005",
+        "M8C-B-U6-KP006",
+        "M8C-B-U6-KP007",
+        "M8C-B-U6-KP008",
+        "M8C-B-U6-KP009"
+      ]
+    }
+  ],
+  "knowledge_points": [
+    {
+      "id": "M8C-A-U1-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U1",
+      "unit_no": 1,
+      "unit_name": "新闻阅读与新闻写作",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "消息结构与要素",
+      "description": "围绕“新闻阅读与新闻写作”单元，掌握“消息结构与要素”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "消息结构",
+        "要素"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "新闻阅读与新闻写作"
+      ]
+    },
+    {
+      "id": "M8C-A-U1-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U1",
+      "unit_no": 1,
+      "unit_name": "新闻阅读与新闻写作",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "新闻标题作用",
+      "description": "围绕“新闻阅读与新闻写作”单元，掌握“新闻标题作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "消息结构与要素"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "新闻标题作用"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "新闻阅读与新闻写作"
+      ]
+    },
+    {
+      "id": "M8C-A-U1-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U1",
+      "unit_no": 1,
+      "unit_name": "新闻阅读与新闻写作",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "导语概括",
+      "description": "围绕“新闻阅读与新闻写作”单元，掌握“导语概括”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "新闻标题作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "导语概括"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "新闻阅读与新闻写作"
+      ]
+    },
+    {
+      "id": "M8C-A-U1-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U1",
+      "unit_no": 1,
+      "unit_name": "新闻阅读与新闻写作",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "新闻语言准确性",
+      "description": "围绕“新闻阅读与新闻写作”单元，掌握“新闻语言准确性”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "导语概括"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "新闻语言准确性"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "新闻阅读与新闻写作"
+      ]
+    },
+    {
+      "id": "M8C-A-U1-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U1",
+      "unit_no": 1,
+      "unit_name": "新闻阅读与新闻写作",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "通讯人物形象",
+      "description": "围绕“新闻阅读与新闻写作”单元，掌握“通讯人物形象”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "新闻语言准确性"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "通讯人物形象"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "新闻阅读与新闻写作"
+      ]
+    },
+    {
+      "id": "M8C-A-U1-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U1",
+      "unit_no": 1,
+      "unit_name": "新闻阅读与新闻写作",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "新闻事实与观点区分",
+      "description": "围绕“新闻阅读与新闻写作”单元，掌握“新闻事实与观点区分”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "通讯人物形象"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "新闻事实",
+        "观点区分"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "提高",
+        "新闻阅读与新闻写作"
+      ]
+    },
+    {
+      "id": "M8C-A-U1-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U1",
+      "unit_no": 1,
+      "unit_name": "新闻阅读与新闻写作",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "新闻采访提纲",
+      "description": "围绕“新闻阅读与新闻写作”单元，掌握“新闻采访提纲”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "新闻事实与观点区分"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "新闻采访提纲"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "新闻阅读与新闻写作"
+      ]
+    },
+    {
+      "id": "M8C-A-U1-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U1",
+      "unit_no": 1,
+      "unit_name": "新闻阅读与新闻写作",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "新闻写作六要素",
+      "description": "围绕“新闻阅读与新闻写作”单元，掌握“新闻写作六要素”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "新闻采访提纲"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "新闻写作六要素"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "新闻阅读与新闻写作"
+      ]
+    },
+    {
+      "id": "M8C-A-U2-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U2",
+      "unit_no": 2,
+      "unit_name": "人物回忆与传记阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "回忆性散文线索",
+      "description": "围绕“人物回忆与传记阅读”单元，掌握“回忆性散文线索”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "回忆性散文线索"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "人物回忆与传记阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U2-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U2",
+      "unit_no": 2,
+      "unit_name": "人物回忆与传记阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人物描写方法",
+      "description": "围绕“人物回忆与传记阅读”单元，掌握“人物描写方法”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "回忆性散文线索"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人物描写方法"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "人物回忆与传记阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U2-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U2",
+      "unit_no": 2,
+      "unit_name": "人物回忆与传记阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "典型事件概括",
+      "description": "围绕“人物回忆与传记阅读”单元，掌握“典型事件概括”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "人物描写方法"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "典型事件概括"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "人物回忆与传记阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U2-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U2",
+      "unit_no": 2,
+      "unit_name": "人物回忆与传记阅读",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "细节描写作用",
+      "description": "围绕“人物回忆与传记阅读”单元，掌握“细节描写作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "典型事件概括"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "细节描写作用"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "人物回忆与传记阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U2-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U2",
+      "unit_no": 2,
+      "unit_name": "人物回忆与传记阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "作者情感态度",
+      "description": "围绕“人物回忆与传记阅读”单元，掌握“作者情感态度”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "细节描写作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "作者情感态度"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "人物回忆与传记阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U2-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U2",
+      "unit_no": 2,
+      "unit_name": "人物回忆与传记阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "传记材料取舍",
+      "description": "围绕“人物回忆与传记阅读”单元，掌握“传记材料取舍”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "作者情感态度"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "传记材料取舍"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "人物回忆与传记阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U2-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U2",
+      "unit_no": 2,
+      "unit_name": "人物回忆与传记阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "欲扬先抑手法",
+      "description": "围绕“人物回忆与传记阅读”单元，掌握“欲扬先抑手法”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "传记材料取舍"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "欲扬先抑手法"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "人物回忆与传记阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U2-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U2",
+      "unit_no": 2,
+      "unit_name": "人物回忆与传记阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人物精神品质概括",
+      "description": "围绕“人物回忆与传记阅读”单元，掌握“人物精神品质概括”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "欲扬先抑手法"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人物精神品质概括"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "人物回忆与传记阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U3-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U3",
+      "unit_no": 3,
+      "unit_name": "山川美景与古诗文",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言实词积累",
+      "description": "围绕“山川美景与古诗文”单元，掌握“文言实词积累”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言实词积累"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "基础",
+        "山川美景与古诗文"
+      ]
+    },
+    {
+      "id": "M8C-A-U3-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U3",
+      "unit_no": 3,
+      "unit_name": "山川美景与古诗文",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言虚词初步",
+      "description": "围绕“山川美景与古诗文”单元，掌握“文言虚词初步”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "文言实词积累"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言虚词初步"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "山川美景与古诗文"
+      ]
+    },
+    {
+      "id": "M8C-A-U3-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U3",
+      "unit_no": 3,
+      "unit_name": "山川美景与古诗文",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言句式翻译",
+      "description": "围绕“山川美景与古诗文”单元，掌握“文言句式翻译”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "文言虚词初步"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言句式翻译"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "山川美景与古诗文"
+      ]
+    },
+    {
+      "id": "M8C-A-U3-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U3",
+      "unit_no": 3,
+      "unit_name": "山川美景与古诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "山水小品意境",
+      "description": "围绕“山川美景与古诗文”单元，掌握“山水小品意境”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "文言句式翻译"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "山水小品意境"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "山川美景与古诗文"
+      ]
+    },
+    {
+      "id": "M8C-A-U3-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U3",
+      "unit_no": 3,
+      "unit_name": "山川美景与古诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "动静结合赏析",
+      "description": "围绕“山川美景与古诗文”单元，掌握“动静结合赏析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "山水小品意境"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "动静结合赏析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "山川美景与古诗文"
+      ]
+    },
+    {
+      "id": "M8C-A-U3-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U3",
+      "unit_no": 3,
+      "unit_name": "山川美景与古诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "借景抒情",
+      "description": "围绕“山川美景与古诗文”单元，掌握“借景抒情”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "动静结合赏析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "借景抒情"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "山川美景与古诗文"
+      ]
+    },
+    {
+      "id": "M8C-A-U3-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U3",
+      "unit_no": 3,
+      "unit_name": "山川美景与古诗文",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "律诗节奏与对仗",
+      "description": "围绕“山川美景与古诗文”单元，掌握“律诗节奏与对仗”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "借景抒情"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "律诗节奏",
+        "对仗"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "山川美景与古诗文"
+      ]
+    },
+    {
+      "id": "M8C-A-U3-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U3",
+      "unit_no": 3,
+      "unit_name": "山川美景与古诗文",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "古诗名句赏析",
+      "description": "围绕“山川美景与古诗文”单元，掌握“古诗名句赏析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "律诗节奏与对仗"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "古诗名句赏析"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "山川美景与古诗文"
+      ]
+    },
+    {
+      "id": "M8C-A-U4-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U4",
+      "unit_no": 4,
+      "unit_name": "散文阅读与语言品味",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "散文结构梳理",
+      "description": "围绕“散文阅读与语言品味”单元，掌握“散文结构梳理”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "散文结构梳理"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "散文阅读与语言品味"
+      ]
+    },
+    {
+      "id": "M8C-A-U4-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U4",
+      "unit_no": 4,
+      "unit_name": "散文阅读与语言品味",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "关键语句含义",
+      "description": "围绕“散文阅读与语言品味”单元，掌握“关键语句含义”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "散文结构梳理"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "关键语句含义"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "散文阅读与语言品味"
+      ]
+    },
+    {
+      "id": "M8C-A-U4-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U4",
+      "unit_no": 4,
+      "unit_name": "散文阅读与语言品味",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "修辞手法赏析",
+      "description": "围绕“散文阅读与语言品味”单元，掌握“修辞手法赏析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "关键语句含义"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "修辞手法赏析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "散文阅读与语言品味"
+      ]
+    },
+    {
+      "id": "M8C-A-U4-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U4",
+      "unit_no": 4,
+      "unit_name": "散文阅读与语言品味",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "象征手法理解",
+      "description": "围绕“散文阅读与语言品味”单元，掌握“象征手法理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "修辞手法赏析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "象征手法理解"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "散文阅读与语言品味"
+      ]
+    },
+    {
+      "id": "M8C-A-U4-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U4",
+      "unit_no": 4,
+      "unit_name": "散文阅读与语言品味",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "托物言志",
+      "description": "围绕“散文阅读与语言品味”单元，掌握“托物言志”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "象征手法理解"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "托物言志"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "散文阅读与语言品味"
+      ]
+    },
+    {
+      "id": "M8C-A-U4-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U4",
+      "unit_no": 4,
+      "unit_name": "散文阅读与语言品味",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "议论抒情句作用",
+      "description": "围绕“散文阅读与语言品味”单元，掌握“议论抒情句作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "托物言志"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "议论抒情句作用"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "散文阅读与语言品味"
+      ]
+    },
+    {
+      "id": "M8C-A-U4-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U4",
+      "unit_no": 4,
+      "unit_name": "散文阅读与语言品味",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "景物描写作用",
+      "description": "围绕“散文阅读与语言品味”单元，掌握“景物描写作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "议论抒情句作用"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "景物描写作用"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "散文阅读与语言品味"
+      ]
+    },
+    {
+      "id": "M8C-A-U4-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U4",
+      "unit_no": 4,
+      "unit_name": "散文阅读与语言品味",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "散文主旨概括",
+      "description": "围绕“散文阅读与语言品味”单元，掌握“散文主旨概括”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "景物描写作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "散文主旨概括"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "散文阅读与语言品味"
+      ]
+    },
+    {
+      "id": "M8C-A-U5-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U5",
+      "unit_no": 5,
+      "unit_name": "说明文阅读",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "说明对象与特征",
+      "description": "围绕“说明文阅读”单元，掌握“说明对象与特征”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "说明对象",
+        "特征"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "基础",
+        "说明文阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U5-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U5",
+      "unit_no": 5,
+      "unit_name": "说明文阅读",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "说明顺序",
+      "description": "围绕“说明文阅读”单元，掌握“说明顺序”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "说明对象与特征"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "说明顺序"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "说明文阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U5-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U5",
+      "unit_no": 5,
+      "unit_name": "说明文阅读",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "说明方法及作用",
+      "description": "围绕“说明文阅读”单元，掌握“说明方法及作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "说明顺序"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "说明方法",
+        "作用"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "说明文阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U5-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U5",
+      "unit_no": 5,
+      "unit_name": "说明文阅读",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "说明语言准确性",
+      "description": "围绕“说明文阅读”单元，掌握“说明语言准确性”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "说明方法及作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "说明语言准确性"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "说明文阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U5-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U5",
+      "unit_no": 5,
+      "unit_name": "说明文阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "图文材料信息提取",
+      "description": "围绕“说明文阅读”单元，掌握“图文材料信息提取”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "说明语言准确性"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "图文材料信息提取"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "说明文阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U5-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U5",
+      "unit_no": 5,
+      "unit_name": "说明文阅读",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "事物说明文结构",
+      "description": "围绕“说明文阅读”单元，掌握“事物说明文结构”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "图文材料信息提取"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "事物说明文结构"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "提高",
+        "说明文阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U5-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U5",
+      "unit_no": 5,
+      "unit_name": "说明文阅读",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "事理说明文逻辑",
+      "description": "围绕“说明文阅读”单元，掌握“事理说明文逻辑”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "事物说明文结构"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "事理说明文逻辑"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "说明文阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U5-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U5",
+      "unit_no": 5,
+      "unit_name": "说明文阅读",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "非连续性文本阅读",
+      "description": "围绕“说明文阅读”单元，掌握“非连续性文本阅读”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "事理说明文逻辑"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "非连续性文本阅读"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "说明文阅读"
+      ]
+    },
+    {
+      "id": "M8C-A-U6-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言断句",
+      "description": "围绕“古诗文品格与家国情怀”单元，掌握“文言断句”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言断句"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "基础",
+        "古诗文品格与家国情怀"
+      ]
+    },
+    {
+      "id": "M8C-A-U6-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "古今异义",
+      "description": "围绕“古诗文品格与家国情怀”单元，掌握“古今异义”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "文言断句"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "古今异义"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古诗文品格与家国情怀"
+      ]
+    },
+    {
+      "id": "M8C-A-U6-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "一词多义",
+      "description": "围绕“古诗文品格与家国情怀”单元，掌握“一词多义”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "古今异义"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "一词多义"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古诗文品格与家国情怀"
+      ]
+    },
+    {
+      "id": "M8C-A-U6-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言文内容理解",
+      "description": "围绕“古诗文品格与家国情怀”单元，掌握“文言文内容理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "一词多义"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言文内容理解"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文品格与家国情怀"
+      ]
+    },
+    {
+      "id": "M8C-A-U6-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "议论文言名篇主旨",
+      "description": "围绕“古诗文品格与家国情怀”单元，掌握“议论文言名篇主旨”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "文言文内容理解"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "议论文言名篇主旨"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文品格与家国情怀"
+      ]
+    },
+    {
+      "id": "M8C-A-U6-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "诗歌意象分析",
+      "description": "围绕“古诗文品格与家国情怀”单元，掌握“诗歌意象分析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "议论文言名篇主旨"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "诗歌意象分析"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文品格与家国情怀"
+      ]
+    },
+    {
+      "id": "M8C-A-U6-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "诗歌情感把握",
+      "description": "围绕“古诗文品格与家国情怀”单元，掌握“诗歌情感把握”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "诗歌意象分析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "诗歌情感把握"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文品格与家国情怀"
+      ]
+    },
+    {
+      "id": "M8C-A-U6-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "名句默写与运用",
+      "description": "围绕“古诗文品格与家国情怀”单元，掌握“名句默写与运用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "诗歌情感把握"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "名句默写",
+        "运用"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文品格与家国情怀"
+      ]
+    },
+    {
+      "id": "M8C-A-U6-KP009",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8C-A-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文品格与家国情怀",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人物品格评价",
+      "description": "围绕“古诗文品格与家国情怀”单元，掌握“人物品格评价”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "名句默写与运用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人物品格评价"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "古诗文品格与家国情怀"
+      ]
+    },
+    {
+      "id": "M8C-B-U1-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U1",
+      "unit_no": 1,
+      "unit_name": "民俗风情与小说阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "民俗文化信息提取",
+      "description": "围绕“民俗风情与小说阅读”单元，掌握“民俗文化信息提取”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "民俗文化信息提取"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "民俗风情与小说阅读"
+      ]
+    },
+    {
+      "id": "M8C-B-U1-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U1",
+      "unit_no": 1,
+      "unit_name": "民俗风情与小说阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "小说情节梳理",
+      "description": "围绕“民俗风情与小说阅读”单元，掌握“小说情节梳理”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "民俗文化信息提取"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "小说情节梳理"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "民俗风情与小说阅读"
+      ]
+    },
+    {
+      "id": "M8C-B-U1-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U1",
+      "unit_no": 1,
+      "unit_name": "民俗风情与小说阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "人物形象分析",
+      "description": "围绕“民俗风情与小说阅读”单元，掌握“人物形象分析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "小说情节梳理"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "人物形象分析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "民俗风情与小说阅读"
+      ]
+    },
+    {
+      "id": "M8C-B-U1-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U1",
+      "unit_no": 1,
+      "unit_name": "民俗风情与小说阅读",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "环境描写作用",
+      "description": "围绕“民俗风情与小说阅读”单元，掌握“环境描写作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "人物形象分析"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "环境描写作用"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "民俗风情与小说阅读"
+      ]
+    },
+    {
+      "id": "M8C-B-U1-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U1",
+      "unit_no": 1,
+      "unit_name": "民俗风情与小说阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "叙述视角理解",
+      "description": "围绕“民俗风情与小说阅读”单元，掌握“叙述视角理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "环境描写作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "叙述视角理解"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "民俗风情与小说阅读"
+      ]
+    },
+    {
+      "id": "M8C-B-U1-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U1",
+      "unit_no": 1,
+      "unit_name": "民俗风情与小说阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "语言描写赏析",
+      "description": "围绕“民俗风情与小说阅读”单元，掌握“语言描写赏析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "叙述视角理解"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "语言描写赏析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "民俗风情与小说阅读"
+      ]
+    },
+    {
+      "id": "M8C-B-U1-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U1",
+      "unit_no": 1,
+      "unit_name": "民俗风情与小说阅读",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "地方色彩品味",
+      "description": "围绕“民俗风情与小说阅读”单元，掌握“地方色彩品味”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "语言描写赏析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "地方色彩品味"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "民俗风情与小说阅读"
+      ]
+    },
+    {
+      "id": "M8C-B-U1-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U1",
+      "unit_no": 1,
+      "unit_name": "民俗风情与小说阅读",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "读后感表达",
+      "description": "围绕“民俗风情与小说阅读”单元，掌握“读后感表达”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "地方色彩品味"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "读后感表达"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "民俗风情与小说阅读"
+      ]
+    },
+    {
+      "id": "M8C-B-U2-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U2",
+      "unit_no": 2,
+      "unit_name": "事理说明与科学精神",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "事理说明对象",
+      "description": "围绕“事理说明与科学精神”单元，掌握“事理说明对象”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "事理说明对象"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "基础",
+        "事理说明与科学精神"
+      ]
+    },
+    {
+      "id": "M8C-B-U2-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U2",
+      "unit_no": 2,
+      "unit_name": "事理说明与科学精神",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "逻辑顺序分析",
+      "description": "围绕“事理说明与科学精神”单元，掌握“逻辑顺序分析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "事理说明对象"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "逻辑顺序分析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "事理说明与科学精神"
+      ]
+    },
+    {
+      "id": "M8C-B-U2-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U2",
+      "unit_no": 2,
+      "unit_name": "事理说明与科学精神",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "说明方法综合判断",
+      "description": "围绕“事理说明与科学精神”单元，掌握“说明方法综合判断”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "逻辑顺序分析"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "说明方法综合判断"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "事理说明与科学精神"
+      ]
+    },
+    {
+      "id": "M8C-B-U2-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U2",
+      "unit_no": 2,
+      "unit_name": "事理说明与科学精神",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "科学说明语言",
+      "description": "围绕“事理说明与科学精神”单元，掌握“科学说明语言”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "说明方法综合判断"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "科学说明语言"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "事理说明与科学精神"
+      ]
+    },
+    {
+      "id": "M8C-B-U2-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U2",
+      "unit_no": 2,
+      "unit_name": "事理说明与科学精神",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "筛选整合信息",
+      "description": "围绕“事理说明与科学精神”单元，掌握“筛选整合信息”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "科学说明语言"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "筛选整合信息"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "事理说明与科学精神"
+      ]
+    },
+    {
+      "id": "M8C-B-U2-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U2",
+      "unit_no": 2,
+      "unit_name": "事理说明与科学精神",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "因果关系梳理",
+      "description": "围绕“事理说明与科学精神”单元，掌握“因果关系梳理”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "筛选整合信息"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "因果关系梳理"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "事理说明与科学精神"
+      ]
+    },
+    {
+      "id": "M8C-B-U2-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U2",
+      "unit_no": 2,
+      "unit_name": "事理说明与科学精神",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "说明文开放题表达",
+      "description": "围绕“事理说明与科学精神”单元，掌握“说明文开放题表达”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "因果关系梳理"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "说明文开放题表达"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "事理说明与科学精神"
+      ]
+    },
+    {
+      "id": "M8C-B-U2-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U2",
+      "unit_no": 2,
+      "unit_name": "事理说明与科学精神",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "科学精神理解",
+      "description": "围绕“事理说明与科学精神”单元，掌握“科学精神理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "说明文开放题表达"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "科学精神理解"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "事理说明与科学精神"
+      ]
+    },
+    {
+      "id": "M8C-B-U3-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与理趣",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "桃花源记文意理解",
+      "description": "围绕“古诗文山水与理趣”单元，掌握“桃花源记文意理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "桃花源记文意理解"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "基础",
+        "古诗文山水与理趣"
+      ]
+    },
+    {
+      "id": "M8C-B-U3-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与理趣",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "小石潭记景情关系",
+      "description": "围绕“古诗文山水与理趣”单元，掌握“小石潭记景情关系”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "桃花源记文意理解"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "小石潭记景情关系"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文山水与理趣"
+      ]
+    },
+    {
+      "id": "M8C-B-U3-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与理趣",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "核舟记说明顺序",
+      "description": "围绕“古诗文山水与理趣”单元，掌握“核舟记说明顺序”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "小石潭记景情关系"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "核舟记说明顺序"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文山水与理趣"
+      ]
+    },
+    {
+      "id": "M8C-B-U3-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与理趣",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "诗经重章叠句",
+      "description": "围绕“古诗文山水与理趣”单元，掌握“诗经重章叠句”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "核舟记说明顺序"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "诗经重章叠句"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文山水与理趣"
+      ]
+    },
+    {
+      "id": "M8C-B-U3-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与理趣",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言实词迁移",
+      "description": "围绕“古诗文山水与理趣”单元，掌握“文言实词迁移”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "诗经重章叠句"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言实词迁移"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文山水与理趣"
+      ]
+    },
+    {
+      "id": "M8C-B-U3-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与理趣",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言句子翻译",
+      "description": "围绕“古诗文山水与理趣”单元，掌握“文言句子翻译”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "文言实词迁移"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言句子翻译"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文山水与理趣"
+      ]
+    },
+    {
+      "id": "M8C-B-U3-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与理趣",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "古诗文主题比较",
+      "description": "围绕“古诗文山水与理趣”单元，掌握“古诗文主题比较”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "文言句子翻译"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "古诗文主题比较"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文山水与理趣"
+      ]
+    },
+    {
+      "id": "M8C-B-U3-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U3",
+      "unit_no": 3,
+      "unit_name": "古诗文山水与理趣",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "虚实结合赏析",
+      "description": "围绕“古诗文山水与理趣”单元，掌握“虚实结合赏析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "古诗文主题比较"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "虚实结合赏析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古诗文山水与理趣"
+      ]
+    },
+    {
+      "id": "M8C-B-U4-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U4",
+      "unit_no": 4,
+      "unit_name": "演讲词与活动探究",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "演讲词观点提炼",
+      "description": "围绕“演讲词与活动探究”单元，掌握“演讲词观点提炼”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "演讲词观点提炼"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "基础",
+        "演讲词与活动探究"
+      ]
+    },
+    {
+      "id": "M8C-B-U4-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U4",
+      "unit_no": 4,
+      "unit_name": "演讲词与活动探究",
+      "unit_name_zh": "",
+      "category": "实用文阅读",
+      "name": "演讲语言感染力",
+      "description": "围绕“演讲词与活动探究”单元，掌握“演讲语言感染力”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "演讲词观点提炼"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "演讲语言感染力"
+      ],
+      "diagnosis_tags": [
+        "实用文阅读",
+        "核心",
+        "演讲词与活动探究"
+      ]
+    },
+    {
+      "id": "M8C-B-U4-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U4",
+      "unit_no": 4,
+      "unit_name": "演讲词与活动探究",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "论证思路梳理",
+      "description": "围绕“演讲词与活动探究”单元，掌握“论证思路梳理”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "演讲语言感染力"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "论证思路梳理"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "演讲词与活动探究"
+      ]
+    },
+    {
+      "id": "M8C-B-U4-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U4",
+      "unit_no": 4,
+      "unit_name": "演讲词与活动探究",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "材料与观点关系",
+      "description": "围绕“演讲词与活动探究”单元，掌握“材料与观点关系”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "论证思路梳理"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "材料",
+        "观点关系"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "演讲词与活动探究"
+      ]
+    },
+    {
+      "id": "M8C-B-U4-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U4",
+      "unit_no": 4,
+      "unit_name": "演讲词与活动探究",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "即席讲话提纲",
+      "description": "围绕“演讲词与活动探究”单元，掌握“即席讲话提纲”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "材料与观点关系"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "即席讲话提纲"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "提高",
+        "演讲词与活动探究"
+      ]
+    },
+    {
+      "id": "M8C-B-U4-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U4",
+      "unit_no": 4,
+      "unit_name": "演讲词与活动探究",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "活动方案设计",
+      "description": "围绕“演讲词与活动探究”单元，掌握“活动方案设计”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "即席讲话提纲"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "活动方案设计"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "演讲词与活动探究"
+      ]
+    },
+    {
+      "id": "M8C-B-U4-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U4",
+      "unit_no": 4,
+      "unit_name": "演讲词与活动探究",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "口语交际表达",
+      "description": "围绕“演讲词与活动探究”单元，掌握“口语交际表达”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "活动方案设计"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "口语交际表达"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "演讲词与活动探究"
+      ]
+    },
+    {
+      "id": "M8C-B-U4-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U4",
+      "unit_no": 4,
+      "unit_name": "演讲词与活动探究",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "倡议书写作",
+      "description": "围绕“演讲词与活动探究”单元，掌握“倡议书写作”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "口语交际表达"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "倡议书写作"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "演讲词与活动探究"
+      ]
+    },
+    {
+      "id": "M8C-B-U5-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U5",
+      "unit_no": 5,
+      "unit_name": "游记阅读与写作",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "游踪线索梳理",
+      "description": "围绕“游记阅读与写作”单元，掌握“游踪线索梳理”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "游踪线索梳理"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "基础",
+        "游记阅读与写作"
+      ]
+    },
+    {
+      "id": "M8C-B-U5-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U5",
+      "unit_no": 5,
+      "unit_name": "游记阅读与写作",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "景物特征概括",
+      "description": "围绕“游记阅读与写作”单元，掌握“景物特征概括”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "游踪线索梳理"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "景物特征概括"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "游记阅读与写作"
+      ]
+    },
+    {
+      "id": "M8C-B-U5-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U5",
+      "unit_no": 5,
+      "unit_name": "游记阅读与写作",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "移步换景",
+      "description": "围绕“游记阅读与写作”单元，掌握“移步换景”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "景物特征概括"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "移步换景"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "游记阅读与写作"
+      ]
+    },
+    {
+      "id": "M8C-B-U5-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U5",
+      "unit_no": 5,
+      "unit_name": "游记阅读与写作",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "定点观察",
+      "description": "围绕“游记阅读与写作”单元，掌握“定点观察”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "移步换景"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "定点观察"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "游记阅读与写作"
+      ]
+    },
+    {
+      "id": "M8C-B-U5-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U5",
+      "unit_no": 5,
+      "unit_name": "游记阅读与写作",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "游记中情感表达",
+      "description": "围绕“游记阅读与写作”单元，掌握“游记中情感表达”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "定点观察"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "游记中情感表达"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "提高",
+        "游记阅读与写作"
+      ]
+    },
+    {
+      "id": "M8C-B-U5-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U5",
+      "unit_no": 5,
+      "unit_name": "游记阅读与写作",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "引用传说材料作用",
+      "description": "围绕“游记阅读与写作”单元，掌握“引用传说材料作用”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "游记中情感表达"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "引用传说材料作用"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "游记阅读与写作"
+      ]
+    },
+    {
+      "id": "M8C-B-U5-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U5",
+      "unit_no": 5,
+      "unit_name": "游记阅读与写作",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "游记语言赏析",
+      "description": "围绕“游记阅读与写作”单元，掌握“游记语言赏析”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "引用传说材料作用"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "游记语言赏析"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "游记阅读与写作"
+      ]
+    },
+    {
+      "id": "M8C-B-U5-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U5",
+      "unit_no": 5,
+      "unit_name": "游记阅读与写作",
+      "unit_name_zh": "",
+      "category": "写作",
+      "name": "游记片段写作",
+      "description": "围绕“游记阅读与写作”单元，掌握“游记片段写作”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "游记语言赏析"
+      ],
+      "skills": [
+        "表达",
+        "写作"
+      ],
+      "keywords": [
+        "游记片段写作"
+      ],
+      "diagnosis_tags": [
+        "写作",
+        "核心",
+        "游记阅读与写作"
+      ]
+    },
+    {
+      "id": "M8C-B-U6-KP001",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "庄子寓言理解",
+      "description": "围绕“古诗文理想与人格”单元，掌握“庄子寓言理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "庄子寓言理解"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "基础",
+        "古诗文理想与人格"
+      ]
+    },
+    {
+      "id": "M8C-B-U6-KP002",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "礼记文意理解",
+      "description": "围绕“古诗文理想与人格”单元，掌握“礼记文意理解”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "庄子寓言理解"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "礼记文意理解"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文理想与人格"
+      ]
+    },
+    {
+      "id": "M8C-B-U6-KP003",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "马说托物寓意",
+      "description": "围绕“古诗文理想与人格”单元，掌握“马说托物寓意”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "礼记文意理解"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "马说托物寓意"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文理想与人格"
+      ]
+    },
+    {
+      "id": "M8C-B-U6-KP004",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "卖炭翁叙事讽喻",
+      "description": "围绕“古诗文理想与人格”单元，掌握“卖炭翁叙事讽喻”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "马说托物寓意"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "卖炭翁叙事讽喻"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文理想与人格"
+      ]
+    },
+    {
+      "id": "M8C-B-U6-KP005",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "文言虚词积累",
+      "description": "围绕“古诗文理想与人格”单元，掌握“文言虚词积累”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "卖炭翁叙事讽喻"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文言虚词积累"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文理想与人格"
+      ]
+    },
+    {
+      "id": "M8C-B-U6-KP006",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "古诗文人物评价",
+      "description": "围绕“古诗文理想与人格”单元，掌握“古诗文人物评价”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "文言虚词积累"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "古诗文人物评价"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "提高",
+        "古诗文理想与人格"
+      ]
+    },
+    {
+      "id": "M8C-B-U6-KP007",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "议论抒情结合",
+      "description": "围绕“古诗文理想与人格”单元，掌握“议论抒情结合”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "古诗文人物评价"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "议论抒情结合"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "核心",
+        "古诗文理想与人格"
+      ]
+    },
+    {
+      "id": "M8C-B-U6-KP008",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "unit_name_zh": "",
+      "category": "古诗文",
+      "name": "古诗文比较阅读",
+      "description": "围绕“古诗文理想与人格”单元，掌握“古诗文比较阅读”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "议论抒情结合"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "古诗文比较阅读"
+      ],
+      "diagnosis_tags": [
+        "古诗文",
+        "核心",
+        "古诗文理想与人格"
+      ]
+    },
+    {
+      "id": "M8C-B-U6-KP009",
+      "grade": 8,
+      "subject": "语文",
+      "publisher": "人民教育出版社",
+      "edition": "统编版/部编版八年级语文，按公开目录与初二常规教学诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8C-B-U6",
+      "unit_no": 6,
+      "unit_name": "古诗文理想与人格",
+      "unit_name_zh": "",
+      "category": "阅读",
+      "name": "文化常识积累",
+      "description": "围绕“古诗文理想与人格”单元，掌握“文化常识积累”相关的阅读、鉴赏、表达或积累能力，能用于单元诊断和补习。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "古诗文比较阅读"
+      ],
+      "skills": [
+        "文本解读",
+        "概括分析"
+      ],
+      "keywords": [
+        "文化常识积累"
+      ],
+      "diagnosis_tags": [
+        "阅读",
+        "提高",
+        "古诗文理想与人格"
+      ]
+    }
+  ]
+}

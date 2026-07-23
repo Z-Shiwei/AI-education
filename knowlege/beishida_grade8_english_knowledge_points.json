@@ -1,0 +1,3351 @@
+{
+  "metadata": {
+    "name": "北京师范大学版八年级英语上下册知识点库",
+    "grade": 8,
+    "subject": "英语",
+    "publisher": "北京师范大学出版社",
+    "edition_note": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+    "created_at": "2026-07-23",
+    "language": "zh-CN",
+    "schema_version": "1.1.0",
+    "total_units": 12,
+    "total_knowledge_points": 96,
+    "encoding_note": "本文件由 UTF-8 Python 脚本生成，中文字段避免 PowerShell 编码丢失。"
+  },
+  "units": [
+    {
+      "unit_id": "M8E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Television",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-A-U1-KP001",
+        "M8E-A-U1-KP002",
+        "M8E-A-U1-KP003",
+        "M8E-A-U1-KP004",
+        "M8E-A-U1-KP005",
+        "M8E-A-U1-KP006",
+        "M8E-A-U1-KP007",
+        "M8E-A-U1-KP008"
+      ],
+      "unit_name_zh": "电视与媒体"
+    },
+    {
+      "unit_id": "M8E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Teams",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-A-U2-KP001",
+        "M8E-A-U2-KP002",
+        "M8E-A-U2-KP003",
+        "M8E-A-U2-KP004",
+        "M8E-A-U2-KP005",
+        "M8E-A-U2-KP006",
+        "M8E-A-U2-KP007",
+        "M8E-A-U2-KP008"
+      ],
+      "unit_name_zh": "团队与合作"
+    },
+    {
+      "unit_id": "M8E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Creativity",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-A-U3-KP001",
+        "M8E-A-U3-KP002",
+        "M8E-A-U3-KP003",
+        "M8E-A-U3-KP004",
+        "M8E-A-U3-KP005",
+        "M8E-A-U3-KP006",
+        "M8E-A-U3-KP007",
+        "M8E-A-U3-KP008"
+      ],
+      "unit_name_zh": "创意与发明"
+    },
+    {
+      "unit_id": "M8E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Healthy Living",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-A-U4-KP001",
+        "M8E-A-U4-KP002",
+        "M8E-A-U4-KP003",
+        "M8E-A-U4-KP004",
+        "M8E-A-U4-KP005",
+        "M8E-A-U4-KP006",
+        "M8E-A-U4-KP007",
+        "M8E-A-U4-KP008"
+      ],
+      "unit_name_zh": "健康生活"
+    },
+    {
+      "unit_id": "M8E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Helping",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-A-U5-KP001",
+        "M8E-A-U5-KP002",
+        "M8E-A-U5-KP003",
+        "M8E-A-U5-KP004",
+        "M8E-A-U5-KP005",
+        "M8E-A-U5-KP006",
+        "M8E-A-U5-KP007",
+        "M8E-A-U5-KP008"
+      ],
+      "unit_name_zh": "帮助与志愿服务"
+    },
+    {
+      "unit_id": "M8E-A-U6",
+      "unit_no": 6,
+      "unit_name": "The Unexplained",
+      "volume": "八年级上册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-A-U6-KP001",
+        "M8E-A-U6-KP002",
+        "M8E-A-U6-KP003",
+        "M8E-A-U6-KP004",
+        "M8E-A-U6-KP005",
+        "M8E-A-U6-KP006",
+        "M8E-A-U6-KP007",
+        "M8E-A-U6-KP008"
+      ],
+      "unit_name_zh": "未知与探索"
+    },
+    {
+      "unit_id": "M8E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Technology and Future",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-B-U1-KP001",
+        "M8E-B-U1-KP002",
+        "M8E-B-U1-KP003",
+        "M8E-B-U1-KP004",
+        "M8E-B-U1-KP005",
+        "M8E-B-U1-KP006",
+        "M8E-B-U1-KP007",
+        "M8E-B-U1-KP008"
+      ],
+      "unit_name_zh": "科技与未来"
+    },
+    {
+      "unit_id": "M8E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Communication",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-B-U2-KP001",
+        "M8E-B-U2-KP002",
+        "M8E-B-U2-KP003",
+        "M8E-B-U2-KP004",
+        "M8E-B-U2-KP005",
+        "M8E-B-U2-KP006",
+        "M8E-B-U2-KP007",
+        "M8E-B-U2-KP008"
+      ],
+      "unit_name_zh": "交流与沟通"
+    },
+    {
+      "unit_id": "M8E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Culture and Travel",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-B-U3-KP001",
+        "M8E-B-U3-KP002",
+        "M8E-B-U3-KP003",
+        "M8E-B-U3-KP004",
+        "M8E-B-U3-KP005",
+        "M8E-B-U3-KP006",
+        "M8E-B-U3-KP007",
+        "M8E-B-U3-KP008"
+      ],
+      "unit_name_zh": "文化与旅行"
+    },
+    {
+      "unit_id": "M8E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Environment",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-B-U4-KP001",
+        "M8E-B-U4-KP002",
+        "M8E-B-U4-KP003",
+        "M8E-B-U4-KP004",
+        "M8E-B-U4-KP005",
+        "M8E-B-U4-KP006",
+        "M8E-B-U4-KP007",
+        "M8E-B-U4-KP008"
+      ],
+      "unit_name_zh": "环境保护"
+    },
+    {
+      "unit_id": "M8E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Stories and Poems",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-B-U5-KP001",
+        "M8E-B-U5-KP002",
+        "M8E-B-U5-KP003",
+        "M8E-B-U5-KP004",
+        "M8E-B-U5-KP005",
+        "M8E-B-U5-KP006",
+        "M8E-B-U5-KP007",
+        "M8E-B-U5-KP008"
+      ],
+      "unit_name_zh": "故事与诗歌"
+    },
+    {
+      "unit_id": "M8E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Personal Growth",
+      "volume": "八年级下册",
+      "knowledge_point_count": 8,
+      "knowledge_point_ids": [
+        "M8E-B-U6-KP001",
+        "M8E-B-U6-KP002",
+        "M8E-B-U6-KP003",
+        "M8E-B-U6-KP004",
+        "M8E-B-U6-KP005",
+        "M8E-B-U6-KP006",
+        "M8E-B-U6-KP007",
+        "M8E-B-U6-KP008"
+      ],
+      "unit_name_zh": "个人成长"
+    }
+  ],
+  "knowledge_points": [
+    {
+      "id": "M8E-A-U1-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Television",
+      "unit_name_zh": "电视与媒体",
+      "category": "vocabulary",
+      "name": "TV programme vocabulary",
+      "description": "围绕 Television 主题，掌握 TV programme vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "TV",
+        "programme",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Television"
+      ]
+    },
+    {
+      "id": "M8E-A-U1-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Television",
+      "unit_name_zh": "电视与媒体",
+      "category": "function",
+      "name": "expressing preferences",
+      "description": "围绕 Television 主题，掌握 expressing preferences，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "TV programme vocabulary"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "expressing",
+        "preferences"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Television"
+      ]
+    },
+    {
+      "id": "M8E-A-U1-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Television",
+      "unit_name_zh": "电视与媒体",
+      "category": "function",
+      "name": "present simple for habits",
+      "description": "围绕 Television 主题，掌握 present simple for habits，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "expressing preferences"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "present",
+        "simple",
+        "for",
+        "habits"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Television"
+      ]
+    },
+    {
+      "id": "M8E-A-U1-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Television",
+      "unit_name_zh": "电视与媒体",
+      "category": "grammar",
+      "name": "frequency adverbs",
+      "description": "围绕 Television 主题，掌握 frequency adverbs，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "present simple for habits"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "frequency",
+        "adverbs"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Television"
+      ]
+    },
+    {
+      "id": "M8E-A-U1-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Television",
+      "unit_name_zh": "电视与媒体",
+      "category": "function",
+      "name": "listening for programme details",
+      "description": "围绕 Television 主题，掌握 listening for programme details，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "frequency adverbs"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "listening",
+        "for",
+        "programme",
+        "details"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Television"
+      ]
+    },
+    {
+      "id": "M8E-A-U1-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Television",
+      "unit_name_zh": "电视与媒体",
+      "category": "reading",
+      "name": "reading TV schedules",
+      "description": "围绕 Television 主题，掌握 reading TV schedules，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "listening for programme details"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "TV",
+        "schedules"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Television"
+      ]
+    },
+    {
+      "id": "M8E-A-U1-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Television",
+      "unit_name_zh": "电视与媒体",
+      "category": "function",
+      "name": "giving reasons with because",
+      "description": "围绕 Television 主题，掌握 giving reasons with because，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "reading TV schedules"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "giving",
+        "reasons",
+        "with",
+        "because"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Television"
+      ]
+    },
+    {
+      "id": "M8E-A-U1-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U1",
+      "unit_no": 1,
+      "unit_name": "Television",
+      "unit_name_zh": "电视与媒体",
+      "category": "writing",
+      "name": "writing a programme review",
+      "description": "围绕 Television 主题，掌握 writing a programme review，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "giving reasons with because"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "programme",
+        "review"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Television"
+      ]
+    },
+    {
+      "id": "M8E-A-U2-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Teams",
+      "unit_name_zh": "团队与合作",
+      "category": "vocabulary",
+      "name": "team roles vocabulary",
+      "description": "围绕 Teams 主题，掌握 team roles vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "team",
+        "roles",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Teams"
+      ]
+    },
+    {
+      "id": "M8E-A-U2-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Teams",
+      "unit_name_zh": "团队与合作",
+      "category": "grammar",
+      "name": "modal verbs can/could for ability",
+      "description": "围绕 Teams 主题，掌握 modal verbs can/could for ability，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "team roles vocabulary"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "modal",
+        "verbs",
+        "can",
+        "could",
+        "for"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Teams"
+      ]
+    },
+    {
+      "id": "M8E-A-U2-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Teams",
+      "unit_name_zh": "团队与合作",
+      "category": "function",
+      "name": "making suggestions",
+      "description": "围绕 Teams 主题，掌握 making suggestions，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "modal verbs can/could for ability"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "making",
+        "suggestions"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Teams"
+      ]
+    },
+    {
+      "id": "M8E-A-U2-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Teams",
+      "unit_name_zh": "团队与合作",
+      "category": "function",
+      "name": "agreeing and disagreeing politely",
+      "description": "围绕 Teams 主题，掌握 agreeing and disagreeing politely，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "making suggestions"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "agreeing",
+        "and",
+        "disagreeing",
+        "politely"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Teams"
+      ]
+    },
+    {
+      "id": "M8E-A-U2-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Teams",
+      "unit_name_zh": "团队与合作",
+      "category": "reading",
+      "name": "reading for team problems",
+      "description": "围绕 Teams 主题，掌握 reading for team problems，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "agreeing and disagreeing politely"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "for",
+        "team",
+        "problems"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Teams"
+      ]
+    },
+    {
+      "id": "M8E-A-U2-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Teams",
+      "unit_name_zh": "团队与合作",
+      "category": "function",
+      "name": "describing personal strengths",
+      "description": "围绕 Teams 主题，掌握 describing personal strengths，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading for team problems"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "describing",
+        "personal",
+        "strengths"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Teams"
+      ]
+    },
+    {
+      "id": "M8E-A-U2-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Teams",
+      "unit_name_zh": "团队与合作",
+      "category": "vocabulary",
+      "name": "collaboration expressions",
+      "description": "围绕 Teams 主题，掌握 collaboration expressions，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "describing personal strengths"
+      ],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "collaboration",
+        "expressions"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "核心",
+        "Teams"
+      ]
+    },
+    {
+      "id": "M8E-A-U2-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U2",
+      "unit_no": 2,
+      "unit_name": "Teams",
+      "unit_name_zh": "团队与合作",
+      "category": "writing",
+      "name": "writing a team notice",
+      "description": "围绕 Teams 主题，掌握 writing a team notice，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "collaboration expressions"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "team",
+        "notice"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Teams"
+      ]
+    },
+    {
+      "id": "M8E-A-U3-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Creativity",
+      "unit_name_zh": "创意与发明",
+      "category": "vocabulary",
+      "name": "creative activities vocabulary",
+      "description": "围绕 Creativity 主题，掌握 creative activities vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "creative",
+        "activities",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "M8E-A-U3-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Creativity",
+      "unit_name_zh": "创意与发明",
+      "category": "grammar",
+      "name": "past simple regular verbs",
+      "description": "围绕 Creativity 主题，掌握 past simple regular verbs，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "creative activities vocabulary"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "past",
+        "simple",
+        "regular",
+        "verbs"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "M8E-A-U3-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Creativity",
+      "unit_name_zh": "创意与发明",
+      "category": "grammar",
+      "name": "past simple irregular verbs",
+      "description": "围绕 Creativity 主题，掌握 past simple irregular verbs，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "past simple regular verbs"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "past",
+        "simple",
+        "irregular",
+        "verbs"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "M8E-A-U3-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Creativity",
+      "unit_name_zh": "创意与发明",
+      "category": "function",
+      "name": "sequencing words",
+      "description": "围绕 Creativity 主题，掌握 sequencing words，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "past simple irregular verbs"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "sequencing",
+        "words"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "M8E-A-U3-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Creativity",
+      "unit_name_zh": "创意与发明",
+      "category": "function",
+      "name": "describing inventions",
+      "description": "围绕 Creativity 主题，掌握 describing inventions，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "sequencing words"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "describing",
+        "inventions"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "M8E-A-U3-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Creativity",
+      "unit_name_zh": "创意与发明",
+      "category": "reading",
+      "name": "reading for cause and result",
+      "description": "围绕 Creativity 主题，掌握 reading for cause and result，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "describing inventions"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "for",
+        "cause",
+        "and",
+        "result"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "M8E-A-U3-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Creativity",
+      "unit_name_zh": "创意与发明",
+      "category": "function",
+      "name": "asking about past events",
+      "description": "围绕 Creativity 主题，掌握 asking about past events，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "reading for cause and result"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "asking",
+        "about",
+        "past",
+        "events"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "M8E-A-U3-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U3",
+      "unit_no": 3,
+      "unit_name": "Creativity",
+      "unit_name_zh": "创意与发明",
+      "category": "writing",
+      "name": "writing a short invention story",
+      "description": "围绕 Creativity 主题，掌握 writing a short invention story，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "asking about past events"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "short",
+        "invention",
+        "story"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "M8E-A-U4-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Healthy Living",
+      "unit_name_zh": "健康生活",
+      "category": "vocabulary",
+      "name": "health habits vocabulary",
+      "description": "围绕 Healthy Living 主题，掌握 health habits vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "health",
+        "habits",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Healthy Living"
+      ]
+    },
+    {
+      "id": "M8E-A-U4-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Healthy Living",
+      "unit_name_zh": "健康生活",
+      "category": "grammar",
+      "name": "should and should not",
+      "description": "围绕 Healthy Living 主题，掌握 should and should not，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "health habits vocabulary"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "should",
+        "and",
+        "should",
+        "not"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Healthy Living"
+      ]
+    },
+    {
+      "id": "M8E-A-U4-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Healthy Living",
+      "unit_name_zh": "健康生活",
+      "category": "function",
+      "name": "imperatives for advice",
+      "description": "围绕 Healthy Living 主题，掌握 imperatives for advice，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "should and should not"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "imperatives",
+        "for",
+        "advice"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Healthy Living"
+      ]
+    },
+    {
+      "id": "M8E-A-U4-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Healthy Living",
+      "unit_name_zh": "健康生活",
+      "category": "vocabulary",
+      "name": "food and exercise expressions",
+      "description": "围绕 Healthy Living 主题，掌握 food and exercise expressions，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "imperatives for advice"
+      ],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "food",
+        "and",
+        "exercise",
+        "expressions"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "核心",
+        "Healthy Living"
+      ]
+    },
+    {
+      "id": "M8E-A-U4-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Healthy Living",
+      "unit_name_zh": "健康生活",
+      "category": "reading",
+      "name": "reading health advice",
+      "description": "围绕 Healthy Living 主题，掌握 reading health advice，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "food and exercise expressions"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "health",
+        "advice"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Healthy Living"
+      ]
+    },
+    {
+      "id": "M8E-A-U4-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Healthy Living",
+      "unit_name_zh": "健康生活",
+      "category": "function",
+      "name": "giving suggestions",
+      "description": "围绕 Healthy Living 主题，掌握 giving suggestions，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading health advice"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "giving",
+        "suggestions"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Healthy Living"
+      ]
+    },
+    {
+      "id": "M8E-A-U4-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Healthy Living",
+      "unit_name_zh": "健康生活",
+      "category": "function",
+      "name": "talking about routines",
+      "description": "围绕 Healthy Living 主题，掌握 talking about routines，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "giving suggestions"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "talking",
+        "about",
+        "routines"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Healthy Living"
+      ]
+    },
+    {
+      "id": "M8E-A-U4-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U4",
+      "unit_no": 4,
+      "unit_name": "Healthy Living",
+      "unit_name_zh": "健康生活",
+      "category": "writing",
+      "name": "writing a health plan",
+      "description": "围绕 Healthy Living 主题，掌握 writing a health plan，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "talking about routines"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "health",
+        "plan"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Healthy Living"
+      ]
+    },
+    {
+      "id": "M8E-A-U5-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Helping",
+      "unit_name_zh": "帮助与志愿服务",
+      "category": "vocabulary",
+      "name": "volunteering vocabulary",
+      "description": "围绕 Helping 主题，掌握 volunteering vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "volunteering",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Helping"
+      ]
+    },
+    {
+      "id": "M8E-A-U5-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Helping",
+      "unit_name_zh": "帮助与志愿服务",
+      "category": "function",
+      "name": "would like to do",
+      "description": "围绕 Helping 主题，掌握 would like to do，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "volunteering vocabulary"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "would",
+        "like",
+        "to",
+        "do"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Helping"
+      ]
+    },
+    {
+      "id": "M8E-A-U5-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Helping",
+      "unit_name_zh": "帮助与志愿服务",
+      "category": "vocabulary",
+      "name": "offer help expressions",
+      "description": "围绕 Helping 主题，掌握 offer help expressions，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "would like to do"
+      ],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "offer",
+        "help",
+        "expressions"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "核心",
+        "Helping"
+      ]
+    },
+    {
+      "id": "M8E-A-U5-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Helping",
+      "unit_name_zh": "帮助与志愿服务",
+      "category": "grammar",
+      "name": "object pronouns",
+      "description": "围绕 Helping 主题，掌握 object pronouns，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "offer help expressions"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "object",
+        "pronouns"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Helping"
+      ]
+    },
+    {
+      "id": "M8E-A-U5-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Helping",
+      "unit_name_zh": "帮助与志愿服务",
+      "category": "reading",
+      "name": "reading volunteer stories",
+      "description": "围绕 Helping 主题，掌握 reading volunteer stories，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "object pronouns"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "volunteer",
+        "stories"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Helping"
+      ]
+    },
+    {
+      "id": "M8E-A-U5-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Helping",
+      "unit_name_zh": "帮助与志愿服务",
+      "category": "function",
+      "name": "describing needs",
+      "description": "围绕 Helping 主题，掌握 describing needs，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading volunteer stories"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "describing",
+        "needs"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Helping"
+      ]
+    },
+    {
+      "id": "M8E-A-U5-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Helping",
+      "unit_name_zh": "帮助与志愿服务",
+      "category": "function",
+      "name": "polite requests",
+      "description": "围绕 Helping 主题，掌握 polite requests，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "describing needs"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "polite",
+        "requests"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Helping"
+      ]
+    },
+    {
+      "id": "M8E-A-U5-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U5",
+      "unit_no": 5,
+      "unit_name": "Helping",
+      "unit_name_zh": "帮助与志愿服务",
+      "category": "writing",
+      "name": "writing a volunteer poster",
+      "description": "围绕 Helping 主题，掌握 writing a volunteer poster，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "polite requests"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "volunteer",
+        "poster"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Helping"
+      ]
+    },
+    {
+      "id": "M8E-A-U6-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U6",
+      "unit_no": 6,
+      "unit_name": "The Unexplained",
+      "unit_name_zh": "未知与探索",
+      "category": "vocabulary",
+      "name": "mystery vocabulary",
+      "description": "围绕 The Unexplained 主题，掌握 mystery vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "mystery",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "The Unexplained"
+      ]
+    },
+    {
+      "id": "M8E-A-U6-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U6",
+      "unit_no": 6,
+      "unit_name": "The Unexplained",
+      "unit_name_zh": "未知与探索",
+      "category": "function",
+      "name": "past continuous",
+      "description": "围绕 The Unexplained 主题，掌握 past continuous，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "mystery vocabulary"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "past",
+        "continuous"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "The Unexplained"
+      ]
+    },
+    {
+      "id": "M8E-A-U6-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U6",
+      "unit_no": 6,
+      "unit_name": "The Unexplained",
+      "unit_name_zh": "未知与探索",
+      "category": "function",
+      "name": "when and while",
+      "description": "围绕 The Unexplained 主题，掌握 when and while，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "past continuous"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "when",
+        "and",
+        "while"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "The Unexplained"
+      ]
+    },
+    {
+      "id": "M8E-A-U6-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U6",
+      "unit_no": 6,
+      "unit_name": "The Unexplained",
+      "unit_name_zh": "未知与探索",
+      "category": "function",
+      "name": "describing strange events",
+      "description": "围绕 The Unexplained 主题，掌握 describing strange events，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "when and while"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "describing",
+        "strange",
+        "events"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "The Unexplained"
+      ]
+    },
+    {
+      "id": "M8E-A-U6-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U6",
+      "unit_no": 6,
+      "unit_name": "The Unexplained",
+      "unit_name_zh": "未知与探索",
+      "category": "reading",
+      "name": "reading for clues",
+      "description": "围绕 The Unexplained 主题，掌握 reading for clues，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "describing strange events"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "for",
+        "clues"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "The Unexplained"
+      ]
+    },
+    {
+      "id": "M8E-A-U6-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U6",
+      "unit_no": 6,
+      "unit_name": "The Unexplained",
+      "unit_name_zh": "未知与探索",
+      "category": "function",
+      "name": "making guesses with may/might",
+      "description": "围绕 The Unexplained 主题，掌握 making guesses with may/might，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading for clues"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "making",
+        "guesses",
+        "with",
+        "may",
+        "might"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "The Unexplained"
+      ]
+    },
+    {
+      "id": "M8E-A-U6-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U6",
+      "unit_no": 6,
+      "unit_name": "The Unexplained",
+      "unit_name_zh": "未知与探索",
+      "category": "function",
+      "name": "story sequence",
+      "description": "围绕 The Unexplained 主题，掌握 story sequence，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "making guesses with may/might"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "story",
+        "sequence"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "The Unexplained"
+      ]
+    },
+    {
+      "id": "M8E-A-U6-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级上册",
+      "unit_id": "M8E-A-U6",
+      "unit_no": 6,
+      "unit_name": "The Unexplained",
+      "unit_name_zh": "未知与探索",
+      "category": "writing",
+      "name": "writing a mystery paragraph",
+      "description": "围绕 The Unexplained 主题，掌握 writing a mystery paragraph，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "story sequence"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "mystery",
+        "paragraph"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "The Unexplained"
+      ]
+    },
+    {
+      "id": "M8E-B-U1-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Technology and Future",
+      "unit_name_zh": "科技与未来",
+      "category": "vocabulary",
+      "name": "technology vocabulary",
+      "description": "围绕 Technology and Future 主题，掌握 technology vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "technology",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Technology and Future"
+      ]
+    },
+    {
+      "id": "M8E-B-U1-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Technology and Future",
+      "unit_name_zh": "科技与未来",
+      "category": "grammar",
+      "name": "will for predictions",
+      "description": "围绕 Technology and Future 主题，掌握 will for predictions，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "technology vocabulary"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "will",
+        "for",
+        "predictions"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Technology and Future"
+      ]
+    },
+    {
+      "id": "M8E-B-U1-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Technology and Future",
+      "unit_name_zh": "科技与未来",
+      "category": "function",
+      "name": "be going to for plans",
+      "description": "围绕 Technology and Future 主题，掌握 be going to for plans，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "will for predictions"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "be",
+        "going",
+        "to",
+        "for",
+        "plans"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Technology and Future"
+      ]
+    },
+    {
+      "id": "M8E-B-U1-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Technology and Future",
+      "unit_name_zh": "科技与未来",
+      "category": "vocabulary",
+      "name": "future time expressions",
+      "description": "围绕 Technology and Future 主题，掌握 future time expressions，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "be going to for plans"
+      ],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "future",
+        "time",
+        "expressions"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "核心",
+        "Technology and Future"
+      ]
+    },
+    {
+      "id": "M8E-B-U1-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Technology and Future",
+      "unit_name_zh": "科技与未来",
+      "category": "reading",
+      "name": "reading future life texts",
+      "description": "围绕 Technology and Future 主题，掌握 reading future life texts，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "future time expressions"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "future",
+        "life",
+        "texts"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Technology and Future"
+      ]
+    },
+    {
+      "id": "M8E-B-U1-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Technology and Future",
+      "unit_name_zh": "科技与未来",
+      "category": "function",
+      "name": "talking about inventions",
+      "description": "围绕 Technology and Future 主题，掌握 talking about inventions，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading future life texts"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "talking",
+        "about",
+        "inventions"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Technology and Future"
+      ]
+    },
+    {
+      "id": "M8E-B-U1-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Technology and Future",
+      "unit_name_zh": "科技与未来",
+      "category": "function",
+      "name": "comparing advantages and disadvantages",
+      "description": "围绕 Technology and Future 主题，掌握 comparing advantages and disadvantages，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "talking about inventions"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "comparing",
+        "advantages",
+        "and",
+        "disadvantages"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Technology and Future"
+      ]
+    },
+    {
+      "id": "M8E-B-U1-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U1",
+      "unit_no": 1,
+      "unit_name": "Technology and Future",
+      "unit_name_zh": "科技与未来",
+      "category": "writing",
+      "name": "writing a future prediction",
+      "description": "围绕 Technology and Future 主题，掌握 writing a future prediction，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "comparing advantages and disadvantages"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "future",
+        "prediction"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Technology and Future"
+      ]
+    },
+    {
+      "id": "M8E-B-U2-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Communication",
+      "unit_name_zh": "交流与沟通",
+      "category": "vocabulary",
+      "name": "communication vocabulary",
+      "description": "围绕 Communication 主题，掌握 communication vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "communication",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Communication"
+      ]
+    },
+    {
+      "id": "M8E-B-U2-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Communication",
+      "unit_name_zh": "交流与沟通",
+      "category": "function",
+      "name": "reported requests introduction",
+      "description": "围绕 Communication 主题，掌握 reported requests introduction，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "communication vocabulary"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "reported",
+        "requests",
+        "introduction"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Communication"
+      ]
+    },
+    {
+      "id": "M8E-B-U2-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Communication",
+      "unit_name_zh": "交流与沟通",
+      "category": "function",
+      "name": "telephone English",
+      "description": "围绕 Communication 主题，掌握 telephone English，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "reported requests introduction"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "telephone",
+        "English"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Communication"
+      ]
+    },
+    {
+      "id": "M8E-B-U2-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Communication",
+      "unit_name_zh": "交流与沟通",
+      "category": "function",
+      "name": "asking for clarification",
+      "description": "围绕 Communication 主题，掌握 asking for clarification，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "telephone English"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "asking",
+        "for",
+        "clarification"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Communication"
+      ]
+    },
+    {
+      "id": "M8E-B-U2-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Communication",
+      "unit_name_zh": "交流与沟通",
+      "category": "reading",
+      "name": "reading messages and emails",
+      "description": "围绕 Communication 主题，掌握 reading messages and emails，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "asking for clarification"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "messages",
+        "and",
+        "emails"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Communication"
+      ]
+    },
+    {
+      "id": "M8E-B-U2-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Communication",
+      "unit_name_zh": "交流与沟通",
+      "category": "function",
+      "name": "tone in communication",
+      "description": "围绕 Communication 主题，掌握 tone in communication，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading messages and emails"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "tone",
+        "in",
+        "communication"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Communication"
+      ]
+    },
+    {
+      "id": "M8E-B-U2-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Communication",
+      "unit_name_zh": "交流与沟通",
+      "category": "function",
+      "name": "giving opinions",
+      "description": "围绕 Communication 主题，掌握 giving opinions，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "tone in communication"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "giving",
+        "opinions"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Communication"
+      ]
+    },
+    {
+      "id": "M8E-B-U2-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U2",
+      "unit_no": 2,
+      "unit_name": "Communication",
+      "unit_name_zh": "交流与沟通",
+      "category": "writing",
+      "name": "writing an email reply",
+      "description": "围绕 Communication 主题，掌握 writing an email reply，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "giving opinions"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "an",
+        "email",
+        "reply"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Communication"
+      ]
+    },
+    {
+      "id": "M8E-B-U3-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Culture and Travel",
+      "unit_name_zh": "文化与旅行",
+      "category": "vocabulary",
+      "name": "travel vocabulary",
+      "description": "围绕 Culture and Travel 主题，掌握 travel vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "travel",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Culture and Travel"
+      ]
+    },
+    {
+      "id": "M8E-B-U3-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Culture and Travel",
+      "unit_name_zh": "文化与旅行",
+      "category": "grammar",
+      "name": "present perfect introduction",
+      "description": "围绕 Culture and Travel 主题，掌握 present perfect introduction，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "travel vocabulary"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "present",
+        "perfect",
+        "introduction"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Culture and Travel"
+      ]
+    },
+    {
+      "id": "M8E-B-U3-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Culture and Travel",
+      "unit_name_zh": "文化与旅行",
+      "category": "function",
+      "name": "ever and never",
+      "description": "围绕 Culture and Travel 主题，掌握 ever and never，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "present perfect introduction"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "ever",
+        "and",
+        "never"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Culture and Travel"
+      ]
+    },
+    {
+      "id": "M8E-B-U3-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Culture and Travel",
+      "unit_name_zh": "文化与旅行",
+      "category": "vocabulary",
+      "name": "cultural places expressions",
+      "description": "围绕 Culture and Travel 主题，掌握 cultural places expressions，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "ever and never"
+      ],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "cultural",
+        "places",
+        "expressions"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "核心",
+        "Culture and Travel"
+      ]
+    },
+    {
+      "id": "M8E-B-U3-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Culture and Travel",
+      "unit_name_zh": "文化与旅行",
+      "category": "reading",
+      "name": "reading travel experiences",
+      "description": "围绕 Culture and Travel 主题，掌握 reading travel experiences，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "cultural places expressions"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "travel",
+        "experiences"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Culture and Travel"
+      ]
+    },
+    {
+      "id": "M8E-B-U3-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Culture and Travel",
+      "unit_name_zh": "文化与旅行",
+      "category": "function",
+      "name": "asking about experiences",
+      "description": "围绕 Culture and Travel 主题，掌握 asking about experiences，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading travel experiences"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "asking",
+        "about",
+        "experiences"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Culture and Travel"
+      ]
+    },
+    {
+      "id": "M8E-B-U3-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Culture and Travel",
+      "unit_name_zh": "文化与旅行",
+      "category": "function",
+      "name": "describing a place",
+      "description": "围绕 Culture and Travel 主题，掌握 describing a place，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "asking about experiences"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "describing",
+        "a",
+        "place"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Culture and Travel"
+      ]
+    },
+    {
+      "id": "M8E-B-U3-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U3",
+      "unit_no": 3,
+      "unit_name": "Culture and Travel",
+      "unit_name_zh": "文化与旅行",
+      "category": "writing",
+      "name": "writing a travel diary",
+      "description": "围绕 Culture and Travel 主题，掌握 writing a travel diary，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "describing a place"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "travel",
+        "diary"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Culture and Travel"
+      ]
+    },
+    {
+      "id": "M8E-B-U4-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Environment",
+      "unit_name_zh": "环境保护",
+      "category": "vocabulary",
+      "name": "environment vocabulary",
+      "description": "围绕 Environment 主题，掌握 environment vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "environment",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Environment"
+      ]
+    },
+    {
+      "id": "M8E-B-U4-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Environment",
+      "unit_name_zh": "环境保护",
+      "category": "function",
+      "name": "comparatives and superlatives review",
+      "description": "围绕 Environment 主题，掌握 comparatives and superlatives review，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "environment vocabulary"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "comparatives",
+        "and",
+        "superlatives",
+        "review"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Environment"
+      ]
+    },
+    {
+      "id": "M8E-B-U4-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Environment",
+      "unit_name_zh": "环境保护",
+      "category": "grammar",
+      "name": "must and have to",
+      "description": "围绕 Environment 主题，掌握 must and have to，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "comparatives and superlatives review"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "must",
+        "and",
+        "have",
+        "to"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Environment"
+      ]
+    },
+    {
+      "id": "M8E-B-U4-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Environment",
+      "unit_name_zh": "环境保护",
+      "category": "vocabulary",
+      "name": "problem-solution expressions",
+      "description": "围绕 Environment 主题，掌握 problem-solution expressions，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "must and have to"
+      ],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "problem-solution",
+        "expressions"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "核心",
+        "Environment"
+      ]
+    },
+    {
+      "id": "M8E-B-U4-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Environment",
+      "unit_name_zh": "环境保护",
+      "category": "reading",
+      "name": "reading environmental reports",
+      "description": "围绕 Environment 主题，掌握 reading environmental reports，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "problem-solution expressions"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "environmental",
+        "reports"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Environment"
+      ]
+    },
+    {
+      "id": "M8E-B-U4-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Environment",
+      "unit_name_zh": "环境保护",
+      "category": "function",
+      "name": "giving advice for protection",
+      "description": "围绕 Environment 主题，掌握 giving advice for protection，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading environmental reports"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "giving",
+        "advice",
+        "for",
+        "protection"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Environment"
+      ]
+    },
+    {
+      "id": "M8E-B-U4-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Environment",
+      "unit_name_zh": "环境保护",
+      "category": "function",
+      "name": "poster language",
+      "description": "围绕 Environment 主题，掌握 poster language，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "giving advice for protection"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "poster",
+        "language"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Environment"
+      ]
+    },
+    {
+      "id": "M8E-B-U4-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U4",
+      "unit_no": 4,
+      "unit_name": "Environment",
+      "unit_name_zh": "环境保护",
+      "category": "writing",
+      "name": "writing an environmental proposal",
+      "description": "围绕 Environment 主题，掌握 writing an environmental proposal，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "poster language"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "an",
+        "environmental",
+        "proposal"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Environment"
+      ]
+    },
+    {
+      "id": "M8E-B-U5-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Stories and Poems",
+      "unit_name_zh": "故事与诗歌",
+      "category": "vocabulary",
+      "name": "story elements vocabulary",
+      "description": "围绕 Stories and Poems 主题，掌握 story elements vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "story",
+        "elements",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Stories and Poems"
+      ]
+    },
+    {
+      "id": "M8E-B-U5-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Stories and Poems",
+      "unit_name_zh": "故事与诗歌",
+      "category": "grammar",
+      "name": "adverbs of manner",
+      "description": "围绕 Stories and Poems 主题，掌握 adverbs of manner，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "story elements vocabulary"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "adverbs",
+        "of",
+        "manner"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Stories and Poems"
+      ]
+    },
+    {
+      "id": "M8E-B-U5-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Stories and Poems",
+      "unit_name_zh": "故事与诗歌",
+      "category": "grammar",
+      "name": "relative clauses introduction",
+      "description": "围绕 Stories and Poems 主题，掌握 relative clauses introduction，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "adverbs of manner"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "relative",
+        "clauses",
+        "introduction"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Stories and Poems"
+      ]
+    },
+    {
+      "id": "M8E-B-U5-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Stories and Poems",
+      "unit_name_zh": "故事与诗歌",
+      "category": "reading",
+      "name": "reading for plot and theme",
+      "description": "围绕 Stories and Poems 主题，掌握 reading for plot and theme，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "relative clauses introduction"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "for",
+        "plot",
+        "and",
+        "theme"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "核心",
+        "Stories and Poems"
+      ]
+    },
+    {
+      "id": "M8E-B-U5-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Stories and Poems",
+      "unit_name_zh": "故事与诗歌",
+      "category": "function",
+      "name": "character description",
+      "description": "围绕 Stories and Poems 主题，掌握 character description，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading for plot and theme"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "character",
+        "description"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Stories and Poems"
+      ]
+    },
+    {
+      "id": "M8E-B-U5-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Stories and Poems",
+      "unit_name_zh": "故事与诗歌",
+      "category": "function",
+      "name": "poem rhythm awareness",
+      "description": "围绕 Stories and Poems 主题，掌握 poem rhythm awareness，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "character description"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "poem",
+        "rhythm",
+        "awareness"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Stories and Poems"
+      ]
+    },
+    {
+      "id": "M8E-B-U5-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Stories and Poems",
+      "unit_name_zh": "故事与诗歌",
+      "category": "function",
+      "name": "retelling a story",
+      "description": "围绕 Stories and Poems 主题，掌握 retelling a story，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "poem rhythm awareness"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "retelling",
+        "a",
+        "story"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Stories and Poems"
+      ]
+    },
+    {
+      "id": "M8E-B-U5-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U5",
+      "unit_no": 5,
+      "unit_name": "Stories and Poems",
+      "unit_name_zh": "故事与诗歌",
+      "category": "writing",
+      "name": "writing a short story",
+      "description": "围绕 Stories and Poems 主题，掌握 writing a short story，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "retelling a story"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "short",
+        "story"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Stories and Poems"
+      ]
+    },
+    {
+      "id": "M8E-B-U6-KP001",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Personal Growth",
+      "unit_name_zh": "个人成长",
+      "category": "vocabulary",
+      "name": "growth vocabulary",
+      "description": "围绕 Personal Growth 主题，掌握 growth vocabulary，并能在听、说、读、写活动中运用。",
+      "difficulty": "基础",
+      "prerequisites": [],
+      "skills": [
+        "vocabulary"
+      ],
+      "keywords": [
+        "growth",
+        "vocabulary"
+      ],
+      "diagnosis_tags": [
+        "vocabulary",
+        "基础",
+        "Personal Growth"
+      ]
+    },
+    {
+      "id": "M8E-B-U6-KP002",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Personal Growth",
+      "unit_name_zh": "个人成长",
+      "category": "grammar",
+      "name": "reflexive pronouns",
+      "description": "围绕 Personal Growth 主题，掌握 reflexive pronouns，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "growth vocabulary"
+      ],
+      "skills": [
+        "grammar",
+        "communication"
+      ],
+      "keywords": [
+        "reflexive",
+        "pronouns"
+      ],
+      "diagnosis_tags": [
+        "grammar",
+        "核心",
+        "Personal Growth"
+      ]
+    },
+    {
+      "id": "M8E-B-U6-KP003",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Personal Growth",
+      "unit_name_zh": "个人成长",
+      "category": "function",
+      "name": "so that for purpose",
+      "description": "围绕 Personal Growth 主题，掌握 so that for purpose，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "reflexive pronouns"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "so",
+        "that",
+        "for",
+        "purpose"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Personal Growth"
+      ]
+    },
+    {
+      "id": "M8E-B-U6-KP004",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Personal Growth",
+      "unit_name_zh": "个人成长",
+      "category": "function",
+      "name": "expressing feelings",
+      "description": "围绕 Personal Growth 主题，掌握 expressing feelings，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "so that for purpose"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "expressing",
+        "feelings"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Personal Growth"
+      ]
+    },
+    {
+      "id": "M8E-B-U6-KP005",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Personal Growth",
+      "unit_name_zh": "个人成长",
+      "category": "reading",
+      "name": "reading personal experience",
+      "description": "围绕 Personal Growth 主题，掌握 reading personal experience，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "expressing feelings"
+      ],
+      "skills": [
+        "reading"
+      ],
+      "keywords": [
+        "reading",
+        "personal",
+        "experience"
+      ],
+      "diagnosis_tags": [
+        "reading",
+        "提高",
+        "Personal Growth"
+      ]
+    },
+    {
+      "id": "M8E-B-U6-KP006",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Personal Growth",
+      "unit_name_zh": "个人成长",
+      "category": "function",
+      "name": "talking about challenges",
+      "description": "围绕 Personal Growth 主题，掌握 talking about challenges，并能在听、说、读、写活动中运用。",
+      "difficulty": "提高",
+      "prerequisites": [
+        "reading personal experience"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "talking",
+        "about",
+        "challenges"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "提高",
+        "Personal Growth"
+      ]
+    },
+    {
+      "id": "M8E-B-U6-KP007",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Personal Growth",
+      "unit_name_zh": "个人成长",
+      "category": "function",
+      "name": "giving encouragement",
+      "description": "围绕 Personal Growth 主题，掌握 giving encouragement，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "talking about challenges"
+      ],
+      "skills": [
+        "function",
+        "communication"
+      ],
+      "keywords": [
+        "giving",
+        "encouragement"
+      ],
+      "diagnosis_tags": [
+        "function",
+        "核心",
+        "Personal Growth"
+      ]
+    },
+    {
+      "id": "M8E-B-U6-KP008",
+      "grade": 8,
+      "subject": "英语",
+      "publisher": "北京师范大学出版社",
+      "edition": "北师大版八年级英语，按公开主题单元与初二常规语言诊断点整理。",
+      "volume": "八年级下册",
+      "unit_id": "M8E-B-U6",
+      "unit_no": 6,
+      "unit_name": "Personal Growth",
+      "unit_name_zh": "个人成长",
+      "category": "writing",
+      "name": "writing a growth reflection",
+      "description": "围绕 Personal Growth 主题，掌握 writing a growth reflection，并能在听、说、读、写活动中运用。",
+      "difficulty": "核心",
+      "prerequisites": [
+        "giving encouragement"
+      ],
+      "skills": [
+        "writing"
+      ],
+      "keywords": [
+        "writing",
+        "a",
+        "growth",
+        "reflection"
+      ],
+      "diagnosis_tags": [
+        "writing",
+        "核心",
+        "Personal Growth"
+      ]
+    }
+  ]
+}
