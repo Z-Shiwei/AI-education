@@ -15,6 +15,7 @@ from services.remediate_service import remediate
 class SubmitRequest(BaseModel):
     subject: str
     unit_id: str
+    difficulty: str = "mixed"
     answers: list[dict]
 
 
@@ -61,6 +62,7 @@ async def api_get_questions(
     subject_id: str,
     unit_id: str,
     count: int = 20,
+    difficulty: str = "mixed",
     regenerate: bool = False,
     x_deepseek_api_key: str | None = Header(default=None),
 ):
@@ -68,6 +70,7 @@ async def api_get_questions(
         subject_id,
         unit_id,
         count=count,
+        difficulty=difficulty,
         regenerate=regenerate,
         api_key=x_deepseek_api_key,
     )
@@ -78,7 +81,7 @@ async def api_get_questions(
 
 @app.post("/api/submit")
 async def api_submit(payload: SubmitRequest):
-    result = diagnose(payload.subject, payload.unit_id, payload.answers)
+    result = diagnose(payload.subject, payload.unit_id, payload.answers, difficulty=payload.difficulty)
     if "error" in result and result.get("total") == 0:
         return result, 400
     return result
